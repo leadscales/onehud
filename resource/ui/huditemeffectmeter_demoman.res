@@ -31,7 +31,7 @@
 		"textAlignment"			"east"
 		"dulltext"				"0"
 		"brighttext"			"0"
-		"font"					"aRegular10"
+		"font"					"aBold10"
 		"fgcolor_override"		"ahudWhite"
 	}
 
@@ -71,8 +71,8 @@
 		"textAlignment"			"west"
 		"dulltext"				"0"
 		"brighttext"			"0"
-		"font"					"aRegular20"
-		"fgcolor"				"ahudWhite"
+		"font"					"aBold20"
+		"fgcolor"				"AccentMain"
 	}
 	"ItemEffectMeterCountShadow"
 	{
@@ -91,7 +91,7 @@
 		"textAlignment"			"west"
 		"dulltext"				"0"
 		"brighttext"			"0"
-		"font"					"aRegular20"
+		"font"					"aBoldShadow20"
 		"fgcolor"				"ShadowBlack"
 
 		"pin_to_sibling"	"ItemEffectMeterCount"

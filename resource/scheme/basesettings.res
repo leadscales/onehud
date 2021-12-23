@@ -3,60 +3,60 @@ Scheme
 	BaseSettings
 	{
 		// vgui_controls color specifications
-		ReplayBrowser.BgColor								"ahudDarkGrey"
+		ReplayBrowser.BgColor								"CGray6"
 		ReplayBrowser.Details.TitleEdit.Carat.FgColor		"LightRed"
-		ReplayBrowser.Button.ArmedBgColor					"ahudYellow"
-		ReplayBrowser.Button.DepressedBgColor				"ahudYellow"
+		ReplayBrowser.Button.ArmedBgColor					"AccentMain"
+		ReplayBrowser.Button.DepressedBgColor				"AccentMain"
 		ReplayBrowser.CollectionTitle.FgColor				"LightRed"
 		ReplayBrowser.Warning.FgColor						"White"
 		ReplayBrowser.ScrollBar.SliderButton.FgColor		"TransparentYellow"
-		ReplayBrowser.Search.BgColor						"ahudBlack"
-		ReplayBrowser.Search.FgColor						"ahudWhite"
+		ReplayBrowser.Search.BgColor						"CBlack"
+		ReplayBrowser.Search.FgColor						"CWhite"
 
-		Replay.RenderDialog.BgColor							"ahudDarkGrey"
+		Replay.RenderDialog.BgColor							"CGray6"
 
 		Econ.Dialog.BgColor									"Blank"
-		Econ.Button.BgColor									"ahudBlack"
-		Econ.Button.FgColor									"ahudWhite"
-		Econ.Button.ArmedBgColor							"ahudYellow"
-		Econ.Button.ArmedFgColor							"ahudWhite"
-		Econ.Button.DepressedBgColor						"ahudYellow"
+		Econ.Button.BgColor									"CBlack"
+		Econ.Button.FgColor									"CWhite"
+		Econ.Button.ArmedBgColor							"AccentMain"
+		Econ.Button.ArmedFgColor							"CWhite"
+		Econ.Button.DepressedBgColor						"AccentMain"
 		Econ.Button.DepressedFgColor						"Black"
 
-		Econ.Button.PresetDefaultColorFg					"ahudWhite"
-		Econ.Button.PresetArmedColorFg						"ahudWhite"
-		Econ.Button.PresetDepressedColorFg					"ahudWhite"
+		Econ.Button.PresetDefaultColorFg					"CWhite"
+		Econ.Button.PresetArmedColorFg						"CWhite"
+		Econ.Button.PresetDepressedColorFg					"CWhite"
 
-		Econ.Button.PresetDefaultColorBg					"ahudGreen"
-		Econ.Button.PresetArmedColorBg						"ahudGreen"
-		Econ.Button.PresetDepressedColorBg					"ahudYellow"
+		Econ.Button.PresetDefaultColorBg					"CGreen"
+		Econ.Button.PresetArmedColorBg						"CGreen"
+		Econ.Button.PresetDepressedColorBg					"AccentMain"
 
-		Econ.Button.Border.Default							"ahudWhite"
-		Econ.Button.Border.Armed							"ahudWhite"
+		Econ.Button.Border.Default							"CWhite"
+		Econ.Button.Border.Armed							"CWhite"
 
 		Border.Bright					"Blank"		// the lit side of a control
 		Border.Dark						"Black"		// the dark/unlit side of a control
 		Border.Selection				"Gray"			// the additional border color for displaying the default/selected button
 
-		Button.TextColor				"ahudWhite"
-		Button.BgColor					"ahudBlack"
-		Button.ArmedTextColor			"ahudWhite"
-		Button.ArmedBgColor				"ahudYellow"
-		Button.SelectedTextColor		"ahudWhite"
-		Button.SelectedBgColor			"ahudYellow"
+		Button.TextColor				"CWhite"
+		Button.BgColor					"TransparentBlack3"
+		Button.ArmedTextColor			"CBlack"
+		Button.ArmedBgColor				"TransparentWhite3"
+		Button.SelectedTextColor		"CBlack"
+		Button.SelectedBgColor			"AccentMain"
 		Button.DepressedTextColor		"Black"
-		Button.DepressedBgColor			"ahudYellow"
+		Button.DepressedBgColor			"AccentMain"
 
-		CheckButton.TextColor			"ahudWhite"
-		CheckButton.SelectedTextColor	"ahudWhite"
+		CheckButton.TextColor			"CWhite"
+		CheckButton.SelectedTextColor	"CWhite"
 		CheckButton.BgColor				"TransparentBlack"
-		CheckButton.Border1  			"ahudWhite" 		// the left checkbutton border
-		CheckButton.Border2  			"ahudWhite"			// the right checkbutton border
-		CheckButton.Check				"ahudWhite"			// color of the check itself
-		CheckButton.HighlightFgColor	"ahudWhite"
+		CheckButton.Border1  			"CWhite" 		// the left checkbutton border
+		CheckButton.Border2  			"CWhite"			// the right checkbutton border
+		CheckButton.Check				"CWhite"			// color of the check itself
+		CheckButton.HighlightFgColor	"CWhite"
 
-		ComboBoxButton.ArrowColor		"ahudWhite"
-		ComboBoxButton.ArmedArrowColor	"ahudWhite"
+		ComboBoxButton.ArrowColor		"CWhite"
+		ComboBoxButton.ArmedArrowColor	"CWhite"
 		ComboBoxButton.BgColor			"Blank"
 		ComboBoxButton.DisabledBgColor	"Blank"
 
@@ -84,8 +84,8 @@ Scheme
 		GraphPanel.BgColor				"TransparentBlack"
 
 		Label.TextDullColor				"TanDark"
-		Label.TextColor					"ahudWhite"
-		Label.TextBrightColor			"ahudWhite"
+		Label.TextColor					"CWhite"
+		Label.TextBrightColor			"CWhite"
 		Label.SelectedTextColor			"White"
 		Label.BgColor					"Blank"
 		Label.DisabledFgColor1			"Blank"
@@ -98,10 +98,10 @@ Scheme
 		ListPanel.SelectedOutOfFocusBgColor	"Red"
 		ListPanel.EmptyListInfoTextColor	"Orange"
 
-		Menu.TextColor					"ahudWhite"
-		Menu.BgColor					"ahudBlack"
-		Menu.ArmedTextColor				"ahudBlack"
-		Menu.ArmedBgColor				"ahudWhite"
+		Menu.TextColor					"CWhite"
+		Menu.BgColor					"CBlack"
+		Menu.ArmedTextColor				"CBlack"
+		Menu.ArmedBgColor				"CWhite"
 		Menu.TextInset					"6"
 
 		Chat.TypingText					"Orange"
@@ -125,8 +125,8 @@ Scheme
 		PropertySheet.SelectedTextColor	"Orange"
 		PropertySheet.TransitionEffectTime	"0.25"	// time to change from one tab to another
 
-		RadioButton.TextColor			"ahudYellow"
-		RadioButton.SelectedTextColor	"ahudYellow"
+		RadioButton.TextColor			"AccentMain"
+		RadioButton.SelectedTextColor	"AccentMain"
 
 		RichText.TextColor				"Gray"
 		RichText.BgColor				"Blank"
@@ -154,11 +154,11 @@ Scheme
 		SectionedListPanel.OutOfFocusSelectedTextColor	"Black"
 		SectionedListPanel.OutOfFocusSelectedBgColor	"255 255 255 32"
 
-		Slider.NobColor				"108 108 108 255"
-		Slider.TextColor			"127 140 127 255"
-		Slider.TrackColor			"31 31 31 255"
-		Slider.DisabledTextColor1	"117 117 117 255"
-		Slider.DisabledTextColor2	"30 30 30 255"
+		Slider.NobColor				"128 128 128 255"
+		Slider.TextColor			"128 128 128 255"
+		Slider.TrackColor			"32 32 32 255"
+		Slider.DisabledTextColor1	"128 128 128 255"
+		Slider.DisabledTextColor2	"32 32 32 255"
 
 		TextEntry.TextColor			"Gray"
 		TextEntry.BgColor			"Blank"
@@ -170,7 +170,7 @@ Scheme
 		TextEntry.OutOfFocusSelectedBgColor	"Blank"
 		TextEntry.FocusEdgeColor	"Blank"
 
-		ToggleButton.SelectedTextColor	"ahudYellow"
+		ToggleButton.SelectedTextColor	"AccentMain"
 
 		Tooltip.TextColor			"TransparentBlack"
 		Tooltip.BgColor				"Red"
@@ -200,31 +200,31 @@ Scheme
 		"BgColor"		"TransparentBlack"
 
 		"ViewportBG"		"Blank"
-		"TeamSpec"			"204 204 204 255"
-		"TeamRed"			"255 64 64 255"
-		"TeamBlue"			"153 204 255 255"
+		"TeamSpec"			"192 192 192 255"
+		"TeamRed"			"255 0 96 255"
+		"TeamBlue"			"0 160 255 255"
 
 		"MapDescriptionText"	"Gray" // the text used in the map description window
 		"HudIcon_Green"		"0 160 0 255"
 		"HudIcon_Red"		"160 0 0 255"
 
 		// CHudMenu
-		"ItemColor"		"255 167 42 200"	// default 255 167 42 255
-		"MenuColor"		"233 208 173 255"
+		"ItemColor"		"255 160 0 200"	// default 255 167 42 255
+		"MenuColor"		"64 64 64 255"
 		"MenuBoxBg"		"0 0 0 100"
 
 		// weapon selection colors
-		"SelectionNumberFg"		"251 235 202 255"
-		"SelectionTextFg"		"251 235 202 255"
-		"SelectionEmptyBoxBg" 	"0 0 0 80"
-		"SelectionBoxBg" 		"0 0 0 80"
-		"SelectionSelectedBoxBg" "0 0 0 190"
+		"SelectionNumberFg"		"192 192 192 255"
+		"SelectionTextFg"		"255 255 255 255"
+		"SelectionEmptyBoxBg" 	"0 0 0 96"
+		"SelectionBoxBg" 		"0 0 0 96"
+		"SelectionSelectedBoxBg" "0 0 0 192"
 
 		// Hint message colors
 		"HintMessageFg"			"255 255 255 255"
-		"HintMessageBg" 		"0 0 0 60"
+		"HintMessageBg" 		"0 0 0 64"
 
-		"ProgressBarFg"			"255 30 13 255"
+		"ProgressBarFg"			"255 64 0 255"
 
 		// Top-left corner of the menu on the main screen
 		"Main.Menu.X"		"32"

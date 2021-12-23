@@ -6,10 +6,10 @@
 	{
 		"fieldName"		"CompStats"
 		"xpos"			"r0"
-		"ypos"			"10"
+		"ypos"			"25"
 		"zpos"			"1002"
 		"wide"			"270"
-		"tall"			"f70"
+		"tall"			"f80"
 		"visible"		"1"
 		"proportionaltoparent"	"1"
 	}
@@ -27,7 +27,7 @@
 		"labeltext"		"#TF_Matchmaking_HeaderCompetitive"
 		"textAlignment"	"west"
 		"font"			"aBold24"
-		"fgcolor_override"	"ahudWhite"
+		"fgcolor_override"	"CWhite"
 
 		"mouseinputenabled"	"0"
 	}
@@ -133,7 +133,7 @@
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
 
-		"armedBgColor_override"		"CreditsGreen"
-		"defaultBgColor_override"	"GreenSolid"
+		"armedBgColor_override"		"CGreen"
+		"defaultBgColor_override"	"CGreenDark"
 	}
 }

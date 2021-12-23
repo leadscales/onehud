@@ -73,7 +73,7 @@
 		"enabled"		"1"
 		"labelText"		"%Health%"
 		"textAlignment"	"center"
-		"font"			"aRegular42"
+		"font"			"aBold34"
 		"fgcolor"		"HP"
 	}
 
@@ -81,8 +81,8 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"PlayerStatusHealthValueShadow"
-		"xpos"			"-2"
-		"ypos"			"-2"
+		"xpos"			"-1"
+		"ypos"			"-1"
 		"zpos"			"5"
 		"wide"			"84"
 		"tall"			"32"
@@ -90,7 +90,7 @@
 		"enabled"		"1"
 		"labelText"		"%Health%"
 		"textAlignment"	"center"
-		"font"			"aRegular42"
+		"font"			"aBoldShadow34"
 		"fgcolor"		"ShadowBlack"
 
 		"pin_to_sibling"	"PlayerStatusHealthValue"
@@ -129,7 +129,7 @@
 		"labelText"		"%MaxHealth%"
 		"textAlignment"	"center"
 		"font"			"aRegular10"
-		"fgcolor"		"Gray"
+		"fgcolor"		"CGray5"
 	}
 
 	"PlayerStatusMaxHealthValueShadow"

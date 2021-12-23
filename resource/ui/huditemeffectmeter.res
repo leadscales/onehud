@@ -9,8 +9,8 @@
 		"ypos"			"c123"
 		"wide"			"150"
 		"tall"			"8"
-		"MeterFG"		"TanLight"
-		"MeterBG"		"Gray"
+		"MeterFG"		"CWhite"
+		"MeterBG"		"CGray5"
 	}
 
 	"ItemEffectMeterLabel"
@@ -31,7 +31,7 @@
 		"dulltext"				"0"
 		"brighttext"			"0"
 		"font"					"aRegular8"
-		"fgcolor_override"		"150 150 150 255"
+		"fgcolor_override"		"CBlack"
 	}
 
 	"ItemEffectMeter"

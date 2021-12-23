@@ -16,9 +16,9 @@
 		"tabPosition"		"0"
 		"settitlebarvisible"	"0"
 		"PaintBackgroundType"	"0"
-		"bgcolor_override"	"ahudDarkGrey"
-		"infocus_bgcolor_override" "ahudDarkGrey"
-		"outoffocus_bgcolor_override" "ahudDarkGrey"
+		"bgcolor_override"	"CGray2"
+		"infocus_bgcolor_override" "CGray2"
+		"outoffocus_bgcolor_override" "CGray2"
 
 		"modelpanels_spacing"		"40"
 		"modelpanels_width"			"500"
@@ -29,7 +29,8 @@
 		{
 			"PaintBackgroundType"	"0"
 			"paintborder"			"1"
-			"bgcolor_override"		"ahudGrey"
+			"bgcolor_override"		"CGray1"
+			"border"				"LoadoutItemPopupBorder"
 
 			"model_xpos"	"0"
 			"model_center_y"	"1"

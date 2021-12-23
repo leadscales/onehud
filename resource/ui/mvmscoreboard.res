@@ -26,14 +26,14 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"fillcolor"		"HudBlack"
+		"fillcolor"		"TransparentBlack4"
 	}
 
 	"PopFileLabel"
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"PopFileLabel"
-		"font"			"aRegular9"
+		"font"			"aBold12"
 		"labelText"		"%popfile%"
 		"textAlignment"	"west"
 		"xpos"			"c-280"
@@ -57,8 +57,8 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"DifficultyLabel"
-			"font"			"aRegular9"
-			"labelText"		"#TF_MvM_Difficulty"
+			"font"			"aBold8"
+			"labelText"		" "
 			"textAlignment"	"east"
 			"xpos"			"0"
 			"ypos"			"0"
@@ -71,7 +71,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"DifficultyValue"
-			"font"			"aRegular9"
+			"font"			"aBold12"
 			"labelText"		"%difficultyvalue%"
 			"textAlignment"	"east"
 			"xpos"			"0"

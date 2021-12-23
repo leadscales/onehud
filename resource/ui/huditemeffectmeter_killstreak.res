@@ -71,7 +71,7 @@
 		"textAlignment"			"center"
 		"dulltext"				"0"
 		"brighttext"			"0"
-		"font"					"aRegular20"
+		"font"					"aBold20"
 		"fgcolor"				"Killstreak"
 	}
 
@@ -92,7 +92,7 @@
 		"textAlignment"			"center"
 		"dulltext"				"0"
 		"brighttext"			"0"
-		"font"					"aRegular20"
+		"font"					"aBoldShadow20"
 		"fgcolor"				"ShadowBlack"
 
 		"pin_to_sibling"	"ItemEffectMeterCount"

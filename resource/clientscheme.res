@@ -53,8 +53,23 @@ Scheme
 		}
 		"10"
 		{
+			"font"	"resource/fonts/FuturaLight.ttf"
+			"name"	"Futura Light BT"
+		}
+		"11"
+		{
+			"font"	"resource/fonts/FuturaMedium.ttf"
+			"name"	"Futura Medium BT"
+		}
+		"12"
+		{
 			"font" "resource/fonts/KnucklesCrosses.ttf"
 			"name" "KnucklesCrosses"
+		}
+		"13"
+		{
+			"font"	"resource/fonts/icons.ttf"
+			"name"	"icons"
 		}
 	}
 }

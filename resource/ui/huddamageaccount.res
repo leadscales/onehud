@@ -8,9 +8,9 @@
 		"delta_item_end_y"		"0"
 		"PositiveColor"			"Healing Numbers" //Heal
 		"NegativeColor"			"Damage Numbers" //Damage
-		"delta_lifetime"		"2"
-		"delta_item_font"		"aRegular20Outline"
-		"delta_item_font_big"	"aRegular20Outline"
+		"delta_lifetime"		"0.6"
+		"delta_item_font"		"aBold18"
+		"delta_item_font_big"	"aBold18"
 	}
 
 	"DamageAccountValue"
@@ -27,7 +27,7 @@
 		"labelText"		"%metal%"
 		"textAlignment"	"west"
 		"fgcolor"		"Damage Numbers"
-		"font"			"aRegular20"
+		"font"			"aBold18"
 	}
 
 	"DamageAccountValueShadow"
@@ -44,7 +44,7 @@
 		"labelText"		"%metal%"
 		"textAlignment"	"west"
 		"fgcolor"		"ShadowBlack"
-		"font"			"aRegular20"
+		"font"			"aBoldShadow18"
 
 		"pin_to_sibling"	"DamageAccountValue"
 		"pin_corner_to_sibling" "PIN_TOPLEFT"

@@ -53,10 +53,10 @@
 		"ControlName"	"EditablePanel"
 		"fieldName"		"Background"
 		"xpos"			"c-40"
-		"ypos"			"11"
+		"ypos"			"0"
 		"zpos"			"5"
 		"wide"			"80"
-		"tall"			"14"
+		"tall"			"20"
 		"proportionaltoparent"	"1"
 		"bgcolor_override"	"HudBlack"
 	}
@@ -66,23 +66,11 @@
 		"fieldName"		"BlueTeamBackground"
 		"xpos"			"c-40"
 		"ypos"			"0"
-		"zpos"			"5"
+		"zpos"			"6"
 		"wide"			"40"
-		"tall"			"11"
+		"tall"			"3"
 		"proportionaltoparent"	"1"
-		"bgcolor_override"	"ahudBlue"
-
-		"BlueTeamBackground2"
-		{
-			"ControlName"	"EditablePanel"
-			"fieldName"		"BlueTeamBackground2"
-			"xpos"			"0"
-			"ypos"			"rs1"
-			"wide"			"f0"
-			"tall"			"2"
-			"proportionaltoparent"	"1"
-			"bgcolor_override"	"ahudDarkBlue"
-		}
+		"bgcolor_override"	"CBlue"
 	}
 	"RedTeamBackground"
 	{
@@ -90,22 +78,10 @@
 		"fieldName"		"RedTeamBackground"
 		"xpos"			"c0"
 		"ypos"			"0"
-		"zpos"			"5"
+		"zpos"			"6"
 		"wide"			"40"
-		"tall"			"11"
+		"tall"			"3"
 		"proportionaltoparent"	"1"
-		"bgcolor_override"	"ahudRed"
-
-		"RedTeamBackground2"
-		{
-			"ControlName"	"EditablePanel"
-			"fieldName"		"RedTeamBackground2"
-			"xpos"			"0"
-			"ypos"			"rs1"
-			"wide"			"f0"
-			"tall"			"2"
-			"proportionaltoparent"	"1"
-			"bgcolor_override"	"ahudDarkRed"
-		}
+		"bgcolor_override"	"CRed"
 	}
 }

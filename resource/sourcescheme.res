@@ -13,24 +13,24 @@ Scheme
 		
 		"HudBlack"				"0 0 0 200"
 		
-		"ahudBlue"				"72 112 125 255"
-		"ahudDarkBlue"			"46 73 82 255"
-		"ahudRed"				"158 64 61 255"
-		"ahudDarkRed"			"102 48 46 255"
+		"CBlue"				"0 160 255 255"
+		"CBlueDark"			"0 128 192 255"
+		"CRed"				"255 0 96 255"
+		"CRedDark"			"192 0 72 255"
 		
-		"ahudGreen"				"92 122 90 255"
-		"ahudDarkGreen"			"38 53 36 255"
-		"ahudYellow"			"169 123 53 255"
-		"ahudBrightYellow"		"218 165 32 255"
+		"CGreen"				"0 255 160 255"
+		"CGreenDark"			"0 192 128 255"
+		"CYellow"			"255 128 0 255"
+		"CYellowDark"		"192 96 0 255"
 		
-		"ahudWhite"				"242 242 242 255"
-		"ahudDullWhite"			"132 132 132 255"
+		"CWhite"				"255 255 255 255"
+		"CGrey1"			"128 128 128 255"
 		
-		"ahudGrey"				"51 47 46 255"
-		"ahudDarkGrey"			"27 27 27 255"
-		"ahudDarkerGrey"		"22 22 22 255"
+		"CGrey2"				"64 64 64 255"
+		"CGrey3"			"32 32 32 255"
+		"CGrey4"		"24 24 24 255"
 		
-		"ahudBlack"				"17 17 17 255"
+		"CBlack"				"16 16 16 255"
 		
 		// ----------------------------------
 		
@@ -74,88 +74,88 @@ Scheme
 		Border.Dark						"Blank"			// the dark/unlit side of a control
 		Border.Selection				"Blank"			// the additional border color for displaying the default/selected button
 
-		Button.TextColor				"ahudWhite"
-		Button.BgColor					"ahudBlack"
-		Button.ArmedTextColor			"ahudWhite"
-		Button.ArmedBgColor				"ahudYellow"
-		Button.DepressedTextColor		"ahudWhite"
-		Button.DepressedBgColor			"ahudYellow"	
+		Button.TextColor				"CWhite"
+		Button.BgColor					"CBlack"
+		Button.ArmedTextColor			"CWhite"
+		Button.ArmedBgColor				"CYellow"
+		Button.DepressedTextColor		"CWhite"
+		Button.DepressedBgColor			"CYellow"	
 		Button.FocusBorderColor			"Blank"
 		
-		CheckButton.TextColor			"ahudDullWhite"
-		CheckButton.SelectedTextColor	"ahudWhite"
-		CheckButton.BgColor				"ahudBlack"
-		CheckButton.HighlightFgColor	"ahudYellow"
+		CheckButton.TextColor			"CGray1"
+		CheckButton.SelectedTextColor	"CWhite"
+		CheckButton.BgColor				"CBlack"
+		CheckButton.HighlightFgColor	"CYellow"
 		CheckButton.ArmedBgColor		"Blank"
 		CheckButton.DepressedBgColor	"Blank"
 		CheckButton.Border1  			"Border.Dark" 		// the left checkbutton border
 		CheckButton.Border2  			"Border.Bright"		// the right checkbutton border
-		CheckButton.Check				"ahudWhite"			// color of the check itself
+		CheckButton.Check				"CWhite"			// color of the check itself
 		CheckButton.DisabledBgColor	    "Blank"
 
-		ToggleButton.SelectedTextColor	"ahudWhite"
+		ToggleButton.SelectedTextColor	"CWhite"
 		
-		ComboBoxButton.ArrowColor		"ahudDullWhite"
-		ComboBoxButton.ArmedArrowColor	"ahudWhite"
+		ComboBoxButton.ArrowColor		"CGray1"
+		ComboBoxButton.ArmedArrowColor	"CWhite"
 		ComboBoxButton.BgColor			"Blank"
 		ComboBoxButton.DisabledBgColor	"Blank"
 		
-		RadioButton.TextColor			"ahudDullWhite"
-		RadioButton.SelectedTextColor	"ahudWhite"
+		RadioButton.TextColor			"CGray1"
+		RadioButton.SelectedTextColor	"CWhite"
 		RadioButton.ArmedTextColor		"TFTextMedium"
 		
-		Frame.BgColor					"ahudDarkGrey"
+		Frame.BgColor					"CGrey2"
 		Frame.OutOfFocusBgColor			"27 27 27 100"
 		FrameGrip.Color1				"TFTanMedium"
-		FrameGrip.Color2				"ahudWhite"
-		FrameTitleButton.FgColor		"ahudWhite"
+		FrameGrip.Color2				"CWhite"
+		FrameTitleButton.FgColor		"CWhite"
 		FrameTitleBar.Font				"UiBold"
-		FrameTitleBar.TextColor			"ahudWhite"
-		FrameTitleBar.DisabledTextColor	"ahudDullWhite"
+		FrameTitleBar.TextColor			"CWhite"
+		FrameTitleBar.DisabledTextColor	"CGray1"
 		
-		Label.TextDullColor				"ahudDullWhite"
-		Label.TextColor					"ahudWhite"
-		Label.TextBrightColor			"ahudWhite"
-		Label.SelectedTextColor			"ahudWhite"
+		Label.TextDullColor				"CGray1"
+		Label.TextColor					"CWhite"
+		Label.TextBrightColor			"CWhite"
+		Label.SelectedTextColor			"CWhite"
 		Label.BgColor					"Blank"
-		Label.DisabledFgColor1			"ahudDullWhite"	
+		Label.DisabledFgColor1			"CGray1"	
 		Label.DisabledFgColor2			"Blank"	
 		
-		ListPanel.TextColor					"ahudWhite"
+		ListPanel.TextColor					"CWhite"
 		ListPanel.BgColor					"HudBlack"
-		ListPanel.SelectedBgColor			"ahudWhite"
-		ListPanel.SelectedOutOfFocusBgColor	"ahudDullWhite"
+		ListPanel.SelectedBgColor			"CWhite"
+		ListPanel.SelectedOutOfFocusBgColor	"CGray1"
 		
-		MainMenu.TextColor			"ahudDullWhite"
-		MainMenu.ArmedTextColor		"ahudWhite"
+		MainMenu.TextColor			"CGray1"
+		MainMenu.ArmedTextColor		"CWhite"
 		MainMenu.Inset				"32"
 		
 		Menu.TextInset					"6"
-		Menu.FgColor			"ahudWhite"
+		Menu.FgColor			"CWhite"
 		Menu.BgColor			"HudBlack"
-		Menu.ArmedFgColor		"ahudBlack"
-		Menu.ArmedBgColor		"ahudWhite"
+		Menu.ArmedFgColor		"CBlack"
+		Menu.ArmedBgColor		"CWhite"
 		Menu.DividerColor		"Border.Dark"
 		
-		ScrollBarButton.FgColor				"ahudWhite"
-		ScrollBarButton.BgColor				"ahudBlack"
-		ScrollBarButton.ArmedFgColor		"ahudBlack"
-		ScrollBarButton.ArmedBgColor		"ahudWhite"
-		ScrollBarButton.DepressedFgColor	"ahudBlack"
-		ScrollBarButton.DepressedBgColor	"ahudWhite"
+		ScrollBarButton.FgColor				"CWhite"
+		ScrollBarButton.BgColor				"CBlack"
+		ScrollBarButton.ArmedFgColor		"CBlack"
+		ScrollBarButton.ArmedBgColor		"CWhite"
+		ScrollBarButton.DepressedFgColor	"CBlack"
+		ScrollBarButton.DepressedBgColor	"CWhite"
 
-		ScrollBarSlider.BgColor				"ahudBlack"		// this isn't really used
-		ScrollBarSlider.FgColor				"ahudWhite"		// handle with which the slider is grabbed
+		ScrollBarSlider.BgColor				"CBlack"		// this isn't really used
+		ScrollBarSlider.FgColor				"CWhite"		// handle with which the slider is grabbed
 		
 		Slider.NobColor				"TFTanLight"		
-		Slider.TextColor			"ahudWhite"
+		Slider.TextColor			"CWhite"
 		Slider.TrackColor			"HudBlack"
 		Slider.DisabledTextColor1	"TFTextMediumDark"
         Slider.DisabledTextColor2	"Blank"
 		
-		TextEntry.TextColor			        "ahudWhite"
-		TextEntry.DisabledTextColor	        "ahudDullWhite"
-		TextEntry.SelectedBgColor	        "ahudWhite"
+		TextEntry.TextColor			        "CWhite"
+		TextEntry.DisabledTextColor	        "CGray1"
+		TextEntry.SelectedBgColor	        "CWhite"
 		
 		// Borrowed from CS:S SourceScheme
 		Frame.TitleTextInsetX				14
@@ -174,55 +174,55 @@ Scheme
 		FrameTitleBar.BgColor				"Blank"
 		FrameTitleBar.DisabledBgColor		"Blank"
 		
-		GraphPanel.FgColor			"ahudWhite"
+		GraphPanel.FgColor			"CWhite"
 		GraphPanel.BgColor			"HudBlack"
 		
 		ListPanel.TextBgColor				"Blank"
-		ListPanel.SelectedTextColor			"ahudBlack"
-		ListPanel.EmptyListInfoTextColor	"ahudDullWhite"
+		ListPanel.SelectedTextColor			"CBlack"
+		ListPanel.EmptyListInfoTextColor	"CGray1"
 		
-		Menu.TextColor				"ahudWhite"
-		Menu.ArmedTextColor			"ahudBlack"
+		Menu.TextColor				"CWhite"
+		Menu.ArmedTextColor			"CBlack"
 		
-		Panel.FgColor				"ahudDullWhite"
+		Panel.FgColor				"CGray1"
 		Panel.BgColor				"Blank"
 		
-		ProgressBar.FgColor			"ahudWhite"
+		ProgressBar.FgColor			"CWhite"
 		ProgressBar.BgColor			"HudBlack"
 		
-		PropertySheet.TextColor				"ahudDullWhite"
-		PropertySheet.SelectedTextColor		"ahudWhite"
+		PropertySheet.TextColor				"CGray1"
+		PropertySheet.SelectedTextColor		"CWhite"
 		PropertySheet.TransitionEffectTime	"0.25"
 		
-		RichText.TextColor				"ahudDullWhite"
+		RichText.TextColor				"CGray1"
 		RichText.BgColor				"HudBlack"
-		RichText.SelectedTextColor		"ahudBlack"
-		RichText.SelectedBgColor		"ahudWhite"
+		RichText.SelectedTextColor		"CBlack"
+		RichText.SelectedBgColor		"CWhite"
 		
 		ScrollBar.Wide					18
 		
-		SectionedListPanel.HeaderTextColor		"ahudWhite"
+		SectionedListPanel.HeaderTextColor		"CWhite"
 		SectionedListPanel.HeaderBgColor		"Blank"
-		SectionedListPanel.DividerColor			"ahudBlack"
+		SectionedListPanel.DividerColor			"CBlack"
 		SectionedListPanel.TextColor			"DullWhite"
-		SectionedListPanel.BrightTextColor		"ahudWhite"
+		SectionedListPanel.BrightTextColor		"CWhite"
 		SectionedListPanel.BgColor				"HudBlack"
-		SectionedListPanel.SelectedTextColor			"ahudBlack"
-		SectionedListPanel.SelectedBgColor				"ahudWhite"
-		SectionedListPanel.OutOfFocusSelectedTextColor	"ahudBlack"
+		SectionedListPanel.SelectedTextColor			"CBlack"
+		SectionedListPanel.SelectedBgColor				"CWhite"
+		SectionedListPanel.OutOfFocusSelectedTextColor	"CBlack"
 		SectionedListPanel.OutOfFocusSelectedBgColor	"100 100 100 128"
 		
 		TextEntry.BgColor						"HudBlack"
-		TextEntry.CursorColor					"ahudDullWhite"
+		TextEntry.CursorColor					"CGray1"
 		TextEntry.DisabledBgColor				"Blank"
-		TextEntry.SelectedTextColor				"ahudBlack"
+		TextEntry.SelectedTextColor				"CBlack"
 		TextEntry.OutOfFocusSelectedBgColor		"100 100 100 128"
 		TextEntry.FocusEdgeColor				"0 0 0 196"
 		
-		ToggleButton.SelectedTextColor		"ahudWhite"
+		ToggleButton.SelectedTextColor		"CWhite"
 		
-		Tooltip.TextColor		"ahudBlack"
-		Tooltip.BgColor			"ahudWhite"
+		Tooltip.TextColor		"CBlack"
+		Tooltip.BgColor			"CWhite"
 		
 		TreeView.BgColor		"HudBlack"
 		
@@ -233,11 +233,11 @@ Scheme
 		MainMenu.Backdrop				"0 0 0 200"
 		
 		Console.TextColor			"100 255 100 255"
-		Console.DevTextColor		"ahudWhite"
+		Console.DevTextColor		"CWhite"
 		
-		NewGame.TextColor			"ahudWhite"
+		NewGame.TextColor			"CWhite"
 		NewGame.FillColor			"0 0 0 255"
-		NewGame.SelectionColor		"ahudWhite"
+		NewGame.SelectionColor		"CWhite"
 		NewGame.DisabledColor		"128 128 128 196"				
 	}
 	
@@ -535,7 +535,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "ahudBlack"
+					"color" "CBlack"
 					"offset" "0 0"
 				}
 			}
@@ -544,7 +544,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "ahudBlack"
+					"color" "CBlack"
 					"offset" "0 0"
 				}
 			}
@@ -553,7 +553,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "ahudBlack"
+					"color" "CBlack"
 					"offset" "0 0"
 				}
 			}
@@ -562,7 +562,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "ahudBlack"
+					"color" "CBlack"
 					"offset" "0 0"
 				}
 			}
@@ -575,7 +575,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "ahudDarkGrey"
+					"color" "CGray2"
 					"offset" "0 0"
 				}
 			}
@@ -584,7 +584,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "ahudDarkGrey"
+					"color" "CGray2"
 					"offset" "0 0"
 				}
 			}
@@ -593,7 +593,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "ahudDarkGrey"
+					"color" "CGray2"
 					"offset" "0 0"
 				}
 			}
@@ -602,7 +602,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "ahudDarkGrey"
+					"color" "CGray2"
 					"offset" "0 0"
 				}
 			}
@@ -631,7 +631,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "ahudBlack"
+					"color" "CBlack"
 					"offset" "0 0"
 				}
 			}
@@ -640,7 +640,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "ahudBlack"
+					"color" "CBlack"
 					"offset" "0 0"
 				}
 			}
@@ -649,7 +649,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "ahudBlack"
+					"color" "CBlack"
 					"offset" "0 0"
 				}
 			}
@@ -658,7 +658,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "ahudBlack"
+					"color" "CBlack"
 					"offset" "0 0"
 				}
 			}
@@ -672,7 +672,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "ahudBlack"
+					"color" "CBlack"
 					"offset" "0 0"
 				}
 			}
@@ -681,7 +681,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "ahudBlack"
+					"color" "CBlack"
 					"offset" "0 0"
 				}
 			}
@@ -690,7 +690,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "ahudBlack"
+					"color" "CBlack"
 					"offset" "0 0"
 				}
 			}
@@ -699,7 +699,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "ahudBlack"
+					"color" "CBlack"
 					"offset" "0 0"
 				}
 			}
@@ -711,7 +711,7 @@ Scheme
 
 			render 
 			{
-				"0" "fill( x0, y0, x1, y1, ahudBlack )"
+				"0" "fill( x0, y0, x1, y1, CBlack )"
 			}
 
 			render_bg 
@@ -728,7 +728,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "ahudBlack"
+					"color" "CBlack"
 					"offset" "0 0"
 				}
 			}
@@ -737,7 +737,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "ahudBlack"
+					"color" "CBlack"
 					"offset" "0 0"
 				}
 			}
@@ -746,7 +746,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "ahudBlack"
+					"color" "CBlack"
 					"offset" "0 0"
 				}
 			}
@@ -761,7 +761,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "ahudBlack"
+					"color" "CBlack"
 					"offset" "0 0"
 				}
 			}
@@ -770,7 +770,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "ahudBlack"
+					"color" "CBlack"
 					"offset" "0 0"
 				}
 			}
@@ -779,7 +779,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "ahudBlack"
+					"color" "CBlack"
 					"offset" "0 0"
 				}
 			}
@@ -788,7 +788,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "ahudBlack"
+					"color" "CBlack"
 					"offset" "0 0"
 				}
 			}

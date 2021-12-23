@@ -10,7 +10,7 @@
 		"tall"		"480"
 		"visible"	"0"
 		"enabled"	"1"
-		"bgcolor_override"	"ahudDarkGrey"
+		"bgcolor_override"	"TransparentLightBlack"
 	}
 	"MainBackground"
 	{
@@ -183,22 +183,22 @@
 				"NumericInputOnly"		"0"
 				"unicode"		"0"
 
-				"fgcolor_override"	"ahudWhite"
-				"bgcolor_override"	"ahudBlack"
-				"disabledFgColor_override" "ahudWhite"
-				"disabledBgColor_override" "ahudBlack"
-				"selectionColor_override" "ahudBlack"
-				"selectionTextColor_override" "ahudWhite"
-				"defaultSelectionBG2Color_override" "ahudBlack"
+				"fgcolor_override"	"CWhite"
+				"bgcolor_override"	"CBlack"
+				"disabledFgColor_override" "CWhite"
+				"disabledBgColor_override" "CBlack"
+				"selectionColor_override" "CBlack"
+				"selectionTextColor_override" "CWhite"
+				"defaultSelectionBG2Color_override" "CBlack"
 
 				"Button"
 				{
-					"defaultFgColor_override"	"ahudWhite"
-					"defaultBgColor_override"	"ahudBlack"
-					"selectedFgColor_override"	"ahudBlack"
-					"selectedBgColor_override"	"ahudWhite"
-					"armedFgColor_override"	"ahudBlack"
-					"armedBgColor_override"	"ahudWhite"
+					"defaultFgColor_override"	"CWhite"
+					"defaultBgColor_override"	"CBlack"
+					"selectedFgColor_override"	"CBlack"
+					"selectedBgColor_override"	"CWhite"
+					"armedFgColor_override"	"CBlack"
+					"armedBgColor_override"	"CWhite"
 					"paintbackgroundtype"	"0"
 				}
 			}
@@ -222,22 +222,22 @@
 				"NumericInputOnly"		"0"
 				"unicode"		"0"
 
-				"fgcolor_override"	"ahudWhite"
-				"bgcolor_override"	"ahudBlack"
-				"disabledFgColor_override" "ahudWhite"
-				"disabledBgColor_override" "ahudBlack"
-				"selectionColor_override" "ahudBlack"
-				"selectionTextColor_override" "ahudWhite"
-				"defaultSelectionBG2Color_override" "ahudBlack"
+				"fgcolor_override"	"CWhite"
+				"bgcolor_override"	"CBlack"
+				"disabledFgColor_override" "CWhite"
+				"disabledBgColor_override" "CBlack"
+				"selectionColor_override" "CBlack"
+				"selectionTextColor_override" "CWhite"
+				"defaultSelectionBG2Color_override" "CBlack"
 
 				"Button"
 				{
-					"defaultFgColor_override"	"ahudWhite"
-					"defaultBgColor_override"	"ahudBlack"
-					"selectedFgColor_override"	"ahudBlack"
-					"selectedBgColor_override"	"ahudWhite"
-					"armedFgColor_override"	"ahudBlack"
-					"armedBgColor_override"	"ahudWhite"
+					"defaultFgColor_override"	"CWhite"
+					"defaultBgColor_override"	"CBlack"
+					"selectedFgColor_override"	"CBlack"
+					"selectedBgColor_override"	"CWhite"
+					"armedFgColor_override"	"CBlack"
+					"armedBgColor_override"	"CWhite"
 					"paintbackgroundtype"	"0"
 				}
 			}
@@ -261,22 +261,22 @@
 				"NumericInputOnly"		"0"
 				"unicode"		"0"
 
-				"fgcolor_override"	"ahudWhite"
-				"bgcolor_override"	"ahudBlack"
-				"disabledFgColor_override" "ahudWhite"
-				"disabledBgColor_override" "ahudBlack"
-				"selectionColor_override" "ahudBlack"
-				"selectionTextColor_override" "ahudWhite"
-				"defaultSelectionBG2Color_override" "ahudBlack"
+				"fgcolor_override"	"CWhite"
+				"bgcolor_override"	"CBlack"
+				"disabledFgColor_override" "CWhite"
+				"disabledBgColor_override" "CBlack"
+				"selectionColor_override" "CBlack"
+				"selectionTextColor_override" "CWhite"
+				"defaultSelectionBG2Color_override" "CBlack"
 
 				"Button"
 				{
-					"defaultFgColor_override"	"ahudWhite"
-					"defaultBgColor_override"	"ahudBlack"
-					"selectedFgColor_override"	"ahudBlack"
-					"selectedBgColor_override"	"ahudWhite"
-					"armedFgColor_override"	"ahudBlack"
-					"armedBgColor_override"	"ahudWhite"
+					"defaultFgColor_override"	"CWhite"
+					"defaultBgColor_override"	"CBlack"
+					"selectedFgColor_override"	"CBlack"
+					"selectedBgColor_override"	"CWhite"
+					"armedFgColor_override"	"CBlack"
+					"armedBgColor_override"	"CWhite"
 					"paintbackgroundtype"	"0"
 				}
 			}
@@ -293,7 +293,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"bgcolor_override"		"ahudDarkGrey"
+			"bgcolor_override"		"TransparentLightBlack"
 		}
 		"AveragesLabel"
 		{
@@ -359,7 +359,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"tabPosition"	"0"
-			"fillcolor"		"162 148 135 255"
+			"fillcolor"		"255 160 0 255"
 			"PaintBackgroundType"	"0"
 		}
 		"ClassBar1B"
@@ -376,7 +376,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"tabPosition"	"0"
-			"fillcolor"		"162 148 135 255"
+			"fillcolor"		"255 160 0 255"
 			"PaintBackgroundType"	"0"
 		}
 		"ClassBarLabel1A"
@@ -478,7 +478,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"tabPosition"	"0"
-			"fillcolor"		"93 60 27 255"
+			"fillcolor"		"255 152 0 255"
 			"PaintBackgroundType"	"0"
 		}
 		"ClassBar2B"
@@ -495,7 +495,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"tabPosition"	"0"
-			"fillcolor"		"93 60 27 255"
+			"fillcolor"		"255 152 0 255"
 			"PaintBackgroundType"	"0"
 		}
 		"ClassBarLabel2A"
@@ -597,7 +597,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"tabPosition"	"0"
-			"fillcolor"		"134 93 39 255"
+			"fillcolor"		"255 144 0 255"
 			"PaintBackgroundType"	"0"
 		}
 		"ClassBar3B"
@@ -614,7 +614,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"tabPosition"	"0"
-			"fillcolor"		"134 93 39 255"
+			"fillcolor"		"255 144 0 255"
 			"PaintBackgroundType"	"0"
 		}
 		"ClassBarLabel3A"
@@ -716,7 +716,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"tabPosition"	"0"
-			"fillcolor"		"207 147 95 255"
+			"fillcolor"		"255 136 0 255"
 			"PaintBackgroundType"	"0"
 		}
 		"ClassBar4B"
@@ -733,7 +733,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"tabPosition"	"0"
-			"fillcolor"		"207 147 95 255"
+			"fillcolor"		"255 136 0 255"
 			"PaintBackgroundType"	"0"
 		}
 		"ClassBarLabel4A"
@@ -835,7 +835,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"tabPosition"	"0"
-			"fillcolor"		"226 184 146 255"
+			"fillcolor"		"255 128 0 255"
 			"PaintBackgroundType"	"0"
 		}
 		"ClassBar5B"
@@ -852,7 +852,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"tabPosition"	"0"
-			"fillcolor"		"226 184 146 255"
+			"fillcolor"		"255 128 0 255"
 			"PaintBackgroundType"	"0"
 		}
 		"ClassBarLabel5A"
@@ -954,7 +954,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"tabPosition"	"0"
-			"fillcolor"		"162 148 135 255"
+			"fillcolor"		"255 120 0 255"
 			"PaintBackgroundType"	"0"
 		}
 		"ClassBar6B"
@@ -971,7 +971,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"tabPosition"	"0"
-			"fillcolor"		"162 148 135 255"
+			"fillcolor"		"255 120 0 255"
 			"PaintBackgroundType"	"0"
 		}
 		"ClassBarLabel6A"
@@ -1073,7 +1073,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"tabPosition"	"0"
-			"fillcolor"		"93 60 27 255"
+			"fillcolor"		"255 112 0 255"
 			"PaintBackgroundType"	"0"
 		}
 		"ClassBar7B"
@@ -1090,7 +1090,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"tabPosition"	"0"
-			"fillcolor"		"93 60 27 255"
+			"fillcolor"		"255 112 0 255"
 			"PaintBackgroundType"	"0"
 		}
 		"ClassBarLabel7A"
@@ -1192,7 +1192,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"tabPosition"	"0"
-			"fillcolor"		"134 93 39 255"
+			"fillcolor"		"255 104 0 255"
 			"PaintBackgroundType"	"0"
 		}
 		"ClassBar8B"
@@ -1209,7 +1209,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"tabPosition"	"0"
-			"fillcolor"		"134 93 39 255"
+			"fillcolor"		"255 104 0 255"
 			"PaintBackgroundType"	"0"
 		}
 		"ClassBarLabel8A"
@@ -1311,7 +1311,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"tabPosition"	"0"
-			"fillcolor"		"207 147 95 255"
+			"fillcolor"		"255 96 0 255"
 			"PaintBackgroundType"	"0"
 		}
 		"ClassBar9B"
@@ -1328,7 +1328,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"tabPosition"	"0"
-			"fillcolor"		"207 147 95 255"
+			"fillcolor"		"255 96 0 255"
 			"PaintBackgroundType"	"0"
 		}
 		"ClassBarLabel9A"
@@ -1394,7 +1394,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"bgcolor_override"		"ahudDarkGrey"
+			"bgcolor_override"		"TransparentLightBlack"
 		}
 		"RecordsLabel1"
 		{

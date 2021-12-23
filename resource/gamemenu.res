@@ -1,52 +1,31 @@
 "GameMenu" [$WIN32]
 {
-	"HomeServer"
+	"CallVote"
 	{
-		"label"	""
-		"command" "engine JoinHomeServer"
-		"OnlyAtMenu" "1"
-		"tooltip" "Home Server"
-	}
-	"SteamWorkshopButton"
-	{
-		"label" "Workshop"
-		"command" "engine OpenSteamWorkshopDialog"
-		"subimage" "glyph_steamworkshop"
-		"tooltip" "Open Steam Workshop"
-	}
-
-	// These buttons are only shown while in-game
-	// and also are positioned by the .res file
-
-	"RequestCoachButton"
-	{
-		"label"			""
-		"command"		"engine cl_coach_find_coach"
-		"OnlyInGame"	"1"
-		"subimage" "icon_whistle"
-		"tooltip" "#MMenu_RequestCoach"
-	}
-	"CallVoteButton"
-	{
-		"label"			""
+		"label"			"Call vote"
 		"command"		"callvote"
 		"OnlyInGame"	"1"
-		"subimage" "icon_checkbox"
-		"tooltip"	"#MMenu_CallVote"
+		"tooltip"		""
 	}
-	"MutePlayersButton"
+	"Mute"
 	{
-		"label"			""
+		"label"			"Mute"
 		"command"		"OpenMutePlayerDialog"
 		"OnlyInGame"	"1"
-		"subimage" "glyph_muted"
-		"tooltip"	"#MMenu_MutePlayers"
+		"tooltip"		""
 	}
-	"ReportPlayerButton"
+	"Report"
 	{
-		"label"			""
+		"label"			"Report"
 		"command"		"OpenReportPlayerDialog"
 		"OnlyInGame"	"1"
-		"tooltip"		"#MMenu_ReportPlayer"
+		"tooltip"		""
+	}
+	"FixIssues"
+	{
+		"label"			"Fix issues"
+		"command"		"engine stop; record 1; stop; snd_restart; hud_reloadscheme"
+		"OnlyInGame"	"1"
+		"tooltip"		""
 	}
 }

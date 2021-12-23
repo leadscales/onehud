@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$basetexture" "vgui/replay/thumbnails/general_icons/pyro"
+	"$translucent" 1
+}
