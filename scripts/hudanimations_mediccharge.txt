@@ -6,8 +6,8 @@ event HudMedicCharged
 	Animate	ChargeMeter		FgColor		"Ubercharge1"		Linear 0.0 0.1
 	Animate	ChargeMeter		FgColor		"Ubercharge2"		Linear 0.3 0.4
 
-	Animate ChargeMeter		Wide		"65"				Accel  0.0 0.4
-	Animate Chargemeter 	xpos		"-18"				Accel  0.0 0.4
+	Animate ChargeMeter		Wide		"65"				Accel  0.0 0.2
+	Animate Chargemeter 	xpos		"-18"				Accel  0.0 0.2
 	
 	RunEvent HudMedicChargedLoop 0.6
 }
@@ -26,6 +26,6 @@ event HudMedicChargedStop
 	Animate	ChargeMeter		FgColor		"Ubercharge Meter"		Linear 0.0 0.0001
 	Animate ChargeLabel		FgColor		"ChargePercent"		Linear 0.0 0.0001
 
-	Animate Chargemeter 	xpos		"-30"				Accel  0.0 0.4
-	Animate ChargeMeter		Wide		"40"				Accel  0.0 0.4
+	Animate Chargemeter 	xpos		"-30"				Deaccel  0.0 0.6
+	Animate ChargeMeter		Wide		"40"				Deaccel  0.0 0.6
 }
