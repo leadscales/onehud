@@ -66,7 +66,7 @@
 		"fieldName"		"PlayerStatusHealthValue"
 		"xpos"			"72"
 		"ypos"			"35"
-		"zpos"			"5"
+		"zpos"			"6"
 		"wide"			"84"
 		"tall"			"32"
 		"visible"		"1"
@@ -75,6 +75,23 @@
 		"textAlignment"	"center"
 		"font"			"FontBold34"
 		"fgcolor"		"HP"
+	}
+
+	"PlayerStatusHealthValueGlow"
+	{
+		"ControlName"	"CExLabel"
+		"fieldName"		"PlayerStatusHealthValueGlow"
+		"xpos"			"72"
+		"ypos"			"35"
+		"zpos"			"7"
+		"wide"			"84"
+		"tall"			"32"
+		"visible"		"1"
+		"enabled"		"1"
+		"labelText"		"%Health%"
+		"textAlignment"	"center"
+		"font"			"FontBoldShadow34"
+		"fgcolor"		"Blank"
 	}
 
 	"PlayerStatusHealthValueShadow"
@@ -97,23 +114,7 @@
 		"pin_corner_to_sibling"	"PIN_TOPLEFT"
 		"pin_to_sibling_corner"	"PIN_TOPLEFT"
 	}
-	"HealthBoxBG"
-	{
-		"ControlName"	"EditablePanel"
-		"fieldName"		"HealthBoxBG"
-		"xpos"			"0"
-		"ypos"			"0"
-		"zpos"			"1"
-		"wide"			"84"
-		"tall"			"32"
-		"visible"		"1"
-		"enabled"		"1"
-		"bgcolor_override"	"Blank"
-		"PaintBackgroundType"	"0"
 
- 		"pin_to_sibling"	"PlayerStatusHealthValue"
-		"pin_corner_to_sibling"	"PIN_TOPLEFT"
-		"pin_to_sibling_corner"	"PIN_TOPLEFT"
 	}
 	"PlayerStatusMaxHealthValue"
 	{

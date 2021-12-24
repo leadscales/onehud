@@ -13,7 +13,9 @@ Scheme
 
 		"HP"					"255 255 255 255"
 		"HP Buff"				"0 255 160 255"
+		"HP Buff 2"				"0 255 128 255"
 		"HP Low"				"255 128 0 255"
+		"HP Low 2"				"255 64 0 255"
 
 		"Damage Numbers"		"255 128 0 255"		// Set in Advanced Options
 		"Healing Numbers"		"0 128 255 255"
