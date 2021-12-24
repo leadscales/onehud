@@ -10,7 +10,7 @@
 		"tall"			"67"
 		"visible"		"0"
 		"enabled"		"1"
-		"border"		"ahudPanelBorder"
+		"border"		"HudPanelBorder"
 		"bgcolor_override"	"CGray7"
 
 		"PassedIcon"
@@ -77,7 +77,7 @@
 		"tall"			"144"
 		"visible"		"0"
 		"enabled"		"1"
-		"border"		"ahudPanelBorder"
+		"border"		"HudPanelBorder"
 		"bgcolor_override"	"CGray7"
 
 		"Header"
@@ -409,7 +409,7 @@
 		"tall"			"67"
 		"visible"		"0"
 		"enabled"		"1"
-		"border"		"ahudPanelBorder"
+		"border"		"HudPanelBorder"
 		"bgcolor_override"	"CGray7"
 
 		"FailedIcon"
@@ -476,7 +476,7 @@
 		"tall"			"67"
 		"visible"		"0"
 		"enabled"		"1"
-		"border"		"ahudPanelBorder"
+		"border"		"HudPanelBorder"
 		"bgcolor_override"	"CGray7"
 
 		"FailedIcon"
@@ -546,7 +546,7 @@
 		"enabled"			"1"
 		"tabPosition"		"0"
 		"settitlebarvisible"	"0"
-		"border"			"ahudPanelBorder"
+		"border"			"HudPanelBorder"
 		"bgcolor_override"	"CGray7"
 		"PaintBackground"	"1"
 

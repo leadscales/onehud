@@ -105,7 +105,7 @@
 		"selectedFgColor_override" 	"CWhite"
 
 		"border_default"			"NoBorder"
-		"border_armed"				"ahudMenuBorderUpper"
+		"border_armed"				"HudMenuBorderUpper"
 
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"

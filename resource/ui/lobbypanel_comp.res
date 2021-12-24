@@ -106,7 +106,7 @@
 			"tall"			"p1"
 			"visible"		"1"
 			"PaintBackgroundType"	"0"
-			"border"		"ahudPanelBorder"
+			"border"		"HudPanelBorder"
 			"bgcolor_override"	"25 25 25 200"
 			"proportionaltoparent"	"1"
 

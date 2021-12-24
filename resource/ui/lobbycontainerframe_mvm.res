@@ -133,7 +133,7 @@
 		"tall"			"285"
 		"PaintBackgroundType"	"0"
 		"paintbackground"		"1"
-		"border"	"ahudPanelBorder"
+		"border"	"HudPanelBorder"
 		"bgcolor_override"	"25 25 25 200"
 
 		"PlayWithFriendsExplanationTitle"

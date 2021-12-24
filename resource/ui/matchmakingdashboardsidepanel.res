@@ -166,7 +166,7 @@
 		"visible"		"1"
 		"proportionaltoparent"	"1"
 
-		"border"		"ahudPanelBorder"
+		"border"		"HudPanelBorder"
 		"bgcolor_override"	"CGray7"
 	}
 }

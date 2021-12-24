@@ -280,7 +280,7 @@
 		"tall"			"16"
 		"visible"		"0"
 		"PaintBackgroundType"	"0"
-		"border"		"ahudPanelBorder"
+		"border"		"HudPanelBorder"
 		"bgcolor_override"	"CGray6"
 
 		"TipSubLabel"
@@ -423,7 +423,7 @@
 			"sound_released"	"UI/buttonclickrelease.wav"
 			"paintbackground" "0"
 			"border_default"				"NoBorder"
-			"border_armed"					"ahudMenuBorderUpper"
+			"border_armed"					"HudMenuBorderUpper"
 
 			"defaultFgColor_override" 	"CWhite"
 			"armedFgColor_override"   	"CWhite"
@@ -495,7 +495,7 @@
 		"visible"		"0"
 		"PaintBackgroundType"	"2"
 		"paintbackground"	"1"
-		"border"		"ahudPanelBorder"
+		"border"		"HudPanelBorder"
 		"bgcolor_override"	TransparentBlack1
 
 		"Notifications_CloseButton"
@@ -779,7 +779,7 @@
 		"tall"			"232"
 		"visible"		"1"
 
-		"border"		"ahudPanelBorder"
+		"border"		"HudPanelBorder"
 		"bgcolor_override"	TransparentBlack1
 
 		"TitleLabel"
@@ -1589,7 +1589,7 @@
 		"textalignment"					"center"
 		"labelText"						"Achievements"
 		"border_default"				"NoBorder"
-		"border_armed"					"ahudMenuBorder"
+		"border_armed"					"HudMenuBorderLower"
 		"defaultBGColor_override" 		"0 0 0 96"
 		"armedFGcolor_override"			"White"
 		"paintbackground"				"0"
@@ -1614,7 +1614,7 @@
 		"textalignment"					"center"
 		"labelText"						"Contracts"
 		"border_default"				"NoBorder"
-		"border_armed"					"ahudMenuBorder"
+		"border_armed"					"HudMenuBorderLower"
 		"defaultBGColor_override" 		"0 0 0 96"
 		"armedFGcolor_override"			"White"
 		"paintbackground"				"0"
@@ -1640,7 +1640,7 @@
 		"textalignment"					"center"
 		"labelText"						"Demos"
 		"border_default"				"NoBorder"
-		"border_armed"					"ahudMenuBorder"
+		"border_armed"					"HudMenuBorderLower"
 		"defaultBGColor_override" 		"0 0 0 96"
 		"armedFGcolor_override"			"White"
 		"paintbackground"				"0"
@@ -1666,7 +1666,7 @@
 		"textalignment"					"center"
 		"labelText"						"Replays"
 		"border_default"				"NoBorder"
-		"border_armed"					"ahudMenuBorder"
+		"border_armed"					"HudMenuBorderLower"
 		"defaultBGColor_override" 		"0 0 0 96"
 		"armedFGcolor_override"			"White"
 		"paintbackground"				"0"
@@ -1692,7 +1692,7 @@
 		"textalignment"					"center"
 		"labelText"						"Console"
 		"border_default"				"NoBorder"
-		"border_armed"					"ahudMenuBorder"
+		"border_armed"					"HudMenuBorderLower"
 		"defaultBGColor_override" 		"0 0 0 96"
 		"armedFGcolor_override"			"White"
 		"paintbackground"				"0"
@@ -1718,7 +1718,7 @@
 		"textalignment"					"center"
 		"labelText"						"Workshop"
 		"border_default"				"NoBorder"
-		"border_armed"					"ahudMenuBorder"
+		"border_armed"					"HudMenuBorderLower"
 		"defaultBGColor_override" 		"0 0 0 96"
 		"armedFGcolor_override"			"White"
 		"paintbackground"				"0"
@@ -1768,7 +1768,7 @@
 			"paintbackground"			"0"
 			"paintbackgroundtype"		"2"
 			"border_default"			"NoBorder"
-			"border_armed"				"ahudMenuBorder"
+			"border_armed"				"HudMenuBorderLower"
 		}
 	}
 
@@ -1809,7 +1809,7 @@
 			"paintbackground"			"0"
 			"paintbackgroundtype"		"2"
 			"border_default"			"NoBorder"
-			"border_armed"				"ahudMenuBorder"
+			"border_armed"				"HudMenuBorderLower"
 		}
 	}
 
@@ -1850,7 +1850,7 @@
 			"paintbackground"			"0"
 			"paintbackgroundtype"		"2"
 			"border_default"			"NoBorder"
-			"border_armed"				"ahudMenuBorder"
+			"border_armed"				"HudMenuBorderLower"
 		}
 	}
 
@@ -1891,7 +1891,7 @@
 			"paintbackground"			"0"
 			"paintbackgroundtype"		"2"
 			"border_default"			"NoBorder"
-			"border_armed"				"ahudMenuBorder"
+			"border_armed"				"HudMenuBorderLower"
 		}
 	}
 
@@ -2119,7 +2119,7 @@
 			"proportionaltoparent"	"1"
 
 			"paintborder"	"0"
-			"border"		"ahudPanelBorder"
+			"border"		"HudPanelBorder"
 			"bgcolor_override"	"CGray7"
 
 			"TitleLabel"

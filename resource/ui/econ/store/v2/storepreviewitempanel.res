@@ -93,7 +93,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"paintbackground"	"1"
-		"border"		"ahudPanelBorder"
+		"border"		"HudPanelBorder"
 		"bgcolor_override"	"CGray7"
 		"PaintBorder"	"1"
 
@@ -110,7 +110,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"paintborder"	"1"
-			"border"		"ahudPanelBorder"
+			"border"		"HudPanelBorder"
 			"bgcolor_override"	"CGray5"
 		}
 

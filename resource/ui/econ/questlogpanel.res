@@ -103,7 +103,7 @@
 		"proportionaltoparent"	"1"
 		"visible"		"1"
 		"enabled"		"1"
-		"border"		"ahudPanelBorder"
+		"border"		"HudPanelBorder"
 		"paintborder"	"1"
 		"bgcolor_override"	"CGray7"
 

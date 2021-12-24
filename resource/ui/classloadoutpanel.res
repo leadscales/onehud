@@ -411,7 +411,7 @@
 		"visible"		"0"
 		"bgcolor_override"		"CGray8"
 		"PaintBackgroundType"	"0"
-		"border"		"ahudPanelBorder"
+		"border"		"HudPanelBorder"
 	}
 
 	"TauntHintLabel"

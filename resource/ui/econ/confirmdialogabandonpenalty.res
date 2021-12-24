@@ -32,7 +32,7 @@
 			"pinCorner"		"0"
 			"autoResize"	"0"
 			"PaintBackgroundType"	"2"
-			"border"			"ahudPanelBorder"
+			"border"			"HudPanelBorder"
 			"bgcolor_override"	"CGray8"
     	}
 	}
@@ -113,8 +113,8 @@
 		"Command"		"cancel"
 		"sound_depressed"			"UI/buttonclick.wav"
 		"sound_released"			"UI/buttonclickrelease.wav"
-		"border_default"			"ahudPanelBorder"
-		"border_armed"				"ahudPanelBorder"
+		"border_default"			"HudPanelBorder"
+		"border_armed"				"HudPanelBorder"
 	}
 
 	"ConfirmButton"

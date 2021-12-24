@@ -20,7 +20,7 @@ Scheme
 			"draw_corner_height"	"0"
 		}
 
-		ahudMenuBorder
+		HudMenuBorderLower
 		{
 			"inset" "0 0 0 0"
 			Bottom
@@ -43,7 +43,7 @@ Scheme
 			}
 		}
 
-		ahudMenuBorderUpper
+		HudMenuBorderUpper
 		{
 			"inset" "0 0 0 0"
 			Top
@@ -66,7 +66,7 @@ Scheme
 			}
 		}
 
-		ahudPanelBorder
+		HudPanelBorder
 		{
 			"inset" "0 0 0 0"
 			Left
@@ -106,7 +106,7 @@ Scheme
 			}
 		}
 
-		ahudPanelBorderLight
+		HudPanelBorderLight
 		{
 			"inset" "0 0 0 0"
 			Left

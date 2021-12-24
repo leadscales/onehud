@@ -80,7 +80,7 @@
 			"enabled"		"1"
 			"tabPosition"	"0"
 			"paintbackground"	"1"
-			"border"		"ahudPanelBorder"
+			"border"		"HudPanelBorder"
 			"bgcolor_override"	"CGray7"
 
 			"CloseButton"
@@ -636,7 +636,7 @@
 					"tall"			"100"
 					"zpos"			"100"
 					"proportionaltoparent"	"1"
-					"border"		"ahudPanelBorder"
+					"border"		"HudPanelBorder"
 					"bgcolor_override"	"CGray7"
 
 					"ConfirmSelectionContainer"

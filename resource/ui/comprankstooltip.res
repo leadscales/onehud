@@ -11,7 +11,7 @@
 		"tall"			"400"
 		"visible"		"0"
 		"PaintBackgroundType"	"2"
-		"border"		"ahudPanelBorder"
+		"border"		"HudPanelBorder"
 		"bgcolor_override"	"CGray8"
 		"mouseinputenabled"	"0"
 	}

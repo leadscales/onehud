@@ -151,7 +151,7 @@
 			"defaultBgColor_override"	"Blank"
 			"paintbackground"	"0"
 			"paintborder"		"1"
-			"activeborder_override"	"ahudMenuBorder"
+			"activeborder_override"	"HudMenuBorderLower"
 			"normalborder_override" "NoBorder"
 		}
 	}

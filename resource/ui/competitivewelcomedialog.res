@@ -31,7 +31,7 @@
 			"pinCorner"		"0"
 			"autoResize"	"0"
 			"PaintBackgroundType"	"2"
-			"border"			"ahudPanelBorder"
+			"border"			"HudPanelBorder"
 			"bgcolor_override"	"CGray7"
     	}
 	}

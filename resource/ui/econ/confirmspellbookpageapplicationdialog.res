@@ -12,7 +12,7 @@
 		"bgcolor_override"		"CGray8"
 		"paintbackgroundtype"	"0"
 		"settitlebarvisible"	"0"
-		"border"				"ahudPanelBorder"
+		"border"				"HudPanelBorder"
 	}
 
 	"mouseoveritempanel"

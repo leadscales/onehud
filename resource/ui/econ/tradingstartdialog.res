@@ -12,7 +12,7 @@
 		"bgcolor_override"		"CGray8"
 		"paintbackgroundtype"	"2"
 		"settitlebarvisible"	""
-		"border"				"ahudPanelBorder"
+		"border"				"HudPanelBorder"
 
 		"button_kv"
 		{

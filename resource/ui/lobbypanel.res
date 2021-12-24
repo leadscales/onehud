@@ -33,7 +33,7 @@
 		"tall"			"0"
 		"visible"		"0"
 		"PaintBackgroundType"	"0"
-		"border"		"ahudPanelBorder"
+		"border"		"HudPanelBorder"
 		"bgcolor_override"	"CGray8"
 
 		"TipLabel"
@@ -69,7 +69,7 @@
 		"PaintBackgroundType"	"0"
 		"paintbackground"		"1"
 		"bgcolor_override"	"CGray7"
-		"border"		"ahudPanelBorder"
+		"border"		"HudPanelBorder"
 
 		"NoGCTitle"
 		{
@@ -197,7 +197,7 @@
 		"PaintBackgroundType"	"0"
 		"paintbackground"		"1"
 		"bgcolor_override"	"25 25 25 200"
-		"border"		"ahudPanelBorder"
+		"border"		"HudPanelBorder"
 
 		"SearchActiveTitle"
 		{
@@ -611,7 +611,7 @@
 			"PaintBackgroundType"	"0"
 			"paintbackground"		"1"
 			"bgcolor_override"	"25 25 25 200"
-			"border"		"ahudPanelBorder"
+			"border"		"HudPanelBorder"
 
 			"NavToRelay"	"InviteButton"
 
@@ -695,7 +695,7 @@
 			"wide"			"200"
 			"tall"			"110"
 			"bgcolor_override"	"25 25 25 200"
-			"border"		"ahudPanelBorder"
+			"border"		"HudPanelBorder"
 		}
 
 		"ChatTextEntry"
@@ -709,7 +709,7 @@
 			"wide"			"200"
 			"tall"			"20"
 			"bgcolor_override"	"CGray8"
-			"border"		"ahudPanelBorder"
+			"border"		"HudPanelBorder"
 		}
 	}
 

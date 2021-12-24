@@ -32,7 +32,7 @@
 		"tabPosition"		"0"
 		"PaintBackgroundType"	"0"
 		"paintbackground"		"1"
-		"border"				"ahudPanelBorder"
+		"border"				"HudPanelBorder"
 
 		"Background"
 		{
@@ -144,7 +144,7 @@
 		"tabPosition"		"0"
 		"PaintBackgroundType"	"0"
 		"paintbackground"		"1"
-		"border"				"ahudPanelBorder"
+		"border"				"HudPanelBorder"
 
 		"Background"
 		{

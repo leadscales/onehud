@@ -49,7 +49,7 @@
 			"tall"			"f5"
 			"visible"		"1"
 			"PaintBackgroundType"	"2"
-			"border"		"ahudPanelBorder"
+			"border"		"HudPanelBorder"
 			"bgcolor_override"	"CGray7"
 			"proportionaltoparent"	"1"
 			"pinCorner"		"3"
