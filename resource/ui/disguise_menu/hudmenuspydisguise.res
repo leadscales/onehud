@@ -20,7 +20,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"TitleLabel"
-		"font"			"aRegular20"
+		"font"			"FontRegular20"
 		"xpos"			"0"
 		"ypos"			"1"
 		"zpos"			"3"
@@ -41,7 +41,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"TitleLabelDropshadow"
-		"font"			"aRegular20"
+		"font"			"FontRegular20"
 		"fgcolor"		"ShadowBlack"
 		"xpos"			"-1"
 		"ypos"			"-1"
@@ -66,7 +66,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"ToggleLabel"
-		"font"			"aRegular8"
+		"font"			"FontRegular8"
 		"xpos"			"0"
 		"ypos"			"77"
 		"zpos"			"2"
@@ -87,7 +87,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"CancelLabel"
-		"font"			"aRegular9"
+		"font"			"FontRegular9"
 		"xpos"			"9999"
 		"ypos"			"9999"
 		"zpos"			"2"
@@ -358,7 +358,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"NumberLabel"
-		"font"			"aRegular20"
+		"font"			"FontRegular20"
 		"fgcolor"		"ahudWhite"
 		"xpos"			"10"
 		"ypos"			"41"
@@ -395,7 +395,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"NumberLabel"
-		"font"			"aRegular20"
+		"font"			"FontRegular20"
 		"fgcolor"		"ahudWhite"
 		"xpos"			"65"
 		"ypos"			"41"
@@ -432,7 +432,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"NumberLabel"
-		"font"			"aRegular20"
+		"font"			"FontRegular20"
 		"fgcolor"		"ahudWhite"
 		"xpos"			"133"
 		"ypos"			"41"

@@ -40,7 +40,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"ComptTitleLabel"
-		"font"			"aBold20"
+		"font"			"FontBold20"
 		"labelText"		"#TF_Competitive_Welcome_Title"
 		"textAlignment"	"north"
 		"proportionalToParent"  "1"

@@ -41,7 +41,7 @@
 		{
 			"ControlName"	"Label"
 			"fieldName"		"ItemLabel"
-			"font"			"aRegular9"
+			"font"			"FontRegular9"
 			"xpos"			"10"
 			"ypos"			"3"
 			"zpos"			"1"

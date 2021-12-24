@@ -203,7 +203,7 @@
 		{
 			"ControlName"		"Label"
 			"fieldName"		"SearchActiveTitle"
-			"font"			"aBold24"
+			"font"			"FontBold24"
 			"labelText"		"#TF_Matchmaking_Searching"
 			"xpos"		"30"
 			"ypos"		"20"
@@ -619,7 +619,7 @@
 			{
 				"ControlName"	"Label"
 				"fieldName"		"PartyLabel"
-				"font"			"aBold24"
+				"font"			"FontBold24"
 				"labelText"		"#TF_Matchmaking_Party"
 				"textAlignment"	"west"
 				"xpos"			"5"
@@ -722,7 +722,7 @@
 		"zpos"		"-1"
 		"wide"		"200"
 		"tall"		"20"
-		"font"			"aRegular12"
+		"font"			"FontRegular12"
 		"labelText"		"#TF_Matchmaking_JoinInProgress"
 	}
 
@@ -730,7 +730,7 @@
 	{
 		"ControlName"		"Label"
 		"fieldName"		"JoinLateValueLabel"
-		"font"			"aRegular12"
+		"font"			"FontRegular12"
 		"textAlignment"	"west"
 		"xpos"		"c+100"
 		"ypos"		"325"

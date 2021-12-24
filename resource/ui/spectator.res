@@ -66,7 +66,7 @@
 		"enabled"		"1"
 		"labelText"		"#game_respawntime_in_secs"
 		"textAlignment"		"center"
-		"font"			"aRegular18"
+		"font"			"FontRegular18"
 	}
 
 	"BuyBackLabel"
@@ -184,7 +184,7 @@
 		{
 			"ControlName"	"Label"
 			"fieldName"		"ItemLabel"
-			"font"			"aRegular9"
+			"font"			"FontRegular9"
 			"xpos"			"10"
 			"ypos"			"3"
 			"zpos"			"1"

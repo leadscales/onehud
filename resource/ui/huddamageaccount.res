@@ -9,8 +9,8 @@
 		"PositiveColor"			"Healing Numbers" //Heal
 		"NegativeColor"			"Damage Numbers" //Damage
 		"delta_lifetime"		"0.6"
-		"delta_item_font"		"aBold18"
-		"delta_item_font_big"	"aBold18"
+		"delta_item_font"		"FontBold18"
+		"delta_item_font_big"	"FontBold18"
 	}
 
 	"DamageAccountValue"
@@ -27,7 +27,7 @@
 		"labelText"		"%metal%"
 		"textAlignment"	"west"
 		"fgcolor"		"Damage Numbers"
-		"font"			"aBold18"
+		"font"			"FontBold18"
 	}
 
 	"DamageAccountValueShadow"

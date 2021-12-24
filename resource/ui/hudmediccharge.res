@@ -37,7 +37,7 @@
 		"textAlignment"	"center"
 		"dulltext"		"0"
 		"brighttext"	"0"
-		"font"			"aBold16"
+		"font"			"FontBold16"
 		"fgcolor"		"ChargePercent"
 	}
 
@@ -59,7 +59,7 @@
 		"textAlignment"	"center"
 		"dulltext"		"0"
 		"brighttext"	"0"
-		"font"			"aBold34"
+		"font"			"FontBold34"
 		"fgcolor"		"ChargePercent"
 	}
 
@@ -81,7 +81,7 @@
 		"textAlignment"	"center"
 		"dulltext"		"0"
 		"brighttext"	"0"
-		"font"			"aRegular10"
+		"font"			"FontRegular10"
 		"fgcolor"	"150 150 150 255"
 	}
 

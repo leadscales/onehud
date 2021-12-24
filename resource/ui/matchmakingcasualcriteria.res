@@ -177,7 +177,7 @@
 			"proportionaltoparent"	"1"
 			"labeltext"		"#TF_Casual_MapSelection"
 			"textAlignment"	"west"
-			"font"			"aBold16"
+			"font"			"FontBold16"
 
 			"mouseinputenabled"	"0"
 		}

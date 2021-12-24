@@ -54,7 +54,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"TitleLabel"
-		"font"			"aRegular20"
+		"font"			"FontRegular20"
 		"xpos"			"0"
 		"ypos"			"1"
 		"zpos"			"5"
@@ -75,7 +75,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"TitleLabelDropshadow"
-		"font"			"aRegular20"
+		"font"			"FontRegular20"
 		"fgcolor"		"ShadowBlack"
 		"xpos"			"-1"
 		"ypos"			"-1"

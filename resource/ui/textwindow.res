@@ -49,7 +49,7 @@
 		"textAlignment"	"center"
 		"dulltext"		"0"
 		"brighttext"	"0"
-		"font"			"aBold18"
+		"font"			"FontBold18"
 		"fgcolor"		"ahudWhite"
 	}
 
@@ -65,7 +65,7 @@
 	{
 		"ControlName"	"CExRichText"
 		"fieldName"		"TFTextMessage"
-		"font"			"aRegular10"
+		"font"			"FontRegular10"
 		"xpos"			"c-170"
 		"ypos"			"c-90"
 		"zpos"			"1"
@@ -118,7 +118,7 @@
 		"wrap"		"0"
 		"command"		"okay"
 		"default"		"1"
-		"font"			"aRegular12"
+		"font"			"FontRegular12"
 		"paintbackground"	"0"
 
 		"fgcolor"			"255 255 255 128"

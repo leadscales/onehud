@@ -43,7 +43,7 @@
 		"enabled"		"1"
 		"labelText"		"#TF_SelectAClass"
 		"textAlignment"	"center"
-		"font"			"aBold28"
+		"font"			"FontBold28"
 		"fgcolor_override"	"ahudWhite"
 		"bgcolor_override"	"TransparentBlack3"
 	}
@@ -457,7 +457,7 @@
 		"textAlignment"		"center"
 		"Command"			"select 1"
 		"Default"			"0"
-		"font"				"aBold12"
+		"font"				"FontBold12"
 		"paintbackground" "0"
 
 		"FgColor"					"CWhite"
@@ -494,7 +494,7 @@
 		"textAlignment"		"center"
 		"Command"			"select 3"
 		"Default"			"0"
-		"font"				"aBold12"
+		"font"				"FontBold12"
 		"paintbackground" "0"
 
 		"FgColor"					"CWhite"
@@ -535,7 +535,7 @@
 		"textAlignment"		"center"
 		"Command"			"select 7"
 		"Default"			"0"
-		"font"				"aBold12"
+		"font"				"FontBold12"
 		"paintbackground" "0"
 
 		"FgColor"					"CWhite"
@@ -576,7 +576,7 @@
 		"textAlignment"		"center"
 		"Command"			"select 4"
 		"Default"			"0"
-		"font"				"aBold12"
+		"font"				"FontBold12"
 		"paintbackground" "0"
 
 		"FgColor"					"CWhite"
@@ -617,7 +617,7 @@
 		"textAlignment"		"center"
 		"Command"			"select 6"
 		"Default"			"0"
-		"font"				"aBold12"
+		"font"				"FontBold12"
 		"paintbackground" "0"
 
 		"FgColor"					"CWhite"
@@ -658,7 +658,7 @@
 		"textAlignment"		"center"
 		"Command"			"select 9"
 		"Default"			"0"
-		"font"				"aBold12"
+		"font"				"FontBold12"
 		"paintbackground" "0"
 
 		"FgColor"					"CWhite"
@@ -699,7 +699,7 @@
 		"textAlignment"		"center"
 		"Command"			"select 5"
 		"Default"			"0"
-		"font"				"aBold12"
+		"font"				"FontBold12"
 		"paintbackground" "0"
 
 		"FgColor"					"CWhite"
@@ -740,7 +740,7 @@
 		"textAlignment"		"center"
 		"Command"			"select 2"
 		"Default"			"0"
-		"font"				"aBold12"
+		"font"				"FontBold12"
 		"paintbackground" "0"
 
 		"FgColor"					"CWhite"
@@ -781,7 +781,7 @@
 		"textAlignment"		"center"
 		"Command"			"select 8"
 		"Default"			"0"
-		"font"				"aBold12"
+		"font"				"FontBold12"
 		"scaleImage"		"1"
 		"paintbackground" "0"
 
@@ -823,7 +823,7 @@
 		"textAlignment"		"west"
 		"Command"			"select 12"
 		"Default"			"1"
-		"font"				"aRegular12"
+		"font"				"FontRegular12"
 		"paintbackground"	"0"
 
 		"FgColor"					"255 255 255 128"
@@ -890,7 +890,7 @@
 		"labelText"		"Edit Loadout"
 		"textAlignment"	"center"
 		"Command"		"openloadout"
-		"font"			"aRegular14"
+		"font"			"FontRegular14"
 		"paintbackground"	"0"
 
 		"FgColor"					"CWhite"
@@ -962,7 +962,7 @@
 		"labelText"		"Cancel"
 		"textAlignment"	"center"
 		"Command"		"vguicancel"
-		"font"			"aRegular14"
+		"font"			"FontRegular14"
 		"paintbackground"	"0"
 
 		"FgColor"					"CWhite"
@@ -1293,7 +1293,7 @@
 		"tabPosition"	"0"
 		"labelText"		"%numScout%"
 		"textAlignment"	"center"
-		"font"			"aRegular12"
+		"font"			"FontRegular12"
 		"fgcolor"		"ahudWhite"
 
 		"pin_to_sibling"	"scout"
@@ -1317,7 +1317,7 @@
 		"tabPosition"	"0"
 		"labelText"		"%numSoldier%"
 		"textAlignment"	"center"
-		"font"			"aRegular12"
+		"font"			"FontRegular12"
 		"fgcolor"		"ahudWhite"
 
 		"pin_to_sibling"	"soldier"
@@ -1341,7 +1341,7 @@
 		"tabPosition"	"0"
 		"labelText"		"%numPyro%"
 		"textAlignment"	"center"
-		"font"			"aRegular12"
+		"font"			"FontRegular12"
 		"fgcolor"		"ahudWhite"
 
 		"pin_to_sibling"	"pyro"
@@ -1365,7 +1365,7 @@
 		"tabPosition"	"0"
 		"labelText"		"%numDemoman%"
 		"textAlignment"	"center"
-		"font"			"aRegular12"
+		"font"			"FontRegular12"
 		"fgcolor"		"ahudWhite"
 
 		"pin_to_sibling"	"demoman"
@@ -1389,7 +1389,7 @@
 		"tabPosition"	"0"
 		"labelText"		"%numHeavy%"
 		"textAlignment"	"center"
-		"font"			"aRegular12"
+		"font"			"FontRegular12"
 		"fgcolor"		"ahudWhite"
 
 		"pin_to_sibling"	"heavyweapons"
@@ -1413,7 +1413,7 @@
 		"tabPosition"	"0"
 		"labelText"		"%numEngineer%"
 		"textAlignment"	"center"
-		"font"			"aRegular12"
+		"font"			"FontRegular12"
 		"fgcolor"		"ahudWhite"
 
 		"pin_to_sibling"	"engineer"
@@ -1437,7 +1437,7 @@
 		"tabPosition"	"0"
 		"labelText"		"%numMedic%"
 		"textAlignment"	"center"
-		"font"			"aRegular12"
+		"font"			"FontRegular12"
 		"fgcolor"		"ahudWhite"
 
 		"pin_to_sibling"	"medic"
@@ -1461,7 +1461,7 @@
 		"tabPosition"	"0"
 		"labelText"		"%numSniper%"
 		"textAlignment"	"center"
-		"font"			"aRegular12"
+		"font"			"FontRegular12"
 		"fgcolor"		"ahudWhite"
 		
 		"pin_to_sibling"	"sniper"
@@ -1485,7 +1485,7 @@
 		"tabPosition"	"0"
 		"labelText"		"%numSpy%"
 		"textAlignment"	"center"
-		"font"			"aRegular12"
+		"font"			"FontRegular12"
 		"fgcolor"		"ahudWhite"
 
 		"pin_to_sibling"	"spy"

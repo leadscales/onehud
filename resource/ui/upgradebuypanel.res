@@ -111,7 +111,7 @@
 
 		"labelText"		""
 		"textAlignment"	"center"
-		"font"			"aRegular12"
+		"font"			"FontRegular12"
 	}
 
 	"ShortDescriptionLabel"

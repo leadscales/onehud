@@ -51,7 +51,7 @@
 		"wrap"					"0"
 		"labelText"				"%name%"
 		"proportionaltoparent"	"1"
-		"font"					"aRegular10"
+		"font"					"FontRegular10"
 		"mouseinputenabled"		"0"
 	}
 

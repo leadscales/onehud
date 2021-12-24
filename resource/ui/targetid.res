@@ -85,7 +85,7 @@
 	{
 		"ControlName"	"Label"
 		"fieldName"		"TargetNameLabel"
-		"font"			"aRegular11"
+		"font"			"FontRegular11"
 		"xpos"			"0"
 		"ypos"			"25"
 		"zpos"			"1"
@@ -255,7 +255,7 @@
 		{
 			"ControlName"		"Label"
 			"fieldName"		"MoveableKeyLabel"
-			"font"			"aRegular10"
+			"font"			"FontRegular10"
 			"xpos"			"0"
 			"ypos"			"35"
 			"zpos"			"1"

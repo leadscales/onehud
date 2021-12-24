@@ -132,7 +132,7 @@
 		"tabskv"
 		{
 			"textinsetx"		"40"
-			"font"				"aBold24"
+			"font"				"FontBold24"
 			"selectedcolor"		"ahudWhite"
 			"unselectedcolor"	"TanDark"
 			"defaultBgColor_override"	"ahudDarkGrey"
@@ -202,7 +202,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"	"0"
-		"font"			"aRegular14"
+		"font"			"FontRegular14"
 		"textAlignment"	"center"
 		"dulltext"		"0"
 		"brighttext"	"0"

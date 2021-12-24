@@ -126,7 +126,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"FreezeLabelKiller"
-			"font"			"aRegular11"
+			"font"			"FontRegular11"
 			"fgcolor"		"ahudWhite"
 			"xpos"			"54"
 			"ypos"			"11"

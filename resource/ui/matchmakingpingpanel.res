@@ -45,7 +45,7 @@
 		"proportionaltoparent"	"1"
 		"labeltext"		"#TF_MM_OpenSettings"
 		"textAlignment"	"west"
-		"font"			"aBold24"
+		"font"			"FontBold24"
 		"fgcolor_override"	"ahudWhite"
 
 		"mouseinputenabled"	"0"

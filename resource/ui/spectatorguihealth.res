@@ -53,7 +53,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"textAlignment"	"center"
-		"font"			"aRegular24"
+		"font"			"FontRegular24"
 		"fgcolor"		"HP"
 		"labeltext"		"%Health%"
 	}

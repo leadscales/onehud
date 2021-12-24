@@ -48,14 +48,14 @@
 		"centerwrap"			"1"
 		"dulltext"				"0"
 		"brighttext"			"0"
-		"font"					"aRegular10"
+		"font"					"FontRegular10"
 	}
 
 	"CanteenLabel"
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"CanteenLabel"
-		"font"			"aRegular12"
+		"font"			"FontRegular12"
 		"fgcolor"		"ahudBlack"
 		"xpos"			"4"
 		"ypos"			"0"
@@ -104,7 +104,7 @@
 		"textAlignment"			"center"
 		"dulltext"				"0"
 		"brighttext"			"0"
-		"font"					"aRegular12"
+		"font"					"FontRegular12"
 		"fgcolor"				"ahudWhite"
 	}
 }

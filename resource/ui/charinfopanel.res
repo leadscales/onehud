@@ -20,7 +20,7 @@
 		"outoffocus_bgcolor_override"	"CGray6"
 
 		"title"			" "
-		"title_font"	"aRegular24"
+		"title_font"	"FontRegular24"
 		"titletextinsetX"	"40"
 		"titletextinsetY"	"0"
 		"titlebarfgcolor_override"				"AccentMain"
@@ -145,7 +145,7 @@
 			"textinsetx"		"0"
 			"textinsety"		"-7"
 			"textalignment"		"center"
-			"font"				"aBold16"
+			"font"				"FontBold16"
 			"selectedcolor"		"CWhite"
 			"unselectedcolor"	"CGray1"
 			"defaultBgColor_override"	"Blank"

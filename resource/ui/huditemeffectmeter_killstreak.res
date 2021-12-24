@@ -31,7 +31,7 @@
 		"textAlignment"			"center"
 		"dulltext"				"0"
 		"brighttext"			"0"
-		"font"					"aRegular10"
+		"font"					"FontRegular10"
 		"fgcolor"				"ahudWhite"
 	}
 
@@ -71,7 +71,7 @@
 		"textAlignment"			"center"
 		"dulltext"				"0"
 		"brighttext"			"0"
-		"font"					"aBold20"
+		"font"					"FontBold20"
 		"fgcolor"				"Killstreak"
 	}
 

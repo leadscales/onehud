@@ -68,7 +68,7 @@
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"		"BlueTeamLabel"
-			"font"			"aRegular20"
+			"font"			"FontRegular20"
 			"fgcolor"		"ahudWhite"
 			"labelText"		"%blueteamname%"
 			"textAlignment"		"west"
@@ -90,7 +90,7 @@
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"		"BlueTeamScore"
-			"font"			"aRegular34"
+			"font"			"FontRegular34"
 			"fgcolor"		"ahudWhite"
 			"labelText"		"%blueteamscore%"
 			"textAlignment"		"east"
@@ -134,7 +134,7 @@
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"		"RedTeamLabel"
-			"font"			"aRegular20"
+			"font"			"FontRegular20"
 			"fgcolor"		"ahudWhite"
 			"labelText"		"%redteamname%"
 			"textAlignment"		"east"
@@ -156,7 +156,7 @@
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"		"RedTeamScore"
-			"font"			"aRegular34"
+			"font"			"FontRegular34"
 			"fgcolor"		"ahudWhite"
 			"labelText"		"%redteamscore%"
 			"textAlignment"		"west"
@@ -273,7 +273,7 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"		"WinningTeamLabel"
-		"font"			"aRegular10"
+		"font"			"FontRegular10"
 		"fgcolor"		"ahudWhite"
 		"xpos"			"10"
 		"ypos"			"41"
@@ -314,7 +314,7 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"		"LosingTeamLabel"
-		"font"			"aRegular10"
+		"font"			"FontRegular10"
 		"fgcolor"		"ahudWhite"
 		"xpos"			"10"
 		"ypos"			"41"
@@ -354,7 +354,7 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"		"WinReasonLabel"
-		"font"			"aRegular10"
+		"font"			"FontRegular10"
 		"fgcolor"		"ahudWhite"
 		"xpos"			"10"
 		"ypos"			"51"
@@ -410,7 +410,7 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"		"TopPlayerLabel"
-		"font"			"aRegular9"
+		"font"			"FontRegular9"
 		"fgcolor"		"ahudWhite"
 		"xpos"			"10"
 		"ypos"			"64"
@@ -430,7 +430,7 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"		"DamageThisRoundLabel"
-		"font"			"aRegular9"
+		"font"			"FontRegular9"
 		"fgcolor"		"ahudWhite"
 		"xpos"			"200"
 		"ypos"			"64"
@@ -450,7 +450,7 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"		"PointsThisRoundLabel"
-		"font"			"aRegular9"
+		"font"			"FontRegular9"
 		"fgcolor"		"ahudWhite"
 		"xpos"			"245"
 		"ypos"			"64"
@@ -470,7 +470,7 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"		"PointsThisRoundLabel"
-		"font"			"aRegular9"
+		"font"			"FontRegular9"
 		"fgcolor"		"ahudWhite"
 		"xpos"			"285"
 		"ypos"			"64"
@@ -490,7 +490,7 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"		"PointsThisRoundLabel"
-		"font"			"aRegular9"
+		"font"			"FontRegular9"
 		"fgcolor"		"ahudWhite"
 		"xpos"			"325"
 		"ypos"			"64"

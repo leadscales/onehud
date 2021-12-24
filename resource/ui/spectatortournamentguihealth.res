@@ -68,7 +68,7 @@
 		"enabled"		    "1"
 		"textAlignment"	"center"
 		"labeltext"		  "%Health%"
-		"font"				"aRegular14"
+		"font"				"FontRegular14"
 		"fgcolor"		    "HP"
 	}
 	"PlayerStatusHealthValueSpecguiShadow"
@@ -84,7 +84,7 @@
 		"enabled"		    "1"
 		"textAlignment"	"center"
 		"labeltext"		  "%Health%"
-		"font"				"aRegular14"
+		"font"				"FontRegular14"
 		"fgcolor"		    "ShadowBlack"
 
 		"pin_to_sibling"	"PlayerStatusHealthValueSpecgui"

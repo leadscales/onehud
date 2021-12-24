@@ -73,7 +73,7 @@
 		"enabled"		"1"
 		"labelText"		"%Health%"
 		"textAlignment"	"center"
-		"font"			"aBold34"
+		"font"			"FontBold34"
 		"fgcolor"		"HP"
 	}
 
@@ -128,7 +128,7 @@
 		"enabled"		"0"
 		"labelText"		"%MaxHealth%"
 		"textAlignment"	"center"
-		"font"			"aRegular10"
+		"font"			"FontRegular10"
 		"fgcolor"		"CGray5"
 	}
 
@@ -145,7 +145,7 @@
 		"enabled"		"0"
 		"labelText"		"%MaxHealth%"
 		"textAlignment"	"center"
-		"font"			"aRegular10"
+		"font"			"FontRegular10"
 		"fgcolor"		"ShadowBlack"
 	}
 

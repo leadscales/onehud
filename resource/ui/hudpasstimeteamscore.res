@@ -105,7 +105,7 @@
 		"enabled"		"1"
 		"textAlignment"	"center"
 		"labelText"		"%bluescore%"
-		"font"			"aRegular24"
+		"font"			"FontRegular24"
 		"fgcolor"		"ahudWhite"
 
 		"pin_to_sibling"	"LeftSideBG"
@@ -126,7 +126,7 @@
 		"enabled"		"1"
 		"textAlignment"	"center"
 		"labelText"		"%bluescore%"
-		"font"			"aRegular24"
+		"font"			"FontRegular24"
 		"fgcolor"		"ShadowBlack"
 
 		"pin_to_sibling"	"BlueScore"
@@ -147,7 +147,7 @@
 		"enabled"		"1"
 		"textAlignment"	"center"
 		"labelText"		"%redscore%"
-		"font"			"aRegular24"
+		"font"			"FontRegular24"
 		"fgcolor"		"ahudWhite"
 
 		"pin_to_sibling"	"RightSideBG"
@@ -168,7 +168,7 @@
 		"enabled"		"1"
 		"textAlignment"	"center"
 		"labelText"		"%redscore%"
-		"font"			"aRegular24"
+		"font"			"FontRegular24"
 		"fgcolor"		"ShadowBlack"
 
 		"pin_to_sibling"	"RedScore"
@@ -203,7 +203,7 @@
 			"textAlignment"	"center"
 			"dulltext"		"0"
 			"brighttext"	"0"
-			"font"			"aRegular12"
+			"font"			"FontRegular12"
 			"fgcolor"		"ahudWhite"
 			"proportionaltoparent"	"1"
 		}

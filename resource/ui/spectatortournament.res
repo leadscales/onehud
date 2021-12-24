@@ -50,7 +50,7 @@
 			{
 				"ControlName"	"CExLabel"
 				"fieldName"		"playername"
-				"font"			  "aRegular10"
+				"font"			  "FontRegular10"
 				"xpos"			  "44"
 				"ypos"			  "0"
 				"zpos"			  "5"
@@ -193,7 +193,7 @@
 			{
 				"ControlName"	"CExLabel"
 				"fieldName"		"respawntime"
-				"font"			"aRegular10"
+				"font"			"FontRegular10"
 				"xpos"			"16"
 				"ypos"			"0"
 				"zpos"			"6"
@@ -251,7 +251,7 @@
 			{
 				"ControlName"	"CExLabel"
 				"fieldName"		"chargeamount"
-				"font"			"aRegular9"
+				"font"			"FontRegular9"
 				"xpos"			"117"
 				"ypos"			"0"
 				"zpos"			"6"
@@ -345,7 +345,7 @@
 		"enabled"		"1"
 		"labelText"		"#game_respawntime_in_secs"
 		"textAlignment"		"center"
-		"font"			"aRegular16"
+		"font"			"FontRegular16"
 		"fgcolor"		"ahudWhite"
 
 		if_mvm
@@ -367,7 +367,7 @@
 		"enabled"		"1"
 		"labelText"		"#TF_PVE_Buyback"
 		"textAlignment"	"center"
-		"font"			"aRegular12"
+		"font"			"FontRegular12"
 		"fgcolor"		"ahudWhite"
 		"wrap"			"1"
 		"centerwrap"	"1"
@@ -472,7 +472,7 @@
 		{
 			"ControlName"	"Label"
 			"fieldName"		"ItemLabel"
-			"font"			"aRegular9"
+			"font"			"FontRegular9"
 			"xpos"			"10"
 			"ypos"			"3"
 			"zpos"			"1"

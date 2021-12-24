@@ -54,7 +54,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"TitleLabel"
-			"font"			"aBold18"
+			"font"			"FontBold18"
 			"textAlignment"	"center"
 			"xpos"			"0"
 			"ypos"			"13"
@@ -166,7 +166,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"TitleLabel"
-			"font"			"aBold24"
+			"font"			"FontBold24"
 			"labelText"		"#TF_MM_ResultsDialog_Title"
 			"textAlignment"	"center"
 			"xpos"			"0"

@@ -30,7 +30,7 @@
 			{
 				"ControlName"			"Label"
 				"fieldName"				"HeaderLabel"
-				"font"					"aBold14"
+				"font"					"FontBold14"
 				"textAlignment"			"center"
 				"xpos"					"0"
 				"ypos"					"0"
@@ -187,7 +187,7 @@
 			"wide"					"150"
 			"tall"					"20"
 			"textAlignment"			"center"
-			"font"					"aRegular12"
+			"font"					"FontRegular12"
 			"labeltext"				"Crosshair Color"
 		}
 
@@ -372,7 +372,7 @@
 			"wide"					"150"
 			"tall"					"20"
 			"textAlignment"			"center"
-			"font"					"aRegular12"
+			"font"					"FontRegular12"
 			"labeltext"				"Damage Color"
 		}
 		"DColorRed"

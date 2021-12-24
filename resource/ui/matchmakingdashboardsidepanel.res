@@ -113,7 +113,7 @@
 		"command"		"nav_close"
 
 		"textAlignment"	"east"
-		"font"			"aRegular16"
+		"font"			"FontRegular16"
 
 		"armedBgColor_override"	"0 0 0 0"
 		"defaultBgColor_override"	"0 0 0 0"
@@ -145,7 +145,7 @@
 		"labelText"		"◀"
 
 		"textAlignment"	"west"
-		"font"			"aRegular16"
+		"font"			"FontRegular16"
 
 		"armedBgColor_override"	"0 0 0 0"
 		"defaultBgColor_override"	"0 0 0 0"

@@ -62,7 +62,7 @@
 		"textAlignment"	"center"
 		"dulltext"		"0"
 		"brighttext"	"1"
-		"font"			"aBold24"
+		"font"			"FontBold24"
 		"fgcolor"		"ahudWhite"
 	}
 
@@ -77,7 +77,7 @@
 		"tall"			"25"
 		"labelText"		"#TF_SelectATeam"
 		"textAlignment"	"center"
-		"font"			"aBold28"
+		"font"			"FontBold28"
 		"visible"		"1"
 		"enabled"		"1"
 		"fgcolor_override"	"ahudWhite"
@@ -119,7 +119,7 @@
 		"enabled"		"1"
 		"labelText"		"BLU"	[$WIN32]
 		"textAlignment"	"center"
-		"font"			"aRegular20"
+		"font"			"FontRegular20"
 		"paintbackground"	"0"
 		"defaultFgColor_override" 	"CWhite"
 		"armedFgColor_override"		"CWhite"
@@ -173,7 +173,7 @@
 		"enabled"		"1"
 		"labelText"		"RED"	[$WIN32]
 		"textAlignment"	"center"
-		"font"			"aRegular20"
+		"font"			"FontRegular20"
 		"paintbackground"	"0"
 		"defaultFgColor_override" 	"CWhite"
 		"armedFgColor_override"		"CWhite"
@@ -230,7 +230,7 @@
 		"textAlignment"	"center"
 		"paintborder"	"0"
 		"command"		"jointeam auto"
-		"font"			"aRegular14"
+		"font"			"FontRegular14"
 		"paintbackground"			"0"
 		"defaultFgColor_override" 	"CWhite"
 		"armedFgColor_override"		"CWhite"
@@ -275,7 +275,7 @@
 		"textAlignment"	"center"
 		"paintborder"	"0"
 		"command"		"jointeam spectate"
-		"font"			"aRegular14"
+		"font"			"FontRegular14"
 		"paintbackground"			"0"
 		"defaultFgColor_override" 	"CWhite"
 		"armedFgColor_override"		"CWhite"
@@ -373,7 +373,7 @@
 		"textAlignment"	"center"
 		"dulltext"		"0"
 		"brighttext"	"0"
-		"font"			"aBold24"
+		"font"			"FontBold24"
 		"fgcolor"		"HudOffWhite"
 	}
 
@@ -476,7 +476,7 @@
 		"textAlignment"	"center"
 		"dulltext"		"0"
 		"brighttext"	"1"
-		"font"			"aRegular12"
+		"font"			"FontRegular12"
 		"fgcolor"		"CWhite"
 
 		"pin_to_sibling"	"teambutton0"
@@ -500,7 +500,7 @@
 		"textAlignment"	"east"
 		"dulltext"		"0"
 		"brighttext"	"1"
-		"font"			"aRegular14"
+		"font"			"FontRegular14"
 		"fgcolor"		"255 255 255 175"
 	}
 
@@ -521,7 +521,7 @@
 		"textAlignment"	"center"
 		"dulltext"		"0"
 		"brighttext"	"1"
-		"font"			"aRegular12"
+		"font"			"FontRegular12"
 		"fgcolor"		"CWhite"
 
 		"pin_to_sibling"	"teambutton1"
@@ -545,7 +545,7 @@
 		"textAlignment"	"east"
 		"dulltext"		"0"
 		"brighttext"	"1"
-		"font"			"aRegular14"
+		"font"			"FontRegular14"
 		"fgcolor"		"255 255 255 175"
 	}
 
@@ -631,7 +631,7 @@
 		"textAlignment"	"Center"
 		"dulltext"		"0"
 		"brighttext"	"0"
-		"font"			"aRegular12"
+		"font"			"FontRegular12"
 		"fgcolor"		"ahudWhite"
 		"centerwrap"	"1"
 	}
@@ -653,7 +653,7 @@
 		"textAlignment"	"Center"
 		"dulltext"		"0"
 		"brighttext"	"0"
-		"font"			"aRegular12"
+		"font"			"FontRegular12"
 		"fgcolor"		"TransparentBlack"
 		"centerwrap"	"1"
 	}
@@ -675,7 +675,7 @@
 		"textAlignment"	"center"
 		"dulltext"		"0"
 		"brighttext"	"0"
-		"font"			"aRegular12"
+		"font"			"FontRegular12"
 		"fgcolor"		"ahudWhite"
 		"centerwrap"	"1"
 	}
@@ -697,7 +697,7 @@
 		"textAlignment"	"center"
 		"dulltext"		"0"
 		"brighttext"	"0"
-		"font"			"aRegular12"
+		"font"			"FontRegular12"
 		"fgcolor"		"TransparentBlack"
 		"centerwrap"	"1"
 

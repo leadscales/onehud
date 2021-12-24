@@ -129,7 +129,7 @@
 		{
 			"textinsetx"		"0"
 			"textinsety"		"-6"
-			"font"				"aBold16"
+			"font"				"FontBold16"
 			"selectedcolor"		"ahudWhite"
 			"unselectedcolor"	"ahudDullWhite"
 			"defaultBgColor_override"	"Blank"
@@ -153,7 +153,7 @@
 		"enabled"		"1"
 		"tabPosition"	"0"
 		"labelText"		"Back (&Q)"
-		"font"			"aRegular14"
+		"font"			"FontRegular14"
 		"textAlignment"	"center"
 		"dulltext"		"0"
 		"brighttext"	"0"

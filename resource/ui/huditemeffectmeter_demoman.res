@@ -31,7 +31,7 @@
 		"textAlignment"			"east"
 		"dulltext"				"0"
 		"brighttext"			"0"
-		"font"					"aBold10"
+		"font"					"FontBold10"
 		"fgcolor_override"		"ahudWhite"
 	}
 
@@ -71,7 +71,7 @@
 		"textAlignment"			"west"
 		"dulltext"				"0"
 		"brighttext"			"0"
-		"font"					"aBold20"
+		"font"					"FontBold20"
 		"fgcolor"				"AccentMain"
 	}
 	"ItemEffectMeterCountShadow"

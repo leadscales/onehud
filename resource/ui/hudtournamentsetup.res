@@ -84,7 +84,7 @@
 		"brighttext"	"0"
 		"command"		"teamnotready"
 		"default"		"1"
-		"font"			"aRegular10"
+		"font"			"FontRegular10"
 		"fgcolor"		"Red"
 
 		"defaultBgColor_override"	"ahudBlack"
@@ -114,7 +114,7 @@
 		"brighttext"	"0"
 		"command"		"teamready"
 		"default"		"1"
-		"font"			"aRegular10"
+		"font"			"FontRegular10"
 		"fgcolor"		"FooterBGBlack"
 
 		"defaultBgColor_override"	"ahudBlack"

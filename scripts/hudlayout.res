@@ -482,7 +482,7 @@
 		"CornerRadius"	  "0"
 		"RightJustify"	  "1"	// If 1, draw notices from the right
 		
-		"TextFont"		"aRegular10"
+		"TextFont"		"FontRegular10"
 		
 		"TeamBlue"		"CBlue"
 		"TeamRed"		"CRed"

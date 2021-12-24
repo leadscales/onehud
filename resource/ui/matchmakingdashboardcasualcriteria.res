@@ -26,7 +26,7 @@
 		"proportionaltoparent"	"1"
 		"labeltext"		"#TF_Matchmaking_HeaderCasual"
 		"textAlignment"	"west"
-		"font"			"aBold24"
+		"font"			"FontBold24"
 		"fgcolor_override"	"CWhite"
 
 		"mouseinputenabled"	"0"

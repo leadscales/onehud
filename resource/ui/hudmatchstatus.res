@@ -283,7 +283,7 @@
 		"PositiveColor"			"CGreen"
 		"NegativeColor"			"CRed"
 		"delta_lifetime"		"2"
-		"delta_item_font"		"aRegular14"
+		"delta_item_font"		"FontRegular14"
 
 		if_match
 		{
@@ -294,14 +294,14 @@
 			"PositiveColor"			"CGreen"
 			"NegativeColor"			"CRed"
 			"delta_lifetime"		"2"
-			"delta_item_font"		"aRegular14"
+			"delta_item_font"		"FontRegular14"
 		}
 
 		"TimePanelValue"
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"		"TimePanelValue"
-			"font"			"aBold14"
+			"font"			"FontBold14"
 			"fgcolor"		"CWhite"
 			"xpos"			"27"
 			"ypos"			"0"

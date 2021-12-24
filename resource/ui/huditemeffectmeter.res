@@ -30,7 +30,7 @@
 		"textAlignment"			"center"
 		"dulltext"				"0"
 		"brighttext"			"0"
-		"font"					"aRegular8"
+		"font"					"FontRegular8"
 		"fgcolor_override"		"CBlack"
 	}
 

@@ -57,7 +57,7 @@
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"		"TitleLabel"
-			"font"			"aBold24"
+			"font"			"FontBold24"
 			"labelText"		"#TF_Quickplay_Title"
 			"textAlignment"	"center"
 			"xpos"			"40"
@@ -344,7 +344,7 @@
 			{
 				"ControlName"		"CExLabel"
 				"fieldName"		"TitleLabel"
-				"font"			"aRegular18"
+				"font"			"FontRegular18"
 				"labelText"		"#TF_Quickplay_AdvancedOptions"
 				"textAlignment"	"center"
 				"xpos"			"10"
@@ -942,7 +942,7 @@
 			{
 				"ControlName"	"CExLabel"
 				"fieldName"		"TitleLabel"
-				"font"			"aRegular18"
+				"font"			"FontRegular18"
 				"labelText"		"#QuickplayBetaExplanation_Title"
 				"textAlignment"	"north"
 				"xpos"			"20"
@@ -961,7 +961,7 @@
 			{
 				"ControlName"	"CExLabel"
 				"fieldName"		"TextLabel"
-				"font"			"aRegular12"
+				"font"			"FontRegular12"
 				"labelText"		"#QuickplayBetaExplanation_Text"
 				"textAlignment"	"north-west"
 				"xpos"			"20"

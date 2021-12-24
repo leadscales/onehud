@@ -154,7 +154,7 @@
 		"enabled"		"1"
 		"textAlignment"	"center"
 		"labelText"		"%bluescore%"
-		"font"			"aBold22"
+		"font"			"FontBold22"
 		"fgcolor"		"CBlue"
 
 		"if_hybrid"
@@ -218,7 +218,7 @@
 		"enabled"		"1"
 		"textAlignment"	"center"
 		"labelText"		"%redscore%"
-		"font"			"aBold22"
+		"font"			"FontBold22"
 		"fgcolor"		"CRed"
 
 		"if_hybrid"
@@ -321,7 +321,7 @@
 		"textAlignment"	"center"
 		"dulltext"		"0"
 		"brighttext"	"0"
-		"font"			"aBold16"
+		"font"			"FontBold16"
 		"fgcolor"		"CWhite"
 
 		"if_hybrid"
@@ -534,7 +534,7 @@
 		"enabled"		"1"
 		"textAlignment"	"center"
 		"labelText"		"%redscore%"
-		"font"			"aBold12"
+		"font"			"FontBold12"
 		"fgcolor"		"TanLight"
 	}
 

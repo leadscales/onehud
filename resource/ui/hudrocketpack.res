@@ -53,7 +53,7 @@
 		"textAlignment"	"center"
 		"dulltext"		"0"
 		"brighttext"	"0"
-		"font"			"aRegular10"
+		"font"			"FontRegular10"
 		"fgcolor"		"ahudWhite"
 	}
 

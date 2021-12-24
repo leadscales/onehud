@@ -18,7 +18,7 @@
 		"textAlignment"			"center"
 		"dulltext"				"0"
 		"brighttext"			"0"
-		"font"					"aRegular8"
+		"font"					"FontRegular8"
 		"fgcolor_override"		"150 150 150 255"
 	}
 
@@ -71,7 +71,7 @@
 			"textAlignment"	"center"
 			"dulltext"		"0"
 			"brighttext"	"0"
-			"font"			"aBold20"
+			"font"			"FontBold20"
 			"fgcolor"		"Stickies"
 		}
 		"NumPipesLabelDropshadow"
@@ -130,7 +130,7 @@
 			"textAlignment"	"center"
 			"dulltext"		"0"
 			"brighttext"	"0"
-			"font"			"aBold20"
+			"font"			"FontBold20"
 			"fgcolor"		"Stickies"
 		}
 		"NumPipesLabelDropshadow"

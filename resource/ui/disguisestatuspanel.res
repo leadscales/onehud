@@ -48,7 +48,7 @@
 	{
 		"ControlName"	"Label"
 		"fieldName"		"DisguiseNameLabel"
-		"font"			"aRegular12"
+		"font"			"FontRegular12"
 		"xpos"			"48"
 		"ypos"			"9"
 		"zpos"			"1"
@@ -68,7 +68,7 @@
 	{
 		"ControlName"	"Label"
 		"fieldName"		"DisguiseNameLabelShadow"
-		"font"			"aRegular12"
+		"font"			"FontRegular12"
 		"xpos"			"-1"
 		"ypos"			"-1"
 		"zpos"			"1"
@@ -93,7 +93,7 @@
 	{
 		"ControlName"	"Label"
 		"fieldName"		"WeaponNameLabel"
-		"font"			"aRegular8"
+		"font"			"FontRegular8"
 		"xpos"			"48"
 		"ypos"			"21"
 		"zpos"			"1"
@@ -113,7 +113,7 @@
 	{
 		"ControlName"	"Label"
 		"fieldName"		"WeaponNameLabelShadow"
-		"font"			"aRegular8"
+		"font"			"FontRegular8"
 		"xpos"			"-1"
 		"ypos"			"-1"
 		"zpos"			"1"

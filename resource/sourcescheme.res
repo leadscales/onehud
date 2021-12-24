@@ -336,7 +336,7 @@ Scheme
 				"antialias" "1"
 			}
 		}
-		"aRegular16"
+		"FontRegular16"
 		{
 			"1"
 			{
@@ -356,7 +356,7 @@ Scheme
 				"antialias" "1"
 			}
 		}
-		"aRegular18"
+		"FontRegular18"
 		{
 			"1"
 			{
@@ -376,7 +376,7 @@ Scheme
 				"antialias" "1"
 			}
 		}
-		"aRegular20"
+		"FontRegular20"
 		{
 			"1"
 			{
