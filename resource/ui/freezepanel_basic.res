@@ -87,7 +87,7 @@
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"		"FreezeLabel"
-			"font"			"aTargetIDData"
+			"font"			"FontTargetIDData"
 			"fgcolor"		"ahudWhite"
 			"xpos"			"54"
 			"ypos"			"1"
@@ -144,7 +144,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"FreezeLabelKillerShadow"
-			"font"			"aRegularShadow11"
+			"font"			"FontRegularShadow11"
 			"fgcolor"		"ShadowBlack"
 			"xpos"			"0"
 			"ypos"			"-1"

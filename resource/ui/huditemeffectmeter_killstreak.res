@@ -92,7 +92,7 @@
 		"textAlignment"			"center"
 		"dulltext"				"0"
 		"brighttext"			"0"
-		"font"					"aBoldShadow20"
+		"font"					"FontBoldShadow20"
 		"fgcolor"				"ShadowBlack"
 
 		"pin_to_sibling"	"ItemEffectMeterCount"

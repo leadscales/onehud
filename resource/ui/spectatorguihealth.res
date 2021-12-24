@@ -70,7 +70,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"textAlignment"	"center"
-		"font"			"aRegularShadow24"
+		"font"			"FontRegularShadow24"
 		"fgcolor"		"ShadowBlack"
 		"labeltext"		"%Health%"
 

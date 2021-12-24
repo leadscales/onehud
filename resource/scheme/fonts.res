@@ -506,7 +506,7 @@ Scheme
 			}
 		}
 		// SHADOWS
-		"aBoldShadow9"
+		"FontBoldShadow9"
 		{
 			"1"
 			{
@@ -517,7 +517,7 @@ Scheme
 				"blur"		"1"
 			}
 		}
-		"aBoldShadow10"
+		"FontBoldShadow10"
 		{
 			"1"
 			{
@@ -528,7 +528,7 @@ Scheme
 				"blur"		"1"
 			}
 		}
-		"aBoldShadow12"
+		"FontBoldShadow12"
 		{
 			"1"
 			{
@@ -539,7 +539,7 @@ Scheme
 				"blur"		"1"
 			}
 		}
-		"aBoldShadow14"
+		"FontBoldShadow14"
 		{
 			"1"
 			{
@@ -550,7 +550,7 @@ Scheme
 				"blur"		"1"
 			}
 		}
-		"aBoldShadow16"
+		"FontBoldShadow16"
 		{
 			"1"
 			{
@@ -561,7 +561,7 @@ Scheme
 				"blur"		"1"
 			}
 		}
-		"aBoldShadow18"
+		"FontBoldShadow18"
 		{
 			"1"
 			{
@@ -572,7 +572,7 @@ Scheme
 				"blur"		"1"
 			}
 		}
-		"aBoldShadow20"
+		"FontBoldShadow20"
 		{
 			"1"
 			{
@@ -583,7 +583,7 @@ Scheme
 				"blur"		"1"
 			}
 		}
-		"aBoldShadow22"
+		"FontBoldShadow22"
 		{
 			"1"
 			{
@@ -594,7 +594,7 @@ Scheme
 				"blur"		"1"
 			}
 		}
-		"aBoldShadow24"
+		"FontBoldShadow24"
 		{
 			"1"
 			{
@@ -605,7 +605,7 @@ Scheme
 				"blur"		"1"
 			}
 		}
-		"aBoldShadow26"
+		"FontBoldShadow26"
 		{
 			"1"
 			{
@@ -616,7 +616,7 @@ Scheme
 				"blur"		"1"
 			}
 		}
-		"aBoldShadow28"
+		"FontBoldShadow28"
 		{
 			"1"
 			{
@@ -627,7 +627,7 @@ Scheme
 				"blur"		"1"
 			}
 		}
-		"aBoldShadow30"
+		"FontBoldShadow30"
 		{
 			"1"
 			{
@@ -638,7 +638,7 @@ Scheme
 				"blur"		"1"
 			}
 		}
-		"aBoldShadow32"
+		"FontBoldShadow32"
 		{
 			"1"
 			{
@@ -649,7 +649,7 @@ Scheme
 				"blur"		"1"
 			}
 		}
-		"aBoldShadow34"
+		"FontBoldShadow34"
 		{
 			"1"
 			{
@@ -660,7 +660,7 @@ Scheme
 				"blur"		"1"
 			}
 		}
-		"aBoldShadow48"
+		"FontBoldShadow48"
 		{
 			"1"
 			{
@@ -671,7 +671,7 @@ Scheme
 				"blur"		"1"
 			}
 		}
-		"aBoldShadow50"
+		"FontBoldShadow50"
 		{
 			"1"
 			{
@@ -682,7 +682,7 @@ Scheme
 				"blur"		"1"
 			}
 		}
-		"aBoldShadow52"
+		"FontBoldShadow52"
 		{
 			"1"
 			{
@@ -693,7 +693,7 @@ Scheme
 				"blur"		"1"
 			}
 		}
-		"aBoldShadow55"
+		"FontBoldShadow55"
 		{
 			"1"
 			{
@@ -705,7 +705,7 @@ Scheme
 			}
 		}
 
-		"aRegularShadow8"
+		"FontRegularShadow8"
 		{
 			"1"
 			{
@@ -716,7 +716,7 @@ Scheme
 				"blur"		"1"
 			}
 		}
-		"aRegularShadow9"
+		"FontRegularShadow9"
 		{
 			"1"
 			{
@@ -727,7 +727,7 @@ Scheme
 				"blur"		"1"
 			}
 		}
-		"aRegularShadow10"
+		"FontRegularShadow10"
 		{
 			"1"
 			{
@@ -738,7 +738,7 @@ Scheme
 				"blur"		"1"
 			}
 		}
-		"aRegularShadow11"
+		"FontRegularShadow11"
 		{
 			"1"
 			{
@@ -749,7 +749,7 @@ Scheme
 				"blur"		"1"
 			}
 		}
-		"aRegularShadow12"
+		"FontRegularShadow12"
 		{
 			"1"
 			{
@@ -760,7 +760,7 @@ Scheme
 				"blur"		"1"
 			}
 		}
-		"aRegularShadow14"
+		"FontRegularShadow14"
 		{
 			"1"
 			{
@@ -771,7 +771,7 @@ Scheme
 				"blur"		"1"
 			}
 		}
-		"aRegularShadow16"
+		"FontRegularShadow16"
 		{
 			"1"
 			{
@@ -782,7 +782,7 @@ Scheme
 				"blur"		"1"
 			}
 		}
-		"aRegularShadow18"
+		"FontRegularShadow18"
 		{
 			"1"
 			{
@@ -793,7 +793,7 @@ Scheme
 				"blur"		"1"
 			}
 		}
-		"aRegularShadow20"
+		"FontRegularShadow20"
 		{
 			"1"
 			{
@@ -804,7 +804,7 @@ Scheme
 				"blur"		"1"
 			}
 		}
-		"aRegularShadow22"
+		"FontRegularShadow22"
 		{
 			"1"
 			{
@@ -815,7 +815,7 @@ Scheme
 				"blur"		"1"
 			}
 		}
-		"aRegularShadow24"
+		"FontRegularShadow24"
 		{
 			"1"
 			{
@@ -826,7 +826,7 @@ Scheme
 				"blur"		"1"
 			}
 		}
-		"aRegularShadow24Outline"
+		"FontRegularShadow24Outline"
 		{
 			"1"
 			{
@@ -838,7 +838,7 @@ Scheme
 				"blur"		"1"
 			}
 		}
-		"aRegularShadow26"
+		"FontRegularShadow26"
 		{
 			"1"
 			{
@@ -849,7 +849,7 @@ Scheme
 				"blur"		"1"
 			}
 		}
-		"aRegularShadow28"
+		"FontRegularShadow28"
 		{
 			"1"
 			{
@@ -860,7 +860,7 @@ Scheme
 				"blur"		"1"
 			}
 		}
-		"aRegularShadow30"
+		"FontRegularShadow30"
 		{
 			"1"
 			{
@@ -871,7 +871,7 @@ Scheme
 				"blur"		"1"
 			}
 		}
-		"aRegularShadow32"
+		"FontRegularShadow32"
 		{
 			"1"
 			{
@@ -882,7 +882,7 @@ Scheme
 				"blur"		"1"
 			}
 		}
-		"aRegularShadow34"
+		"FontRegularShadow34"
 		{
 			"1"
 			{
@@ -893,7 +893,7 @@ Scheme
 				"blur"		"1"
 			}
 		}
-		"aRegularShadow36"
+		"FontRegularShadow36"
 		{
 			"1"
 			{
@@ -904,7 +904,7 @@ Scheme
 				"blur"		"1"
 			}
 		}
-		"aRegularShadow38"
+		"FontRegularShadow38"
 		{
 			"1"
 			{
@@ -915,7 +915,7 @@ Scheme
 				"blur"		"1"
 			}
 		}
-		"aRegularShadow40"
+		"FontRegularShadow40"
 		{
 			"1"
 			{
@@ -926,7 +926,7 @@ Scheme
 				"blur"		"1"
 			}
 		}
-		"aRegularShadow42"
+		"FontRegularShadow42"
 		{
 			"1"
 			{
@@ -937,7 +937,7 @@ Scheme
 				"blur"		"1"
 			}
 		}
-		"aRegularShadow44"
+		"FontRegularShadow44"
 		{
 			"1"
 			{
@@ -948,7 +948,7 @@ Scheme
 				"blur"		"1"
 			}
 		}
-		"aRegularShadow46"
+		"FontRegularShadow46"
 		{
 			"1"
 			{
@@ -959,7 +959,7 @@ Scheme
 				"blur"		"1"
 			}
 		}
-		"aRegularShadow48"
+		"FontRegularShadow48"
 		{
 			"1"
 			{
@@ -970,7 +970,7 @@ Scheme
 				"blur"		"1"
 			}
 		}
-		"aRegularShadow50"
+		"FontRegularShadow50"
 		{
 			"1"
 			{
@@ -981,7 +981,7 @@ Scheme
 				"blur"		"1"
 			}
 		}
-		"aRegularShadow52"
+		"FontRegularShadow52"
 		{
 			"1"
 			{
@@ -992,7 +992,7 @@ Scheme
 				"blur"		"1"
 			}
 		}
-		"aRegularShadow55"
+		"FontRegularShadow55"
 		{
 			"1"
 			{
@@ -1003,7 +1003,7 @@ Scheme
 				"blur"		"1"
 			}
 		}
-		"aTargetIDData"
+		"FontTargetIDData"
 		{
 			"1"
 			{

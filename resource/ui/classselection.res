@@ -93,7 +93,7 @@
 		"textAlignment"		"center"
 		"Command"			"select 1"
 		"Default"			"0"
-		"font"				"aBoldShadow12"
+		"font"				"FontBoldShadow12"
 		"paintbackground"	"0"
 		"paintbackgroundtype"			"2"
 		"paintborder"		"1"
@@ -136,7 +136,7 @@
 		"textAlignment"		"center"
 		"Command"			"select 3"
 		"Default"			"0"
-		"font"				"aBoldShadow12"
+		"font"				"FontBoldShadow12"
 		"paintbackground"	"0"
 
 		"FgColor"					"Blank"
@@ -176,7 +176,7 @@
 		"textAlignment"		"center"
 		"Command"			"select 7"
 		"Default"			"0"
-		"font"				"aBoldShadow12"
+		"font"				"FontBoldShadow12"
 		"paintbackground"	"0"
 
 		"FgColor"					"Blank"
@@ -216,7 +216,7 @@
 		"textAlignment"		"center"
 		"Command"			"select 4"
 		"Default"			"0"
-		"font"				"aBoldShadow12"
+		"font"				"FontBoldShadow12"
 		"paintbackground"	"0"
 
 		"FgColor"					"Blank"
@@ -256,7 +256,7 @@
 		"textAlignment"		"center"
 		"Command"			"select 6"
 		"Default"			"0"
-		"font"				"aBoldShadow12"
+		"font"				"FontBoldShadow12"
 		"paintbackground"	"0"
 
 		"FgColor"					"Blank"
@@ -296,7 +296,7 @@
 		"textAlignment"		"center"
 		"Command"			"select 9"
 		"Default"			"0"
-		"font"				"aBoldShadow12"
+		"font"				"FontBoldShadow12"
 		"paintbackground"	"0"
 
 		"FgColor"					"Blank"
@@ -336,7 +336,7 @@
 		"textAlignment"		"center"
 		"Command"			"select 5"
 		"Default"			"0"
-		"font"				"aBoldShadow12"
+		"font"				"FontBoldShadow12"
 		"paintbackground"	"0"
 
 		"FgColor"					"Blank"
@@ -376,7 +376,7 @@
 		"textAlignment"		"center"
 		"Command"			"select 2"
 		"Default"			"0"
-		"font"				"aBoldShadow12"
+		"font"				"FontBoldShadow12"
 		"paintbackground"	"0"
 
 		"FgColor"					"Blank"
@@ -416,7 +416,7 @@
 		"textAlignment"		"center"
 		"Command"			"select 8"
 		"Default"			"0"
-		"font"				"aBoldShadow12"
+		"font"				"FontBoldShadow12"
 		"scaleImage"		"1"
 		"paintbackground"	"0"
 
@@ -860,7 +860,7 @@
 		"labelText"		"Edit Loadout"
 		"textAlignment"	"center"
 		"Command"		"openloadout"
-		"font"			"aRegularShadow14"
+		"font"			"FontRegularShadow14"
 		"paintbackground"	"0"
 
 		"FgColor"					"Blank"
@@ -932,7 +932,7 @@
 		"labelText"		"Cancel"
 		"textAlignment"	"center"
 		"Command"		"vguicancel"
-		"font"			"aRegularShadow14"
+		"font"			"FontRegularShadow14"
 		"paintbackground"	"0"
 
 		"FgColor"					"Blank"

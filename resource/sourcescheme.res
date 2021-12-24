@@ -326,7 +326,7 @@ Scheme
                 "antialias"  "0"  //not default added //smoothing the edges.
             }
 		}
-		"aBold35"
+		"FontBold35"
 		{
 			"1"
 			{
@@ -346,7 +346,7 @@ Scheme
 				"antialias" "1"
 			}
 		}
-		"aRegular17"
+		"FontRegular17"
 		{
 			"1"
 			{
@@ -366,7 +366,7 @@ Scheme
 				"antialias" "1"
 			}
 		}
-		"aRegular19"
+		"FontRegular19"
 		{
 			"1"
 			{

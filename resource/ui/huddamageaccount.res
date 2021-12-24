@@ -44,7 +44,7 @@
 		"labelText"		"%metal%"
 		"textAlignment"	"west"
 		"fgcolor"		"ShadowBlack"
-		"font"			"aBoldShadow18"
+		"font"			"FontBoldShadow18"
 
 		"pin_to_sibling"	"DamageAccountValue"
 		"pin_corner_to_sibling" "PIN_TOPLEFT"

@@ -68,7 +68,7 @@
 			{
 				"ControlName"	"CExLabel"
 				"fieldName"		"playernameshadow"
-				"font"			  "aRegularShadow10"
+				"font"			  "FontRegularShadow10"
 				"xpos"			  "0"
 				"ypos"			  "-1"
 				"zpos"			  "5"
@@ -211,7 +211,7 @@
 			{
 				"ControlName"	"CExLabel"
 				"fieldName"		"respawntimeshadow"
-				"font"			"aRegularShadow10"
+				"font"			"FontRegularShadow10"
 				"xpos"			"0"
 				"ypos"			"-1"
 				"zpos"			"6"
@@ -270,7 +270,7 @@
 			{
 				"ControlName"	"CExLabel"
 				"fieldName"		"chargeamountshadow"
-				"font"			"aRegularShadow9"
+				"font"			"FontRegularShadow9"
 				"xpos"			"0"
 				"ypos"			"-1"
 				"zpos"			"6"

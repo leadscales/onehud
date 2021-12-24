@@ -185,7 +185,7 @@
 		"enabled"		"1"
 		"textAlignment"	"center"
 		"labelText"		"%bluescore%"
-		"font"			"aBoldShadow22"
+		"font"			"FontBoldShadow22"
 		"fgcolor"		"ShadowBlack"
 		"pin_to_sibling"	"BlueScore"
 
@@ -250,7 +250,7 @@
 		"enabled"		"1"
 		"textAlignment"	"center"
 		"labelText"		"%redscore%"
-		"font"			"aBoldShadow22"
+		"font"			"FontBoldShadow22"
 		"fgcolor"		"ShadowBlack"
 		"pin_to_sibling"	"RedScore"
 
@@ -356,7 +356,7 @@
 		"textAlignment"	"center"
 		"dulltext"		"0"
 		"brighttext"	"0"
-		"font"			"aBoldShadow16"
+		"font"			"FontBoldShadow16"
 		"fgcolor"		"ShadowBlack"
 		"pin_to_sibling"	"PlayingTo"
 
