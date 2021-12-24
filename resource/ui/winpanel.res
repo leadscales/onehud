@@ -51,7 +51,7 @@
 			"tall"			"23"
 			"visible"		"1"
 			"enabled"		"1"
-			"bgcolor_override"	"ahudBlue"
+			"bgcolor_override"	"CBlue"
 
 			"BLUBG2"
 			{
@@ -63,7 +63,7 @@
 				"tall"			"3"
 				"visible"		"1"
 				"enabled"		"1"
-				"bgcolor_override"	"ahudDarkBlue"
+				"bgcolor_override"	"CBlueDark"
 				"proportionaltoparent"	"1"
 			}
 		}
@@ -79,7 +79,7 @@
 			"tall"			"23"
 			"visible"		"1"
 			"enabled"		"1"
-			"bgcolor_override"	"ahudRed"
+			"bgcolor_override"	"CRed"
 
 			"REDBG2"
 			{
@@ -91,7 +91,7 @@
 				"tall"			"3"
 				"visible"		"1"
 				"enabled"		"1"
-				"bgcolor_override"	"ahudDarkRed"
+				"bgcolor_override"	"CRedDark"
 				"proportionaltoparent"	"1"
 			}
 		}
@@ -101,7 +101,7 @@
 			"ControlName"		"CExLabel"
 			"fieldName"		"BlueTeamLabel"
 			"font"			"FontRegular20"
-			"fgcolor"		"ahudWhite"
+			"fgcolor"		"CWhite"
 			"labelText"		"%blueteamname%"
 			"textAlignment"		"west"
 			"xpos"			"-6"
@@ -124,7 +124,7 @@
 			"ControlName"		"CExLabel"
 			"fieldName"		"BlueTeamScore"
 			"font"			"FontRegular34"
-			"fgcolor"		"ahudWhite"
+			"fgcolor"		"CWhite"
 			"labelText"		"%blueteamscore%"
 			"textAlignment"		"east"
 			"xpos"			"-6"
@@ -146,7 +146,7 @@
 			"ControlName"		"CExLabel"
 			"fieldName"		"BlueTeamScoreDropshadow"
 			"font"			"FontRegularShadow34"
-			"fgcolor"		"ShadowBlack"
+			"fgcolor"		CBlackShadow
 			"labelText"		"%blueteamscore%"
 			"textAlignment"		"east"
 			"xpos"			"-2"
@@ -177,7 +177,7 @@
 			"enabled"		"1"
 			"image"			""
 			"scaleImage"	"1"
-			"color_outline"	"ahudDarkBlue"
+			"color_outline"	"CBlueDark"
 		}
 
 		"BlueLeaderAvatarBG"
@@ -191,7 +191,7 @@
 			"tall"			"39"
 			"visible"		"1"
 			"PaintBackgroundType"	"0"
-			"bgcolor_override"	"ahudDarkBlue"
+			"bgcolor_override"	"CBlueDark"
 		}
 
 		"RedTeamLabel"
@@ -199,7 +199,7 @@
 			"ControlName"		"CExLabel"
 			"fieldName"		"RedTeamLabel"
 			"font"			"FontRegular20"
-			"fgcolor"		"ahudWhite"
+			"fgcolor"		"CWhite"
 			"labelText"		"%redteamname%"
 			"textAlignment"		"east"
 			"xpos"			"-6"
@@ -222,7 +222,7 @@
 			"ControlName"		"CExLabel"
 			"fieldName"		"RedTeamScore"
 			"font"			"FontRegular34"
-			"fgcolor"		"ahudWhite"
+			"fgcolor"		"CWhite"
 			"labelText"		"%redteamscore%"
 			"textAlignment"		"west"
 			"xpos"			"-6"
@@ -244,7 +244,7 @@
 			"ControlName"		"CExLabel"
 			"fieldName"		"RedTeamScoreDropshadow"
 			"font"			"FontRegularShadow34"
-			"fgcolor"		"ShadowBlack"
+			"fgcolor"		CBlackShadow
 			"labelText"		"%redteamscore%"
 			"textAlignment"		"west"
 			"xpos"			"-2"
@@ -275,7 +275,7 @@
 			"enabled"		"1"
 			"image"			""
 			"scaleImage"	"1"
-			"color_outline"	"ahudDarkRed"
+			"color_outline"	"CRedDark"
 		}
 
 		"RedLeaderAvatarBG"
@@ -289,7 +289,7 @@
 			"tall"			"39"
 			"visible"		"1"
 			"PaintBackgroundType"	"0"
-			"bgcolor_override"	"ahudDarkRed"
+			"bgcolor_override"	"CRedDark"
 		}
 	}
 
@@ -319,14 +319,14 @@
 		"tall"			"123"
 		"visible"		"1"
 		"enabled"		"1"
-		"bgcolor_override"	"Hudblack"
+		"bgcolor_override"	TransparentBlack1
 	}
 	"WinningTeamLabel"
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"		"WinningTeamLabel"
 		"font"			"FontRegular10"
-		"fgcolor"		"ahudWhite"
+		"fgcolor"		"CWhite"
 		"xpos"			"10"
 		"ypos"			"43"
 		"zpos"			"1"
@@ -366,7 +366,7 @@
 		"ControlName"		"CExLabel"
 		"fieldName"		"AdvancingTeamLabel"
 		"font"			"FontRegular10"
-		"fgcolor"		"ahudWhite"
+		"fgcolor"		"CWhite"
 		"xpos"			"10"
 		"ypos"			"43"
 		"zpos"			"1"
@@ -413,7 +413,7 @@
 		"ControlName"		"CExLabel"
 		"fieldName"		"DetailsLabel"
 		"font"			"FontRegular9"
-		"fgcolor"		"ahudWhite"
+		"fgcolor"		"CWhite"
 		"xpos"			"10"
 		"ypos"			"53"
 		"zpos"			"1"

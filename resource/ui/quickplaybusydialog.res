@@ -13,7 +13,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"0"
-		"bgcolor_override"	"HudBlack"
+		"bgcolor_override"	TransparentBlack1
 	}
 
 	"BusyContainer"
@@ -47,7 +47,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"tabPosition"		"0"
-			"bgcolor_override"	"ahudDarkGrey"
+			"bgcolor_override"	"CGray7"
 		}
 
 		"TitleLabel"
@@ -79,8 +79,8 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"bgcolor_override"	"ahudBlack"
-			"fgcolor_override"	"ahudWhite"
+			"bgcolor_override"	"CGray8"
+			"fgcolor_override"	"CWhite"
 		}
 
 		"NumServers"
@@ -159,7 +159,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"tabPosition"		"0"
-			"bgcolor_override"	"ahudDarkGrey"
+			"bgcolor_override"	"CGray7"
 		}
 
 		"TitleLabel"

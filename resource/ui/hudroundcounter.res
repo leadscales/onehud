@@ -58,7 +58,7 @@
 		"wide"			"80"
 		"tall"			"20"
 		"proportionaltoparent"	"1"
-		"bgcolor_override"	"HudBlack"
+		"bgcolor_override"	TransparentBlack1
 	}
 	"BlueTeamBackground"
 	{

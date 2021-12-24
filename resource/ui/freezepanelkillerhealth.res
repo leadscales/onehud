@@ -84,7 +84,7 @@
 		"enabled"		"1"
 		"textAlignment"	"center"
 		"font"			"FontRegular24"
-		"fgcolor"		"ShadowBlack"
+		"fgcolor"		CBlackShadow
 		"labeltext"		"%Health%"
 
 		"pin_to_sibling"	"PlayerStatusHealthValueFreezePanel"

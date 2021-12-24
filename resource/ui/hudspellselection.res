@@ -46,7 +46,7 @@
 		"enabled"		"1"
 		"scaleImage"	"1"
 		"image"			"../signs/death_wheel_whammy"
-		"fgcolor"		"ahudWhite"
+		"fgcolor"		"CWhite"
 	}
 
 	"ActionText"
@@ -60,7 +60,7 @@
 		"ypos"			"43"
 		"wide"			"100"
 		"tall"			"10"
-		"fgcolor"		"ahudWhite"
+		"fgcolor"		"CWhite"
 		"visible"		"1"
 	}
 
@@ -93,7 +93,7 @@
 		"ypos_minmode"	"37"
 		"wide"			"20"
 		"tall"			"19"
-		"fgcolor"		"ahudWhite"
+		"fgcolor"		"CWhite"
 	}
 
 	"CountTextShadow"
@@ -108,7 +108,7 @@
 		"zpos"			"0"
 		"wide"			"20"
 		"tall"			"20"
-		"fgcolor"		"ShadowBlack"
+		"fgcolor"		CBlackShadow
 
 		"pin_to_sibling"	"CountText"
 		"pin_corner_to_sibling" "PIN_TOPLEFT"

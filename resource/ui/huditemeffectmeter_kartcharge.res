@@ -9,7 +9,7 @@
 		"ypos"			"c156"
 		"wide"			"500"
 		"tall"			"500"
-		"MeterFG"		"ahudWhite"
+		"MeterFG"		"CWhite"
 		"MeterBG"		"Gray"
 	}
 
@@ -93,7 +93,7 @@
 		"dulltext"				"0"
 		"brighttext"			"0"
 		"font"					"HudFontMediumSmall"
-		"fgcolor"				"ShadowBlack"
+		"fgcolor"				CBlackShadow
 
 		"pin_to_sibling"	"ItemEffectMeterCount"
 		"pin_corner_to_sibling" "PIN_TOPLEFT"

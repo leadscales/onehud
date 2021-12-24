@@ -41,7 +41,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"fgcolor_override" "ahudWhite"
+		"fgcolor_override" "CWhite"
 	}
 	"CancelButton"
 	{
@@ -120,7 +120,7 @@
 		"visible"		"0"
 		"PaintBackgroundType"	"2"
 		"border"		"ahudPanelBorder"
-		"bgcolor_override"	"ahudDarkerGrey"
+		"bgcolor_override"	"CGray8"
 
 		"TipLabel"
 		{
@@ -138,7 +138,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor_override"	"ahudWhite"
+			"fgcolor_override"	"CWhite"
 			"wrap"			"1"
 			//"centerwrap"	"1"
 		}

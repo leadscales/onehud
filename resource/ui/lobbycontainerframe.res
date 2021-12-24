@@ -25,7 +25,7 @@
 		"titletextinsetY"	"0"
 		"titlebarfgcolor_override"				"200 187 161 255"
 		"titlebardisabledfgcolor_override"		"200 187 161 255"
-		"titlebarbgcolor_override"				"ahudDarkGrey"
+		"titlebarbgcolor_override"				"CGray7"
 
 		"clientinsetx_override"			"0"
 		"sheetinset_bottom"				"40"
@@ -133,16 +133,16 @@
 		{
 			"textinsetx"		"40"
 			"font"				"FontBold24"
-			"selectedcolor"		"ahudWhite"
+			"selectedcolor"		"CWhite"
 			"unselectedcolor"	"TanDark"
-			"defaultBgColor_override"	"ahudDarkGrey"
+			"defaultBgColor_override"	"CGray7"
 			"paintbackground"	"1"
 			"activeborder_override"	"HoAssBorder"
 			"normalborder_override" "HoAssBorder"
 			"mouseinputenabled"	"0"
 
 			"armedBgColor_override"		"37 37 37 255"
-			"selectedBgColor_override"	"ahudDarkGrey"
+			"selectedBgColor_override"	"CGray7"
 		}
 	}
 
@@ -170,8 +170,8 @@
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
 
-		"image_drawcolor"	"ahudWhite"
-		"image_armedcolor"	"ahudWhite"
+		"image_drawcolor"	"CWhite"
+		"image_armedcolor"	"CWhite"
 		"SubImage"
 		{
 			"ControlName"	"ImagePanel"

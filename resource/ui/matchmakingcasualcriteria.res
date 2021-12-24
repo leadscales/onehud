@@ -77,8 +77,8 @@
 			"sound_released"	"UI/buttonclickrelease.wav"
 			"actionsignallevel"	"2"
 			"proportionaltoparent"	"1"
-			"image_drawcolor"	"ahudWhite"
-			"image_armedcolor"	"ahudYellow"
+			"image_drawcolor"	"CWhite"
+			"image_armedcolor"	"CYellow"
 			"SubImage"
 			{
 				"ControlName"	"ImagePanel"
@@ -120,8 +120,8 @@
 			"sound_released"	"UI/buttonclickrelease.wav"
 			"actionsignallevel"	"2"
 			"proportionaltoparent"	"1"
-			"image_drawcolor"	"ahudWhite"
-			"image_armedcolor"	"ahudYellow"
+			"image_drawcolor"	"CWhite"
+			"image_armedcolor"	"CYellow"
 			"SubImage"
 			{
 				"ControlName"	"ImagePanel"

@@ -64,7 +64,7 @@
 		"brighttext"		"0"
 		"wrap"			"0"
 		"font"			"FontRegular10"
-		"fgcolor"			"ahudWhite"
+		"fgcolor"			"CWhite"
 
 		if_match
 		{
@@ -108,7 +108,7 @@
 		"brighttext"		"0"
 		"wrap"			"0"
 		"font"			"FontRegular10"
-		"fgcolor"			"ahudWhite"
+		"fgcolor"			"CWhite"
 
 		if_match
 		{
@@ -126,7 +126,7 @@
 		"tall"			"12"
 		"visible"		"1"
 		"enabled"		"1"
-		"fillcolor"	"HudBlack"
+		"fillcolor"	TransparentBlack1
 		"PaintBackgroundType"	"0"
 
 		if_match
@@ -152,7 +152,7 @@
 		"brighttext"		"0"
 		"wrap"			"0"
 		"font"			"FontRegular10"
-		"fgcolor"			"ahudWhite"
+		"fgcolor"			"CWhite"
 
 		if_match
 		{
@@ -196,7 +196,7 @@
 		"brighttext"		"0"
 		"wrap"				"0"
 		"font"				"FontRegular10"
-		"fgcolor"			"ahudWhite"
+		"fgcolor"			"CWhite"
 
 		if_match
 		{
@@ -214,7 +214,7 @@
 		"tall"				"12"
 		"visible"			"1"
 		"enabled"			"1"
-		"fillcolor"			"HudBlack"
+		"fillcolor"			TransparentBlack1
 		"PaintBackgroundType"	"0"
 
 		if_match
@@ -240,7 +240,7 @@
 		"brighttext"	"0"
 		"wrap"			"0"
 		"font"			"FontRegular10"
-		"fgcolor"		"ahudWhite"
+		"fgcolor"		"CWhite"
 
 		if_match
 		{
@@ -260,7 +260,7 @@
 		"tall"			"14"
 		"visible"		"1"
 		"enabled"		"1"
-		"fillcolor"	"HudBlack"
+		"fillcolor"	TransparentBlack1
 		"PaintBackgroundType"	"0"
 
 		if_match

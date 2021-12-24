@@ -26,7 +26,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"fillcolor"		"ahudYellow"
+		"fillcolor"		"CYellow"
 	}
 
 	"ItemEffectMeterLabel"
@@ -56,7 +56,7 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"CanteenLabel"
 		"font"			"FontRegular12"
-		"fgcolor"		"ahudBlack"
+		"fgcolor"		"CGray8"
 		"xpos"			"4"
 		"ypos"			"0"
 		"zpos"			"3"
@@ -105,6 +105,6 @@
 		"dulltext"				"0"
 		"brighttext"			"0"
 		"font"					"FontRegular12"
-		"fgcolor"				"ahudWhite"
+		"fgcolor"				"CWhite"
 	}
 }

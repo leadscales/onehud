@@ -257,8 +257,8 @@
 					"pinCorner"		"0"
 					"visible"		"1"
 					"enabled"		"1"
-					"border"		"ahudDarkBlueTeamBorder"
-					"bgcolor_override"	"ahudBlue"
+					"border"		"CBlueDarkTeamBorder"
+					"bgcolor_override"	"CBlue"
 
 					if_large
 					{
@@ -528,8 +528,8 @@
 					"pinCorner"		"0"
 					"visible"		"1"
 					"enabled"		"1"
-					"border"		"ahudDarkRedTeamBorder"
-					"bgcolor_override"	"ahudRed"
+					"border"		"CRedDarkTeamBorder"
+					"bgcolor_override"	"CRed"
 
 					if_large
 					{

@@ -81,7 +81,7 @@
 			"tabPosition"	"0"
 			"paintbackground"	"1"
 			"border"		"ahudPanelBorder"
-			"bgcolor_override"	"ahudDarkGrey"
+			"bgcolor_override"	"CGray7"
 
 			"CloseButton"
 			{
@@ -255,12 +255,12 @@
 
 					if_war_active
 					{
-						"fgcolor_override"	"ahudWhite"
+						"fgcolor_override"	"CWhite"
 					}
 
 					if_war_over
 					{
-						"fgcolor_override"	"ahudDullWhite"
+						"fgcolor_override"	"CGray3"
 					}
 
 					"paintbackground"	"2"
@@ -637,7 +637,7 @@
 					"zpos"			"100"
 					"proportionaltoparent"	"1"
 					"border"		"ahudPanelBorder"
-					"bgcolor_override"	"ahudDarkGrey"
+					"bgcolor_override"	"CGray7"
 
 					"ConfirmSelectionContainer"
 					{
@@ -699,12 +699,12 @@
 							"border_armed"		"NoBorder"
 							"paintbackground"	"1"
 
-							"defaultFgColor_override" "ahudWhite"
-							"armedFgColor_override" "ahudWhite"
-							"depressedFgColor_override" "ahudWhite"
-							"defaultBgColor_override" "ahudBlack"
-							"armedBgColor_override" "ahudYellow"
-							"depressedBgColor_override" "ahudYellow"
+							"defaultFgColor_override" "CWhite"
+							"armedFgColor_override" "CWhite"
+							"depressedFgColor_override" "CWhite"
+							"defaultBgColor_override" "CGray8"
+							"armedBgColor_override" "CYellow"
+							"depressedBgColor_override" "CYellow"
 							"proportionaltoparent"	"1"
 						}
 
@@ -739,12 +739,12 @@
 							"border_armed"		"NoBorder"
 							"paintbackground"	"1"
 
-							"defaultFgColor_override" "ahudWhite"
-							"armedFgColor_override" "ahudWhite"
-							"depressedFgColor_override" "ahudWhite"
-							"defaultBgColor_override" "ahudBlack"
-							"armedBgColor_override" "ahudYellow"
-							"depressedBgColor_override" "ahudYellow"
+							"defaultFgColor_override" "CWhite"
+							"armedFgColor_override" "CWhite"
+							"depressedFgColor_override" "CWhite"
+							"defaultBgColor_override" "CGray8"
+							"armedBgColor_override" "CYellow"
+							"depressedBgColor_override" "CYellow"
 							"proportionaltoparent"	"1"
 						}
 					}
@@ -853,12 +853,12 @@
 							"border_armed"		"NoBorder"
 							"paintbackground"	"1"
 
-							"defaultFgColor_override" "ahudWhite"
-							"armedFgColor_override" "ahudWhite"
-							"depressedFgColor_override" "ahudWhite"
-							"defaultBgColor_override" "ahudBlack"
-							"armedBgColor_override" "ahudYellow"
-							"depressedBgColor_override" "ahudYellow"
+							"defaultFgColor_override" "CWhite"
+							"armedFgColor_override" "CWhite"
+							"depressedFgColor_override" "CWhite"
+							"defaultBgColor_override" "CGray8"
+							"armedBgColor_override" "CYellow"
+							"depressedBgColor_override" "CYellow"
 							"proportionaltoparent"	"1"
 						}
 					}
@@ -940,12 +940,12 @@
 							"border_armed"		"NoBorder"
 							"paintbackground"	"1"
 
-							"defaultFgColor_override" "ahudWhite"
-							"armedFgColor_override" "ahudWhite"
-							"depressedFgColor_override" "ahudWhite"
-							"defaultBgColor_override" "ahudBlack"
-							"armedBgColor_override" "ahudYellow"
-							"depressedBgColor_override" "ahudYellow"
+							"defaultFgColor_override" "CWhite"
+							"armedFgColor_override" "CWhite"
+							"depressedFgColor_override" "CWhite"
+							"defaultBgColor_override" "CGray8"
+							"armedBgColor_override" "CYellow"
+							"depressedBgColor_override" "CYellow"
 							"proportionaltoparent"	"1"
 						}
 					}
@@ -1040,12 +1040,12 @@
 						"border_armed"		"NoBorder"
 						"paintbackground"	"1"
 
-						"defaultFgColor_override" "ahudWhite"
-						"armedFgColor_override" "ahudWhite"
-						"depressedFgColor_override" "ahudWhite"
-						"defaultBgColor_override" "ahudBlack"
-						"armedBgColor_override" "ahudYellow"
-						"depressedBgColor_override" "ahudYellow"
+						"defaultFgColor_override" "CWhite"
+						"armedFgColor_override" "CWhite"
+						"depressedFgColor_override" "CWhite"
+						"defaultBgColor_override" "CGray8"
+						"armedBgColor_override" "CYellow"
+						"depressedBgColor_override" "CYellow"
 						"proportionaltoparent"	"1"
 					}
 				}
@@ -1092,12 +1092,12 @@
 						"border_armed"		"NoBorder"
 						"paintbackground"	"1"
 
-						"defaultFgColor_override" "ahudWhite"
-						"armedFgColor_override" "ahudWhite"
-						"depressedFgColor_override" "ahudWhite"
-						"defaultBgColor_override" "ahudBlack"
-						"armedBgColor_override" "ahudYellow"
-						"depressedBgColor_override" "ahudYellow"
+						"defaultFgColor_override" "CWhite"
+						"armedFgColor_override" "CWhite"
+						"depressedFgColor_override" "CWhite"
+						"defaultBgColor_override" "CGray8"
+						"armedBgColor_override" "CYellow"
+						"depressedBgColor_override" "CYellow"
 
 						"proportionaltoparent"	"1"
 					}

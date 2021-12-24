@@ -229,8 +229,8 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"border"		"ahudDarkRedTeamBorder"
-			"bgcolor_override"	"ahudRed"
+			"border"		"CRedDarkTeamBorder"
+			"bgcolor_override"	"CRed"
 
 		}
 
@@ -247,7 +247,7 @@
 			"tall"			"20"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor"		"ahudWhite"
+			"fgcolor"		"CWhite"
 		}
 	}
 }

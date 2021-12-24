@@ -26,7 +26,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fillcolor"		"ahudGrey"
+			"fillcolor"		"CGray5"
 
 			"src_corner_height"	"22"				// pixels inside the image
 			"src_corner_width"	"22"
@@ -56,7 +56,7 @@
 				"ypos"			"13"
 				"wide"			"530"
 				"tall"			"40"
-				"fgcolor"		"ShadowBlack"
+				"fgcolor"		CBlackShadow
 			}
 
 			"HeaderLabel"
@@ -85,7 +85,7 @@
 			"ypos"			"80"
 			"wide"			"300"
 			"tall"			"40"
-			"fgcolor"		"ahudWhite"
+			"fgcolor"		"CWhite"
 		}
 
 		"CreditContainer"
@@ -122,7 +122,7 @@
 				"ypos"			"0"
 				"wide"			"180"
 				"tall"			"40"
-				"fgcolor"		"ahudWhite"
+				"fgcolor"		"CWhite"
 			}
 
 			"RatingTextShadow"
@@ -136,7 +136,7 @@
 				"ypos"			"41"
 				"wide"			"180"
 				"tall"			"50"
-				"fgcolor"		"ShadowBlack"
+				"fgcolor"		CBlackShadow
 			}
 
 			"RatingText"
@@ -150,7 +150,7 @@
 				"ypos"			"40"
 				"wide"			"180"
 				"tall"			"50"
-				"fgcolor"		"ahudWhite"
+				"fgcolor"		"CWhite"
 			}
 		}
 

@@ -16,9 +16,9 @@
 		"tabPosition"	"0"
 		"settitlebarvisible"	"0"
 		"PaintBackgroundType"	"0"
-		"bgcolor_override"	"ahudDarkGrey"
-		"infocus_bgcolor_override" "ahudDarkGrey"
-		"outoffocus_bgcolor_override" "ahudDarkGrey"
+		"bgcolor_override"	"CGray7"
+		"infocus_bgcolor_override" "CGray7"
+		"outoffocus_bgcolor_override" "CGray7"
 
 		"item_ypos"						"85"
 		"output_item_ypos"				"255"
@@ -85,7 +85,7 @@
 					"enabled"		"1"
 					"labelText"		"%itemname%"
 					"textAlignment"	"south"
-					"fgcolor"		"ahudWhite"
+					"fgcolor"		"CWhite"
 					"wrap"			"1"
 					"centerwrap"	"1"
 				}
@@ -107,11 +107,11 @@
 			"centerwrap"	"0"
 			"textAlignment" "west"
 			"textinsetx"	"0"
-			"defaultFgColor_override" "ahudDullWhite"
+			"defaultFgColor_override" "CGray3"
 			"defaultBgColor_override" "0 0 0 0"
-			"armedFgColor_override" "ahudWhite"
+			"armedFgColor_override" "CWhite"
 			"armedBgColor_override" "0 0 0 0"
-			"depressedFgColor_override" "ahudYellow"
+			"depressedFgColor_override" "CYellow"
 			"depressedBgColor_override" "0 0 0 0"
 		}
 
@@ -187,7 +187,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"fgcolor_override" "ahudWhite"
+		"fgcolor_override" "CWhite"
 	}
 
 	"selectedrecipecontainer"
@@ -218,7 +218,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor"		"ahudWhite"
+			"fgcolor"		"CWhite"
 			"wrap"			"1"
 		}
 
@@ -238,7 +238,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor"		"ahudDullWhite"
+			"fgcolor"		"CGray3"
 			"wrap"			"1"
 		}
 
@@ -258,7 +258,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor"		"ahudDullWhite"
+			"fgcolor"		"CGray3"
 		}
 
 		"OutputLabel"
@@ -277,7 +277,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor"		"ahudDullWhite"
+			"fgcolor"		"CGray3"
 		}
 
 		"CraftButton"
@@ -366,7 +366,7 @@
 		"wide"			"280"
 		"tall"			"245"
 		"PaintBackgroundType"	"2"
-		"fgcolor_override"	"ahudDullWhite"
+		"fgcolor_override"	"CGray3"
 		"bgcolor_override"	"200 187 161 0"
 		"autohide_buttons" "1"
 	}
@@ -463,7 +463,7 @@
 		"visible"		"0"
 		"PaintBackgroundType"	"2"
 		"border"		"ahudPanelBorder"
-		"bgcolor_override" "ahudDarkerGrey"
+		"bgcolor_override" "CGray8"
 
 		"TipLabel"
 		{
@@ -481,7 +481,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor_override"	"ahudWhite"
+			"fgcolor_override"	"CWhite"
 			"wrap"			"1"
 			"centerwrap"	"1"
 		}

@@ -12,7 +12,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"fillcolor"		"HudBlack"
+		"fillcolor"		TransparentBlack1
 
 		"src_corner_height"	"22"				// pixels inside the image
 		"src_corner_width"	"22"
@@ -32,8 +32,8 @@
 		"visible"		"1"
 		"PaintBackgroundType" "0"
 		"paintborder"	"1"
-		"border"		"ahudDarkRedTeamBorder"
-		"bgcolor_override"	"ahudRed"
+		"border"		"CRedDarkTeamBorder"
+		"bgcolor_override"	"CRed"
 
 		"WaveCompleteLabelShadow"
 		{
@@ -48,11 +48,11 @@
 			"tall"			"31"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor"		"ShadowBlack"
+			"fgcolor"		CBlackShadow
 
 			// Red Background
 			"PaintBackgroundType" "0"
-			"fgcolor_override"	"ShadowBlack"
+			"fgcolor_override"	CBlackShadow
 			"bgcolor_override"	"0 0 0 0"
 		}
 
@@ -69,7 +69,7 @@
 			"tall"			"30"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor"		"ahudWhite"
+			"fgcolor"		"CWhite"
 		}
 	}
 
@@ -95,7 +95,7 @@
 			"ypos"			"5"
 			"wide"			"105"
 			"tall"			"20"
-			"fgcolor"		"ahudWhite"
+			"fgcolor"		"CWhite"
 		}
 
 		"CreditCollectedCountLabel"
@@ -123,7 +123,7 @@
 			"ypos"			"17"
 			"wide"			"105"
 			"tall"			"20"
-			"fgcolor"		"ahudWhite"
+			"fgcolor"		"CWhite"
 		}
 
 		"CreditMissedCountLabel"
@@ -151,7 +151,7 @@
 			"ypos"			"29"
 			"wide"			"105"
 			"tall"			"20"
-			"fgcolor"		"ahudWhite"
+			"fgcolor"		"CWhite"
 		}
 
 		"CreditBonusCountLabel"
@@ -191,7 +191,7 @@
 			"ypos"			"5"
 			"wide"			"115"
 			"tall"			"20"
-			"fgcolor"		"ahudWhite"
+			"fgcolor"		"CWhite"
 		}
 
 		"RatingTextShadow"
@@ -205,7 +205,7 @@
 			"ypos"			"20"
 			"wide"			"115"
 			"tall"			"30"
-			"fgcolor"		"ShadowBlack"
+			"fgcolor"		CBlackShadow
 		}
 
 		"RatingText"
@@ -219,7 +219,7 @@
 			"ypos"			"19"
 			"wide"			"115"
 			"tall"			"30"
-			"fgcolor"		"ahudWhite"
+			"fgcolor"		"CWhite"
 		}
 	}
 
@@ -266,7 +266,7 @@
 			"ypos"			"3"
 			"wide"			"160"
 			"tall"			"20"
-			"fgcolor"		"ahudWhite"
+			"fgcolor"		"CWhite"
 		}
 
 		"RespecCountLabel"

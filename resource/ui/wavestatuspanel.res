@@ -27,7 +27,7 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"WaveCountLabel"
 		"font"			"FontRegular12"
-		"fgcolor"		"ahudWhite"
+		"fgcolor"		"CWhite"
 		"xpos"			"200"
 		"ypos"			"5"
 		"zpos"			"3"
@@ -45,7 +45,7 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"WaveCountLabelShadow"
 		"font"			"FontRegular12"
-		"fgcolor"		"ShadowBlack"
+		"fgcolor"		CBlackShadow
 		"xpos"			"-1"
 		"ypos"			"-1"
 		"zpos"			"3"
@@ -74,7 +74,7 @@
 		"enabled"		"1"
 		"scaleImage"	"1"
 		"PaintBackgroundType" "2"
-		"bgcolor_override"	"ahudWhite"
+		"bgcolor_override"	"CWhite"
 
 		if_verbose
 		{
@@ -87,7 +87,7 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"SupportLabel"
 		"font"			"FontRegular11"
-		"fgcolor"		"ahudWhite"
+		"fgcolor"		"CWhite"
 		"xpos"			"55"
 		"ypos"			"6"
 		"zpos"			"3"
@@ -139,7 +139,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"fillcolor"		"HudBlack"
+		"fillcolor"		TransparentBlack1
 	}
 
 	"ProgressBarBG"

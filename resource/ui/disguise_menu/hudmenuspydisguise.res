@@ -42,7 +42,7 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"TitleLabelDropshadow"
 		"font"			"FontRegular20"
-		"fgcolor"		"ShadowBlack"
+		"fgcolor"		CBlackShadow
 		"xpos"			"-1"
 		"ypos"			"-1"
 		"zpos"			"3"
@@ -80,7 +80,7 @@
 		"textAlignment"	"center"
 		"dulltext"		"0"
 		"brighttext"	"0"
-		"fgcolor"		"ahudWhite"
+		"fgcolor"		"CWhite"
 	}
 
 	"CancelLabel"
@@ -101,7 +101,7 @@
 		"textAlignment"	"east"
 		"dulltext"		"0"
 		"brighttext"	"0"
-		"fgcolor"		"ahudWhite"
+		"fgcolor"		"CWhite"
 	}
 
 	"ShadedBar"
@@ -118,7 +118,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"	"0"
-		"fillcolor"		"HUDBlack"
+		"fillcolor"		TransparentBlack1
 		"PaintBackgroundType"	"0"
 	}
 
@@ -359,7 +359,7 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"NumberLabel"
 		"font"			"FontRegular20"
-		"fgcolor"		"ahudWhite"
+		"fgcolor"		"CWhite"
 		"xpos"			"10"
 		"ypos"			"41"
 		"zpos"			"5"
@@ -388,7 +388,7 @@
 		"enabled"		"0"
 		"scaleImage"	"1"
 		"icon"			"ico_key_blank"
-		"iconColor"		"ahudWhite"
+		"iconColor"		"CWhite"
 	}
 
 	"NumberLabel2"
@@ -396,7 +396,7 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"NumberLabel"
 		"font"			"FontRegular20"
-		"fgcolor"		"ahudWhite"
+		"fgcolor"		"CWhite"
 		"xpos"			"65"
 		"ypos"			"41"
 		"zpos"			"5"
@@ -425,7 +425,7 @@
 		"enabled"		"1"
 		"scaleImage"	"1"
 		"icon"			"ico_key_blank"
-		"iconColor"		"ahudWhite"
+		"iconColor"		"CWhite"
 	}
 
 	"NumberLabel3"
@@ -433,7 +433,7 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"NumberLabel"
 		"font"			"FontRegular20"
-		"fgcolor"		"ahudWhite"
+		"fgcolor"		"CWhite"
 		"xpos"			"133"
 		"ypos"			"41"
 		"zpos"			"5"

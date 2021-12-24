@@ -28,7 +28,7 @@
 		"pinCorner"		"0"
 		"visible"		"0"
 		"enabled"		"0"
-		"fillcolor"		"Hudblack"
+		"fillcolor"		TransparentBlack1
 	}
 
 	"MapInfoTitle"
@@ -47,7 +47,7 @@
 		"labelText"		"%mapname%"
 		"textAlignment"	"center"
 		"font"			"FontBold18"
-		"fgcolor"		"ahudWhite"
+		"fgcolor"		"CWhite"
 	}
 
 	"MapInfoType"
@@ -66,7 +66,7 @@
 		"labelText"		"%gamemode%"
 		"textAlignment"	"center"
 		"font"			"FontRegular10"
-		"fgcolor"		"ahudWhite"
+		"fgcolor"		"CWhite"
 	}
 
 	"MapInfoText"
@@ -85,7 +85,7 @@
 		"enabled"		"0"
 		"paintborder"	"0"
 		"textAlignment"	"center"
-		"fgcolor"		"ahudWhite"
+		"fgcolor"		"CWhite"
 	}
 
 	"MapImage"
@@ -134,9 +134,9 @@
 
 		"fgcolor"			"255 255 255 128"
 		"defaultFgColor_override" "255 255 255 128"
-		"armedFgColor_override" "ahudWhite"
+		"armedFgColor_override" "CWhite"
 		"depressedFgColor_override" "255 255 255 128"
-		"selectedFgColor_override" "ahudWhite"
+		"selectedFgColor_override" "CWhite"
 	}
 
 	"MapInfoWatchIntro"
@@ -169,9 +169,9 @@
 
 		"fgcolor"			"255 255 255 128"
 		"defaultFgColor_override" "255 255 255 128"
-		"armedFgColor_override" "ahudWhite"
+		"armedFgColor_override" "CWhite"
 		"depressedFgColor_override" "255 255 255 128"
-		"selectedFgColor_override" "ahudWhite"
+		"selectedFgColor_override" "CWhite"
 	}
 
 	"MapInfoBack2"
@@ -197,9 +197,9 @@
 
 		"fgcolor"			"255 255 255 128"
 		"defaultFgColor_override" "255 255 255 128"
-		"armedFgColor_override" "ahudWhite"
+		"armedFgColor_override" "CWhite"
 		"depressedFgColor_override" "255 255 255 128"
-		"selectedFgColor_override" "ahudWhite"
+		"selectedFgColor_override" "CWhite"
 	}
 
 	"MenuBG"

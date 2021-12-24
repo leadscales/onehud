@@ -43,7 +43,7 @@
 		"enabled"		"1"
 		"labelText"		"%metal%"
 		"textAlignment"	"west"
-		"fgcolor"		"ShadowBlack"
+		"fgcolor"		CBlackShadow
 		"font"			"FontBoldShadow18"
 
 		"pin_to_sibling"	"DamageAccountValue"

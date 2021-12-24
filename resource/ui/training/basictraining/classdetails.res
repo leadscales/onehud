@@ -37,7 +37,7 @@
 		"visible"			"1"
 		"enabled"			"1"
 		"paintbackground"	"1"
-		"bgcolor_override"	"ahudDarkerGrey"
+		"bgcolor_override"	"CGray8"
 		"border"			"ButtonBorder"
 
 		"ClassNameLabel"
@@ -91,7 +91,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor_override" "ahudWhite"
+			"fgcolor_override" "CWhite"
 		}
 
 		"WeaponImage0"

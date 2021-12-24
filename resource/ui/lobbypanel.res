@@ -15,7 +15,7 @@
 		"tabPosition"	"0"
 		"settitlebarvisible"	"0"
 		"PaintBackgroundType"	"0"
-		"bgcolor_override"	"ahudDarkGrey"
+		"bgcolor_override"	"CGray7"
 		"proportionaltoparent"	"1"
 
 		"NavToRelay"	"MvMTourOfDutyGroupBox"
@@ -34,7 +34,7 @@
 		"visible"		"0"
 		"PaintBackgroundType"	"0"
 		"border"		"ahudPanelBorder"
-		"bgcolor_override"	"ahudDarkerGrey"
+		"bgcolor_override"	"CGray8"
 
 		"TipLabel"
 		{
@@ -52,7 +52,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor_override"	"ahudWhite"
+			"fgcolor_override"	"CWhite"
 			"auto_wide_tocontents"	"1"
 		}
 	}
@@ -68,7 +68,7 @@
 		"tall"		"330"
 		"PaintBackgroundType"	"0"
 		"paintbackground"		"1"
-		"bgcolor_override"	"ahudDarkGrey"
+		"bgcolor_override"	"CGray7"
 		"border"		"ahudPanelBorder"
 
 		"NoGCTitle"
@@ -708,7 +708,7 @@
 			"zpos"			"0"
 			"wide"			"200"
 			"tall"			"20"
-			"bgcolor_override"	"ahudBlack"
+			"bgcolor_override"	"CGray8"
 			"border"		"ahudPanelBorder"
 		}
 	}

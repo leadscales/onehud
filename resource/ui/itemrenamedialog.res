@@ -9,7 +9,7 @@
 		"ypos"					"105"
 		"wide"					"400"
 		"tall"					"240"
-		"bgcolor_override"		"ahudDarkerGrey"
+		"bgcolor_override"		"CGray8"
 		"paintbackgroundtype"	"0"
 		"settitlebarvisible"	"0"
 		"border"				"HoAssBorder"
@@ -51,7 +51,7 @@
 			"autoResize"	"0"
 			"PaintBackgroundType"	"2"
 			"border"			"NoBorder"
-			"bgcolor_override"	"ahudDarkerGrey"
+			"bgcolor_override"	"CGray8"
     	}
 
 		"attriblabel"
@@ -208,7 +208,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"bgcolor_override" "ahudBlack"
+		"bgcolor_override" "CGray8"
 		"paintbackgroundtype" "0"
 	}
 
@@ -267,7 +267,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"bgcolor_override" "ahudBlack"
+		"bgcolor_override" "CGray8"
 		"paintbackgroundtype" "0"
 	}
 
@@ -311,7 +311,7 @@
 		"unicode"			"0"
 		"wrap"				"0"
 		"fgcolor_override"	"TanLight"
-		"bgcolor_override"	"ahudGrey"
+		"bgcolor_override"	"CGray5"
 		"paintbackgroundtype" "0"
 		"labelText"			""
 		"font"				"HudFontSmall"

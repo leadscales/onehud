@@ -77,8 +77,8 @@
 			"border_default"	"NoBorder"
 			"defaultBgColor_override"	"88 88 88 20"
 			"border_armed"		"NoBorder"
-			"armedBgColor_override"	"ahudYellow"
-			"selectedBGColor_override" "ahudYellow"
+			"armedBgColor_override"	"CYellow"
+			"selectedBGColor_override" "CYellow"
 			"sound_armed"		"ui/item_info_mouseover.wav"
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
@@ -176,7 +176,7 @@
 			"default"		"1"
 			"proportionaltoparent" "1"
 			"mouseinputenabled"	"0"
-			"fgcolor_override"		"ShadowBlack"
+			"fgcolor_override"		CBlackShadow
 
 			"pin_to_sibling"		"Title"
 			"pin_corner_to_sibling"	"PIN_TOPLEFT"
@@ -222,7 +222,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"wrap"			"1"
-			"fgcolor_override" "ShadowBlack"
+			"fgcolor_override" CBlackShadow
 			"proportionaltoparent" "1"
 			"mouseinputenabled"	"0"
 

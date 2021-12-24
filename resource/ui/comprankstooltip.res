@@ -12,7 +12,7 @@
 		"visible"		"0"
 		"PaintBackgroundType"	"2"
 		"border"		"ahudPanelBorder"
-		"bgcolor_override"	"ahudDarkerGrey"
+		"bgcolor_override"	"CGray8"
 		"mouseinputenabled"	"0"
 	}
 
@@ -32,7 +32,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"fgcolor_override" "ahudWhite"
+		"fgcolor_override" "CWhite"
 		"proportionaltoparent" "1"
 		"mouseinputenabled"	"0"
 	}
@@ -53,7 +53,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"wrap"			"1"
-		"fgcolor_override" "ahudWhite"
+		"fgcolor_override" "CWhite"
 		"proportionaltoparent" "1"
 		"mouseinputenabled"	"0"
 	}

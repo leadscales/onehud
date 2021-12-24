@@ -13,7 +13,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"fillcolor"		"HudBlack"
+		"fillcolor"		TransparentBlack1
 	}
 
 	"TournamentSetupLabel"
@@ -50,10 +50,10 @@
 		"NumericInputOnly"	"0"
 		"unicode"		"0"
 		"wrap"			"0"
-		"fgcolor_override"		"ahudWhite"
+		"fgcolor_override"		"CWhite"
 		"bgcolor_override"	"Blank"
-		"selectionColor_override" "ahudWhite"
-		"selectionTextColor_override" "ahudBlack"
+		"selectionColor_override" "CWhite"
+		"selectionTextColor_override" "CGray8"
 		"labelText"		"%teamname%"
 		"textAlignment"		"west"
 	}
@@ -87,12 +87,12 @@
 		"font"			"FontRegular10"
 		"fgcolor"		"Red"
 
-		"defaultBgColor_override"	"ahudBlack"
-		"defaultFgColor_override" "ahudWhite"
+		"defaultBgColor_override"	"CGray8"
+		"defaultFgColor_override" "CWhite"
 		"armedBgColor_override"	"RedSolid"
-		"armedFgColor_override" 	"ahudWhite"
+		"armedFgColor_override" 	"CWhite"
 		"depressedBgColor_override"	"RedSolid"
-		"depressedFgColor_override" "ahudWhite"
+		"depressedFgColor_override" "CWhite"
 	}
 
 	"TournamentReadyButton"
@@ -117,11 +117,11 @@
 		"font"			"FontRegular10"
 		"fgcolor"		"FooterBGBlack"
 
-		"defaultBgColor_override"	"ahudBlack"
-		"defaultFgColor_override" "ahudWhite"
+		"defaultBgColor_override"	"CGray8"
+		"defaultFgColor_override" "CWhite"
 		"armedBgColor_override"	"CreditsGreen"
-		"armedFgColor_override" 	"ahudWhite"
+		"armedFgColor_override" 	"CWhite"
 		"depressedBgColor_override"	"CreditsGreen"
-		"depressedFgColor_override" "ahudWhite"
+		"depressedFgColor_override" "CWhite"
 	}
 }

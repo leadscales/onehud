@@ -115,7 +115,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"tabPosition"	"0"
-			"fillcolor"		"ahudDarkGrey"
+			"fillcolor"		"CGray7"
 			"PaintBackgroundType"	"0"
 		}
 
@@ -137,7 +137,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"tabPosition"	"0"
-			"fillcolor"		"ahudDarkGrey"
+			"fillcolor"		"CGray7"
 			"PaintBackgroundType"	"0"
 		}
 	}
@@ -197,7 +197,7 @@
 			"visible"		"1"
 			"PaintBackgroundType"	"2"
 			"border"		"HoAssBorder"
-			"bgcolor_override"	"ahudDarkGrey"
+			"bgcolor_override"	"CGray7"
 		}
 		"ResultsText"
 		{

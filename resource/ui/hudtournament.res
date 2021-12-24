@@ -139,7 +139,7 @@
 				"visible"		"1"
 				"labelText"		"%playername%"
 				"textAlignment"	"center"
-				"fgcolor"		"ahudWhite"
+				"fgcolor"		"CWhite"
 
 				if_competitive
 				{
@@ -389,7 +389,7 @@
 		"pinCorner"		"0"
 		"visible"		"0"
 		"enabled"		"1"
-		"fillcolor"		"Hudblack"
+		"fillcolor"		TransparentBlack1
 
 		if_mvm
 		{
@@ -478,7 +478,7 @@
 		"tall"			"18"
 		"visible"		"1"
 		"enabled"		"1"
-		"bgcolor_override"	"ahudBlue"
+		"bgcolor_override"	"CBlue"
 
 		"HudTournamentBLUEBG2"
 		{
@@ -490,7 +490,7 @@
 			"tall"			"2"
 			"visible"		"1"
 			"enabled"		"1"
-			"bgcolor_override"	"ahudDarkBlue"
+			"bgcolor_override"	"CBlueDark"
 			"proportionaltoparent"	"1"
 		}
 
@@ -595,7 +595,7 @@
 		"tall"			"18"
 		"visible"		"1"
 		"enabled"		"1"
-		"bgcolor_override"	"ahudRed"
+		"bgcolor_override"	"CRed"
 
 		"HudTournamentREDBG2"
 		{
@@ -607,7 +607,7 @@
 			"tall"			"2"
 			"visible"		"1"
 			"enabled"		"1"
-			"bgcolor_override"	"ahudDarkRed"
+			"bgcolor_override"	"CRedDark"
 			"proportionaltoparent" "1"
 		}
 
@@ -741,7 +741,7 @@
 		"tall"			"13"
 		"visible"		"1"
 		"enabled"		"1"
-		"bgcolor_override"	"HudBlack"
+		"bgcolor_override"	TransparentBlack1
 
 		"pin_to_sibling"	"HudTournamentBLUEBG"
 		"pin_corner_to_sibling"	"PIN_TOPLEFT"
@@ -868,7 +868,7 @@
 		"wrap"			"0"
 		"labelText"		"%tournamentstatelabel%"
 		"textAlignment"		"center"
-		"fgcolor"		"ahudWhite"
+		"fgcolor"		"CWhite"
 		"proportionaltoparent"	"1"
 
 		if_mvm
@@ -904,7 +904,7 @@
 		"wrap"			"0"
 		"labelText"		"%tournamentstatelabel%"
 		"textAlignment"		"center"
-		"fgcolor"		"ShadowBlack"
+		"fgcolor"		CBlackShadow
 		"proportionaltoparent"	"1"
 
 		if_mvm

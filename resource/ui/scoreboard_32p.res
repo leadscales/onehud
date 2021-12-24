@@ -139,7 +139,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"fgcolor"		"ahudWhite"
+		"fgcolor"		"CWhite"
 
 		"pin_to_sibling"	"BlueScoreBG"
 		"pin_corner_to_sibling"	"PIN_TOPRIGHT"
@@ -167,7 +167,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"fgcolor"		"ahudWhite"
+		"fgcolor"		"CWhite"
 
 		"pin_to_sibling"	"BlueScoreBG"
 		"pin_corner_to_sibling"	"PIN_BOTTOMRIGHT"
@@ -211,7 +211,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"fgcolor"		"ahudWhite"
+		"fgcolor"		"CWhite"
 
 		"pin_to_sibling"	"RedScoreBG"
 		"pin_corner_to_sibling"	"PIN_TOPLEFT"
@@ -238,7 +238,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"fgcolor"		"ahudWhite"
+		"fgcolor"		"CWhite"
 
 		"pin_to_sibling"	"RedScoreBG"
 		"pin_corner_to_sibling"	"PIN_BOTTOMLEFT"
@@ -265,7 +265,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"fgcolor"		"ahudWhite"
+		"fgcolor"		"CWhite"
 
 		"pin_to_sibling"	"BlueScoreBG"
 		"pin_corner_to_sibling"	"PIN_BOTTOMLEFT"
@@ -314,7 +314,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"fgcolor"		"ahudWhite"
+		"fgcolor"		"CWhite"
 		"centerwrap"	"0"
 
 		if_mvm
@@ -338,7 +338,7 @@
 		"pinCorner"		"0"
 		"visible"		"0"
 		"enabled"		"0"
-		"fgcolor"		"ahudWhite"
+		"fgcolor"		"CWhite"
 
 		if_mvm
 		{
@@ -437,7 +437,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"fgcolor"		"ahudWhite"
+		"fgcolor"		"CWhite"
 	}
 	"SpectatorsInQueue"
 	{
@@ -455,7 +455,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"fgcolor"		"ahudWhite"
+		"fgcolor"		"CWhite"
 		
 		if_mvm
 		{
@@ -519,7 +519,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"fgcolor"		"ahudWhite"
+		"fgcolor"		"CWhite"
 
 		"pin_to_sibling"	"RedScoreBG"
 		"pin_corner_to_sibling"	"PIN_BOTTOMRIGHT"
@@ -527,7 +527,7 @@
 
 		if_mvm
 		{
-			"fgcolor"		"ahudBlack"
+			"fgcolor"		"CGray8"
 		}
 	}
 	"HorizontalLine"
@@ -804,7 +804,7 @@
 		{
 			"visible"		"0"
 			"enabled"		"0"
-			"bgcolor_override"	"ahudWhite"
+			"bgcolor_override"	"CWhite"
 		}
 	}
 
@@ -847,12 +847,12 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor"		"ahudWhite"
+			"fgcolor"		"CWhite"
 
 			if_mvm
 			{
 				"visible"		"1"
-				"fgcolor"		"ahudBlack"
+				"fgcolor"		"CGray8"
 			}
 		}
 		"Kills"
@@ -871,12 +871,12 @@
 			"pinCorner"		"0"
 			"visible"		"0"
 			"enabled"		"0"
-			"fgcolor"		"ahudWhite"
+			"fgcolor"		"CWhite"
 
 			if_mvm
 			{
 				"visible"		"0"
-				"fgcolor"		"ahudBlack"
+				"fgcolor"		"CGray8"
 			}
 		}
 		"Kills2"
@@ -895,12 +895,12 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor"		"ahudWhite"
+			"fgcolor"		"CWhite"
 
 			if_mvm
 			{
 				"visible"		"1"
-				"fgcolor"		"ahudBlack"
+				"fgcolor"		"CGray8"
 			}
 		}
 		"DeathsLabel"
@@ -936,12 +936,12 @@
 			"pinCorner"		"0"
 			"visible"		"0"
 			"enabled"		"0"
-			"fgcolor"		"ahudWhite"
+			"fgcolor"		"CWhite"
 
 			if_mvm
 			{
 				"visible"		"0"
-				"fgcolor"		"ahudBlack"
+				"fgcolor"		"CGray8"
 			}
 		}
 		"Deaths2"
@@ -960,12 +960,12 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor"		"ahudWhite"
+			"fgcolor"		"CWhite"
 
 			if_mvm
 			{
 				"visible"		"1"
-				"fgcolor"		"ahudBlack"
+				"fgcolor"		"CGray8"
 			}
 		}
 		"GameType"
@@ -989,7 +989,7 @@
 			if_mvm
 			{
 				"visible"		"0"
-				"fgcolor"		"ahudBlack"
+				"fgcolor"		"CGray8"
 			}
 		}
 		"AssistsLabel"
@@ -1008,12 +1008,12 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor"		"ahudWhite"
+			"fgcolor"		"CWhite"
 
 			if_mvm
 			{
 				"visible"		"1"
-				"fgcolor"		"ahudBlack"
+				"fgcolor"		"CGray8"
 			}
 		}
 		"DestructionLabel"
@@ -1032,12 +1032,12 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor"		"ahudWhite"
+			"fgcolor"		"CWhite"
 
 			if_mvm
 			{
 				"visible"		"1"
-				"fgcolor"		"ahudBlack"
+				"fgcolor"		"CGray8"
 			}
 		}
 		"CapturesLabel"
@@ -1056,12 +1056,12 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor"		"ahudWhite"
+			"fgcolor"		"CWhite"
 
 			if_mvm
 			{
 				"visible"		"1"
-				"fgcolor"		"ahudBlack"
+				"fgcolor"		"CGray8"
 			}
 		}
 		"DefensesLabel"
@@ -1080,12 +1080,12 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor"		"ahudWhite"
+			"fgcolor"		"CWhite"
 
 			if_mvm
 			{
 				"visible"		"1"
-				"fgcolor"		"ahudBlack"
+				"fgcolor"		"CGray8"
 			}
 		}
 		"Assists"
@@ -1104,12 +1104,12 @@
 			"pinCorner"		"0"
 			"visible"		"0"
 			"enabled"		"0"
-			"fgcolor"		"ahudWhite"
+			"fgcolor"		"CWhite"
 
 			if_mvm
 			{
 				"visible"		"0"
-				"fgcolor"		"ahudBlack"
+				"fgcolor"		"CGray8"
 			}
 		}
 		"Assists2"
@@ -1128,12 +1128,12 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor"		"ahudWhite"
+			"fgcolor"		"CWhite"
 
 			if_mvm
 			{
 				"visible"		"1"
-				"fgcolor"		"ahudBlack"
+				"fgcolor"		"CGray8"
 			}
 		}
 		"Destruction"
@@ -1152,12 +1152,12 @@
 			"pinCorner"		"0"
 			"visible"		"0"
 			"enabled"		"0"
-			"fgcolor"		"ahudWhite"
+			"fgcolor"		"CWhite"
 
 			if_mvm
 			{
 				"visible"		"0"
-				"fgcolor"		"ahudBlack"
+				"fgcolor"		"CGray8"
 			}
 		}
 		"Destruction2"
@@ -1176,12 +1176,12 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor"		"ahudWhite"
+			"fgcolor"		"CWhite"
 
 			if_mvm
 			{
 				"visible"		"1"
-				"fgcolor"		"ahudBlack"
+				"fgcolor"		"CGray8"
 			}
 		}
 		"Captures"
@@ -1200,12 +1200,12 @@
 			"pinCorner"		"0"
 			"visible"		"0"
 			"enabled"		"0"
-			"fgcolor"		"ahudWhite"
+			"fgcolor"		"CWhite"
 
 			if_mvm
 			{
 				"visible"		"0"
-				"fgcolor"		"ahudBlack"
+				"fgcolor"		"CGray8"
 			}
 		}
 		"Captures2"
@@ -1224,12 +1224,12 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor"		"ahudWhite"
+			"fgcolor"		"CWhite"
 
 			if_mvm
 			{
 				"visible"		"1"
-				"fgcolor"		"ahudBlack"
+				"fgcolor"		"CGray8"
 			}
 		}
 		"Defenses"
@@ -1248,12 +1248,12 @@
 			"pinCorner"		"0"
 			"visible"		"0"
 			"enabled"		"0"
-			"fgcolor"		"ahudWhite"
+			"fgcolor"		"CWhite"
 
 			if_mvm
 			{
 				"visible"		"0"
-				"fgcolor"		"ahudBlack"
+				"fgcolor"		"CGray8"
 			}
 		}
 		"Defenses2"
@@ -1272,12 +1272,12 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor"		"ahudWhite"
+			"fgcolor"		"CWhite"
 
 			if_mvm
 			{
 				"visible"		"1"
-				"fgcolor"		"ahudBlack"
+				"fgcolor"		"CGray8"
 			}
 		}
 		"DominationLabel"
@@ -1296,12 +1296,12 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor"		"ahudWhite"
+			"fgcolor"		"CWhite"
 
 			if_mvm
 			{
 				"visible"		"1"
-				"fgcolor"		"ahudBlack"
+				"fgcolor"		"CGray8"
 			}
 		}
 		"RevengeLabel"
@@ -1320,12 +1320,12 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor"		"ahudWhite"
+			"fgcolor"		"CWhite"
 
 			if_mvm
 			{
 				"visible"		"1"
-				"fgcolor"		"ahudBlack"
+				"fgcolor"		"CGray8"
 			}
 		}
 		"HealingLabel"
@@ -1344,12 +1344,12 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor"		"ahudWhite"
+			"fgcolor"		"CWhite"
 
 			if_mvm
 			{
 				"visible"		"1"
-				"fgcolor"		"ahudBlack"
+				"fgcolor"		"CGray8"
 			}
 		}
 		"InvulnLabel"
@@ -1368,12 +1368,12 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor"		"ahudWhite"
+			"fgcolor"		"CWhite"
 
 			if_mvm
 			{
 				"visible"		"1"
-				"fgcolor"		"ahudBlack"
+				"fgcolor"		"CGray8"
 			}
 		}
 		"Domination"
@@ -1392,12 +1392,12 @@
 			"pinCorner"		"0"
 			"visible"		"0"
 			"enabled"		"0"
-			"fgcolor"		"ahudWhite"
+			"fgcolor"		"CWhite"
 
 			if_mvm
 			{
 				"visible"		"0"
-				"fgcolor"		"ahudBlack"
+				"fgcolor"		"CGray8"
 			}
 		}
 		"Domination2"
@@ -1416,12 +1416,12 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor"		"ahudWhite"
+			"fgcolor"		"CWhite"
 
 			if_mvm
 			{
 				"visible"		"1"
-				"fgcolor"		"ahudBlack"
+				"fgcolor"		"CGray8"
 			}
 		}
 		"Revenge"
@@ -1440,12 +1440,12 @@
 			"pinCorner"		"0"
 			"visible"		"0"
 			"enabled"		"0"
-			"fgcolor"		"ahudWhite"
+			"fgcolor"		"CWhite"
 
 			if_mvm
 			{
 				"visible"		"0"
-				"fgcolor"		"ahudBlack"
+				"fgcolor"		"CGray8"
 			}
 		}
 		"Revenge2"
@@ -1464,12 +1464,12 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor"		"ahudWhite"
+			"fgcolor"		"CWhite"
 
 			if_mvm
 			{
 				"visible"		"1"
-				"fgcolor"		"ahudBlack"
+				"fgcolor"		"CGray8"
 			}
 		}
 		"Healing"
@@ -1488,12 +1488,12 @@
 			"pinCorner"		"0"
 			"visible"		"0"
 			"enabled"		"0"
-			"fgcolor"		"ahudWhite"
+			"fgcolor"		"CWhite"
 
 			if_mvm
 			{
 				"visible"		"0"
-				"fgcolor"		"ahudBlack"
+				"fgcolor"		"CGray8"
 			}
 		}
 		"Healing2"
@@ -1512,12 +1512,12 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor"		"ahudWhite"
+			"fgcolor"		"CWhite"
 
 			if_mvm
 			{
 				"visible"		"1"
-				"fgcolor"		"ahudBlack"
+				"fgcolor"		"CGray8"
 			}
 		}
 		"Invuln"
@@ -1536,12 +1536,12 @@
 			"pinCorner"		"0"
 			"visible"		"0"
 			"enabled"		"0"
-			"fgcolor"		"ahudWhite"
+			"fgcolor"		"CWhite"
 
 			if_mvm
 			{
 				"visible"		"0"
-				"fgcolor"		"ahudBlack"
+				"fgcolor"		"CGray8"
 			}
 		}
 		"Invuln2"
@@ -1560,12 +1560,12 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor"		"ahudWhite"
+			"fgcolor"		"CWhite"
 
 			if_mvm
 			{
 				"visible"		"1"
-				"fgcolor"		"ahudBlack"
+				"fgcolor"		"CGray8"
 			}
 		}
 		"TeleportsLabel"
@@ -1584,12 +1584,12 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor"		"ahudWhite"
+			"fgcolor"		"CWhite"
 
 			if_mvm
 			{
 				"visible"		"1"
-				"fgcolor"		"ahudBlack"
+				"fgcolor"		"CGray8"
 			}
 		}
 		"HeadshotsLabel"
@@ -1608,12 +1608,12 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor"		"ahudWhite"
+			"fgcolor"		"CWhite"
 
 			if_mvm
 			{
 				"visible"		"1"
-				"fgcolor"		"ahudBlack"
+				"fgcolor"		"CGray8"
 			}
 		}
 		"BackstabsLabel"
@@ -1632,12 +1632,12 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor"		"ahudWhite"
+			"fgcolor"		"CWhite"
 
 			if_mvm
 			{
 				"visible"		"1"
-				"fgcolor"		"ahudBlack"
+				"fgcolor"		"CGray8"
 			}
 		}
 		"BonusLabel"
@@ -1656,12 +1656,12 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor"		"ahudWhite"
+			"fgcolor"		"CWhite"
 
 			if_mvm
 			{
 				"visible"		"1"
-				"fgcolor"		"ahudBlack"
+				"fgcolor"		"CGray8"
 			}
 		}
 		"Teleports"
@@ -1680,12 +1680,12 @@
 			"pinCorner"		"0"
 			"visible"		"0"
 			"enabled"		"0"
-			"fgcolor"		"ahudWhite"
+			"fgcolor"		"CWhite"
 
 			if_mvm
 			{
 				"visible"		"0"
-				"fgcolor"		"ahudBlack"
+				"fgcolor"		"CGray8"
 			}
 		}
 		"Teleports2"
@@ -1704,12 +1704,12 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor"		"ahudWhite"
+			"fgcolor"		"CWhite"
 
 			if_mvm
 			{
 				"visible"		"1"
-				"fgcolor"		"ahudBlack"
+				"fgcolor"		"CGray8"
 			}
 		}
 		"Headshots"
@@ -1728,12 +1728,12 @@
 			"pinCorner"		"0"
 			"visible"		"0"
 			"enabled"		"0"
-			"fgcolor"		"ahudWhite"
+			"fgcolor"		"CWhite"
 
 			if_mvm
 			{
 				"visible"		"0"
-				"fgcolor"		"ahudBlack"
+				"fgcolor"		"CGray8"
 			}
 		}
 		"Headshots2"
@@ -1752,12 +1752,12 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor"		"ahudWhite"
+			"fgcolor"		"CWhite"
 
 			if_mvm
 			{
 				"visible"		"1"
-				"fgcolor"		"ahudBlack"
+				"fgcolor"		"CGray8"
 			}
 		}
 		"Backstabs"
@@ -1776,12 +1776,12 @@
 			"pinCorner"		"0"
 			"visible"		"0"
 			"enabled"		"0"
-			"fgcolor"		"ahudWhite"
+			"fgcolor"		"CWhite"
 
 			if_mvm
 			{
 				"visible"		"0"
-				"fgcolor"		"ahudBlack"
+				"fgcolor"		"CGray8"
 			}
 		}
 		"Backstabs2"
@@ -1800,12 +1800,12 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor"		"ahudWhite"
+			"fgcolor"		"CWhite"
 
 			if_mvm
 			{
 				"visible"		"1"
-				"fgcolor"		"ahudBlack"
+				"fgcolor"		"CGray8"
 			}
 		}
 		"Bonus"
@@ -1824,12 +1824,12 @@
 			"pinCorner"		"0"
 			"visible"		"0"
 			"enabled"		"0"
-			"fgcolor"		"ahudWhite"
+			"fgcolor"		"CWhite"
 
 			if_mvm
 			{
 				"visible"		"0"
-				"fgcolor"		"ahudBlack"
+				"fgcolor"		"CGray8"
 			}
 		}
 		"Bonus2"
@@ -1848,12 +1848,12 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor"		"ahudWhite"
+			"fgcolor"		"CWhite"
 
 			if_mvm
 			{
 				"visible"		"1"
-				"fgcolor"		"ahudBlack"
+				"fgcolor"		"CGray8"
 			}
 		}
 		"SupportLabel"
@@ -1876,7 +1876,7 @@
 			if_mvm
 			{
 				"visible"		"1"
-				"fgcolor"		"ahudBlack"
+				"fgcolor"		"CGray8"
 			}
 		}
 		"Support"
@@ -1899,7 +1899,7 @@
 			if_mvm
 			{
 				"visible"		"0"
-				"fgcolor"		"ahudBlack"
+				"fgcolor"		"CGray8"
 			}
 		}
 		"Support2"
@@ -1922,7 +1922,7 @@
 			if_mvm
 			{
 				"visible"		"1"
-				"fgcolor"		"ahudBlack"
+				"fgcolor"		"CGray8"
 			}
 		}
 		"DamageLabel"
@@ -1945,7 +1945,7 @@
 			if_mvm
 			{
 				"visible"		"1"
-				"fgcolor"		"ahudBlack"
+				"fgcolor"		"CGray8"
 			}
 		}
 		"Damage"
@@ -1968,7 +1968,7 @@
 			if_mvm
 			{
 				"visible"		"0"
-				"fgcolor"		"ahudBlack"
+				"fgcolor"		"CGray8"
 			}
 		}
 		"Damage2"
@@ -1991,7 +1991,7 @@
 			if_mvm
 			{
 				"visible"		"1"
-				"fgcolor"		"ahudBlack"
+				"fgcolor"		"CGray8"
 			}
 		}
 	}

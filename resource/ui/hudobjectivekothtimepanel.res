@@ -39,7 +39,7 @@
 			"ControlName"		"CExLabel"
 			"fieldName"		"TimePanelValue"
 			"font"			"FontRegular14"
-			"fgcolor"		"ahudWhite"
+			"fgcolor"		"CWhite"
 			"xpos"			"0"
 			"ypos"			"0"
 			"zpos"			"3"
@@ -92,7 +92,7 @@
 			"ControlName"		"CExLabel"
 			"fieldName"		"TimePanelValue"
 			"font"			"FontRegular14"
-			"fgcolor"		"ahudWhite"
+			"fgcolor"		"CWhite"
 			"xpos"			"0"
 			"ypos"			"0"
 			"zpos"			"3"
@@ -125,6 +125,6 @@
 		"tall"				"2"
 		"visible"			"0"
 		"enabled"			"1"
-		"fillcolor"			"ahudWhite"
+		"fillcolor"			"CWhite"
 	}
 }

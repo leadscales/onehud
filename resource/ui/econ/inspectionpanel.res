@@ -184,10 +184,10 @@
 			"textAlignment"		"south-west"
 			"scaleImage"		"1"
 
-			"fgcolor"			"ahudDullWhite"
-			"defaultFgColor_override" "ahudDullWhite"
-			"armedFgColor_override" "ahudDullWhite"
-			"depressedFgColor_override" "ahudDullWhite"
+			"fgcolor"			"CGray3"
+			"defaultFgColor_override" "CGray3"
+			"armedFgColor_override" "CGray3"
+			"depressedFgColor_override" "CGray3"
 
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
@@ -313,7 +313,7 @@
 			"armedFgColor_override" "200 80 60 255"
 			"depressedFgColor_override" "46 43 42 255"
 
-			"image_drawcolor"	"ahudDullWhite"
+			"image_drawcolor"	"CGray3"
 			"image_armedcolor"	"200 80 60 255"
 			"SubImage"
 			{
@@ -360,12 +360,12 @@
 				"visible"	"0"
 			}
 
-			"fgcolor_override"	"ahudWhite"
+			"fgcolor_override"	"CWhite"
 			"bgcolor_override"	"0 0 0 0"
-			"disabledFgColor_override" "ahudWhite"
+			"disabledFgColor_override" "CWhite"
 			"disabledBgColor_override" "0 0 0 0"
 			"selectionColor_override" "0 0 0 0"
-			"selectionTextColor_override" "ahudWhite"
+			"selectionTextColor_override" "CWhite"
 			"defaultSelectionBG2Color_override" "0 0 0 0"
 		}
 
@@ -384,7 +384,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor_override"	"ahudWhite"
+			"fgcolor_override"	"CWhite"
 
 			"fixed_paintkit"
 			{
@@ -426,12 +426,12 @@
 
 			"proportionaltoparent"	"1"
 
-			"fgcolor_override"	"ahudWhite"
+			"fgcolor_override"	"CWhite"
 			"bgcolor_override"	"0 0 0 0"
-			"disabledFgColor_override" "ahudDullWhite"
+			"disabledFgColor_override" "CGray3"
 			"disabledBgColor_override" "0 0 0 0"
 			"selectionColor_override" "0 0 0 0"
-			"selectionTextColor_override" "ahudWhite"
+			"selectionTextColor_override" "CWhite"
 			"defaultSelectionBG2Color_override" "0 0 0 0"
 		}
 
@@ -454,7 +454,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor_override"	"ahudWhite"
+			"fgcolor_override"	"CWhite"
 
 			"fixed_item"
 			{
@@ -518,7 +518,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor_override"	"ahudWhite"
+			"fgcolor_override"	"CWhite"
 
 			"fixed_paintkit"
 			{
@@ -595,10 +595,10 @@
 			"actionsignallevel" "2"
 			"default"		"1"
 			"NumericInputOnly"	"1"
-			"defaultfgcolor_override"	"ahudWhite"
-			"defaultbgcolor_override"	"ahudBlack"
-			"selectedfgcolor_override"	"ahudBlack"
-			"selectedbgcolor_override"	"ahudWhite"
+			"defaultfgcolor_override"	"CWhite"
+			"defaultbgcolor_override"	"CGray8"
+			"selectedfgcolor_override"	"CGray8"
+			"selectedbgcolor_override"	"CWhite"
 			"maxchars"		"18"
 
 			"consume_mode"
@@ -635,8 +635,8 @@
 			"actionsignallevel" "2"
 			"RoundedCorners"	"0"
 
-			"defaultFgColor_override"	"ahudWhite"
-			"armedFgColor_override"		"ahudWhite"
+			"defaultFgColor_override"	"CWhite"
+			"armedFgColor_override"		"CWhite"
 
 			"border_default"	"NoBorder"
 

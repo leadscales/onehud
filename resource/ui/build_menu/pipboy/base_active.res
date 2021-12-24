@@ -4,7 +4,7 @@
 {
 	"ItemNameLabel"
 	{
-		"fgcolor"		"ahudPipBoy"
+		"fgcolor"		"CPipBoy"
 	}
 
 	"ItemBackground"
@@ -14,7 +14,7 @@
 
 	"BuildingIcon"
 	{
-		"iconColor"		"ahudPipBoy"
+		"iconColor"		"CPipBoy"
 	}
 
 	"MetalIcon"
@@ -23,16 +23,16 @@
 		"ypos"			"18"
 		"wide"			"10"
 		"tall"			"10"
-		"iconColor"		"ahudPipBoy"
+		"iconColor"		"CPipBoy"
 	}
 
 	"CostLabel"
 	{
-		"fgcolor"		"ahudPipBoy"
+		"fgcolor"		"CPipBoy"
 	}
 
 	"NumberLabel"
 	{
-		"fgcolor"		"ahudPipBoy"
+		"fgcolor"		"CPipBoy"
 	}
 }

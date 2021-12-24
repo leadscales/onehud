@@ -12,7 +12,7 @@
 		"enabled"		"1"
 		"border"		"HoAssBorder"
 		"proportional"	"0"
-		"bgcolor_override"	"ahudDarkerGrey"
+		"bgcolor_override"	"CGray8"
 	}
 
 	"Screenshot"
@@ -34,7 +34,7 @@
 		"wide"			"160"
 		"tall"			"75"
 		"paintbackground"	"1"
-		"bgcolor_override"	"ahudDarkerGrey"
+		"bgcolor_override"	"CGray8"
 
 		"NoScreenshotLabel"
 		{
@@ -47,7 +47,7 @@
 			"wide"			"160"
 			"tall"			"15"
 			"TextAlignment"	"center"
-			"bgcolor_override"	"ahudDarkGrey"
+			"bgcolor_override"	"CGray7"
 		}
 
 		"MapLabel"

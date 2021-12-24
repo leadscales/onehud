@@ -93,7 +93,7 @@
 			"dulltext"		"0"
 			"brighttext"	"0"
 			"font"			"FontBoldShadow20"
-			"fgcolor"		"ShadowBlack"
+			"fgcolor"		CBlackShadow
 
 			"pin_to_sibling"	"NumPipesLabel"
 			"pin_corner_to_sibling" "PIN_TOPLEFT"
@@ -152,7 +152,7 @@
 			"dulltext"		"0"
 			"brighttext"	"0"
 			"font"			"FontBoldShadow20"
-			"fgcolor"		"ShadowBlack"
+			"fgcolor"		CBlackShadow
 
 			"pin_to_sibling"	"NumPipesLabel"
 			"pin_corner_to_sibling" "PIN_TOPLEFT"

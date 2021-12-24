@@ -11,7 +11,7 @@
 		"visible"		"0"
 		"enabled"		"1"
 		"border"		"ahudPanelBorder"
-		"bgcolor_override"	"ahudDarkGrey"
+		"bgcolor_override"	"CGray7"
 
 		"PassedIcon"
 		{
@@ -78,7 +78,7 @@
 		"visible"		"0"
 		"enabled"		"1"
 		"border"		"ahudPanelBorder"
-		"bgcolor_override"	"ahudDarkGrey"
+		"bgcolor_override"	"CGray7"
 
 		"Header"
 		{
@@ -410,7 +410,7 @@
 		"visible"		"0"
 		"enabled"		"1"
 		"border"		"ahudPanelBorder"
-		"bgcolor_override"	"ahudDarkGrey"
+		"bgcolor_override"	"CGray7"
 
 		"FailedIcon"
 		{
@@ -477,7 +477,7 @@
 		"visible"		"0"
 		"enabled"		"1"
 		"border"		"ahudPanelBorder"
-		"bgcolor_override"	"ahudDarkGrey"
+		"bgcolor_override"	"CGray7"
 
 		"FailedIcon"
 		{
@@ -547,11 +547,11 @@
 		"tabPosition"		"0"
 		"settitlebarvisible"	"0"
 		"border"			"ahudPanelBorder"
-		"bgcolor_override"	"ahudDarkGrey"
+		"bgcolor_override"	"CGray7"
 		"PaintBackground"	"1"
 
 		"header_font"		"ItemFontNameLarge"
-		"header_fgcolor"	"ahudWhite"
+		"header_fgcolor"	"CWhite"
 
 		"issue_width"		"180"
 		"issue_font"		"ItemFontNameSmall"
@@ -651,13 +651,13 @@
 			"NumericInputOnly"	"0"
 			"unicode"			"0"
 
-			"fgcolor_override"	"ahudWhite"
-			"bgcolor_override"	"ahudBlack"
-			"disabledFgColor_override" "ahudWhite"
-			"disabledBgColor_override" "ahudBlack"
-			"selectionColor_override" "ahudBlack"
-			"selectionTextColor_override" "ahudWhite"
-			"defaultSelectionBG2Color_override" "ahudWhite"
+			"fgcolor_override"	"CWhite"
+			"bgcolor_override"	"CGray8"
+			"disabledFgColor_override" "CWhite"
+			"disabledBgColor_override" "CGray8"
+			"selectionColor_override" "CGray8"
+			"selectionTextColor_override" "CWhite"
+			"defaultSelectionBG2Color_override" "CWhite"
 		}
 
 		"CallVoteButton"

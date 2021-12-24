@@ -84,7 +84,7 @@
 		"font"			"HudFontMediumBold"
 		"labelText"		"#TF_Arena_Team_Layout"
 		"textAlignment"	"center"
-		"fgcolor"		"ShadowBlack"
+		"fgcolor"		CBlackShadow
 
 		"pin_to_sibling"		"title"
 		"pin_corner_to_sibling"	"PIN_TOPLEFT"

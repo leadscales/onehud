@@ -74,7 +74,7 @@
 		"tall"			"20"
 		"visible"		"1"
 		"enabled"		"1"
-		"fillcolor"		"ahudYellow"
+		"fillcolor"		"CYellow"
 	}
 
 	"TeamBG2"
@@ -102,7 +102,7 @@
 		"tall"			"16"
 		"visible"		"1"
 		"enabled"		"1"
-		"fillcolor"		"HudBlack"
+		"fillcolor"		TransparentBlack1
 	}
 
 	"teambutton2"
@@ -127,9 +127,9 @@
 		"command"		"jointeam spectate"
 		"font"			"FontRegular18"
 		"defaultFgColor_override" 	"255 255 255 128"
-		"armedFgColor_override"		"ahudWhite"
+		"armedFgColor_override"		"CWhite"
 		"depressedFgColor_override" "255 255 255 128"
-		"selectedFgColor_override" 	"ahudWhite"
+		"selectedFgColor_override" 	"CWhite"
 	}
 
 	"teambutton3"
@@ -154,9 +154,9 @@
 		"command"		"jointeam spectatearena"
 		"font"			"FontRegular12"
 		"defaultFgColor_override" 	"TanDark"
-		"armedFgColor_override"		"ahudWhite"
+		"armedFgColor_override"		"CWhite"
 		"depressedFgColor_override" "TanDark"
-		"selectedFgColor_override" 	"ahudWhite"
+		"selectedFgColor_override" 	"CWhite"
 	}
 
 	"CancelButton"

@@ -153,7 +153,7 @@
 					"visible"		"1"
 					"proportionaltoparent"	"1"
 					"border"		"NoBorder"
-					"bgcolor_override"	"ahudBlack"
+					"bgcolor_override"	"CGray8"
 				}
 
 				"SortArrow"
@@ -198,7 +198,7 @@
 					"textinsetx"		"15"
 
 					"defaultFgColor_override" "TanDark"
-					"armedFgColor_override"	"ahudYellow"
+					"armedFgColor_override"	"CYellow"
 					"selectedFgColor_override" "TanLight"
 
 					"image_selectedcolor"	"255 255 255 255"
@@ -232,7 +232,7 @@
 					"textinsetx"		"15"
 
 					"defaultFgColor_override" "TanDark"
-					"armedFgColor_override"	"ahudYellow"
+					"armedFgColor_override"	"CYellow"
 					"selectedFgColor_override" "TanLight"
 
 					"image_selectedcolor"	"255 255 255 255"
@@ -266,7 +266,7 @@
 					"textinsetx"		"15"
 
 					"defaultFgColor_override" "TanDark"
-					"armedFgColor_override"	"ahudYellow"
+					"armedFgColor_override"	"CYellow"
 					"selectedFgColor_override" "TanLight"
 
 					"image_selectedcolor"	"255 255 255 255"
@@ -298,7 +298,7 @@
 					"textAlignment"		"west"
 
 					"defaultFgColor_override" "TanDark"
-					"armedFgColor_override"	"ahudYellow"
+					"armedFgColor_override"	"CYellow"
 					"selectedFgColor_override" "TanLight"
 
 					"image_selectedcolor"	"255 255 255 255"

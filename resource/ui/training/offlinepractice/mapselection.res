@@ -29,7 +29,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"0"
-		"bgcolor_override"	"ahudDarkGrey"
+		"bgcolor_override"	"CGray7"
 	}
 
 	"GradientPanel"
@@ -114,7 +114,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"wrap"			"0"
-		"fgcolor_override"	"ahudWhite"
+		"fgcolor_override"	"CWhite"
 	}
 
 	"CurPageLabel"
@@ -135,8 +135,8 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"wrap"			"0"
-		"fgcolor_override"	"ahudWhite"
-		"bgcolor_override"	"ahudBlack"
+		"fgcolor_override"	"CWhite"
+		"bgcolor_override"	"CGray8"
 		"border"		"ButtonBorder"
 	}
 
@@ -180,7 +180,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"wrap"			"0"
-		"fgcolor_override"	"ahudWhite"
+		"fgcolor_override"	"CWhite"
 	}
 
 	"DifficultyComboBox"
@@ -205,13 +205,13 @@
 		"unicode"			"0"
 		"textinsetx"		"50"
 
-		"fgcolor_override"	"ahudWhite"
-		"bgcolor_override"	"ahudBlack"
-		"disabledFgColor_override" "ahudWhite"
-		"disabledBgColor_override" "ahudBlack"
-		"selectionColor_override" "ahudBlack"
-		"selectionTextColor_override" "ahudWhite"
-		"defaultSelectionBG2Color_override" "ahudBlack"
+		"fgcolor_override"	"CWhite"
+		"bgcolor_override"	"CGray8"
+		"disabledFgColor_override" "CWhite"
+		"disabledBgColor_override" "CGray8"
+		"selectionColor_override" "CGray8"
+		"selectionTextColor_override" "CWhite"
+		"defaultSelectionBG2Color_override" "CGray8"
 	}
 
 	"PlayersLabel"
@@ -230,7 +230,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"wrap"			"0"
-		"fgcolor_override"	"ahudWhite"
+		"fgcolor_override"	"CWhite"
 	}
 
 	"NumPlayersTextEntry"
@@ -256,8 +256,8 @@
 		"NumericInputOnly"	"1"
 		"selectallonfirstfocus"	"1"
 
-		"bgcolor_override"	"ahudBlack"
-		"fgcolor_override"	"ahudWhite"
+		"bgcolor_override"	"CGray8"
+		"fgcolor_override"	"CWhite"
 	}
 
 	"SuggestedPlayerCountLabel"
@@ -277,6 +277,6 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"wrap"			"0"
-		"fgcolor_override"	"ahudWhite"
+		"fgcolor_override"	"CWhite"
 	}
 }

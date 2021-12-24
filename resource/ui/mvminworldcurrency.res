@@ -13,7 +13,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"fillcolor"		"ahudWhite"
+		"fillcolor"		"CWhite"
 	}
 
 	"CurrencyLabel"
@@ -21,7 +21,7 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"CurrencyLabel"
 		"font"			"FontRegular12"
-		"fgcolor"		"ahudBlack"
+		"fgcolor"		"CGray8"
 		"xpos"			"4"
 		"ypos"			"0"
 		"zpos"			"3"

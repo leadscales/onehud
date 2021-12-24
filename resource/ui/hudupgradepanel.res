@@ -65,7 +65,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"0"
-		"bgcolor_override"	"HudBlack"
+		"bgcolor_override"	TransparentBlack1
 	}
 
 	"SelectWeaponPanel"
@@ -119,7 +119,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fillcolor"		"HudBlack"
+			"fillcolor"		TransparentBlack1
 		}
 		"BetweenBG"
 		{
@@ -134,7 +134,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fillcolor"		"ahudWhite"
+			"fillcolor"		"CWhite"
 		}
 
 		"InnerPanelRim"
@@ -158,7 +158,7 @@
 			"enabled"		"1"
 
 			"PaintBackgroundType" "0"
-			"bgcolor_override"	"ahudWhite"
+			"bgcolor_override"	"CWhite"
 		}
 		"BottomBorder"
 		{
@@ -175,7 +175,7 @@
 			"enabled"		"0"
 
 			"PaintBackgroundType" "0"
-			"bgcolor_override"	"ahudWhite"
+			"bgcolor_override"	"CWhite"
 		}
 		"LeftBorder"
 		{
@@ -192,7 +192,7 @@
 			"enabled"		"0"
 
 			"PaintBackgroundType" "0"
-			"bgcolor_override"	"ahudWhite"
+			"bgcolor_override"	"CWhite"
 		}
 		"RightBorder"
 		{
@@ -209,7 +209,7 @@
 			"enabled"		"0"
 
 			"PaintBackgroundType" "0"
-			"bgcolor_override"	"ahudWhite"
+			"bgcolor_override"	"CWhite"
 		}
 
 		"InnerBGPanel"
@@ -224,7 +224,7 @@
 			"visible"		"0"
 			"PaintBackgroundType"	"0"
 			"border"		"HoAssBorder"
-			"bgcolor_override" "ahudDarkerGrey"
+			"bgcolor_override" "CGray8"
 		}
 
 		"PlayerUpgradeButton"
@@ -300,7 +300,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"tabPosition"		"0"
-			"bgcolor_override"	"ahudWhite"
+			"bgcolor_override"	"CWhite"
 			"PaintBackgroundType"	"0"
 		}
 
@@ -676,7 +676,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor"		"ahudBlack"
+			"fgcolor"		"CGray8"
 		}
 
 		"CancelButton"
@@ -805,7 +805,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fillcolor"		"ahudWhite"
+			"fillcolor"		"CWhite"
 		}
 
 		"TipText"
@@ -825,7 +825,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"wrap"			"1"
-			"fgcolor"		"ahudBlack"
+			"fgcolor"		"CGray8"
 		}
 
 		"NextTipButton"

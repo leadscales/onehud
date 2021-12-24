@@ -31,7 +31,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"0"
-		"bgcolor_override"	"ahudDarkGrey"
+		"bgcolor_override"	"CGray7"
 	}
 
 	"WorkshopBG"
@@ -62,7 +62,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"0"
-		"bgcolor_override"	"ahudDarkGrey"
+		"bgcolor_override"	"CGray7"
 	}
 
 	"Title"
@@ -218,8 +218,8 @@
 		"maxchars"		"128"
 		"NumericInputOnly"		"0"
 		"unicode"		"1"
-		"fgcolor_override"	"ahudWhite"
-		"bgcolor_override"	"ahudBlack"
+		"fgcolor_override"	"CWhite"
+		"bgcolor_override"	"CGray8"
 		"paintbackgroundtype" "2"
 		"font"		"HudFontSmall"
 	}
@@ -262,8 +262,8 @@
 		"maxchars"		"8000"
 		"NumericInputOnly"		"0"
 		"unicode"		"1"
-		"fgcolor_override"	"ahudWhite"
-		"bgcolor_override"	"ahudBlack"
+		"fgcolor_override"	"CWhite"
+		"bgcolor_override"	"CGray8"
 		"paintbackgroundtype" "2"
 		"font"		"HudFontSmall"
 	}
@@ -425,7 +425,7 @@
 		"brighttext"		"0"
 		"wrap"		"1"
 		"font"		"HudFontSmallest"
-		"fgcolor_override"	"ahudWhite"
+		"fgcolor_override"	"CWhite"
 	}
 
 	"TagsTitle"

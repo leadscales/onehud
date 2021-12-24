@@ -10,7 +10,7 @@
 		"wide"			"190"
 		"tall"			"100"
 		"visible"		"0"
-		"bgcolor_override"		"HudBlack"
+		"bgcolor_override"		TransparentBlack1
 		"paintbackground"	"1"
 		"PaintBackgroundType"	"0"
 
@@ -80,7 +80,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			//"image"			"../hud/color_panel_blu"
-			"fillcolor"		"HudBlack"
+			"fillcolor"		TransparentBlack1
 		}
 
 		"FreezeLabel"
@@ -88,7 +88,7 @@
 			"ControlName"		"CExLabel"
 			"fieldName"		"FreezeLabel"
 			"font"			"FontTargetIDData"
-			"fgcolor"		"ahudWhite"
+			"fgcolor"		"CWhite"
 			"xpos"			"54"
 			"ypos"			"1"
 			"zpos"			"1"
@@ -127,7 +127,7 @@
 			"ControlName"	"CExLabel"
 			"fieldName"		"FreezeLabelKiller"
 			"font"			"FontRegular11"
-			"fgcolor"		"ahudWhite"
+			"fgcolor"		"CWhite"
 			"xpos"			"54"
 			"ypos"			"11"
 			"zpos"			"5"
@@ -145,7 +145,7 @@
 			"ControlName"	"CExLabel"
 			"fieldName"		"FreezeLabelKillerShadow"
 			"font"			"FontRegularShadow11"
-			"fgcolor"		"ShadowBlack"
+			"fgcolor"		CBlackShadow
 			"xpos"			"0"
 			"ypos"			"-1"
 			"zpos"			"5"

@@ -10,7 +10,7 @@
 		"wide"			"190"
 		"tall"			"100"
 		"visible"		"0"
-		"bgcolor_override"		"HudBlack"
+		"bgcolor_override"		TransparentBlack1
 		"paintbackground"	"1"
 		"PaintBackgroundType"	"0"
 

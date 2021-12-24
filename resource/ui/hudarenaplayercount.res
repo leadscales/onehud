@@ -22,7 +22,7 @@
 			"tall"			"23"
 			"visible"		"1"
 			"enabled"		"1"
-			"bgcolor_override"	"ahudBlue"
+			"bgcolor_override"	"CBlue"
 
 			"background2"
 			{
@@ -35,7 +35,7 @@
 				"tall"			"3"
 				"visible"		"1"
 				"enabled"		"1"
-				"bgcolor_override"	"ahudDarkBlue"
+				"bgcolor_override"	"CBlueDark"
 				"proportionaltoparent"	"1"
 			}
 		}
@@ -56,7 +56,7 @@
 			"font"			"FontRegular24"
 			"labelText"		"%blue_alive%"
 			"textAlignment"	"east"
-			"fgcolor"		"ahudWhite"
+			"fgcolor"		"CWhite"
 
 			"pin_to_sibling"	"background"
 			"pin_corner_to_sibling"	"PIN_TOPRIGHT"
@@ -78,7 +78,7 @@
 			"font"			"FontRegular24"
 			"labelText"		"%blue_alive%"
 			"textAlignment"	"east"
-			"fgcolor"		"ShadowBlack"
+			"fgcolor"		CBlackShadow
 
 			"pin_to_sibling"	"count"
 			"pin_corner_to_sibling"	"PIN_TOPLEFT"
@@ -123,7 +123,7 @@
 			"tall"			"23"
 			"visible"		"1"
 			"enabled"		"1"
-			"bgcolor_override"	"ahudRed"
+			"bgcolor_override"	"CRed"
 
 			"background2"
 			{
@@ -136,7 +136,7 @@
 				"tall"			"3"
 				"visible"		"1"
 				"enabled"		"1"
-				"bgcolor_override"	"ahudDarkRed"
+				"bgcolor_override"	"CRedDark"
 				"proportionaltoparent"	"1"
 			}
 		}
@@ -157,7 +157,7 @@
 			"font"			"FontRegular24"
 			"labelText"		"%red_alive%"
 			"textAlignment"	"west"
-			"fgcolor"		"ahudWhite"
+			"fgcolor"		"CWhite"
 
 			"pin_to_sibling"	"background"
 			"pin_corner_to_sibling"	"PIN_TOPLEFT"
@@ -179,7 +179,7 @@
 			"font"			"FontRegular24"
 			"labelText"		"%red_alive%"
 			"textAlignment"	"west"
-			"fgcolor"		"ShadowBlack"
+			"fgcolor"		CBlackShadow
 
 			"pin_to_sibling"	"count"
 			"pin_corner_to_sibling"	"PIN_TOPLEFT"

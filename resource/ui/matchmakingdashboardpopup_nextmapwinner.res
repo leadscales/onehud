@@ -50,7 +50,7 @@
 			"visible"		"1"
 			"PaintBackgroundType"	"0"
 			"border"		"ahudPanelBorder"
-			"bgcolor_override"	"ahudDarkGrey"
+			"bgcolor_override"	"CGray7"
 			"proportionaltoparent"	"1"
 			"pinCorner"		"2"
 

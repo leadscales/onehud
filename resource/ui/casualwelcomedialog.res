@@ -15,7 +15,7 @@
 		"settitlebarvisible"	"0"
 		"PaintBackgroundType"	"0"
 		"paintbackground"		"1"
-		"bgcolor_override"	"ahudDarkGrey"
+		"bgcolor_override"	"CGray7"
 
 		"BackColor"
     	{
@@ -32,7 +32,7 @@
 			"autoResize"	"0"
 			"PaintBackgroundType"	"2"
 			"border"			"ahudPanelBorder"
-			"bgcolor_override"	"ahudDarkGrey"
+			"bgcolor_override"	"CGray7"
     	}
 	}
 
@@ -74,7 +74,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"fgcolor_override" "ahudWhite"
+		"fgcolor_override" "CWhite"
 	}
 
 	"SectionOneTitleLabel"
@@ -95,7 +95,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"wrap"			"1"
-		"fgcolor_override" "ahudWhite"
+		"fgcolor_override" "CWhite"
 	}
 
 	"SectionOneTextLabel"
@@ -116,7 +116,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"wrap"			"1"
-		"fgcolor_override" "ahudDullWhite"
+		"fgcolor_override" "CGray3"
 	}
 
 	"SectionThreeTitleLabel"
@@ -137,7 +137,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"wrap"			"1"
-		"fgcolor_override" "ahudWhite"
+		"fgcolor_override" "CWhite"
 	}
 
 	"SectionThreeTextLabel"
@@ -158,7 +158,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"wrap"			"1"
-		"fgcolor_override" "ahudDullWhite"
+		"fgcolor_override" "CGray3"
 	}
 
 	"TakeTourButton"

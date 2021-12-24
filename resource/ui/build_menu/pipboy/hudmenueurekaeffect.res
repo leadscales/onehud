@@ -36,16 +36,16 @@
 
 	"BuildIcon"
 	{
-		"iconColor"		"ahudPipBoy"
+		"iconColor"		"CPipBoy"
 	}
 
 	"TitleLabel"
 	{
-		"fgcolor"		"ahudPipBoy"
+		"fgcolor"		"CPipBoy"
 	}
 
 	"CancelLabel"
 	{
-		"fgcolor"		"ahudPipBoy"
+		"fgcolor"		"CPipBoy"
 	}
 }

@@ -4,11 +4,11 @@
 {
 	"ItemNameLabel"
 	{
-		"fgcolor"		"ahudPipBoy"
+		"fgcolor"		"CPipBoy"
 	}
 
 	"CantBuildReason"
 	{
-		"fgcolor"		"ahudPipBoy"
+		"fgcolor"		"CPipBoy"
 	}
 }

@@ -25,7 +25,7 @@
 		"titletextinsetY"	"0"
 		"titlebarfgcolor_override"				"200 187 161 255"
 		"titlebardisabledfgcolor_override"		"200 187 161 255"
-		"titlebarbgcolor_override"				"ahudDarkGrey"
+		"titlebarbgcolor_override"				"CGray7"
 
 		"clientinsetx_override"			"0"
 		"sheetinset_bottom"				"40"
@@ -116,7 +116,7 @@
 				"tall"			"2"
 				"visible"		"1"
 				"enabled"		"1"
-				"fillcolor"		"ahudDullWhite"
+				"fillcolor"		"CGray3"
 				"tileImage"		"1"
 			}
 
@@ -161,7 +161,7 @@
 				"visible"		"1"
 				"enabled"		"1"
 				"labelText"		"%price%"
-				"fgcolor_override" "ahudDullWhite"
+				"fgcolor_override" "CGray3"
 			}
 		}
 	}
@@ -245,7 +245,7 @@
 		"ypos"			"55"
 		"wide"			"f0"
 		"tall"			"368"
-		"bgcolor_override"				"ahudDarkGrey"
+		"bgcolor_override"				"CGray7"
 
 		"HeaderLine"
 		{
@@ -306,7 +306,7 @@
 			"tall"			"2"
 			"visible"		"1"
 			"enabled"		"1"
-			"fillcolor"		"ahudDullWhite"
+			"fillcolor"		"CGray3"
 			"tileImage"		"1"
 		}
 
@@ -338,8 +338,8 @@
 			"wide"			"600"
 			"tall"			"240"
 			"PaintBackgroundType"	"2"
-			"fgcolor_override"	"ahudDullWhite"	// Gets copied to the scrollbar fgcolor as part of ScrollableEditablePanel
-			"bgcolor_override"	"ahudDarkGrey"
+			"fgcolor_override"	"CGray3"	// Gets copied to the scrollbar fgcolor as part of ScrollableEditablePanel
+			"bgcolor_override"	"CGray7"
 			"autohide_buttons" "1"
 
 			"Scrollbar"
@@ -442,7 +442,7 @@
 						"pinCorner"		"0"
 						"visible"		"1"
 						"enabled"		"1"
-						"fgcolor_override" "ahudWhite"
+						"fgcolor_override" "CWhite"
 					}
 					"TotalSubtextLabelB"
 					{
@@ -460,7 +460,7 @@
 						"pinCorner"		"0"
 						"visible"		"1"
 						"enabled"		"1"
-						"fgcolor_override" "ahudWhite"
+						"fgcolor_override" "CWhite"
 					}
 
 					"TotalPriceLabel"
@@ -479,7 +479,7 @@
 						"visible"		"1"
 						"enabled"		"1"
 						"labelText"		"%totalprice%"
-						"fgcolor_override" "ahudWhite"
+						"fgcolor_override" "CWhite"
 					}
 				}
 			}

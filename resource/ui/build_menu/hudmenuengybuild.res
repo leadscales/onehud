@@ -30,7 +30,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"	"0"
-		"fillcolor"		"HudBlack"
+		"fillcolor"		TransparentBlack1
 		"PaintBackgroundType"	"0"
 	}
 
@@ -63,7 +63,7 @@
 		"enabled"		"0"
 		"scaleImage"	"1"
 		"icon"			"ico_build"
-		"iconColor"		"ShadowBlack"
+		"iconColor"		CBlackShadow
 	}
 
 	"TitleLabel"
@@ -92,7 +92,7 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"TitleLabelDropshadow"
 		"font"			"FontRegular20"
-		"fgcolor"		"ShadowBlack"
+		"fgcolor"		CBlackShadow
 		"xpos"			"-1"
 		"ypos"			"-1"
 		"zpos"			"4"

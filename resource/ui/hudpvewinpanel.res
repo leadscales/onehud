@@ -9,7 +9,7 @@
 		"zpos"			"0"
 		"wide"			"300"
 		"tall"			"90"
-		"fillcolor"		"HudBlack"
+		"fillcolor"		TransparentBlack1
 		"autoResize"	"0"
 		"pinCorner"		"0"
 
@@ -34,15 +34,15 @@
 		"visible"		"1"
 		"PaintBackgroundType" "0"
 		"paintborder"	"1"
-		"border"		"ahudDarkBlueTeamBorder"
-		"bgcolor_override"	"ahudBlue"
+		"border"		"CBlueDarkTeamBorder"
+		"bgcolor_override"	"CBlue"
 
 		"WinningTeamLabelDropshadow"
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"		"WinningTeamLabelDropshadow"
 			"font"			"HudFontMediumSmallBold"
-			"fgcolor"		"ShadowBlack"
+			"fgcolor"		CBlackShadow
 			"xpos"			"0"
 			"ypos"			"0"
 			"wide"			"300"
@@ -58,7 +58,7 @@
 
 			// blue Background
 			"PaintBackgroundType" "0"
-			"fgcolor_override"	"ShadowBlack"
+			"fgcolor_override"	CBlackShadow
 			"bgcolor_override"	"0 0 0"
 		}
 
@@ -77,7 +77,7 @@
 			"enabled"		"1"
 			"labelText"		"#Winpanel_PVE_Evil_Wins"
 			"textAlignment"		"Center"
-			"fgcolor"		"ahudWhite"
+			"fgcolor"		"CWhite"
 		}
 	}
 

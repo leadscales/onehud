@@ -264,7 +264,7 @@
 		"labelText"		"%rank_possibility%"
 		"textAlignment"	"center"
 		"proportionaltoparent"	"1"
-		"fgcolor"		"ShadowBlack"
+		"fgcolor"		CBlackShadow
 	}
 	"ObjectiveStatusTimePanel"
 	{
@@ -614,7 +614,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"border"		"ahudDarkBlueTeamBorder"
+			"border"		"CBlueDarkTeamBorder"
 			"bgcolor_override"	"CBlue"
 		}
 		"BlueTeamImage"
@@ -753,7 +753,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"border"		"ahudDarkRedTeamBorder"
+			"border"		"CRedDarkTeamBorder"
 			"bgcolor_override"	"CRed"
 		}
 		"RedTeamImage"

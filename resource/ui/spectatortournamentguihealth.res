@@ -85,7 +85,7 @@
 		"textAlignment"	"center"
 		"labeltext"		  "%Health%"
 		"font"				"FontRegular14"
-		"fgcolor"		    "ShadowBlack"
+		"fgcolor"		    CBlackShadow
 
 		"pin_to_sibling"	"PlayerStatusHealthValueSpecgui"
 		"pin_corner_to_sibling"	"PIN_TOPLEFT"

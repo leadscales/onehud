@@ -13,7 +13,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"fillcolor"		"HudBlack"
+		"fillcolor"		TransparentBlack1
 	}
 
 	"TargetIDBG"
@@ -51,7 +51,7 @@
 		"pinCorner"		"0"
 		"visible"		"0"
 		"enabled"		"1"
-		"fillcolor"			"ahudBlue"
+		"fillcolor"			"CBlue"
 
 		"src_corner_height"		"23"				// pixels inside the image
 		"src_corner_width"		"23"
@@ -72,7 +72,7 @@
 		"pinCorner"		"0"
 		"visible"		"0"
 		"enabled"		"1"
-		"fillcolor"		"ahudRed"
+		"fillcolor"		"CRed"
 
 		"src_corner_height"		"23"				// pixels inside the image
 		"src_corner_width"		"23"
@@ -95,7 +95,7 @@
 		"enabled"		"1"
 		"labelText"		"%targetname%"
 		"textAlignment"	"west"
-		"fgcolor_override"		"ahudWhite"
+		"fgcolor_override"		"CWhite"
 	}
 	"TargetNameLabelShadow"
 	{
@@ -111,7 +111,7 @@
 		"enabled"		"1"
 		"labelText"		"%targetname%"
 		"textAlignment"	"west"
-		"fgcolor_override"		"ShadowBlack"
+		"fgcolor_override"		CBlackShadow
 
 		"pin_to_sibling"	"TargetNameLabel"
 		"pin_corner_to_sibling" "PIN_TOPLEFT"
@@ -216,7 +216,7 @@
 			"visible"		"0"
 			"enabled"		"0"
 			"icon"			"obj_status_alert_background_tall_nocolor"
-			"iconColor"		"HudBlack"
+			"iconColor"		TransparentBlack1
 			"scaleImage"	"1"
 		}
 
@@ -232,7 +232,7 @@
 			"visible"		"0"
 			"enabled"		"0"
 			"icon"			"obj_status_sentrygun_1"
-			"drawcolor"		"ahudWhite"
+			"drawcolor"		"CWhite"
 			"scaleImage"	"1"
 		}
 		"MoveableSymbolIcon"
@@ -247,7 +247,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"image"			"../hud/eng_sel_item_movable"
-			"drawcolor"		"ahudWhite"
+			"drawcolor"		"CWhite"
 			"scaleImage"	"1"
 		}
 

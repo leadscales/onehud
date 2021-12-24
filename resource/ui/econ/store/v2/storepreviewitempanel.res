@@ -42,7 +42,7 @@
 		"Slider"
 		{
 			"PaintBackgroundType"	"0"
-			"fgcolor_override"	"ahudDullWhite"
+			"fgcolor_override"	"CGray3"
 		}
 
 		"UpButton"
@@ -94,7 +94,7 @@
 		"enabled"		"1"
 		"paintbackground"	"1"
 		"border"		"ahudPanelBorder"
-		"bgcolor_override"	"ahudDarkGrey"
+		"bgcolor_override"	"CGray7"
 		"PaintBorder"	"1"
 
 		// Background for the player model & item preview panels
@@ -111,7 +111,7 @@
 			"enabled"		"1"
 			"paintborder"	"1"
 			"border"		"ahudPanelBorder"
-			"bgcolor_override"	"ahudGrey"
+			"bgcolor_override"	"CGray5"
 		}
 
 		"ItemNameLabel"
@@ -181,7 +181,7 @@
 					"visible"		"1"
 					"enabled"		"1"
 					"wrap"			"1"
-					"fgcolor"		"ahudDullWhite"
+					"fgcolor"		"CGray3"
 				}
 
 				"RestrictionsLabel"
@@ -232,7 +232,7 @@
 					"visible"		"1"
 					"enabled"		"1"
 					"wrap"			"1"
-					"fgcolor"		"ahudDullWhite"
+					"fgcolor"		"CGray3"
 				}
 
 				"UsedByTextLabel"
@@ -265,7 +265,7 @@
 					"visible"		"1"
 					"enabled"		"1"
 					"wrap"			"1"
-					"fgcolor"		"ahudDullWhite"
+					"fgcolor"		"CGray3"
 				}
 
 				"SlotTextLabel"
@@ -367,7 +367,7 @@
 					"visible"		"1"
 					"enabled"		"1"
 					"wrap"			"1"
-					"fgcolor"		"ahudDullWhite"
+					"fgcolor"		"CGray3"
 				}
 
 				"TradableTextLabel"
@@ -400,7 +400,7 @@
 					"visible"		"1"
 					"enabled"		"1"
 					"wrap"			"1"
-					"fgcolor"		"ahudDullWhite"
+					"fgcolor"		"CGray3"
 				}
 
 				"GiftableTextLabel"
@@ -433,7 +433,7 @@
 					"visible"		"1"
 					"enabled"		"1"
 					"wrap"			"1"
-					"fgcolor"		"ahudDullWhite"
+					"fgcolor"		"CGray3"
 				}
 
 				"NameableTextLabel"
@@ -466,7 +466,7 @@
 					"visible"		"1"
 					"enabled"		"1"
 					"wrap"			"1"
-					"fgcolor"		"ahudDullWhite"
+					"fgcolor"		"CGray3"
 				}
 
 				"CraftableTextLabel"
@@ -1391,7 +1391,7 @@
 		"defaultFgColor_override" "Blank"
 		"armedFgColor_override" "Blank"
 		"depressedFgColor_override" "Blank"
-		"image_drawcolor"	"ahudWhite"
+		"image_drawcolor"	"CWhite"
 		"image_armedcolor"	"255 0 0 255"
 
 		"SubImage"

@@ -12,7 +12,7 @@
 		"enabled"				"1"
 		"tabPosition"			"0"
 		"settitlebarvisible"	"1"
-		"bgcolor_override"	"ahudDarkGrey"
+		"bgcolor_override"	"CGray7"
 	}
 
 	"RenderAllButton"
@@ -78,7 +78,7 @@
 		"visible"		"0"
 		"enabled"		"1"
 		"wide"			"f0"
-		"fgcolor_override" "ahudWhite"
+		"fgcolor_override" "CWhite"
 	}
 
 	"WarningLabel"
@@ -92,7 +92,7 @@
 		"pinCorner"		"0"
 		"visible"		"0"
 		"enabled"		"1"
-		"fgcolor_override" "ahudWhite"
+		"fgcolor_override" "CWhite"
 		"wrap"			"1"
 	}
 
@@ -135,7 +135,7 @@
 		"pinCorner"		"0"
 		"visible"		"0"
 		"enabled"		"1"
-		"bgcolor_override" "ahudDarkerGrey"
+		"bgcolor_override" "CGray8"
 	}
 
 	"NoReplayItemsLabel"

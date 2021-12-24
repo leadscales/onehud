@@ -63,7 +63,7 @@
 		"dulltext"		"0"
 		"brighttext"	"1"
 		"font"			"FontBold24"
-		"fgcolor"		"ahudWhite"
+		"fgcolor"		"CWhite"
 	}
 
 	"SelectATeamLabel"
@@ -80,7 +80,7 @@
 		"font"			"FontBold28"
 		"visible"		"1"
 		"enabled"		"1"
-		"fgcolor_override"	"ahudWhite"
+		"fgcolor_override"	"CWhite"
 		"bgcolor_override"	"TransparentBlack3"
 	}
 
@@ -351,9 +351,9 @@
 		"command"		"cancelmenu"
 		"font"			"FontBold15"
 		"defaultFgColor_override" 	"255 255 255 128"
-		"armedFgColor_override"		"ahudWhite"
+		"armedFgColor_override"		"CWhite"
 		"depressedFgColor_override" "255 255 255 128"
-		"selectedFgColor_override" 	"ahudWhite"
+		"selectedFgColor_override" 	"CWhite"
 	}
 
 	"TeamMenuSelect"
@@ -632,7 +632,7 @@
 		"dulltext"		"0"
 		"brighttext"	"0"
 		"font"			"FontRegular12"
-		"fgcolor"		"ahudWhite"
+		"fgcolor"		"CWhite"
 		"centerwrap"	"1"
 	}
 
@@ -676,7 +676,7 @@
 		"dulltext"		"0"
 		"brighttext"	"0"
 		"font"			"FontRegular12"
-		"fgcolor"		"ahudWhite"
+		"fgcolor"		"CWhite"
 		"centerwrap"	"1"
 	}
 

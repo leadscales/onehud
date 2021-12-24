@@ -54,7 +54,7 @@
 		"dulltext"		"0"
 		"brighttext"	"0"
 		"font"			"FontRegular10"
-		"fgcolor"		"ahudWhite"
+		"fgcolor"		"CWhite"
 	}
 
 	"ItemEffectMeter"

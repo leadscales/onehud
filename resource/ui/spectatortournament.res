@@ -61,7 +61,7 @@
 				"visible"		  "1"
 				"labelText"		"%playername%"
 				"textAlignment"	"west"
-				"fgcolor"		  "ahudWhite"
+				"fgcolor"		  "CWhite"
 			}
 
 			"playernameshadow"
@@ -79,7 +79,7 @@
 				"visible"		  "1"
 				"labelText"		"%playername%"
 				"textAlignment"	"west"
-				"fgcolor"		  "ShadowBlack"
+				"fgcolor"		  CBlackShadow
 
 				"pin_to_sibling"	"playername"
 				"pin_corner_to_sibling"	"PIN_TOPLEFT"
@@ -222,7 +222,7 @@
 				"visible"		"1"
 				"labelText"		"%respawntime%"
 				"textAlignment"	"center"
-				"fgcolor"		"ShadowBlack"
+				"fgcolor"		CBlackShadow
 
 				"pin_to_sibling"	"respawntime"
 				"pin_corner_to_sibling"	"PIN_TOPLEFT"
@@ -281,7 +281,7 @@
 				"visible"		"1"
 				"labelText"		"%chargeamount%"
 				"textAlignment"	"east"
-				"fgcolor_override"	"ShadowBlack"
+				"fgcolor_override"	CBlackShadow
 
 				"pin_to_sibling"	"chargeamount"
 				"pin_corner_to_sibling"	"PIN_TOPLEFT"
@@ -346,7 +346,7 @@
 		"labelText"		"#game_respawntime_in_secs"
 		"textAlignment"		"center"
 		"font"			"FontRegular16"
-		"fgcolor"		"ahudWhite"
+		"fgcolor"		"CWhite"
 
 		if_mvm
 		{
@@ -368,7 +368,7 @@
 		"labelText"		"#TF_PVE_Buyback"
 		"textAlignment"	"center"
 		"font"			"FontRegular12"
-		"fgcolor"		"ahudWhite"
+		"fgcolor"		"CWhite"
 		"wrap"			"1"
 		"centerwrap"	"1"
 
@@ -442,7 +442,7 @@
 		"wide"			"190"
 		"tall"			"100"
 		"visible"		"0"
-		"bgcolor_override"		"HudBlack"
+		"bgcolor_override"		TransparentBlack1
 		"paintbackground"	"1"
 		"PaintBackgroundType"	"0"
 

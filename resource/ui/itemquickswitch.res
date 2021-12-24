@@ -15,7 +15,7 @@
 		"tabPosition"	"0"
 		"settitlebarvisible"	"0"
 		"PaintBackgroundType"	"0"
-		"bgcolor_override"	"HudBlack"
+		"bgcolor_override"	TransparentBlack1
 
 		"itempanel_xpos"	"0"
 		"itempanel_ydelta"	"0"
@@ -24,7 +24,7 @@
 		{
 			"wide"			"205"
 			"tall"			"35"
-			"bgcolor_override"		"ahudBlack"
+			"bgcolor_override"		"CGray8"
 			"PaintBackgroundType"	"0"
 			"paintbackground"	"0"
 			"paintborder"	"0"

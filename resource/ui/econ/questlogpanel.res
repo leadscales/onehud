@@ -105,7 +105,7 @@
 		"enabled"		"1"
 		"border"		"ahudPanelBorder"
 		"paintborder"	"1"
-		"bgcolor_override"	"ahudDarkGrey"
+		"bgcolor_override"	"CGray7"
 
 		"UpperLine"
 		{
@@ -143,7 +143,7 @@
 			"enabled"		"1"
 			"wrap"			"0"
 			"proportionaltoparent"	"1"
-			"fgcolor"		"ahudWhite"
+			"fgcolor"		"CWhite"
 		}
 
 		"CloseButton"
@@ -178,7 +178,7 @@
 			"armedFgColor_override" "Blank"
 			"depressedFgColor_override" "Blank"
 
-			"image_drawcolor"	"ahudWhite"
+			"image_drawcolor"	"CWhite"
 			"image_armedcolor"	"255 0 0 255"
 			"SubImage"
 			{

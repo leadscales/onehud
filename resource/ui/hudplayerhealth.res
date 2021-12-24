@@ -91,7 +91,7 @@
 		"labelText"		"%Health%"
 		"textAlignment"	"center"
 		"font"			"FontBoldShadow34"
-		"fgcolor"		"ShadowBlack"
+		"fgcolor"		CBlackShadow
 
 		"pin_to_sibling"	"PlayerStatusHealthValue"
 		"pin_corner_to_sibling"	"PIN_TOPLEFT"
@@ -146,7 +146,7 @@
 		"labelText"		"%MaxHealth%"
 		"textAlignment"	"center"
 		"font"			"FontRegular10"
-		"fgcolor"		"ShadowBlack"
+		"fgcolor"		CBlackShadow
 	}
 
 	"PlayerStatusAnchor"

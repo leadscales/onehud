@@ -303,8 +303,8 @@
 		"dulltext"		"0"
 		"brighttext"	"0"
 
-		"fgcolor_override"	"ahudWhite"
-		"bgcolor_override"	"ahudBlack"
+		"fgcolor_override"	"CWhite"
+		"bgcolor_override"	"CGray8"
 	}
 
 	"NameFilterLabel"
@@ -323,7 +323,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"fgcolor"		"ahudWhite"
+		"fgcolor"		"CWhite"
 	}
 
 	"NameFilterTextEntry"
@@ -806,7 +806,7 @@
 			"armedFgColor_override" "200 80 60 255"
 			"depressedFgColor_override" "46 43 42 255"
 
-			"image_drawcolor"	"ahudWhite"
+			"image_drawcolor"	"CWhite"
 			"image_armedcolor"	"255 255 255 255"
 
 			"SubImage"
@@ -963,7 +963,7 @@
 			"armedFgColor_override" "200 80 60 255"
 			"depressedFgColor_override" "46 43 42 255"
 
-			"image_drawcolor"	"ahudWhite"
+			"image_drawcolor"	"CWhite"
 			"image_armedcolor"	"255 255 255 255"
 
 			"SubImage"
@@ -1030,7 +1030,7 @@
 			"armedFgColor_override" "200 80 60 255"
 			"depressedFgColor_override" "46 43 42 255"
 
-			"image_drawcolor"	"ahudWhite"
+			"image_drawcolor"	"CWhite"
 			"image_armedcolor"	"255 255 255 255"
 
 			"SubImage"
@@ -1187,7 +1187,7 @@
 			"armedFgColor_override" "200 80 60 255"
 			"depressedFgColor_override" "46 43 42 255"
 
-			"image_drawcolor"	"ahudWhite"
+			"image_drawcolor"	"CWhite"
 			"image_armedcolor"	"255 255 255 255"
 
 			"SubImage"
@@ -1235,7 +1235,7 @@
 			"armedFgColor_override" "200 80 60 255"
 			"depressedFgColor_override" "46 43 42 255"
 
-			"image_drawcolor"	"ahudWhite"
+			"image_drawcolor"	"CWhite"
 			"image_armedcolor"	"255 255 255 255"
 
 			"SubImage"
@@ -1412,7 +1412,7 @@
 			"armedFgColor_override" "200 80 60 255"
 			"depressedFgColor_override" "46 43 42 255"
 
-			"image_drawcolor"	"ahudWhite"
+			"image_drawcolor"	"CWhite"
 			"image_armedcolor"	"255 255 255 255"
 
 			"SubImage"
@@ -1460,7 +1460,7 @@
 			"armedFgColor_override" "200 80 60 255"
 			"depressedFgColor_override" "46 43 42 255"
 
-			"image_drawcolor"	"ahudWhite"
+			"image_drawcolor"	"CWhite"
 			"image_armedcolor"	"255 255 255 255"
 
 			"SubImage"
@@ -1636,7 +1636,7 @@
 			"armedFgColor_override" "200 80 60 255"
 			"depressedFgColor_override" "46 43 42 255"
 
-			"image_drawcolor"	"ahudWhite"
+			"image_drawcolor"	"CWhite"
 			"image_armedcolor"	"255 255 255 255"
 
 			"SubImage"

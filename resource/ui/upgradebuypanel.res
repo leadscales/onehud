@@ -71,7 +71,7 @@
 		"enabled"		"1"
 
 		"PaintBackgroundType" "0"
-		"bgcolor_override"	"ahudWhite"
+		"bgcolor_override"	"CWhite"
 	}
 
 	"Icon"

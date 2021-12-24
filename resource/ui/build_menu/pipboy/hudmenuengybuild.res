@@ -46,16 +46,16 @@
 		"enabled"		"0"
 		"scaleImage"	"1"
 		"icon"			"ico_build"
-		"iconColor"		"ahudPipBoy"
+		"iconColor"		"CPipBoy"
 	}
 
 	"TitleLabel"
 	{
-		"fgcolor"		"ahudPipBoy"
+		"fgcolor"		"CPipBoy"
 	}
 
 	"CancelLabel"
 	{
-		"fgcolor"		"ahudPipBoy"
+		"fgcolor"		"CPipBoy"
 	}
 }

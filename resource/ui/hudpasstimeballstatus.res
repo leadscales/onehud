@@ -42,7 +42,7 @@
 		"enabled"		"1"
 		"textAlignment"	"center"
 		"labelText"		"A TEAM STOLE THE BALL"
-		"fgcolor_override"	"ahudWhite"
+		"fgcolor_override"	"CWhite"
 	}
 
 	"EventBonusLabel"
@@ -81,7 +81,7 @@
 		"enabled"		"1"
 		"textAlignment"	"center"
 		"labelText"		"A TEAM STOLE THE BALL"
-		"fgcolor_override"		"ahudWhite"
+		"fgcolor_override"		"CWhite"
 		"pin_to_sibling"		"EventTitleLabel"
 		"pin_corner_to_sibling"	"4"
 		"pin_to_sibling_corner"	"6"

@@ -56,7 +56,7 @@
 			"centerwrap"		"1"
 			"textAlignment"		"center"
 			"labelText"			"#Msg_PasstimeInPassRange"
-			"fgcolor_override" 	"ahudWhite"
+			"fgcolor_override" 	"CWhite"
 		}
 
 		"TextLockedOn"
@@ -74,7 +74,7 @@
 			"centerwrap"		"1"
 			"textAlignment"		"center"
 			"labelText"			"#Msg_PasstimeLockedOn"
-			"fgcolor_override" 	"ahudWhite"
+			"fgcolor_override" 	"CWhite"
 		}
 
 		"TextPassIncoming"
@@ -92,7 +92,7 @@
 			"centerwrap"		"1"
 			"textAlignment"		"center"
 			"labelText"			"#Msg_PasstimePassIncoming"
-			"fgcolor_override" 	"ahudWhite"
+			"fgcolor_override" 	"CWhite"
 		}
 
 		"TextPlayerName"
@@ -109,7 +109,7 @@
 			"enabled"			"1"
 			"textAlignment"		"center"
 			"labelText"			"WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW"
-			"fgcolor_override"	"ahudWhite"
+			"fgcolor_override"	"CWhite"
 		}
 	}
 

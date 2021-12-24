@@ -9,7 +9,7 @@
 		"ypos"					"200"
 		"wide"					"200"
 		"tall"					"110"
-		"bgcolor_override"		"ahudDarkerGrey"
+		"bgcolor_override"		"CGray8"
 		"paintbackgroundtype"	"0"
 		"settitlebarvisible"	"0"
 		"border"				"ahudPanelBorder"

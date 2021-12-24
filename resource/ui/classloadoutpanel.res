@@ -409,7 +409,7 @@
 		"tall"			"75"
 		"autoResize"	"1"
 		"visible"		"0"
-		"bgcolor_override"		"ahudDarkerGrey"
+		"bgcolor_override"		"CGray8"
 		"PaintBackgroundType"	"0"
 		"border"		"ahudPanelBorder"
 	}

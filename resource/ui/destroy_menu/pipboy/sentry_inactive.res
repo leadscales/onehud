@@ -5,11 +5,11 @@
 	"ItemNameLabel"
 	{
 		"labelText"			"#TF_Object_Sentry"
-		"fgcolor_override"	"ahudPipBoy"
+		"fgcolor_override"	"CPipBoy"
 	}
 
 	"NumberLabel"
 	{
-		"fgcolor_override"	"ahudPipBoy"
+		"fgcolor_override"	"CPipBoy"
 	}
 }

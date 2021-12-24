@@ -30,7 +30,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"	"0"
-		"fillcolor"		"HudBlack"
+		"fillcolor"		TransparentBlack1
 		"PaintBackgroundType"	"0"
 	}
 
@@ -92,7 +92,7 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"TitleLabelDropshadow"
 		"font"			"FontRegular20"
-		"fgcolor"		"ShadowBlack"
+		"fgcolor"		CBlackShadow
 		"xpos"			"-1"			// align me to the left edge of the first selection
 		"ypos"			"-1"
 		"zpos"			"1"

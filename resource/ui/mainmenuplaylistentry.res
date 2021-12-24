@@ -229,7 +229,7 @@
 		"armedBgColor_override" "0 0 0 0"
 		"depressedBgColor_override" "0 0 0 0"
 
-		"image_drawcolor"	"ahudWhite"
+		"image_drawcolor"	"CWhite"
 		"image_armedcolor"	"0 191 255 255"
 		"SubImage"
 		{

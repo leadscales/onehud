@@ -32,7 +32,7 @@
 		"dulltext"				"0"
 		"brighttext"			"0"
 		"font"					"FontBold10"
-		"fgcolor_override"		"ahudWhite"
+		"fgcolor_override"		"CWhite"
 	}
 
 	"ItemEffectMeter"
@@ -92,7 +92,7 @@
 		"dulltext"				"0"
 		"brighttext"			"0"
 		"font"					"FontBoldShadow20"
-		"fgcolor"				"ShadowBlack"
+		"fgcolor"				CBlackShadow
 
 		"pin_to_sibling"	"ItemEffectMeterCount"
 		"pin_corner_to_sibling" "PIN_TOPLEFT"

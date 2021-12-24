@@ -65,7 +65,9 @@ Scheme
 		"CGray5"				"64 64 64 255"
 		"CGray6"				"32 32 32 255"
 		"CGray7"				"16 16 16 255"
+		"CGray8"				"8 8 8 255"
 		"CBlack"				"0 0 0 255"
+		CBlackShadow			"8 8 8 255"
 
 		"TransparentBlack0"		"0 0 0 224"
 		"TransparentBlack1"		"0 0 0 192"
@@ -80,32 +82,7 @@ Scheme
 		"TransparentWhite4"		"255 255 255 96"
 		"TransparentWhite5"		"255 255 255 64"
 
-		// - ---------------------------------- - 
-
-		"ShadowBlack"			"8 8 8 255"
-		"HudBlack"				"0 0 0 200"
-
-		"ahudBlue"				"0 160 255 255"
-		"ahudDarkBlue"			"0 128 192 255"
-		"ahudRed"				"255 0 96 255"
-		"ahudDarkRed"			"192 0 72 255"
-
-		"ahudGreen"				"0 255 128 255"
-		"ahudDarkGreen"			"0 128 64 255"
-		"ahudYellow"			"255 128 0 255"
-		"ahudBrightYellow"		"192 96 0 255"
-
-		"ahudWhite"				"255 255 255 255"
-		"ahudDullWhite"			"128 128 128 255"
-
-		"ahudGrey"				"48 48 48 255"
-		"ahudDarkGrey2"			"32 32 32 255"
-		"ahudDarkGrey"			"16 16 16 255"
-		"ahudDarkerGrey"		"8 8 8 255"
-
-		"ahudBlack"				"12 12 12 255"
-
-		"ahudPipBoy"			"0 255 128 255"
+		"CPipBoy"				"0 255 128 255"
 
 		//---------------------------------------------
 
@@ -160,7 +137,7 @@ Scheme
 		"HUDDeathWarning"	"255 128 0 255"
 		"HudWhite"			"255 255 255 255"
 		"HudOffWhite"		"224 224 224 255"
-		//"HudBlack"			"64 64 64 255"
+		"HudBlack"			"0 0 0 192"
 		"ProgressBarBlue"	"96 128 160 255"
 		"CreditsGreen"		"0 255 160 255"
 
@@ -186,8 +163,8 @@ Scheme
 		// training
 		"HudTrainingHint"			"212 160 23 255"
 
-		"TanDark"				"128 128 128 255"	// ahudDullWhite
-		"TanLight"				"224 224 224 255"	// ahudWhite
+		"TanDark"				"128 128 128 255"
+		"TanLight"				"224 224 224 255"
 		"TanDarker"				"48 48 48 255"
 
 		"StoreDarkTan"			"131 121 104 255"

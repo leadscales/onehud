@@ -12,7 +12,7 @@
 		"visible"		"0"
 		"enabled"		"1"
 		"tabPosition"	"0"
-		"bgcolor_override"	"ahudDarkGrey"
+		"bgcolor_override"	"CGray7"
 		"margin_width"	"c-295"
 	}
 	"InsetPanel"

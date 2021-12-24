@@ -29,7 +29,7 @@
 		"pinCorner"		"0"
 		"visible"		"0"
 		"enabled"		"0"
-		"fillcolor"		"Hudblack"
+		"fillcolor"		TransparentBlack1
 	}
 
 	"TFMessageTitle"
@@ -50,7 +50,7 @@
 		"dulltext"		"0"
 		"brighttext"	"0"
 		"font"			"FontBold18"
-		"fgcolor"		"ahudWhite"
+		"fgcolor"		"CWhite"
 	}
 
 	"TextMessage"
@@ -77,7 +77,7 @@
 		"enabled"		"1"
 		"paintborder"	"0"
 		"textAlignment"	"northwest"
-		"fgcolor"		"ahudWhite"
+		"fgcolor"		"CWhite"
 	}
 
 	"HTMLMessage"
@@ -123,9 +123,9 @@
 
 		"fgcolor"			"255 255 255 128"
 		"defaultFgColor_override" "255 255 255 128"
-		"armedFgColor_override" "ahudWhite"
+		"armedFgColor_override" "CWhite"
 		"depressedFgColor_override" "255 255 255 128"
-		"selectedFgColor_override" "ahudWhite"
+		"selectedFgColor_override" "CWhite"
 	}
 
 	"MenuBG"
@@ -147,7 +147,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"PaintBackgroundType"	"0"
-		"fillcolor"		"HudBlack"
+		"fillcolor"		TransparentBlack1
 	}
 
 	"MessageTitle"

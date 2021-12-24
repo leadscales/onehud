@@ -5,7 +5,7 @@ Scheme
 		HoAssBorder
 		{
 			"offset" "0 0"
-			"color"	"ahudBlack"
+			"color"	"CGray8"
 		}
 
 		RefractBorder
@@ -113,7 +113,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "ahudDullWhite"
+					"color" "CGray3"
 					"offset" "0 0"
 				}
 			}
@@ -122,7 +122,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "ahudDullWhite"
+					"color" "CGray3"
 					"offset" "0 0"
 				}
 			}
@@ -131,7 +131,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "ahudDullWhite"
+					"color" "CGray3"
 					"offset" "0 0"
 				}
 			}
@@ -140,83 +140,83 @@ Scheme
 			{
 				"1"
 				{
-					"color" "ahudDullWhite"
+					"color" "CGray3"
 					"offset" "0 0"
 				}
 			}
 		}
 
-		ahudDarkBlueTeamBorder
+		CBlueDarkTeamBorder
 		{
 			"inset" "0 0 0 0"
 			Bottom
 			{
 				"1"
 				{
-					"color" "ahudDarkBlue"
+					"color" "CBlueDark"
 					"offset" "0 0"
 				}
 				"2"
 				{
-					"color" "ahudDarkBlue"
+					"color" "CBlueDark"
 					"offset" "0 0"
 				}
 				"3"
 				{
-					"color" "ahudDarkBlue"
+					"color" "CBlueDark"
 					"offset" "0 0"
 				}
 				"4"
 				{
-					"color" "ahudDarkBlue"
+					"color" "CBlueDark"
 					"offset" "0 0"
 				}
 				"5"
 				{
-					"color" "ahudDarkBlue"
+					"color" "CBlueDark"
 					"offset" "0 0"
 				}
 				"6"
 				{
-					"color" "ahudDarkBlue"
+					"color" "CBlueDark"
 					"offset" "0 0"
 				}
 			}
 		}
 
-		ahudDarkRedTeamBorder
+		CRedDarkTeamBorder
 		{
 			"inset" "0 0 0 0"
 			Bottom
 			{
 				"1"
 				{
-					"color" "ahudDarkRed"
+					"color" "CRedDark"
 					"offset" "0 0"
 				}
 				"2"
 				{
-					"color" "ahudDarkRed"
+					"color" "CRedDark"
 					"offset" "0 0"
 				}
 				"3"
 				{
-					"color" "ahudDarkRed"
+					"color" "CRedDark"
 					"offset" "0 0"
 				}
 				"4"
 				{
-					"color" "ahudDarkRed"
+					"color" "CRedDark"
 					"offset" "0 0"
 				}
 				"5"
 				{
-					"color" "ahudDarkRed"
+					"color" "CRedDark"
 					"offset" "0 0"
 				}
 				"6"
 				{
-					"color" "ahudDarkRed"
+					"color" "CRedDark"
 					"offset" "0 0"
 				}
 			}
@@ -769,7 +769,7 @@ Scheme
 		{
 			"bordertype"			"scalable_image"
 			"backgroundtype"		"2"
-			"color"					"ahudGrey"
+			"color"					"CGray5"
 
 			"image"					"replay/thumbnails/panels/panel_generic"
 			"src_corner_height"		"32"				// pixels inside the image

@@ -15,7 +15,7 @@
 		"tabPosition"	"0"
 		"settitlebarvisible"	"0"
 		"PaintBackgroundType"	"0"
-		"bgcolor_override"	"ahudDarkGrey"
+		"bgcolor_override"	"CGray7"
 	}
 
 	"SearchTextEntry"
@@ -36,8 +36,8 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"	"0"
-		"fgcolor_override"		"ahudWhite"
-		"bgcolor_override"		"ahudBlack"
+		"fgcolor_override"		"CWhite"
+		"bgcolor_override"		"CGray8"
 		"Font"			"HudFontSmallest"
 	}
 

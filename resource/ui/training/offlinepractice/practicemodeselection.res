@@ -97,7 +97,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"wrap"			"0"
-		"fgcolor_override"	"ahudWhite"
+		"fgcolor_override"	"CWhite"
 	}
 
 	"CurPageLabel"
@@ -117,7 +117,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"wrap"			"1"
-		"fgcolor_override"	"ahudWhite"
+		"fgcolor_override"	"CWhite"
 	}
 
 	"DescLabel"
@@ -136,7 +136,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"wrap"			"0"
-		"fgcolor_override"	"ahudWhite"
+		"fgcolor_override"	"CWhite"
 	}
 
 	"SelectCurrentGameModeButton"

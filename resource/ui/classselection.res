@@ -44,7 +44,7 @@
 		"labelText"		"#TF_SelectAClass"
 		"textAlignment"	"center"
 		"font"			"FontBold28"
-		"fgcolor_override"	"ahudWhite"
+		"fgcolor_override"	"CWhite"
 		"bgcolor_override"	"TransparentBlack3"
 	}
 
@@ -828,9 +828,9 @@
 
 		"FgColor"					"255 255 255 128"
 		"defaultFgColor_override" 	"255 255 255 128"
-		"armedFgColor_override"		"ahudWhite"
+		"armedFgColor_override"		"CWhite"
 		"depressedFgColor_override" "255 255 255 128"
-		"selectedFgColor_override" 	"ahudWhite"
+		"selectedFgColor_override" 	"CWhite"
 
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -1274,7 +1274,7 @@
 		"labelText"		"#TF_TeamCount"
 		"textAlignment"	"left"
 		"font"			"HudFontMediumSmallSecondary"
-		"fgcolor"		"ahudWhite"
+		"fgcolor"		"CWhite"
 	}
 
 	"numScout"
@@ -1294,7 +1294,7 @@
 		"labelText"		"%numScout%"
 		"textAlignment"	"center"
 		"font"			"FontRegular12"
-		"fgcolor"		"ahudWhite"
+		"fgcolor"		"CWhite"
 
 		"pin_to_sibling"	"scout"
 		"pin_to_sibling_corner"	"PIN_BOTTOMLEFT"
@@ -1318,7 +1318,7 @@
 		"labelText"		"%numSoldier%"
 		"textAlignment"	"center"
 		"font"			"FontRegular12"
-		"fgcolor"		"ahudWhite"
+		"fgcolor"		"CWhite"
 
 		"pin_to_sibling"	"soldier"
 		"pin_to_sibling_corner"	"PIN_BOTTOMLEFT"
@@ -1342,7 +1342,7 @@
 		"labelText"		"%numPyro%"
 		"textAlignment"	"center"
 		"font"			"FontRegular12"
-		"fgcolor"		"ahudWhite"
+		"fgcolor"		"CWhite"
 
 		"pin_to_sibling"	"pyro"
 		"pin_to_sibling_corner"	"PIN_BOTTOMLEFT"
@@ -1366,7 +1366,7 @@
 		"labelText"		"%numDemoman%"
 		"textAlignment"	"center"
 		"font"			"FontRegular12"
-		"fgcolor"		"ahudWhite"
+		"fgcolor"		"CWhite"
 
 		"pin_to_sibling"	"demoman"
 		"pin_to_sibling_corner"	"PIN_BOTTOMLEFT"
@@ -1390,7 +1390,7 @@
 		"labelText"		"%numHeavy%"
 		"textAlignment"	"center"
 		"font"			"FontRegular12"
-		"fgcolor"		"ahudWhite"
+		"fgcolor"		"CWhite"
 
 		"pin_to_sibling"	"heavyweapons"
 		"pin_to_sibling_corner"	"PIN_BOTTOMLEFT"
@@ -1414,7 +1414,7 @@
 		"labelText"		"%numEngineer%"
 		"textAlignment"	"center"
 		"font"			"FontRegular12"
-		"fgcolor"		"ahudWhite"
+		"fgcolor"		"CWhite"
 
 		"pin_to_sibling"	"engineer"
 		"pin_to_sibling_corner"	"PIN_BOTTOMLEFT"
@@ -1438,7 +1438,7 @@
 		"labelText"		"%numMedic%"
 		"textAlignment"	"center"
 		"font"			"FontRegular12"
-		"fgcolor"		"ahudWhite"
+		"fgcolor"		"CWhite"
 
 		"pin_to_sibling"	"medic"
 		"pin_to_sibling_corner"	"PIN_BOTTOMLEFT"
@@ -1462,7 +1462,7 @@
 		"labelText"		"%numSniper%"
 		"textAlignment"	"center"
 		"font"			"FontRegular12"
-		"fgcolor"		"ahudWhite"
+		"fgcolor"		"CWhite"
 		
 		"pin_to_sibling"	"sniper"
 		"pin_to_sibling_corner"	"PIN_BOTTOMLEFT"
@@ -1486,7 +1486,7 @@
 		"labelText"		"%numSpy%"
 		"textAlignment"	"center"
 		"font"			"FontRegular12"
-		"fgcolor"		"ahudWhite"
+		"fgcolor"		"CWhite"
 
 		"pin_to_sibling"	"spy"
 		"pin_to_sibling_corner"	"PIN_BOTTOMLEFT"

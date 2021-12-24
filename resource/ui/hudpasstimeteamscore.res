@@ -24,7 +24,7 @@
 		"tall"			"23"
 		"visible"		"1"
 		"enabled"		"1"
-		"bgcolor_override"	"ahudBlue"
+		"bgcolor_override"	"CBlue"
 
 		"pin_to_sibling"	"PlayingToCluster"
 		"pin_corner_to_sibling"	"PIN_TOPRIGHT"
@@ -40,7 +40,7 @@
 			"tall"			"3"
 			"visible"		"1"
 			"enabled"		"1"
-			"bgcolor_override"	"ahudDarkBlue"
+			"bgcolor_override"	"CBlueDark"
 			"proportionaltoparent"	"1"
 		}
 	}
@@ -56,7 +56,7 @@
 		"tall"			"23"
 		"visible"		"1"
 		"enabled"		"1"
-		"bgcolor_override"	"ahudRed"
+		"bgcolor_override"	"CRed"
 
 		"pin_to_sibling"	"PlayingToCluster"
 		"pin_corner_to_sibling"	"PIN_TOPLEFT"
@@ -72,7 +72,7 @@
 			"tall"			"3"
 			"visible"		"1"
 			"enabled"		"1"
-			"bgcolor_override"	"ahudDarkRed"
+			"bgcolor_override"	"CRedDark"
 			"proportionaltoparent"	"1"
 		}
 	}
@@ -106,7 +106,7 @@
 		"textAlignment"	"center"
 		"labelText"		"%bluescore%"
 		"font"			"FontRegular24"
-		"fgcolor"		"ahudWhite"
+		"fgcolor"		"CWhite"
 
 		"pin_to_sibling"	"LeftSideBG"
 		"pin_corner_to_sibling"	"PIN_TOPRIGHT"
@@ -127,7 +127,7 @@
 		"textAlignment"	"center"
 		"labelText"		"%bluescore%"
 		"font"			"FontRegular24"
-		"fgcolor"		"ShadowBlack"
+		"fgcolor"		CBlackShadow
 
 		"pin_to_sibling"	"BlueScore"
 		"pin_corner_to_sibling"	"PIN_TOPLEFT"
@@ -148,7 +148,7 @@
 		"textAlignment"	"center"
 		"labelText"		"%redscore%"
 		"font"			"FontRegular24"
-		"fgcolor"		"ahudWhite"
+		"fgcolor"		"CWhite"
 
 		"pin_to_sibling"	"RightSideBG"
 		"pin_corner_to_sibling"	"PIN_TOPLEFT"
@@ -169,7 +169,7 @@
 		"textAlignment"	"center"
 		"labelText"		"%redscore%"
 		"font"			"FontRegular24"
-		"fgcolor"		"ShadowBlack"
+		"fgcolor"		CBlackShadow
 
 		"pin_to_sibling"	"RedScore"
 		"pin_corner_to_sibling"	"PIN_TOPLEFT"
@@ -204,7 +204,7 @@
 			"dulltext"		"0"
 			"brighttext"	"0"
 			"font"			"FontRegular12"
-			"fgcolor"		"ahudWhite"
+			"fgcolor"		"CWhite"
 			"proportionaltoparent"	"1"
 		}
 
@@ -219,7 +219,7 @@
 			"tall"			"f0"
 			"visible"		"1"
 			"enabled"		"1"
-			"bgcolor_override"	"HudBlack"
+			"bgcolor_override"	TransparentBlack1
 			"proportionaltoparent"	"1"
 		}
 	}
