@@ -11,7 +11,7 @@ Scheme
 		// HUD COLORS
 		//---------------------------------------------
 		
-		TransparentBlack1				"0 0 0 200"
+		"TransparentBlack1"				"0 0 0 200"
 		
 		"CBlue"				"0 160 255 255"
 		"CBlueDark"			"0 128 192 255"
@@ -122,7 +122,7 @@ Scheme
 		Label.DisabledFgColor2			"Blank"	
 		
 		ListPanel.TextColor					"CWhite"
-		ListPanel.BgColor					TransparentBlack1
+		ListPanel.BgColor					"TransparentBlack1"
 		ListPanel.SelectedBgColor			"CWhite"
 		ListPanel.SelectedOutOfFocusBgColor	"CGray1"
 		
@@ -132,7 +132,7 @@ Scheme
 		
 		Menu.TextInset					"6"
 		Menu.FgColor			"CWhite"
-		Menu.BgColor			TransparentBlack1
+		Menu.BgColor			"TransparentBlack1"
 		Menu.ArmedFgColor		"CBlack"
 		Menu.ArmedBgColor		"CWhite"
 		Menu.DividerColor		"Border.Dark"
@@ -149,7 +149,7 @@ Scheme
 		
 		Slider.NobColor				"TFTanLight"		
 		Slider.TextColor			"CWhite"
-		Slider.TrackColor			TransparentBlack1
+		Slider.TrackColor			"TransparentBlack1"
 		Slider.DisabledTextColor1	"TFTextMediumDark"
         Slider.DisabledTextColor2	"Blank"
 		
@@ -175,7 +175,7 @@ Scheme
 		FrameTitleBar.DisabledBgColor		"Blank"
 		
 		GraphPanel.FgColor			"CWhite"
-		GraphPanel.BgColor			TransparentBlack1
+		GraphPanel.BgColor			"TransparentBlack1"
 		
 		ListPanel.TextBgColor				"Blank"
 		ListPanel.SelectedTextColor			"CBlack"
@@ -188,14 +188,14 @@ Scheme
 		Panel.BgColor				"Blank"
 		
 		ProgressBar.FgColor			"CWhite"
-		ProgressBar.BgColor			TransparentBlack1
+		ProgressBar.BgColor			"TransparentBlack1"
 		
 		PropertySheet.TextColor				"CGray1"
 		PropertySheet.SelectedTextColor		"CWhite"
 		PropertySheet.TransitionEffectTime	"0.25"
 		
 		RichText.TextColor				"CGray1"
-		RichText.BgColor				TransparentBlack1
+		RichText.BgColor				"TransparentBlack1"
 		RichText.SelectedTextColor		"CBlack"
 		RichText.SelectedBgColor		"CWhite"
 		
@@ -206,13 +206,13 @@ Scheme
 		SectionedListPanel.DividerColor			"CBlack"
 		SectionedListPanel.TextColor			"DullWhite"
 		SectionedListPanel.BrightTextColor		"CWhite"
-		SectionedListPanel.BgColor				TransparentBlack1
+		SectionedListPanel.BgColor				"TransparentBlack1"
 		SectionedListPanel.SelectedTextColor			"CBlack"
 		SectionedListPanel.SelectedBgColor				"CWhite"
 		SectionedListPanel.OutOfFocusSelectedTextColor	"CBlack"
 		SectionedListPanel.OutOfFocusSelectedBgColor	"100 100 100 128"
 		
-		TextEntry.BgColor						TransparentBlack1
+		TextEntry.BgColor						"TransparentBlack1"
 		TextEntry.CursorColor					"CGray1"
 		TextEntry.DisabledBgColor				"Blank"
 		TextEntry.SelectedTextColor				"CBlack"
@@ -224,7 +224,7 @@ Scheme
 		Tooltip.TextColor		"CBlack"
 		Tooltip.BgColor			"CWhite"
 		
-		TreeView.BgColor		TransparentBlack1
+		TreeView.BgColor		"TransparentBlack1"
 		
 		WizardSubPanel.BgColor		"Blank"
 		

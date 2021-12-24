@@ -496,7 +496,7 @@
 		"PaintBackgroundType"	"2"
 		"paintbackground"	"1"
 		"border"		"HudPanelBorder"
-		"bgcolor_override"	TransparentBlack1
+		"bgcolor_override"	"TransparentBlack1"
 
 		"Notifications_CloseButton"
 		{
@@ -780,7 +780,7 @@
 		"visible"		"1"
 
 		"border"		"HudPanelBorder"
-		"bgcolor_override"	TransparentBlack1
+		"bgcolor_override"	"TransparentBlack1"
 
 		"TitleLabel"
 		{
@@ -964,7 +964,7 @@
 		"tall"			"100"
 		"visible"		"1"
 		"enabled"		"1"
-		"bgcolor_override"			TransparentBlack1
+		"bgcolor_override"			"TransparentBlack1"
 	}
 
 	"RankModelPanel"
@@ -1931,9 +1931,9 @@
 		"paintbackground"	"1"
 
 		"defaultFgColor_override" "Blank"
-		"defaultBgColor_override"	TransparentBlack1
+		"defaultBgColor_override"	"TransparentBlack1"
 		"armedFgColor_override"	"Blank"
-		"armedBgColor_override"	TransparentBlack1
+		"armedBgColor_override"	"TransparentBlack1"
 
 		"image_drawcolor"	"CWhite"
 		"image_armedcolor"	"0 191 255 255"

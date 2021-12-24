@@ -176,7 +176,7 @@
 			"default"		"1"
 			"proportionaltoparent" "1"
 			"mouseinputenabled"	"0"
-			"fgcolor_override"		CBlackShadow
+			"fgcolor_override"		"CBlackShadow"
 
 			"pin_to_sibling"		"Title"
 			"pin_corner_to_sibling"	"PIN_TOPLEFT"
@@ -222,7 +222,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"wrap"			"1"
-			"fgcolor_override" CBlackShadow
+			"fgcolor_override" "CBlackShadow"
 			"proportionaltoparent" "1"
 			"mouseinputenabled"	"0"
 

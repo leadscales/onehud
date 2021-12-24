@@ -127,7 +127,7 @@
 		"textAlignment"	"center"
 		"labelText"		"%bluescore%"
 		"font"			"FontRegular24"
-		"fgcolor"		CBlackShadow
+		"fgcolor"		"CBlackShadow"
 
 		"pin_to_sibling"	"BlueScore"
 		"pin_corner_to_sibling"	"PIN_TOPLEFT"
@@ -169,7 +169,7 @@
 		"textAlignment"	"center"
 		"labelText"		"%redscore%"
 		"font"			"FontRegular24"
-		"fgcolor"		CBlackShadow
+		"fgcolor"		"CBlackShadow"
 
 		"pin_to_sibling"	"RedScore"
 		"pin_corner_to_sibling"	"PIN_TOPLEFT"
@@ -219,7 +219,7 @@
 			"tall"			"f0"
 			"visible"		"1"
 			"enabled"		"1"
-			"bgcolor_override"	TransparentBlack1
+			"bgcolor_override"	"TransparentBlack1"
 			"proportionaltoparent"	"1"
 		}
 	}

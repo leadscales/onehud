@@ -264,7 +264,7 @@
 		"labelText"		"%rank_possibility%"
 		"textAlignment"	"center"
 		"proportionaltoparent"	"1"
-		"fgcolor"		CBlackShadow
+		"fgcolor"		"CBlackShadow"
 	}
 	"ObjectiveStatusTimePanel"
 	{

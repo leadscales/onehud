@@ -13,7 +13,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"fillcolor"		TransparentBlack1
+		"fillcolor"		"TransparentBlack1"
 	}
 
 	"CurrencyLabel"

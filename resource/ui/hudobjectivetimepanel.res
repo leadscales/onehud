@@ -126,7 +126,7 @@
 		"tall"			"12"
 		"visible"		"1"
 		"enabled"		"1"
-		"fillcolor"	TransparentBlack1
+		"fillcolor"	"TransparentBlack1"
 		"PaintBackgroundType"	"0"
 
 		if_match
@@ -214,7 +214,7 @@
 		"tall"				"12"
 		"visible"			"1"
 		"enabled"			"1"
-		"fillcolor"			TransparentBlack1
+		"fillcolor"			"TransparentBlack1"
 		"PaintBackgroundType"	"0"
 
 		if_match
@@ -260,7 +260,7 @@
 		"tall"			"14"
 		"visible"		"1"
 		"enabled"		"1"
-		"fillcolor"	TransparentBlack1
+		"fillcolor"	"TransparentBlack1"
 		"PaintBackgroundType"	"0"
 
 		if_match

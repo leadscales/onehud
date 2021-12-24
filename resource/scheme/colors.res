@@ -67,7 +67,7 @@ Scheme
 		"CGray7"				"16 16 16 255"
 		"CGray8"				"8 8 8 255"
 		"CBlack"				"0 0 0 255"
-		CBlackShadow			"8 8 8 255"
+		"CBlackShadow"			"8 8 8 255"
 
 		"TransparentBlack0"		"0 0 0 224"
 		"TransparentBlack1"		"0 0 0 192"

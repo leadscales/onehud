@@ -10,7 +10,7 @@
 		"wide"			"f0"
 		"tall"			"480"
 		"visible"		"1"
-		"bgcolor_override"		TransparentBlack1
+		"bgcolor_override"		"TransparentBlack1"
 	}
 
 	"PanelBackground"
@@ -40,7 +40,7 @@
 		"ypos"			"106"
 		"wide"			"550"
 		"tall"			"30"
-		"fgcolor"		CBlackShadow
+		"fgcolor"		"CBlackShadow"
 	}
 
 	"WaveFailHeader"

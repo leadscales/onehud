@@ -389,7 +389,7 @@
 		"pinCorner"		"0"
 		"visible"		"0"
 		"enabled"		"1"
-		"fillcolor"		TransparentBlack1
+		"fillcolor"		"TransparentBlack1"
 
 		if_mvm
 		{
@@ -741,7 +741,7 @@
 		"tall"			"13"
 		"visible"		"1"
 		"enabled"		"1"
-		"bgcolor_override"	TransparentBlack1
+		"bgcolor_override"	"TransparentBlack1"
 
 		"pin_to_sibling"	"HudTournamentBLUEBG"
 		"pin_corner_to_sibling"	"PIN_TOPLEFT"
@@ -904,7 +904,7 @@
 		"wrap"			"0"
 		"labelText"		"%tournamentstatelabel%"
 		"textAlignment"		"center"
-		"fgcolor"		CBlackShadow
+		"fgcolor"		"CBlackShadow"
 		"proportionaltoparent"	"1"
 
 		if_mvm

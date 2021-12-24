@@ -13,7 +13,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"0"
-		"bgcolor_override"	TransparentBlack1
+		"bgcolor_override"	"TransparentBlack1"
 	}
 
 	"HighlightPanel"

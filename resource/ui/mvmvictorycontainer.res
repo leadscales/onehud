@@ -55,7 +55,7 @@
 			"ypos"			"2"
 			"wide"			"530"
 			"tall"			"35"
-			"fgcolor"		CBlackShadow
+			"fgcolor"		"CBlackShadow"
 		}
 
 		"BannerText"

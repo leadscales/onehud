@@ -489,7 +489,7 @@
 		"IconColor"		"CWhite"
 		"LocalPlayerColor"	"CBlack"
 
-		"BaseBackgroundColor"	TransparentBlack1
+		"BaseBackgroundColor"	"TransparentBlack1"
 		"LocalBackgroundColor"	"CWhite"
 	}
 

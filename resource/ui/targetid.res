@@ -13,7 +13,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"fillcolor"		TransparentBlack1
+		"fillcolor"		"TransparentBlack1"
 	}
 
 	"TargetIDBG"
@@ -111,7 +111,7 @@
 		"enabled"		"1"
 		"labelText"		"%targetname%"
 		"textAlignment"	"west"
-		"fgcolor_override"		CBlackShadow
+		"fgcolor_override"		"CBlackShadow"
 
 		"pin_to_sibling"	"TargetNameLabel"
 		"pin_corner_to_sibling" "PIN_TOPLEFT"
@@ -216,7 +216,7 @@
 			"visible"		"0"
 			"enabled"		"0"
 			"icon"			"obj_status_alert_background_tall_nocolor"
-			"iconColor"		TransparentBlack1
+			"iconColor"		"TransparentBlack1"
 			"scaleImage"	"1"
 		}
 

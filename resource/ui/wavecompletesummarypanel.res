@@ -12,7 +12,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"fillcolor"		TransparentBlack1
+		"fillcolor"		"TransparentBlack1"
 
 		"src_corner_height"	"22"				// pixels inside the image
 		"src_corner_width"	"22"
@@ -48,11 +48,11 @@
 			"tall"			"31"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor"		CBlackShadow
+			"fgcolor"		"CBlackShadow"
 
 			// Red Background
 			"PaintBackgroundType" "0"
-			"fgcolor_override"	CBlackShadow
+			"fgcolor_override"	"CBlackShadow"
 			"bgcolor_override"	"0 0 0 0"
 		}
 
@@ -205,7 +205,7 @@
 			"ypos"			"20"
 			"wide"			"115"
 			"tall"			"30"
-			"fgcolor"		CBlackShadow
+			"fgcolor"		"CBlackShadow"
 		}
 
 		"RatingText"

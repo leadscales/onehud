@@ -146,7 +146,7 @@
 			"ControlName"		"CExLabel"
 			"fieldName"		"BlueTeamScoreDropshadow"
 			"font"			"FontRegularShadow34"
-			"fgcolor"		CBlackShadow
+			"fgcolor"		"CBlackShadow"
 			"labelText"		"%blueteamscore%"
 			"textAlignment"		"east"
 			"xpos"			"-2"
@@ -244,7 +244,7 @@
 			"ControlName"		"CExLabel"
 			"fieldName"		"RedTeamScoreDropshadow"
 			"font"			"FontRegularShadow34"
-			"fgcolor"		CBlackShadow
+			"fgcolor"		"CBlackShadow"
 			"labelText"		"%redteamscore%"
 			"textAlignment"		"west"
 			"xpos"			"-2"
@@ -319,7 +319,7 @@
 		"tall"			"123"
 		"visible"		"1"
 		"enabled"		"1"
-		"bgcolor_override"	TransparentBlack1
+		"bgcolor_override"	"TransparentBlack1"
 	}
 	"WinningTeamLabel"
 	{

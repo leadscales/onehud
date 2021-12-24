@@ -45,7 +45,7 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"WaveCountLabelShadow"
 		"font"			"FontRegular12"
-		"fgcolor"		CBlackShadow
+		"fgcolor"		"CBlackShadow"
 		"xpos"			"-1"
 		"ypos"			"-1"
 		"zpos"			"3"
@@ -139,7 +139,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"fillcolor"		TransparentBlack1
+		"fillcolor"		"TransparentBlack1"
 	}
 
 	"ProgressBarBG"

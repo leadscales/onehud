@@ -13,7 +13,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"0"
-		"bgcolor_override"	TransparentBlack1
+		"bgcolor_override"	"TransparentBlack1"
 
 		"event247_image"	"illustrations/gamemode_halloween2015"
 		"community_update_image"	"illustrations/gamemode_invasion"

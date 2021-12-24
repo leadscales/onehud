@@ -10,7 +10,7 @@
 		"wide"			"190"
 		"tall"			"100"
 		"visible"		"0"
-		"bgcolor_override"		TransparentBlack1
+		"bgcolor_override"		"TransparentBlack1"
 		"paintbackground"	"1"
 		"PaintBackgroundType"	"0"
 
@@ -80,7 +80,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			//"image"			"../hud/color_panel_blu"
-			"fillcolor"		TransparentBlack1
+			"fillcolor"		"TransparentBlack1"
 		}
 
 		"FreezeLabel"
@@ -145,7 +145,7 @@
 			"ControlName"	"CExLabel"
 			"fieldName"		"FreezeLabelKillerShadow"
 			"font"			"FontRegularShadow11"
-			"fgcolor"		CBlackShadow
+			"fgcolor"		"CBlackShadow"
 			"xpos"			"0"
 			"ypos"			"-1"
 			"zpos"			"5"

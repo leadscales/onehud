@@ -186,7 +186,7 @@
 		"textAlignment"	"center"
 		"labelText"		"%bluescore%"
 		"font"			"FontBoldShadow22"
-		"fgcolor"		CBlackShadow
+		"fgcolor"		"CBlackShadow"
 		"pin_to_sibling"	"BlueScore"
 
 		"if_hybrid"
@@ -251,7 +251,7 @@
 		"textAlignment"	"center"
 		"labelText"		"%redscore%"
 		"font"			"FontBoldShadow22"
-		"fgcolor"		CBlackShadow
+		"fgcolor"		"CBlackShadow"
 		"pin_to_sibling"	"RedScore"
 
 		"if_hybrid"
@@ -357,7 +357,7 @@
 		"dulltext"		"0"
 		"brighttext"	"0"
 		"font"			"FontBoldShadow16"
-		"fgcolor"		CBlackShadow
+		"fgcolor"		"CBlackShadow"
 		"pin_to_sibling"	"PlayingTo"
 
 		"if_hybrid"

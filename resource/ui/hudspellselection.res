@@ -108,7 +108,7 @@
 		"zpos"			"0"
 		"wide"			"20"
 		"tall"			"20"
-		"fgcolor"		CBlackShadow
+		"fgcolor"		"CBlackShadow"
 
 		"pin_to_sibling"	"CountText"
 		"pin_corner_to_sibling" "PIN_TOPLEFT"

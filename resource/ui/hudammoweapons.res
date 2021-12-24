@@ -53,7 +53,7 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"AmmoInClipShadow"
 		"font"			"FontBoldShadow34"
-		"fgcolor"		CBlackShadow
+		"fgcolor"		"CBlackShadow"
 		"xpos"			"-1"
 		"ypos"			"-1"
 		"zpos"			"5"
@@ -89,7 +89,7 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"AmmoInReserveShadow"
 		"font"			"FontBoldShadow20"
-		"fgcolor"		CBlackShadow
+		"fgcolor"		"CBlackShadow"
 		"xpos"			"-1"
 		"ypos"			"-1"
 		"zpos"			"7"
@@ -126,7 +126,7 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"AmmoNoClipShadow"
 		"font"			"FontBoldShadow34"
-		"fgcolor"		CBlackShadow
+		"fgcolor"		"CBlackShadow"
 		"xpos"			"-1"
 		"ypos"			"-1"
 		"zpos"			"5"

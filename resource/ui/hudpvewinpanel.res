@@ -9,7 +9,7 @@
 		"zpos"			"0"
 		"wide"			"300"
 		"tall"			"90"
-		"fillcolor"		TransparentBlack1
+		"fillcolor"		"TransparentBlack1"
 		"autoResize"	"0"
 		"pinCorner"		"0"
 
@@ -42,7 +42,7 @@
 			"ControlName"		"CExLabel"
 			"fieldName"		"WinningTeamLabelDropshadow"
 			"font"			"HudFontMediumSmallBold"
-			"fgcolor"		CBlackShadow
+			"fgcolor"		"CBlackShadow"
 			"xpos"			"0"
 			"ypos"			"0"
 			"wide"			"300"
@@ -58,7 +58,7 @@
 
 			// blue Background
 			"PaintBackgroundType" "0"
-			"fgcolor_override"	CBlackShadow
+			"fgcolor_override"	"CBlackShadow"
 			"bgcolor_override"	"0 0 0"
 		}
 

@@ -41,7 +41,7 @@
 		"pinCorner"		"0"
 		"visible"		"0"
 		"enabled"		"0"
-		"fillcolor"		TransparentBlack1
+		"fillcolor"		"TransparentBlack1"
 	}
 
 	"DisguiseNameLabel"
@@ -82,7 +82,7 @@
 		"textAlignment"		"west"
 		"dulltext"		"0"
 		"brighttext"		"0"
-		"fgcolor_override"	CBlackShadow
+		"fgcolor_override"	"CBlackShadow"
 
 		"pin_to_sibling"	"DisguiseNameLabel"
 		"pin_corner_to_sibling"	"PIN_TOPLEFT"
@@ -127,7 +127,7 @@
 		"textAlignment"		"west"
 		"dulltext"		"0"
 		"brighttext"		"0"
-		"fgcolor_override"	CBlackShadow
+		"fgcolor_override"	"CBlackShadow"
 
 		"pin_to_sibling"	"WeaponNameLabel"
 		"pin_corner_to_sibling"	"PIN_TOPLEFT"

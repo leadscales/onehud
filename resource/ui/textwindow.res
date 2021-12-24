@@ -29,7 +29,7 @@
 		"pinCorner"		"0"
 		"visible"		"0"
 		"enabled"		"0"
-		"fillcolor"		TransparentBlack1
+		"fillcolor"		"TransparentBlack1"
 	}
 
 	"TFMessageTitle"
@@ -147,7 +147,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"PaintBackgroundType"	"0"
-		"fillcolor"		TransparentBlack1
+		"fillcolor"		"TransparentBlack1"
 	}
 
 	"MessageTitle"

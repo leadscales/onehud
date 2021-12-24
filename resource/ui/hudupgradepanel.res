@@ -65,7 +65,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"0"
-		"bgcolor_override"	TransparentBlack1
+		"bgcolor_override"	"TransparentBlack1"
 	}
 
 	"SelectWeaponPanel"
@@ -119,7 +119,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fillcolor"		TransparentBlack1
+			"fillcolor"		"TransparentBlack1"
 		}
 		"BetweenBG"
 		{

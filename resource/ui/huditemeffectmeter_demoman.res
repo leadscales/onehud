@@ -92,7 +92,7 @@
 		"dulltext"				"0"
 		"brighttext"			"0"
 		"font"					"FontBoldShadow20"
-		"fgcolor"				CBlackShadow
+		"fgcolor"				"CBlackShadow"
 
 		"pin_to_sibling"	"ItemEffectMeterCount"
 		"pin_corner_to_sibling" "PIN_TOPLEFT"

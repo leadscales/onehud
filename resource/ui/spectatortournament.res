@@ -79,7 +79,7 @@
 				"visible"		  "1"
 				"labelText"		"%playername%"
 				"textAlignment"	"west"
-				"fgcolor"		  CBlackShadow
+				"fgcolor"		  "CBlackShadow"
 
 				"pin_to_sibling"	"playername"
 				"pin_corner_to_sibling"	"PIN_TOPLEFT"
@@ -222,7 +222,7 @@
 				"visible"		"1"
 				"labelText"		"%respawntime%"
 				"textAlignment"	"center"
-				"fgcolor"		CBlackShadow
+				"fgcolor"		"CBlackShadow"
 
 				"pin_to_sibling"	"respawntime"
 				"pin_corner_to_sibling"	"PIN_TOPLEFT"
@@ -281,7 +281,7 @@
 				"visible"		"1"
 				"labelText"		"%chargeamount%"
 				"textAlignment"	"east"
-				"fgcolor_override"	CBlackShadow
+				"fgcolor_override"	"CBlackShadow"
 
 				"pin_to_sibling"	"chargeamount"
 				"pin_corner_to_sibling"	"PIN_TOPLEFT"
@@ -442,7 +442,7 @@
 		"wide"			"190"
 		"tall"			"100"
 		"visible"		"0"
-		"bgcolor_override"		TransparentBlack1
+		"bgcolor_override"		"TransparentBlack1"
 		"paintbackground"	"1"
 		"PaintBackgroundType"	"0"
 

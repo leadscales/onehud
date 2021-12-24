@@ -56,7 +56,7 @@
 				"ypos"			"13"
 				"wide"			"530"
 				"tall"			"40"
-				"fgcolor"		CBlackShadow
+				"fgcolor"		"CBlackShadow"
 			}
 
 			"HeaderLabel"
@@ -136,7 +136,7 @@
 				"ypos"			"41"
 				"wide"			"180"
 				"tall"			"50"
-				"fgcolor"		CBlackShadow
+				"fgcolor"		"CBlackShadow"
 			}
 
 			"RatingText"

@@ -36,7 +36,7 @@
 			"ypos"			"14"
 			"wide"			"300"
 			"tall"			"50"
-			"fgcolor"		CBlackShadow
+			"fgcolor"		"CBlackShadow"
 		}
 
 		"SplashLabel"

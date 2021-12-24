@@ -78,7 +78,7 @@
 			"font"			"FontRegular24"
 			"labelText"		"%blue_alive%"
 			"textAlignment"	"east"
-			"fgcolor"		CBlackShadow
+			"fgcolor"		"CBlackShadow"
 
 			"pin_to_sibling"	"count"
 			"pin_corner_to_sibling"	"PIN_TOPLEFT"
@@ -179,7 +179,7 @@
 			"font"			"FontRegular24"
 			"labelText"		"%red_alive%"
 			"textAlignment"	"west"
-			"fgcolor"		CBlackShadow
+			"fgcolor"		"CBlackShadow"
 
 			"pin_to_sibling"	"count"
 			"pin_corner_to_sibling"	"PIN_TOPLEFT"
