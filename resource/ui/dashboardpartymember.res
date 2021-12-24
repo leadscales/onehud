@@ -144,7 +144,7 @@
 		"sound_released"	"UI/buttonclickrelease.wav"
 
 		"defaultBgColor_override"	"Blank"
-		"armedBgColor_override"	"255 255 255 16"
+		"armedBgColor_override"	"AccentLightTransparent"
 
 		"border_default"	"NoBorder"
 		"border_armed"		"NoBorder"

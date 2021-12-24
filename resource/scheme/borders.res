@@ -35,9 +35,22 @@ Scheme
 					"color" "AccentMain"
 					"offset" "0 0"
 				}
-				"3"
+			}
+		}
+
+		HudMenuBorderLowerAlt
+		{
+			"inset" "0 0 0 0"
+			Bottom
+			{
+				"1"
 				{
-					"color" "AccentMain"
+					"color" "CWhite"
+					"offset" "0 0"
+				}
+				"2"
+				{
+					"color" "CWhite"
 					"offset" "0 0"
 				}
 			}
@@ -54,11 +67,6 @@ Scheme
 					"offset" "0 0"
 				}
 				"2"
-				{
-					"color" "AccentMain"
-					"offset" "0 0"
-				}
-				"3"
 				{
 					"color" "AccentMain"
 					"offset" "0 0"

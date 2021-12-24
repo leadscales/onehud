@@ -917,7 +917,7 @@
 
 	"oneHudLabel"
 	{
-		"ControlName"	"CExButton"
+		"ControlName"	"CExLabel"
 		"fieldName"		"oneHudLabel"
 		"font"			"FontBold24"
 		"labelText"		"ONEHUD"
@@ -928,14 +928,6 @@
 		"tall"			"25"
 		"visible"		"1"
 		"enabled"		"1"
-		"sound_depressed"		"vo/heavy_battlecry05.mp3"
-		"sound_released"	""
-		"proportionaltoparent"	"1"
-
-		"fgcolor_override"	"CWhite"
-
-		"border_default"	"NoBorder"
-		"border_armed"		"NoBorder"
 		"paintbackground"	"0"
 	}
 
@@ -1232,36 +1224,37 @@
 
 	"UpperDivider"
 	{
-		"ControlName"	"ImagePanel"
+		"ControlName"	"EditablePanel"
 		"fieldName"		"UpperDivider"
 		"xpos"			"cs-0.5"
-		"ypos"			"55"
-		"wide"			"p0.95"
-		"tall"			"1"
+		"ypos"			"50"
+		"wide"			"p0.94"
+		"tall"			"5"
 		"visible"		"1"
 		"enabled"		"1"
-		"fillcolor"		"CWhite"
+		"border"		"HudMenuBorderLowerAlt"
+		"alpha"			"128"
 	}
 
 	"LowerDivider"
 	{
-		"ControlName"	"ImagePanel"
+		"ControlName"	"EditablePanel"
 		"fieldName"		"LowerDivider"
 		"xpos"			"0"
-		"ypos"			"r60"
+		"ypos"			"r64"
 		"wide"			"f0"
-		"tall"			"1"
+		"tall"			"5"
 		"visible"		"1"
 		"enabled"		"1"
-		"fillcolor"		"CWhite"
+		"border"		"HudMenuBorderLowerAlt"
 	}
 
 	"CharacterSetupButton"
 	{
 		"ControlName"	"CExImageButton"
 		"fieldName"		"CharacterSetupButton"
-		"xpos"			"p0.03"
-		"ypos"			"30"
+		"xpos"			"0"
+		"ypos"			"-5"
 		"zpos"			"1"
 		"wide"			"70"
 		"tall"			"25"
@@ -1277,20 +1270,24 @@
 		"sound_released"	"UI/buttonclickrelease.wav"
 
 		"border_default"	"NoBorder"
-		"border_armed"		"NoBorder"
+		"border_armed"		"HudMenuBorderLowerAlt"
 		"paintbackground"	"0"
 
 		"defaultFgColor_override" "CWhite"
 		"armedFgColor_override"   "CWhite"
 		"depressedFgColor_override" "75 125 255 255"
+
+		"pin_to_sibling"	"UpperDivider"
+		"pin_corner_to_sibling"	"PIN_BOTTOMLEFT"
+		"pin_to_sibling_corner"	"PIN_TOPLEFT"
 	}
 
 	"CharacterSetupButtonGlow"
 	{
 		"ControlName"	"CExImageButton"
 		"fieldName"		"CharacterSetupButtonGlow"
-		"xpos"			"p0.03"
-		"ypos"			"30"
+		"xpos"			"0"
+		"ypos"			"0"
 		"zpos"			"2"
 		"wide"			"70"
 		"tall"			"25"
@@ -1306,12 +1303,16 @@
 		"sound_released"	"UI/buttonclickrelease.wav"
 
 		"border_default"	"NoBorder"
-		"border_armed"		"NoBorder"
+		"border_armed"		"HudMenuBorderLowerAlt"
 		"paintbackground"	"0"
 
 		"defaultFgColor_override" "Blank"
 		"armedFgColor_override"   "CWhite"
 		"depressedFgColor_override" "75 125 255 255"
+
+		"pin_to_sibling"	"CharacterSetupButton"
+		"pin_corner_to_sibling"	"PIN_TOPLEFT"
+		"pin_to_sibling_corner"	"PIN_TOPLEFT"
 	}
 
 	"GeneralStoreButton"
@@ -1334,7 +1335,7 @@
 		"sound_released"	"UI/buttonclickrelease.wav"
 
 		"border_default"	"NoBorder"
-		"border_armed"		"NoBorder"
+		"border_armed"		"HudMenuBorderLowerAlt"
 		"paintbackground"	"0"
 
 		"defaultFgColor_override" "CWhite"
@@ -1366,7 +1367,7 @@
 		"sound_released"	"UI/buttonclickrelease.wav"
 
 		"border_default"	"NoBorder"
-		"border_armed"		"NoBorder"
+		"border_armed"		"HudMenuBorderLowerAlt"
 		"paintbackground"	"0"
 
 		"defaultFgColor_override" "Blank"
@@ -1398,7 +1399,7 @@
 		"sound_released"	"UI/buttonclickrelease.wav"
 
 		"border_default"	"NoBorder"
-		"border_armed"		"NoBorder"
+		"border_armed"		"HudMenuBorderLowerAlt"
 		"paintbackground"	"0"
 
 		"defaultFgColor_override" "CWhite"
@@ -1430,7 +1431,7 @@
 		"sound_released"	"UI/buttonclickrelease.wav"
 
 		"border_default"	"NoBorder"
-		"border_armed"		"NoBorder"
+		"border_armed"		"HudMenuBorderLowerAlt"
 		"paintbackground"	"0"
 
 		"defaultFgColor_override" "Blank"
@@ -1463,7 +1464,7 @@
 		"sound_released"	"UI/buttonclickrelease.wav"
 
 		"border_default"	"NoBorder"
-		"border_armed"		"NoBorder"
+		"border_armed"		"HudMenuBorderLowerAlt"
 		"paintbackground"	"0"
 
 		"defaultFgColor_override" "CWhite"
@@ -1496,7 +1497,7 @@
 		"sound_released"	"UI/buttonclickrelease.wav"
 
 		"border_default"	"NoBorder"
-		"border_armed"		"NoBorder"
+		"border_armed"		"HudMenuBorderLowerAlt"
 		"paintbackground"	"0"
 
 		"defaultFgColor_override" "Blank"
@@ -1529,7 +1530,7 @@
 		"sound_released"	"UI/buttonclickrelease.wav"
 
 		"border_default"	"NoBorder"
-		"border_armed"		"NoBorder"
+		"border_armed"		"HudMenuBorderLowerAlt"
 		"paintbackground"	"0"
 
 		"defaultFgColor_override" "CWhite"
@@ -1562,7 +1563,7 @@
 		"sound_released"	"UI/buttonclickrelease.wav"
 
 		"border_default"	"NoBorder"
-		"border_armed"		"NoBorder"
+		"border_armed"		"HudMenuBorderLowerAlt"
 		"paintbackground"	"0"
 
 		"defaultFgColor_override" "Blank"
@@ -1581,7 +1582,7 @@
 		"ControlName"					"CExButton"
 		"fieldName"						"Achievements"
 		"xpos"							"-20"
-		"ypos"							"-1"
+		"ypos"							"-5"
 		"zpos"							"5"	
 		"wide"							"85"
 		"tall"							"20"

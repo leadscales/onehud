@@ -315,8 +315,8 @@
 
 			if_match
 			{
-				"ypos"			"3"
-				"ypos_minmode"	"3"
+				"ypos"			"2"
+				"ypos_minmode"	"2"
 			}
 		}
 	}
@@ -433,10 +433,10 @@
 				"fieldName"				"overhealbar"
 				"font"					"Default"
 				"xpos"					"0"
-				"ypos"					"4"
+				"ypos"					"18"
 				"zpos"					"6"
 				"wide"					"f0"
-				"tall"					"2"
+				"tall"					"1"
 				"autoResize"			"0"
 				"pinCorner"				"0"
 				"visible"				"1"
@@ -444,8 +444,8 @@
 				"textAlignment"			"Left"
 				"dulltext"				"0"
 				"brighttext"			"0"
-				"bgcolor_override"	   "Blank"
-				"fgcolor_override"	   "CGreen"
+				"bgcolor_override"	  	"Blank"
+				"fgcolor_override"	  	"CGreen"
 				"proportionaltoparent"	"1"
 			}
 			"HealthIcon"

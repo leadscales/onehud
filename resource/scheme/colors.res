@@ -11,7 +11,7 @@ Scheme
 													// same value as Crosshair
 
 		"HP"					"255 255 255 255"
-		"HP Buff"				"0 128 255 255"
+		"HP Buff"				"0 255 160 255"
 		"HP Low"				"255 128 0 255"
 
 		"Damage Numbers"		"255 128 0 255"		// Set in Advanced Options
@@ -28,9 +28,9 @@ Scheme
 		"Killstreak"			"255 255 255 255"
 
 		"ChargePercent"			"255 255 255 255"
-		"Ubercharge Meter"		"0 128 255 255"
-		"Ubercharge1"			"0 128 255 255"
-		"Ubercharge2"			"0 64 255 255"
+		"Ubercharge Meter"		"255 255 255 255"
+		"Ubercharge1"			"0 255 160 255"
+		"Ubercharge2"			"0 255 128 255"
 
 		//---------------------------------------------
 		// HUD COLORS
@@ -39,6 +39,10 @@ Scheme
 		"AccentMain"			"255 128 0 255"
 		"AccentLight"			"255 160 0 255"
 		"AccentDark"			"255 96 0 255"
+
+		"AccentMainTransparent"		"255 128 0 96"
+		"AccentLightTransparent"	"255 160 0 96"
+		"AccentDarkTransparent"		"255 96 0 96"
 
 		"CRed"					"255 0 96 255"
 		"COrange"				"255 128 0 255"
