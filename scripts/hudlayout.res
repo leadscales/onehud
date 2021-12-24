@@ -30,7 +30,6 @@
 		"fgcolor" 		"Crosshair"
 	}
 	
-	//--------------------------------------------------------------
 
 	HudPlayerStatus
 	{
@@ -103,17 +102,16 @@
 		"tall"			"f0"
 	}
 	
-	HudDemomanCharge
+	"HudDemomanCharge"
 	{
-		"fieldName"	"HudItemEffectMeter"
-		"visible"	"1"
-		"enabled"	"1"
-		"xpos"		"c-75"
-		"ypos"		"c25"
-		"wide"		"150"
-		"tall"		"500"
-		"MeterFG"	"White"
-		"MeterBG"	"Gray"
+		"fieldName"			"HudDemomanCharge"
+		"visible"			"1"
+		"enabled"			"1"
+		"xpos"				"0"
+		"ypos"				"0"
+		"zpos"				"1"
+		"wide"				"f0"
+		"tall"				"480"
 	}
 	
 	HudBowCharge
@@ -1001,17 +999,15 @@
 		"PaintBackgroundType"	"0"
 	}	
 	
-	HudDemomanPipes
+	"HudDemomanPipes"
 	{
-		"fieldName"	"HudItemEffectMeter"
-		"visible"	"1"
-		"enabled"	"1"
-		"xpos"		"c75"
-		"ypos"		"c137"
-		"wide"		"150"
-		"tall"		"50"
-		"MeterFG"	"White"
-		"MeterBG"	"Gray"
+		"fieldName"			"HudDemomanPipes"
+		"visible"			"1"
+		"enabled"			"1"
+		"xpos"				"0"
+		"ypos"				"0"
+		"wide"				"f0"
+		"tall"				"480"
 	}
 
 	HudTeamGoal

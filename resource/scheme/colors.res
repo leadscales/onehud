@@ -6,9 +6,10 @@ Scheme
 		// CUSTOM COLORS
 		//---------------------------------------------
 
-		"Crosshair"				"0 0 0 255"
-		"CrosshairDamage"		"255 0 0 255"		// For no damage flash, set to the
+		"Crosshair"				"255 255 255 255"
+		"CrosshairDamage"		"255 96 0 255"		// For no damage flash, set to the
 													// same value as Crosshair
+		"HitmarkerColor"		"255 96 0 255"
 
 		"HP"					"255 255 255 255"
 		"HP Buff"				"0 255 160 255"
