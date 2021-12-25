@@ -28,16 +28,16 @@
 
 	"BlueScoreBG"
 	{
-		"ControlName"		"EditablePanel"
+		"ControlName"	"EditablePanel"
 		"fieldName"		"BlueScoreBG"
-		"xpos"			"20"
-		"ypos"			"150"
-		"zpos"			"3"
-		"wide"			"50"
-		"tall"			"50"
+		"xpos"			"65"
+		"ypos"			"120"
+		"zpos"			"2"
+		"wide"			"290"
+		"tall"			"30"
 		"visible"		"1"
 		"enabled"		"1"
-		"bgcolor_override"	"CBlue"
+		"bgcolor_override"	"CBlueTransparent"
 
 		if_mvm
 		{
@@ -52,14 +52,56 @@
 		"xpos"			"0"
 		"ypos"			"0"
 		"zpos"			"2"
-		"wide"			"50"
-		"tall"			"80"
+		"wide"			"100"
+		"tall"			"30"
 		"visible"		"1"
 		"enabled"		"1"
-		"bgcolor_override"	"CBlueTransparent"
+		"bgcolor_override"	"CBlue"
+		"pin_to_sibling"	"BlueScoreBG"
+		"pin_corner_to_sibling"			"PIN_CENTER_TOP"
+		"pin_to_sibling_corner"			"PIN_CENTER_TOP"
+
+		if_mvm
+		{
+			"visible"		"0"
+		}
+	}
+
+	"BlueLabel"
+	{
+		"ControlName"		"CExLabel"
+		"fieldName"			"BlueLabel"
+		"xpos"				"0"
+		"ypos"				"0"
+		"zpos"				"3"
+		"wide"				"100"
+		"tall"				"25"
+		"font"				"FontBold28"
+		"textalignment"		"center"
+		"labeltext"			"BLU"
+		"pin_to_sibling"	"BlueScoreBG2"
+
+		if_mvm
+		{
+			"visible"		"0"
+		}
+	}
+
+	"BlueScorePanel"
+	{
+		"ControlName"	"EditablePanel"
+		"fieldName"		"BlueScorePanel"
+		"xpos"			"0"
+		"ypos"			"0"
+		"zpos"			"2"
+		"wide"			"290"
+		"tall"			"125"
+		"visible"		"1"
+		"enabled"		"1"
+		"bgcolor_override"	"TransparentBlack3"
 		"pin_to_sibling"	"BlueScoreBG"
 		"pin_corner_to_sibling"			"PIN_TOPLEFT"
-		"pin_to_sibling_corner"			"PIN_BOTTOMLEFT"
+		"pin_to_sibling_corner"			"PIN_TOPLEFT"
 
 		if_mvm
 		{
@@ -71,14 +113,14 @@
 	{
 		"ControlName"		"EditablePanel"
 		"fieldName"		"RedScoreBG"
-		"xpos"			"r70"
-		"ypos"			"150"
-		"zpos"			"3"
-		"wide"			"50"
-		"tall"			"50"
+		"xpos"			"r355"
+		"ypos"			"120"
+		"zpos"			"2"
+		"wide"			"290"
+		"tall"			"30"
 		"visible"		"1"
 		"enabled"		"1"
-		"bgcolor_override"	"CRed"
+		"bgcolor_override"	"CRedTransparent"
 
 		if_mvm
 		{
@@ -93,14 +135,56 @@
 		"xpos"			"0"
 		"ypos"			"0"
 		"zpos"			"2"
-		"wide"			"50"
-		"tall"			"80"
+		"wide"			"100"
+		"tall"			"30"
 		"visible"		"1"
 		"enabled"		"1"
-		"bgcolor_override"	"CrEDTransparent"
+		"bgcolor_override"	"CRed"
+		"pin_to_sibling"	"RedScoreBG"
+		"pin_corner_to_sibling"			"PIN_CENTER_TOP"
+		"pin_to_sibling_corner"			"PIN_CENTER_TOP"
+
+		if_mvm
+		{
+			"visible"		"0"
+		}
+	}
+
+	"RedLabel"
+	{
+		"ControlName"		"CExLabel"
+		"fieldName"			"RedLabel"
+		"xpos"				"0"
+		"ypos"				"0"
+		"zpos"				"3"
+		"wide"				"100"
+		"tall"				"25"
+		"font"				"FontBold28"
+		"textalignment"		"center"
+		"labeltext"			"RED"
+		"pin_to_sibling"	"RedScoreBG2"
+
+		if_mvm
+		{
+			"visible"		"0"
+		}
+	}
+
+	"RedScorePanel"
+	{
+		"ControlName"	"EditablePanel"
+		"fieldName"		"RedScorePanel"
+		"xpos"			"0"
+		"ypos"			"0"
+		"zpos"			"2"
+		"wide"			"290"
+		"tall"			"125"
+		"visible"		"1"
+		"enabled"		"1"
+		"bgcolor_override"	"TransparentBlack3"
 		"pin_to_sibling"	"RedScoreBG"
 		"pin_corner_to_sibling"			"PIN_TOPRIGHT"
-		"pin_to_sibling_corner"			"PIN_BOTTOMRIGHT"
+		"pin_to_sibling_corner"			"PIN_TOPRIGHT"
 
 		if_mvm
 		{
@@ -134,8 +218,8 @@
 		"xpos"			"0"
 		"ypos"			"0"
 		"zpos"			"4"
-		"wide"			"50"
-		"tall"			"50"
+		"wide"			"30"
+		"tall"			"30"
 		"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"1"
@@ -170,9 +254,9 @@
 		"enabled"		"1"
 		"fgcolor"		"CWhite"
 
-		"pin_to_sibling"	"BlueScoreBG"
-		"pin_corner_to_sibling"	"PIN_BOTTOMRIGHT"
-		"pin_to_sibling_corner"	"PIN_BOTTOMRIGHT"
+		"pin_to_sibling"	"BlueScoreBG2"
+		"pin_corner_to_sibling"	"PIN_CENTER_BOTTOM"
+		"pin_to_sibling_corner"	"PIN_CENTER_BOTTOM"
 
 		if_mvm
 		{
@@ -206,8 +290,8 @@
 		"xpos"			"0"
 		"ypos"			"0"
 		"zpos"			"4"
-		"wide"			"50"
-		"tall"			"50"
+		"wide"			"30"
+		"tall"			"30"
 		"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"1"
@@ -241,9 +325,9 @@
 		"enabled"		"1"
 		"fgcolor"		"CWhite"
 
-		"pin_to_sibling"	"RedScoreBG"
-		"pin_corner_to_sibling"	"PIN_BOTTOMLEFT"
-		"pin_to_sibling_corner"	"PIN_BOTTOMLEFT"
+		"pin_to_sibling"	"RedScoreBG2"
+		"pin_corner_to_sibling"	"PIN_CENTER_BOTTOM"
+		"pin_to_sibling_corner"	"PIN_CENTER_BOTTOM"
 
 		if_mvm
 		{
@@ -351,7 +435,7 @@
 		"ControlName"	"SectionedListPanel"
 		"fieldName"		"BluePlayerList"
 		"xpos"			"70"
-		"ypos"			"190"
+		"ypos"			"150"
 		"zpos"			"20"
 		"wide"			"280"
 		"tall"			"240"
@@ -375,7 +459,7 @@
 		"ControlName"	"SectionedListPanel"
 		"fieldName"		"RedPlayerList"
 		"xpos"			"r350"
-		"ypos"			"190"
+		"ypos"			"150"
 		"zpos"			"20"
 		"wide"			"280"
 		"tall"			"240"
@@ -522,7 +606,7 @@
 
 		if_mvm
 		{
-			"fgcolor"		"CGray8"
+			"fgcolor"		"Blank"
 		}
 	}
 	"HorizontalLine"
@@ -821,7 +905,7 @@
 		{
 			"visible"		"0"
 			"enabled"		"0"
-			"ypos"			"-4"
+			"ypos"			"9999"
 		}
 
 		

@@ -2092,7 +2092,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Light BT"
+				"name"		"Futura Medium BT"
 				"tall"		"9"
 				"tall_hidef"	"12"
 				"tall_lodef"	"14"
@@ -2105,7 +2105,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Light BT"
+				"name"		"Futura Medium BT"
 				"tall"		"10"
 				"tall_hidef"	"12"
 				"tall_lodef"	"14"
@@ -2118,7 +2118,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Light BT"
+				"name"		"Futura Medium BT"
 				"tall"		"10"
 				"weight"	"500"
 				"range"		"0x0000 0x007F"	//	Basic Latin
@@ -2130,7 +2130,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Light BT"
+				"name"		"Futura Medium BT"
 				"tall"		"20"
 				"weight"	"500"
 				"range"		"0x0000 0x007F"	//	Basic Latin
@@ -2142,7 +2142,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Light BT"
+				"name"		"Futura Medium BT"
 				"tall"		"20"
 				"tall_hidef"	"24"
 				"tall_lodef"	"24"
@@ -2156,7 +2156,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Light BT"
+				"name"		"Futura Medium BT"
 				"tall"		"14"
 				"weight"	"500"
 				"range"		"0x0000 0x007F"	//	Basic Latin
@@ -2168,7 +2168,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Light BT"
+				"name"		"Futura Medium BT"
 				"tall"		"14"
 				"weight"	"500"
 				"range"		"0x0000 0x007F"	//	Basic Latin
@@ -2180,7 +2180,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Light BT"
+				"name"		"Futura Medium BT"
 				"tall"		"34"
 				"tall_hidef"	"38"
 				"tall_lodef"	"38"
