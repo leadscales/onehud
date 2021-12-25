@@ -434,7 +434,6 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"border" 		"RefractBorder"
 		"bgcolor_override"			"TransparentBlack2"
 	}
 
