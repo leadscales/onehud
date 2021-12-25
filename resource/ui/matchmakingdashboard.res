@@ -398,8 +398,8 @@
 				"visible"		"1"
 				"enabled"		"1"
 				"tabPosition"	"0"
-				"labeltext"		""
-				"font"			"HudFontSmallBold"
+				"labeltext"		"k"
+				"font"			"Material12"
 				"textAlignment"	"center"
 				"dulltext"		"0"
 				"brighttext"	"0"
@@ -412,26 +412,9 @@
 
 				"paintbackground"	"0"
 
-				"defaultFgColor_override" "CGray5"
-				"armedFgColor_override" "CWhite"
+				"defaultFgColor_override" "CWhite"
+				"armedFgColor_override" "CRed"
 				"depressedFgColor_override" "CGray5"
-
-				"image_drawcolor"	"CWhite"
-				"image_armedcolor"	"AccentMain"
-				"SubImage"
-				{
-					"ControlName"	"ImagePanel"
-					"fieldName"		"SubImage"
-					"xpos"			"0"
-					"ypos"			"0"
-					"zpos"			"1"
-					"wide"			"14"
-					"tall"			"14"
-					"visible"		"1"
-					"enabled"		"1"
-					"image"			"glyph_options"
-					"scaleImage"	"1"
-				}
 			}
 
 			"CloseButton"
@@ -448,8 +431,8 @@
 				"visible"		"1"
 				"enabled"		"1"
 				"tabPosition"	"0"
-				"labeltext"		""
-				"font"			"HudFontSmallBold"
+				"labeltext"		"b"
+				"font"			"Material16"
 				"textAlignment"	"center"
 				"dulltext"		"0"
 				"brighttext"	"0"
@@ -462,27 +445,9 @@
 
 				"paintbackground"	"0"
 
-				"defaultFgColor_override" "CGray5"
-				"armedFgColor_override" "AccentMain"
+				"defaultFgColor_override" "CWhite"
+				"armedFgColor_override" "CRed"
 				"depressedFgColor_override" "CGray5"
-
-				"image_drawcolor"	"CWhite"
-				"image_armedcolor"	"CRed"
-				"SubImage"
-				{
-					"ControlName"	"ImagePanel"
-					"fieldName"		"SubImage"
-					"xpos"			"cs-0.5"
-					"ypos"			"cs-0.5"
-					"zpos"			"1"
-					"wide"			"9"
-					"tall"			"9"
-					"visible"		"1"
-					"enabled"		"1"
-					"image"			"replay/thumbnails/buttons/x"
-					"scaleImage"	"1"
-					"proportionaltoparent"	"1"
-				}
 			}
 		}
 

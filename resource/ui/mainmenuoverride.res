@@ -589,10 +589,6 @@
 		"enabled"		"1"
 		"bgcolor_override"	"Blank"
 
-		"pin_to_sibling"	"ahudLabel"
-		"pin_corner_to_sibling"	"PIN_CENTER_TOP"
-		"pin_to_sibling_corner"	"PIN_CENTER_BOTTOM"
-
 		"navUp"			"Notifications_Panel"
 		"navLeft"		"SettingsButton"
 

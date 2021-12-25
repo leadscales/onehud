@@ -88,7 +88,7 @@
 		"tall"			"21"
 		"visible"		"1"
 		"enabled"		"1"
-		"fillcolor"		"ahudDarkYellow"
+		"fillcolor"		"CYellowDark"
 	}
 
 	"teambuttonBG"
