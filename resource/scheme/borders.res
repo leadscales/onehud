@@ -62,6 +62,24 @@ Scheme
 			}
 		}
 
+		HudMenuBorderUpperAlt
+		{
+			"inset" "0 0 0 0"
+			Top
+			{
+				"1"
+				{
+					"color" "CWhite"
+					"offset" "0 0"
+				}
+				"2"
+				{
+					"color" "CWhite"
+					"offset" "0 0"
+				}
+			}
+		}
+
 		HudPanelBorder
 		{
 			"inset" "0 0 0 0"
@@ -800,9 +818,9 @@ Scheme
 		{
 			"bordertype"			"scalable_image"
 			"backgroundtype"		"2"
-			"color"					"CWhite"
+			"color"					"CGray2"
 
-			"image"					"replay/thumbnails/panels/panel_generic_opaque_shadow"
+			"image"					"replay/thumbnails/panels/panel_generic_shadow"
 			"src_corner_height"		"32"				// pixels inside the image
 			"src_corner_width"		"32"
 			"draw_corner_width"		"8"				// screen size of the corners ( and sides ), proportional

@@ -24,8 +24,8 @@
 		"xpos"			"27"
 		"ypos"			"52"
 		"zpos"			"4"
-		"wide"			"38"
-		"tall"			"38"
+		"wide"			"0"
+		"tall"			"0"
 		"visible"		"0"
 		"enabled"		"0"
 		"scaleImage"	"1"
@@ -115,7 +115,6 @@
 		"pin_to_sibling_corner"	"PIN_TOPLEFT"
 	}
 
-	}
 	"PlayerStatusMaxHealthValue"
 	{
 		"ControlName"	"CExLabel"

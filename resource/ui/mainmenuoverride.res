@@ -189,40 +189,7 @@
 		{
 			"wide"			"o1.6"
 			"tall"			"f0"
-		}
-
-		if_halloween_0
-		{
-			"image"		"../console/background_upward_widescreen"
-		}
-		if_halloween_1
-		{
-			"image"		"../console/background_upward_widescreen"
-		}
-		if_halloween_2
-		{
-			"image"		"../console/background_upward_widescreen"
-		}
-		if_halloween_3
-		{
-			"image"		"../console/background_upward_widescreen"
-		}
-		if_halloween_4
-		{
-			"image"		"../console/background_upward_widescreen"
-		}
-		if_halloween_5
-		{
-			"image"		"../console/background_upward_widescreen"
-		}
-		if_fullmoon
-		{
-			"image"		"../console/background_upward_widescreen"
-		}
-		if_christmas
-		{
-			"image"		"../console/background_upward_widescreen"
-		}
+		}		
 	}
 
 	"TFLogoImage"
@@ -384,7 +351,7 @@
 		"ControlName"	"EditablePanel"
 		"fieldName"		"Notifications_ShowButtonPanel"
 		"xpos"			"0"
-		"ypos"			"0"
+		"ypos"			"-4"
 		"zpos"			"1"
 		"wide"			"80"
 		"tall"			"20"
@@ -423,7 +390,7 @@
 			"sound_released"	"UI/buttonclickrelease.wav"
 			"paintbackground" "0"
 			"border_default"				"NoBorder"
-			"border_armed"					"HudMenuBorderUpper"
+			"border_armed"					"HudMenuBorderUpperAlt"
 
 			"defaultFgColor_override" 	"CWhite"
 			"armedFgColor_override"   	"CWhite"
@@ -854,7 +821,7 @@
 
 				"Slider"
 				{
-					"fgcolor_override"	"TanDark"
+					"fgcolor_override"	"TransparentWhite2"
 				}
 
 				"UpButton"
@@ -887,7 +854,7 @@
 			"proportionaltoparent"	"1"
 			"mouseinputenabled"	"0"
 
-			"bgcolor_override"	"0 0 0 100"
+			"bgcolor_override"	"TransparentBlack5"
 		}
 	}
 
@@ -898,17 +865,17 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"VersionLabel"
 		"font"			"FontRegular8"
-		"labelText"		"v0.2"
-		"textAlignment"	"east"
-		"xpos"			"r52"
-		"ypos"			"r13"
-		"wide"			"46"
+		"labelText"		"v0.4"
+		"textAlignment"	"center"
+		"xpos"			"r20"
+		"ypos"			"r10"
+		"wide"			"20"
 		"tall"			"10"
 		"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"fgcolor_override"	"255 255 255 64"
+		"fgcolor_override"	"TransparentWhite5"
 	}
 
 	"oneHudLabel"

@@ -15,3 +15,4 @@ Colors are also easily customized in the `colors.res` file.
 
 # Credits
 - n0kk : ahud
+- Fraxinus : Testing

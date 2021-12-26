@@ -31,7 +31,7 @@
 			"wide"			"70"
 			"tall"			"50"
 			"bgcolor_override"		"0 0 0 0"
-			"noitem_textcolor"		"117 107 94 255"
+			"noitem_textcolor"		"CGray4"
 			"PaintBackgroundType"	"2"
 			"paintborder"	"0"
 
@@ -85,7 +85,7 @@
 
 		"OutterPanelBG"
 		{
-			"ControlName"		"ScalableImagePanel"
+			"ControlName"	"ScalableImagePanel"
 			"fieldName"		"OutterPanelBG"
 			"xpos"			"0"
 			"ypos"			"0"
@@ -96,10 +96,10 @@
 			"pinCorner"		"0"
 			"visible"		"0"
 			"enabled"		"0"
-			"image"			"../HUD/tournament_panel_brown"
+			"image"			"replay/thumbnails/panels/panel_generic_opaque_shadow"
 
-			"src_corner_height"	"23"	// pixels inside the image
-			"src_corner_width"	"23"
+			"src_corner_height"	"32"	// pixels inside the image
+			"src_corner_width"	"32"
 
 			"draw_corner_width"	"8"		// screen size of the corners ( and sides ), proportional
 			"draw_corner_height" "8"
@@ -336,7 +336,7 @@
 			"visible"		"0"
 			"enabled"		"1"
 			"tabPosition"		"0"
-			"bgcolor_override"	"239 128 73 255"
+			"bgcolor_override"	"CGray2"
 			"PaintBackgroundType"	"0"
 		}
 
@@ -354,7 +354,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"tabPosition"		"0"
-			"bgcolor_override"	"97 94 85 255"
+			"bgcolor_override"	"TransparentWhite5"
 			"PaintBackgroundType"	"0"
 		}
 
@@ -372,7 +372,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"tabPosition"		"0"
-			"bgcolor_override"	"97 94 85 255"
+			"bgcolor_override"	"TransparentWhite5"
 			"PaintBackgroundType"	"0"
 		}
 
@@ -390,7 +390,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"tabPosition"		"0"
-			"bgcolor_override"	"97 94 85 255"
+			"bgcolor_override"	"TransparentWhite5"
 			"PaintBackgroundType"	"0"
 		}
 
@@ -408,7 +408,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"tabPosition"		"0"
-			"bgcolor_override"	"97 94 85 255"
+			"bgcolor_override"	"TransparentWhite5"
 			"PaintBackgroundType"	"0"
 		}
 
@@ -426,7 +426,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"tabPosition"		"0"
-			"bgcolor_override"	"97 94 85 255"
+			"bgcolor_override"	"TransparentWhite5"
 			"PaintBackgroundType"	"0"
 		}
 
@@ -444,7 +444,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"tabPosition"		"0"
-			"bgcolor_override"	"97 94 85 255"
+			"bgcolor_override"	"TransparentWhite5"
 			"PaintBackgroundType"	"0"
 		}
 
@@ -603,7 +603,7 @@
 			"visible"		"0"
 			"enabled"		"0"
 
-			"bgcolor_override"	"72 68 63 255"
+			"bgcolor_override"	"CGray5"
 		}
 
 		"UpgradeItemsLabel"

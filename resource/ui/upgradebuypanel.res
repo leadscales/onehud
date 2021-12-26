@@ -23,7 +23,7 @@
 			"tall"			"16"
 			"textAlignment"	"center"
 			"font"			"HudFontSmallest"
-			"image"			"pve/upgrade_unowned"
+			"image"			"replay/thumbnails/blank"
 			"scaleImage"	"1"
 
 			"defaultFgColor_override"	"UpgradeDefaultFg"
@@ -53,7 +53,7 @@
 		"enabled"		"1"
 
 		"PaintBackgroundType" "0"
-		"bgcolor_override"	"97 94 85 255"
+		"bgcolor_override"	"96 96 96 255"
 	}
 
 	"IconBorder"
@@ -150,7 +150,7 @@
 		"enabled"		"0"
 
 		"PaintBackgroundType" "0"
-		"bgcolor_override"	"117 114 103 255"
+		"bgcolor_override"	"128 128 128 255"
 	}
 
 	"IncrementButton"
@@ -171,20 +171,20 @@
 		"labelText"		""
 		"scaleImage"	"1"
 
-		"activeimage"		"pve/buy_disabled"
-		"inactiveimage"		"pve/buy_disabled"
+		"activeimage"		"replay/thumbnails/buttons/buy_disabled"
+		"inactiveimage"		"replay/thumbnails/buttons/buy_disabled"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
 
-		"defaultFgColor_override"	"255 255 255 0"
-		"defaultBgColor_override"	"255 255 255 0"
-		"armedFgColor_override"		"255 255 255 0"
-		"armedBgColor_override"		"255 255 255 0"
-		"depressedFgColor_override"	"255 255 255 0"
-		"depressedBgColor_override"	"255 255 255 0"
-		"selectedFgColor_override"	"255 255 255 0"
-		"selectedBgColor_override"	"255 255 255 0"
-		"disabledfgcolor2_override"	"255 255 255 0"
+		"defaultFgColor_override"					"CWhite"
+		"defaultBgColor_override"					"Blank"
+		"armedFgColor_override"						"AccentMain"
+		"armedBgColor_override"						"Blank"
+		"depressedFgColor_override"					"CWhite"
+		"depressedBgColor_override"					"Blank"
+		"selectedFgColor_override"					"AccentMain"
+		"selectedBgColor_override"					"Blank"
+		"disabledfgcolor2_override"					"CBlack"
 	}
 
 	"DecrementButton"
@@ -205,19 +205,19 @@
 		"labelText"		""
 		"scaleImage"	"1"
 
-		"activeimage"		"pve/sell_disabled"
-		"inactiveimage"		"pve/sell_disabled"
+		"activeimage"		"replay/thumbnails/buttons/sell_disabled"
+		"inactiveimage"		"replay/thumbnails/buttons/sell_disabled"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
 
-		"defaultFgColor_override"	"255 255 255 0"
-		"defaultBgColor_override"	"255 255 255 0"
-		"armedFgColor_override"		"255 255 255 0"
-		"armedBgColor_override"		"255 255 255 0"
-		"depressedFgColor_override"	"255 255 255 0"
-		"depressedBgColor_override"	"255 255 255 0"
-		"selectedFgColor_override"	"255 255 255 0"
-		"selectedBgColor_override"	"255 255 255 0"
-		"disabledfgcolor2_override"	"255 255 255 0"
+		"defaultFgColor_override"					"CWhite"
+		"defaultBgColor_override"					"Blank"
+		"armedFgColor_override"						"AccentMain"
+		"armedBgColor_override"						"Blank"
+		"depressedFgColor_override"					"CWhite"
+		"depressedBgColor_override"					"Blank"
+		"selectedFgColor_override"					"AccentMain"
+		"selectedBgColor_override"					"Blank"
+		"disabledfgcolor2_override"					"CBlack"
 	}
 }
