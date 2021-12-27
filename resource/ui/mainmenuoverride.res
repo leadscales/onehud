@@ -735,15 +735,13 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldname"		"FriendsContainer"
-		"xpos"			"r180"
+		"xpos"			"r190"
 		"ypos"			"cs-0.5+50"
 		"zpos"			"4"
 		"wide"			"155"
 		"tall"			"232"
 		"visible"		"1"
-
-		"border"		"HudPanelBorder"
-		"bgcolor_override"	"TransparentBlack1"
+		"bgcolor_override"	"TransparentBlack2"
 
 		"TitleLabel"
 		{
@@ -912,21 +910,21 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldname"		"RankContainer"
-		"xpos"			"r180"
+		"xpos"			"r190"
 		"ypos"			"70"
 		"zpos"			"2"
 		"wide"			"155"
 		"tall"			"100"
 		"visible"		"1"
 		"enabled"		"1"
-		"bgcolor_override"			"TransparentBlack1"
+		"bgcolor_override"			"TransparentBlack2"
 	}
 
 	"RankModelPanel"
 	{
 		"ControlName"	"CPvPRankPanel"
 		"fieldName"		"RankModelPanel"
-		"xpos"			"674"
+		"xpos"			"664"
 		"ypos"			"cs-0.5-145"
 
 		"zpos"			"3"
@@ -1196,7 +1194,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"border"		"HudMenuBorderLowerAlt"
-		"alpha"			"128"
+		"alpha"			"64"
 	}
 
 	"LowerDivider"
@@ -1210,6 +1208,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"border"		"HudMenuBorderLowerAlt"
+		"alpha"			"64"
 	}
 
 	"CharacterSetupButton"

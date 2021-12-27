@@ -94,8 +94,8 @@ Scheme
 		ListPanel.TextColor					"AccentMain"
 		ListPanel.BgColor					"TransparentBlack"
 		ListPanel.SelectedTextColor			"Black"
-		ListPanel.SelectedBgColor			"Red"
-		ListPanel.SelectedOutOfFocusBgColor	"Red"
+		ListPanel.SelectedBgColor			"AccentMain"
+		ListPanel.SelectedOutOfFocusBgColor	"AccentMain"
 		ListPanel.EmptyListInfoTextColor	"AccentMain"
 
 		Menu.TextColor					"CWhite"
@@ -131,7 +131,7 @@ Scheme
 		RichText.TextColor				"Gray"
 		RichText.BgColor				"Blank"
 		RichText.SelectedTextColor		"Gray"
-		RichText.SelectedBgColor		"Red"
+		RichText.SelectedBgColor		"AccentMain"
 
 		ScrollBarButton.FgColor				"Gray"
 		ScrollBarButton.BgColor				"Blank"
@@ -150,7 +150,7 @@ Scheme
 		SectionedListPanel.BrightTextColor	"AccentMain"
 		SectionedListPanel.BgColor			"TransparentLightBlack"
 		SectionedListPanel.SelectedTextColor			"Black"
-		SectionedListPanel.SelectedBgColor				"Red"
+		SectionedListPanel.SelectedBgColor				"AccentLight"
 		SectionedListPanel.OutOfFocusSelectedTextColor	"Black"
 		SectionedListPanel.OutOfFocusSelectedBgColor	"255 255 255 32"
 
@@ -173,7 +173,7 @@ Scheme
 		ToggleButton.SelectedTextColor	"AccentMain"
 
 		Tooltip.TextColor			"TransparentBlack"
-		Tooltip.BgColor				"Red"
+		Tooltip.BgColor				"AccentMain"
 
 		TreeView.BgColor			"TransparentBlack"
 

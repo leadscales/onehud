@@ -23,7 +23,7 @@
 		"font"			"FontRegular12"
 		"fgcolor"		"CWhite"
 		"xpos"			"4"
-		"ypos"			"0"
+		"ypos"			"-1"
 		"zpos"			"3"
 		"wide"			"50"
 		"tall"			"19"
@@ -37,7 +37,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"Currency"
-		"font"			"FontRegular12"
+		"font"			"FontBold12"
 		"fgcolor"		"CreditsGreen"
 		"xpos"			"47"
 		"ypos"			"0"

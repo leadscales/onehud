@@ -13,7 +13,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"fillcolor"		"CWhite"
+		"fillcolor"		"TransparentWhite4"
 	}
 
 	"CurrencyLabel"
@@ -23,7 +23,7 @@
 		"font"			"FontRegular12"
 		"fgcolor"		"CGray8"
 		"xpos"			"4"
-		"ypos"			"0"
+		"ypos"			"-1"
 		"zpos"			"3"
 		"wide"			"80"
 		"tall"			"20"
@@ -37,7 +37,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"CurrencyGood"
-		"font"			"FontRegular12"
+		"font"			"FontBold12"
 		"fgcolor"		"CreditsGreen"
 		"xpos"			"47"
 		"ypos"			"0"
@@ -54,7 +54,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"CurrencyBad"
-		"font"			"FontRegular12"
+		"font"			"FontBold12"
 		"fgcolor"		"225 30 30 255"
 		"xpos"			"47"
 		"ypos"			"0"

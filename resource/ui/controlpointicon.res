@@ -84,7 +84,7 @@
 		"xpos"			"0"
 		"ypos"			"0"
 		"zpos"			"0"
-		"wide"			"9"
+		"wide"			"15"
 		"tall"			"20"
 		"visible"		"0"
 		"enabled"		"1"
@@ -93,7 +93,7 @@
 		"dulltext"		"0"
 		"brighttext"	"0"
 		"wrap"			"0"
-		"font"			"ControlPointTimer"
+		"font"			"FontBold12"
 	}
 
 	"CPTimerBG"
@@ -107,7 +107,7 @@
 		"tall"		"30"
 		"visible"		"0"
 		"enabled"		"1"
-		"image"			"../sprites/obj_icons/icon_obj_timer"
+		"image"			"replay/thumbnails/blank"
 		"scaleImage"	"1"
 	}
 }

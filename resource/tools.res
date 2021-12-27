@@ -81,7 +81,7 @@
 			"textalignment"					"center"
 			"armedfgcolor_override"			"CBlue"
 			"actionsignallevel"				"2"
-			"command"						"engine showconsole; clear; echo OneHUD v0.2; echo Made by Lead; echo Based off of aHud by Nokk;"
+			"command"						"engine showconsole; clear; echo OneHUD v0.4; echo Made by Lead; echo Based off of ahud by Nokk;"
 			"sound_depressed"				"UI/buttonclick.wav"
 			"sound_released"				"UI/buttonclickrelease.wav"
 		}

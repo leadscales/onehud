@@ -19,31 +19,31 @@
 
 		"RoundIndicatorPanel_kv"
 		{
-			"ypos"				"3"
+			"ypos"				"24"
 			"wide"				"6"
 			"tall"				"6"
 			"zpos"				"7"
-			"image"				"../hud/comp_round_counter_dot_bg"
+			"image"				"replay/thumbnails/general_icons/round_counter"
 			"scaleimage"		"1"
 		}
 
 		"RoundWinPanelRed_kv"
 		{
-			"ypos"				"-3"
-			"wide"				"17"
-			"tall"				"17"
+			"ypos"				"24"
+			"wide"				"6"
+			"tall"				"6"
 			"zpos"				"8"
-			"image"				"../hud/comp_round_counter_light_red"
+			"image"				"replay/thumbnails/general_icons/round_counter_red"
 			"scaleimage"		"1"
 		}
 
 		"RoundWinPanelBlue_kv"
 		{
-			"ypos"				"-3"
-			"wide"				"17"
-			"tall"				"17"
+			"ypos"				"24"
+			"wide"				"6"
+			"tall"				"6"
 			"zpos"				"8"
-			"image"				"../hud/comp_round_counter_light_blue"
+			"image"				"replay/thumbnails/general_icons/round_counter_blu"
 			"scaleimage"		"1"
 		}
 	}
@@ -70,7 +70,7 @@
 		"wide"			"1"
 		"tall"			"17"
 		"proportionaltoparent"	"1"
-		"bgcolor_override"	"CBlue"
+		"bgcolor_override"	"Blank"
 	}
 	"RedTeamBackground"
 	{
@@ -82,6 +82,6 @@
 		"wide"			"1"
 		"tall"			"17"
 		"proportionaltoparent"	"1"
-		"bgcolor_override"	"CRed"
+		"bgcolor_override"	"Blank"
 	}
 }
