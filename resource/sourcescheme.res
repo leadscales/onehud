@@ -24,11 +24,11 @@ Scheme
 		"CYellowDark"		"192 96 0 255"
 		
 		"CWhite"				"255 255 255 255"
-		"CGrey1"			"128 128 128 255"
+		"CGray1"			"128 128 128 255"
 		
-		"CGrey2"				"64 64 64 255"
-		"CGrey3"			"32 32 32 255"
-		"CGrey4"		"24 24 24 255"
+		"CGray2"				"32 32 32 255"
+		"CGray3"			"24 24 24 255"
+		"CGray4"		"16 16 16 255"
 		
 		"CBlack"				"16 16 16 255"
 		
@@ -104,8 +104,8 @@ Scheme
 		RadioButton.SelectedTextColor	"CWhite"
 		RadioButton.ArmedTextColor		"TFTextMedium"
 		
-		Frame.BgColor					"CGrey2"
-		Frame.OutOfFocusBgColor			"27 27 27 100"
+		Frame.BgColor					"CGray2"
+		Frame.OutOfFocusBgColor			"0 0 0 128"
 		FrameGrip.Color1				"TFTanMedium"
 		FrameGrip.Color2				"CWhite"
 		FrameTitleButton.FgColor		"CWhite"
@@ -147,10 +147,10 @@ Scheme
 		ScrollBarSlider.BgColor				"CBlack"		// this isn't really used
 		ScrollBarSlider.FgColor				"CWhite"		// handle with which the slider is grabbed
 		
-		Slider.NobColor				"TFTanLight"		
+		Slider.NobColor				"CWhite"		
 		Slider.TextColor			"CWhite"
 		Slider.TrackColor			"TransparentBlack1"
-		Slider.DisabledTextColor1	"TFTextMediumDark"
+		Slider.DisabledTextColor1	"CGray2"
         Slider.DisabledTextColor2	"Blank"
 		
 		TextEntry.TextColor			        "CWhite"
@@ -291,7 +291,7 @@ Scheme
                 "yres"         "768 1023"
                 "outline"     "1"  //"1" //Adds a black outline around the text, good for standing out... that is, if the font allows it, use with caution on smaller fonts.
                 "additive"     "0"  //not default added //This adds white to font...sort of a glow effect on coloured fonts and gives a washed out pastel look
-                "antialias"  "0"  //not default added //smoothing the edges.
+                "antialias"  "1"  //not default added //smoothing the edges.
             }
             "4" //For screen heights between 1024 and 1199 (eg 4:3 aspect Width 1280X1024 High, Width 1400X1050 High...    16:9 aspect Width 1920x1080 High... 16:10 aspect Width 1680x1050 High.)
             {
@@ -307,7 +307,7 @@ Scheme
                 "yres"         "1024 1199"
                 "outline"     "1"  //"1" //Adds a black outline around the text, good for standing out... that is, if the font allows it, use with caution on smaller fonts.
                 "additive"     "0"  //not default added //This adds white to font...sort of a glow effect on coloured fonts and gives a washed out pastel look
-                "antialias"  "0"  //not default added //smoothing the edges.
+                "antialias"  "1"  //not default added //smoothing the edges.
             }
             "5" //For screen heights between 1200 and 6000 (6000...wow that's freaking huge!) (eg 4:3 aspect Width 1600X1200 High... 16:10 aspect Width 1920x1200 High.... and beyond) 
             {
@@ -323,14 +323,24 @@ Scheme
                 "yres"         "1200 6000"
                 "outline"     "1"  //"1" //Adds a black outline around the text, good for standing out... that is, if the font allows it, use with caution on smaller fonts.
                 "additive"     "0"  //not default added //This adds white to font...sort of a glow effect on coloured fonts and gives a washed out pastel look
-                "antialias"  "0"  //not default added //smoothing the edges.
+                "antialias"  "1"  //not default added //smoothing the edges.
             }
+		}
+		"ConsoleText"
+		{
+			"1"
+			{
+				"name"		"JetBrains Mono Bold"
+				"tall" 		"14"
+				"weight" 	"200"
+				"antialias"	"1"
+			}
 		}
 		"FontBold35"
 		{
 			"1"
 			{
-				"name"		"Code-Pro-Bold"
+				"name"		"Futura Medium BT"
 				"tall"		"35"
 				"additive"	"0"
 				"antialias" "1"
@@ -340,7 +350,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"Futura Medium BT"
 				"tall"		"16"
 				"additive"	"0"
 				"antialias" "1"
@@ -350,7 +360,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"Futura Medium BT"
 				"tall"		"17"
 				"additive"	"0"
 				"antialias" "1"
@@ -360,7 +370,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"Futura Medium BT"
 				"tall"		"18"
 				"additive"	"0"
 				"antialias" "1"
@@ -370,7 +380,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"Futura Medium BT"
 				"tall"		"19"
 				"additive"	"0"
 				"antialias" "1"
@@ -380,7 +390,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"Futura Medium BT"
 				"tall"		"20"
 				"additive"	"0"
 				"antialias" "1"
@@ -390,7 +400,7 @@ Scheme
 		{
 			"1"	[$WIN32]
 			{
-				"name"		"TF2 Build"
+				"name"		"Futura Medium BT"
 				"tall"		"18"
 				"weight"	"500"
 				"additive"	"0"
@@ -401,7 +411,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"Futura Medium BT"
 				"tall"		"18"
 				"weight"	"0"
 				"antialias"	"1"
@@ -412,7 +422,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-Bold"
+				"name"		"Futura Medium BT"
 				"tall"		"35"
 				"antialias" "1"
 			}
@@ -422,7 +432,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Verdana"
+				"name"		"Futura Medium BT"
 				"tall"		"14"
 				"weight"	"500"
 			}
@@ -432,7 +442,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Tahoma"
+				"name"		"Futura Medium BT"
 				"tall"		"16"
 				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -440,7 +450,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"Tahoma"
+				"name"		"Futura Medium BT"
 				"tall"		"16"
 				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -448,7 +458,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"Tahoma"
+				"name"		"Futura Medium BT"
 				"tall"		"16"
 				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -457,7 +467,7 @@ Scheme
 			}
 			"4"
 			{
-				"name"		"Tahoma"
+				"name"		"Futura Medium BT"
 				"tall"		"19"
 				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -466,7 +476,7 @@ Scheme
 			}
 			"5"
 			{
-				"name"		"Tahoma"
+				"name"		"Futura Medium BT"
 				"tall"		"19"
 				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -804,13 +814,13 @@ Scheme
 		}
 		"2"
 		{
-			"font"	"resource/fonts/CodeProBold.otf"
-			"name"	"Code-Pro-Bold"
+			"font"	"resource/fonts/FuturaMedium.ttf"
+			"name"	"Futura Medium BT"
 		}
 		"3"
 		{
-			"font"	"resource/fonts/CodeProLC.otf"
-			"name"	"Code-Pro-LC"
+			"font"	"resource/fonts/JBMonoBold.ttf"
+			"name"	"JetBrains Mono Bold"
 		}
 	}
 }

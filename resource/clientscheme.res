@@ -43,30 +43,20 @@ Scheme
 		}
 		"8"
 		{
-			"font"	"resource/fonts/CodeProBold.otf"
-			"name"	"Code-Pro-Bold"
-		}
-		"9"
-		{
-			"font"	"resource/fonts/CodeProLC.otf"
-			"name"	"Code-Pro-LC"
-		}
-		"10"
-		{
 			"font"	"resource/fonts/FuturaLight.ttf"
 			"name"	"Futura Light BT"
 		}
-		"11"
+		"9"
 		{
 			"font"	"resource/fonts/FuturaMedium.ttf"
 			"name"	"Futura Medium BT"
 		}
-		"12"
+		"10"
 		{
 			"font" "resource/fonts/KnucklesCrosses.ttf"
 			"name" "KnucklesCrosses"
 		}
-		"13"
+		"11"
 		{
 			"font"	"resource/fonts/icons.ttf"
 			"name"	"icons"
