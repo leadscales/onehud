@@ -139,7 +139,7 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"TabContainer"
-		"xpos"			"c-100"
+		"xpos"			"c-80"
 		"ypos"			"55"
 		"zpos"			"100"
 		"wide"			"399"

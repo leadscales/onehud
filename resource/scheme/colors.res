@@ -178,20 +178,20 @@ Scheme
 		"StoreGreen"			"76 107 34 255"
 
 		// Building HUD Specific
-		"LowHealthRed"		"255 0 0 255"
-		"ProgressOffWhite"	"251 235 202 255"
-		"ProgressBackground"	"250 234 201 51"
-		"HealthBgGrey"		"72 71 69 255"
+		"LowHealthRed"		"255 0 96 255"
+		"ProgressOffWhite"	"255 255 255 160"
+		"ProgressBackground"	"0 0 0 96"
+		"HealthBgGrey"		"255 255 255 96"
 
-		"ProgressOffWhiteTransparent"	"251 235 202 128"
+		"ProgressOffWhiteTransparent"	"255 255 255 128"
 
 		"LabelDark"			"48 48 48 255"
 		"LabelTransparent"	"96 96 96 192"
 
-		"BuildMenuActive"	"248 231 198 255"
+		"BuildMenuActive"	"255 255 255 255"
 
-		"DisguiseMenuIconRed"	"192 56 63 255"
-		"DisguiseMenuIconBlue"	"92 128 166 255"
+		"DisguiseMenuIconRed"	"255 0 96 255"
+		"DisguiseMenuIconBlue"	"0 160 255 255"
 
  		"MatchmakingDialogTitleColor"			"224 224 224 255"
  		"MatchmakingMenuItemBackground"			"48 48 48 255"

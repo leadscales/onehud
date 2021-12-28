@@ -4,12 +4,12 @@ Scheme
 	{
 		// vgui_controls color specifications
 		ReplayBrowser.BgColor								"CGray6"
-		ReplayBrowser.Details.TitleEdit.Carat.FgColor		"LightRed"
+		ReplayBrowser.Details.TitleEdit.Carat.FgColor		"AccentMain"
 		ReplayBrowser.Button.ArmedBgColor					"AccentMain"
 		ReplayBrowser.Button.DepressedBgColor				"AccentMain"
 		ReplayBrowser.CollectionTitle.FgColor				"LightRed"
-		ReplayBrowser.Warning.FgColor						"White"
-		ReplayBrowser.ScrollBar.SliderButton.FgColor		"TransparentYellow"
+		ReplayBrowser.Warning.FgColor						"CWhite"
+		ReplayBrowser.ScrollBar.SliderButton.FgColor		"AccentLight"
 		ReplayBrowser.Search.BgColor						"CBlack"
 		ReplayBrowser.Search.FgColor						"CWhite"
 
@@ -83,10 +83,10 @@ Scheme
 		GraphPanel.FgColor				"AccentMain"
 		GraphPanel.BgColor				"TransparentBlack"
 
-		Label.TextDullColor				"TanDark"
+		Label.TextDullColor				"TransparentWhite1"
 		Label.TextColor					"CWhite"
 		Label.TextBrightColor			"CWhite"
-		Label.SelectedTextColor			"White"
+		Label.SelectedTextColor			"CWhite"
 		Label.BgColor					"Blank"
 		Label.DisabledFgColor1			"Blank"
 		Label.DisabledFgColor2			"Black"
@@ -106,7 +106,7 @@ Scheme
 
 		Chat.TypingText					"AccentMain"
 
-		Panel.FgColor					"Gray"
+		Panel.FgColor					"CWhite"
 		Panel.BgColor					"Blank"
 
 		HTML.BgColor					"Blank"
@@ -114,8 +114,8 @@ Scheme
 		ProgressBar.FgColor				"ProgressOffWhite"
 		ProgressBar.BgColor				"ProgressBackground"
 
-		CircularProgressBar.FgColor		"White"
-		CircularProgressBar.BgColor		"White"
+		CircularProgressBar.FgColor		"CWhite"
+		CircularProgressBar.BgColor		"CWhite"
 
 		"BuildingHealthBar.BgColor"		"HealthBgGrey"
 		"BuildingHealthBar.Health"		"ProgressOffWhite"
@@ -133,14 +133,14 @@ Scheme
 		RichText.SelectedTextColor		"Gray"
 		RichText.SelectedBgColor		"AccentMain"
 
-		ScrollBarButton.FgColor				"Gray"
+		ScrollBarButton.FgColor				"CWhite"
 		ScrollBarButton.BgColor				"Blank"
-		ScrollBarButton.ArmedFgColor		"Gray"
+		ScrollBarButton.ArmedFgColor		"CWhite"
 		ScrollBarButton.ArmedBgColor		"Blank"
 		ScrollBarButton.DepressedFgColor	"Black"
 		ScrollBarButton.DepressedBgColor	"Blank"
 
-		ScrollBarSlider.FgColor				"Gray"		// nob color
+		ScrollBarSlider.FgColor				"CWhite"		// nob color
 		ScrollBarSlider.BgColor				"Blank"		// slider background color
 
 		SectionedListPanel.HeaderTextColor	"AccentMain"

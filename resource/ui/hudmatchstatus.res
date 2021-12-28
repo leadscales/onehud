@@ -332,7 +332,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 
-		"max_size"	"20"
+		"max_size"	"15"
 
 		"6v6_gap"	"2"
 		"12v12_gap"	"2"
