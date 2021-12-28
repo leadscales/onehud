@@ -11,9 +11,9 @@
 		"wide"			"250"
 		"tall"			"300"
 		"visible"		"0"
-		"bgcolor_override"		"0 0 0 0"
-		"noitem_textcolor"		"117 107 94 255"
-		"PaintBackgroundType"	"2"
+		"bgcolor_override"		"Blank"
+		"noitem_textcolor"		"CGray7"
+		"PaintBackgroundType"	"0"
 		"paintborder"	"1"
 
 		"text_ypos"			"0"
@@ -36,7 +36,7 @@
 			"enabled"		"1"
 			"labelText"		"%attriblist%"
 			"textAlignment"	"center"
-			"fgcolor"		"117 107 94 255"
+			"fgcolor"		"CGray7"
 			"centerwrap"	"1"
 		}
 	}
@@ -139,7 +139,7 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"TabContainer"
-		"xpos"			"c-80"
+		"xpos"			"c-100"
 		"ypos"			"55"
 		"zpos"			"100"
 		"wide"			"399"
@@ -161,7 +161,9 @@
 			"enabled"		"1"
 			"tabPosition"		"0"
 			"bgcolor_override"	"CGray7"
-			"PaintBackgroundType"	"2"
+			"PaintBackgroundType"	"0"
+			"paintborder"			"1"
+			"border"				"HudMenuBorderLower"
 			"proportionalToParent"	"1"
 		}
 
@@ -179,8 +181,10 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"tabPosition"		"0"
-			"bgcolor_override"	"77 72 68 255"
-			"PaintBackgroundType"	"2"
+			"bgcolor_override"	"CGray7"
+			"PaintBackgroundType"	"0"
+			"paintborder"			"1"
+			"border"				"HudMenuBorderLower"
 			"proportionalToParent"	"1"
 		}
 
@@ -198,8 +202,10 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"tabPosition"		"0"
-			"bgcolor_override"	"77 72 68 255"
-			"PaintBackgroundType"	"2"
+			"bgcolor_override"	"CGray7"
+			"PaintBackgroundType"	"0"
+			"paintborder"			"1"
+			"border"				"HudMenuBorderLower"
 			"proportionalToParent"	"1"
 		}
 
@@ -217,8 +223,10 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"tabPosition"		"0"
-			"bgcolor_override"	"77 72 68 255"
-			"PaintBackgroundType"	"2"
+			"bgcolor_override"	"CGray7"
+			"PaintBackgroundType"	"0"
+			"paintborder"			"1"
+			"border"				"HudMenuBorderLower"
 			"proportionalToParent"	"1"
 		}
 
@@ -236,8 +244,10 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"tabPosition"		"0"
-			"bgcolor_override"	"77 72 68 255"
-			"PaintBackgroundType"	"2"
+			"bgcolor_override"	"CGray7"
+			"PaintBackgroundType"	"0"
+			"paintborder"			"1"
+			"border"				"HudMenuBorderLower"
 			"proportionalToParent"	"1"
 		}
 
@@ -255,8 +265,10 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"tabPosition"		"0"
-			"bgcolor_override"	"77 72 68 255"
-			"PaintBackgroundType"	"2"
+			"bgcolor_override"	"CGray7"
+			"PaintBackgroundType"	"0"
+			"paintborder"			"1"
+			"border"				"HudMenuBorderLower"
 			"proportionalToParent"	"1"
 		}
 	}

@@ -9,7 +9,7 @@
 		"ypos"			"25"
 		"zpos"			"1002"
 		"wide"			"420"
-		"tall"			"f80"
+		"tall"			"f85"
 		"visible"		"1"
 		"proportionaltoparent"	"1"
 	}
@@ -19,10 +19,10 @@
 		"ControlName"	"CMVMCriteriaPanel"
 		"fieldName"		"criteria"
 		"xpos"			"5"
-		"ypos"			"15"
+		"ypos"			"0"
 		"zpos"			"100"
 		"wide"			"410"
-		"tall"			"f50"
+		"tall"			"f80"
 		"visible"		"1"
 		"proportionaltoparent"	"1"
 

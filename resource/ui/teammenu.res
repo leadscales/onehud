@@ -432,9 +432,9 @@
 		"tall"			"480"
 		"autoResize"	"0"
 		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
-		"bgcolor_override"			"TransparentBlack2"
+		"visible"		"0"
+		"enabled"		"0"
+		"bgcolor_override"			"TransparentBlack1"
 	}
 
 	"ShadedBar"

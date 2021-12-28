@@ -473,22 +473,22 @@
 		"wide"	 "628"
 		"tall"	 "468"
 
-		"MaxDeathNotices" "6"
+		"MaxDeathNotices" "12"
 		"IconScale"	  "0.35"
 		"LineHeight"	  "12"
-		"LineSpacing"	  "0"
+		"LineSpacing"	  "1"
 		"CornerRadius"	  "0"
 		"RightJustify"	  "1"	// If 1, draw notices from the right
 		
-		"TextFont"		"FontRegular10"
+		"TextFont"		"FontBold10"
 		
 		"TeamBlue"		"CBlue"
 		"TeamRed"		"CRed"
 		"IconColor"		"CWhite"
 		"LocalPlayerColor"	"CBlack"
 
-		"BaseBackgroundColor"	"TransparentBlack1"
-		"LocalBackgroundColor"	"CWhite"
+		"BaseBackgroundColor"	"TransparentBlack4"
+		"LocalBackgroundColor"	"TransparentWhite2"
 	}
 
 	HudVehicle

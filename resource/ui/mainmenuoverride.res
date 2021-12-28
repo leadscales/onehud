@@ -351,9 +351,9 @@
 		"ControlName"	"EditablePanel"
 		"fieldName"		"Notifications_ShowButtonPanel"
 		"xpos"			"0"
-		"ypos"			"-4"
+		"ypos"			"-1"
 		"zpos"			"1"
-		"wide"			"80"
+		"wide"			"20"
 		"tall"			"20"
 		"autoResize"	"0"
 		"pinCorner"		"3"
@@ -363,7 +363,7 @@
 
 		"pin_to_sibling"				"UpperDivider"
 		"pin_corner_to_sibling" 		"PIN_TOPLEFT"
-		"pin_to_sibling_corner"			"PIN_TOPLEFT"
+		"pin_to_sibling_corner"			"PIN_BOTTOMLEFT"
 
 		"SubImage"
 		{
@@ -389,8 +389,6 @@
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
 			"paintbackground" "0"
-			"border_default"				"NoBorder"
-			"border_armed"					"HudMenuBorderUpperAlt"
 
 			"defaultFgColor_override" 	"CWhite"
 			"armedFgColor_override"   	"CWhite"
@@ -423,15 +421,15 @@
 			"xpos"			"0"
 			"ypos"			"0"
 			"zpos"			"1"
-			"wide"			"80"
+			"wide"			"20"
 			"tall"			"20"
 			"autoResize"	"0"
 			"pinCorner"		"3"
 			"visible"		"1"
 			"enabled"		"1"
 			"tabPosition"	"0"
-			"labelText"		"Notification"
-			"font"			"FontRegular16"
+			"labelText"		"p"
+			"font"			"Material16"
 			"textAlignment"	"center"
 			"dulltext"		"0"
 			"brighttext"	"0"
@@ -445,8 +443,8 @@
 			"sound_released"	"UI/buttonclickrelease.wav"
 			"paintbackground" "0"
 
-			"defaultFgColor_override" 	"255 255 255 255"
-			"armedFgColor_override"   	"255 255 255 255"
+			"defaultFgColor_override" 	"CWhite"
+			"armedFgColor_override"   	"AccentMain"
 		}
 	}
 
@@ -964,8 +962,8 @@
 	{
 		"ControlName"	"CExImageButton"
 		"fieldName"		"CycleRankTypeButton"
-		"xpos"			"r175"
-		"ypos"			"67"
+		"xpos"			"r188"
+		"ypos"			"73"
 		"zpos"			"50"
 		"wide"			"15"
 		"tall"			"12"
@@ -974,8 +972,8 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"	"0"
-		"labelText"		"..."
-		"font"			"FontBold20"
+		"labelText"		"q"
+		"font"			"Material12"
 		"textAlignment"	"center"
 		"dulltext"		"0"
 		"brighttext"	"0"

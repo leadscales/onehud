@@ -60,21 +60,6 @@
 		"fillcolor"			"CWhite"
 	}
 
-	"Ray"
-	{
-		"ControlName"		"CTFImagePanel"
-		"fieldName"			"Ray"
-		"xpos"				"cs-0.5"
-		"ypos"				"-80"
-		"zpos"				"5"
-		"wide"				"200"
-		"tall"				"400"
-		"scaleImage"		"1"
-		"image"				"replay/thumbnails/effects/ray_red"
-		"teambg_2"			"replay/thumbnails/effects/ray_red"
-		"teambg_3"			"replay/thumbnails/effects/ray_blu"
-	}
-
 	"scout"
 	{
 		"ControlName"		"CExButton"

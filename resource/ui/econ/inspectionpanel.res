@@ -13,6 +13,11 @@
 		"visible"			"1"
 		"enabled"			"1"
 		"scaleImage"		"1"
+
+		"consume_mode"
+		{
+			"wide"									"0"
+		}
 	}
 
 	"BackgroundPanel"

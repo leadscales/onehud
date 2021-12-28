@@ -409,6 +409,47 @@
 		"enabled"		"1"
 		"image"			"../sprites/obj_icons/icon_obj_5_neutral_locked"
 	}
+
+	"CPIconMVM"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"CPIconMVM"
+		"xpos"			"9999"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"../sprites/obj_icons/icon_obj_blu_mannhattan"
+	}
+
+	"CPIconMVMLocked"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"CPIconMVMLocked"
+		"xpos"			"9999"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"../sprites/obj_icons/icon_obj_blu_mannhattan_locked"
+	}
+
+	"CPIconWhite"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"CPIconWhite"
+		"xpos"			"9999"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"../sprites/obj_icons/icon_obj_white"
+	}
+
+	"CPMask"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"CPMask"
+		"xpos"			"9999"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"../sprites/obj_icons/icon_obj_cap_mask"
+	}
+
 	// CTF
 	"CaptureDropped"
 	{
