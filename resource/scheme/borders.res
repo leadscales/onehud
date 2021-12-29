@@ -80,6 +80,130 @@ Scheme
 			}
 		}
 
+		DoubleGayBabyBorder
+		{
+			"inset" "0 0 0 0"
+			Top
+			{
+				"1"
+				{
+					"color" "AccentMain"
+					"offset" "0 0"
+				}
+				"2"
+				{
+					"color" "AccentMain"
+					"offset" "0 0"
+				}
+			}
+			Bottom
+			{
+				"1"
+				{
+					"color" "AccentMain"
+					"offset" "0 0"
+				}
+				"2"
+				{
+					"color" "AccentMain"
+					"offset" "0 0"
+				}
+			}
+		}
+
+		DoubleGayBabyBorderAlt
+		{
+			"inset" "0 0 0 0"
+			Top
+			{
+				"1"
+				{
+					"color" "CWhite"
+					"offset" "0 0"
+				}
+				"2"
+				{
+					"color" "CWhite"
+					"offset" "0 0"
+				}
+			}
+			Bottom
+			{
+				"1"
+				{
+					"color" "CWhite"
+					"offset" "0 0"
+				}
+				"2"
+				{
+					"color" "CWhite"
+					"offset" "0 0"
+				}
+			}
+		}
+
+		DoubleGayBabyBorderRed
+		{
+			"inset" "0 0 0 0"
+			Top
+			{
+				"1"
+				{
+					"color" "CRed"
+					"offset" "0 0"
+				}
+				"2"
+				{
+					"color" "CRed"
+					"offset" "0 0"
+				}
+			}
+			Bottom
+			{
+				"1"
+				{
+					"color" "CRed"
+					"offset" "0 0"
+				}
+				"2"
+				{
+					"color" "CRed"
+					"offset" "0 0"
+				}
+			}
+		}
+
+		DoubleGayBabyBorderBlue
+		{
+			"inset" "0 0 0 0"
+			Top
+			{
+				"1"
+				{
+					"color" "CBlue"
+					"offset" "0 0"
+				}
+				"2"
+				{
+					"color" "CBlue"
+					"offset" "0 0"
+				}
+			}
+			Bottom
+			{
+				"1"
+				{
+					"color" "CBlue"
+					"offset" "0 0"
+				}
+				"2"
+				{
+					"color" "CBlue"
+					"offset" "0 0"
+				}
+			}
+		}
+
 		HudPanelBorder
 		{
 			"inset" "0 0 0 0"

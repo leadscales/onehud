@@ -154,11 +154,11 @@ Scheme
 		SectionedListPanel.OutOfFocusSelectedTextColor	"Black"
 		SectionedListPanel.OutOfFocusSelectedBgColor	"255 255 255 32"
 
-		Slider.NobColor				"128 128 128 255"
-		Slider.TextColor			"128 128 128 255"
-		Slider.TrackColor			"32 32 32 255"
-		Slider.DisabledTextColor1	"128 128 128 255"
-		Slider.DisabledTextColor2	"32 32 32 255"
+		Slider.NobColor				"CWhite"
+		Slider.TextColor			"CWhite"
+		Slider.TrackColor			"TransparentWhite1"
+		Slider.DisabledTextColor1	"CGray2"
+		Slider.DisabledTextColor2	"CGray3"
 
 		TextEntry.TextColor			"Gray"
 		TextEntry.BgColor			"Blank"
