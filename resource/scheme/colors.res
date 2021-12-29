@@ -216,10 +216,10 @@ Scheme
 		"ItemLimitedQuantity"					"255 128 0 255"
 
 		"QualityColorNormal"					"240 240 240 255"
-		"QualityColorrarity1"					"0 0 0 255"
-		"QualityColorrarity2"					"0 0 0 255"
-		"QualityColorrarity3"					"0 0 0 255"
-		"QualityColorrarity4"					"0 0 0 255"
+		"QualityColorrarity1"					"128 224 160 255" // Genuine
+		"QualityColorrarity2"					"0 0 0 255" // Unused
+		"QualityColorrarity3"					"0 0 0 255" // Unused
+		"QualityColorrarity4"					"192 128 255 255" // Unusual
 		"QualityColorVintage"					"80 96 144 255"
 		"QualityColorUnique"					"255 240 144 255"
 		"QualityColorCommunity"					"176 240 144 255"
@@ -249,10 +249,10 @@ Scheme
 		"ItemRarityAncient_GreyedOut"			"78 25 25 255"
 
 		"QualityColorNormal_GreyedOut"			"240 240 240 255"
-		"QualityColorrarity1_GreyedOut"			"0 0 0 255"
+		"QualityColorrarity1_GreyedOut"			"144 240 176 255"
 		"QualityColorrarity2_GreyedOut"			"0 0 0 255"
 		"QualityColorrarity3_GreyedOut"			"0 0 0 255"
-		"QualityColorrarity4_GreyedOut"			"0 0 0 255"
+		"QualityColorrarity4_GreyedOut"			"208 144 255 255"
 		"QualityColorVintage_GreyedOut"			"80 96 144 255"
 		"QualityColorUnique_GreyedOut"			"255 240 144 255"
 		"QualityColorCommunity_GreyedOut"		"176 240 144 255"
