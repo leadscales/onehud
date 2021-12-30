@@ -80,6 +80,42 @@ Scheme
 			}
 		}
 
+		HudMenuBorderUpperRed
+		{
+			"inset" "0 0 0 0"
+			Top
+			{
+				"1"
+				{
+					"color" "CRed"
+					"offset" "0 0"
+				}
+				"2"
+				{
+					"color" "CRed"
+					"offset" "0 0"
+				}
+			}
+		}
+
+		HudMenuBorderUpperBlue
+		{
+			"inset" "0 0 0 0"
+			Top
+			{
+				"1"
+				{
+					"color" "CBlue"
+					"offset" "0 0"
+				}
+				"2"
+				{
+					"color" "CBlue"
+					"offset" "0 0"
+				}
+			}
+		}
+
 		DoubleGayBabyBorder
 		{
 			"inset" "0 0 0 0"
