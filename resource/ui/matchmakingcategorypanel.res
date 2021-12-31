@@ -152,7 +152,7 @@
 			"default"		"1"
 			"proportionaltoparent" "1"
 			"mouseinputenabled"	"0"
-			"fgcolor"		"TanLight"
+			"fgcolor"		"CGray1"
 		}
 
 		"TitleShadow"
@@ -200,7 +200,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"wrap"			"1"
-			"fgcolor_override" "TanLight"
+			"fgcolor_override" "CGray1"
 			"proportionaltoparent" "1"
 			"mouseinputenabled"	"0"
 		}

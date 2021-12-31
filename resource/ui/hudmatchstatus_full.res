@@ -76,7 +76,7 @@
 		"labelText"		"%countdown%"
 		"textAlignment"	"center"
 		"proportionaltoparent"	"1"
-		"fgcolor"		"TanLight"
+		"fgcolor"		"CGray1"
 
 		if_readymode
 		{
@@ -280,8 +280,8 @@
 		"delta_item_x"			"31"
 		"delta_item_start_y"	"14"
 		"delta_item_end_y"		"34"
-		"PositiveColor"			"CGreen"
-		"NegativeColor"			"CRed"
+		"PositiveColor"			"CPositive"
+		"NegativeColor"			"CNegative"
 		"delta_lifetime"		"2"
 		"delta_item_font"		"FontRegular14"
 
@@ -291,8 +291,8 @@
 			"delta_item_x"			"31"
 			"delta_item_start_y"	"23"
 			"delta_item_end_y"		"43"
-			"PositiveColor"			"CGreen"
-			"NegativeColor"			"CRed"
+			"PositiveColor"			"CPositive"
+			"NegativeColor"			"CNegative"
 			"delta_lifetime"		"2"
 			"delta_item_font"		"FontRegular14"
 		}
@@ -445,7 +445,7 @@
 				"dulltext"				"0"
 				"brighttext"			"0"
 				"bgcolor_override"	  	"Blank"
-				"fgcolor_override"	  	"CGreen"
+				"fgcolor_override"	  	"HP Buff"
 				"proportionaltoparent"	"1"
 			}
 			"HealthIcon"
@@ -504,7 +504,7 @@
 			{
 				"ControlName"	"CExLabel"
 				"fieldName"		"respawntime"
-				"font"			"PlayerPanelPlayerName"
+				"font"			"FontBold9"
 				"xpos"			"cs-0.5"
 				"ypos"			"0"
 				"zpos"			"5"

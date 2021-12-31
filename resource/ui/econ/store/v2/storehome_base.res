@@ -333,9 +333,9 @@
 			"scaleImage"		"1"
 			"font"			"FontRegular14"
 
-			"fgcolor"	"TanDark"
+			"fgcolor"	"CGray3"
 			"defaultBgColor_override" "CGray5"
-			"defaultFgColor_override" "TanDark"
+			"defaultFgColor_override" "CGray3"
 			"armedBgColor_override" "CGray5"
 			"armedFgColor_override" "CWhite"
 			"selectedBgColor_override" "CGray8"

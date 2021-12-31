@@ -113,8 +113,8 @@
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
 
-			"image_drawcolor"	"TanLight"
-			"image_armedcolor"	"TanLight"
+			"image_drawcolor"	"CGray1"
+			"image_armedcolor"	"CGray1"
 
 			"SubImage"
 			{
@@ -413,7 +413,7 @@
 				"paintbackground"	"0"
 
 				"defaultFgColor_override" "CWhite"
-				"armedFgColor_override" "CRed"
+				"armedFgColor_override" "CNegative"
 				"depressedFgColor_override" "CGray5"
 			}
 
@@ -446,7 +446,7 @@
 				"paintbackground"	"0"
 
 				"defaultFgColor_override" "CWhite"
-				"armedFgColor_override" "CRed"
+				"armedFgColor_override" "CNegative"
 				"depressedFgColor_override" "CGray5"
 			}
 		}
@@ -506,7 +506,7 @@
 				"visible"		"1"
 				"enabled"		"1"
 				"font"			"HudFontSmallestBold"
-				"fgcolor_override"	"TanLight"
+				"fgcolor_override"	"CGray1"
 				"textAlignment"	"west"
 				"labelText"		"#TF_MM_JoinPartyLobby_Prompt"
 				"proportionaltoparent"	"1"
@@ -582,7 +582,7 @@
 			"RoundedCorners"			"0"
 
 			"armedBgColor_override"		"Blank"
-			"armedFgColor_override"		"CRed"
+			"armedFgColor_override"		"CNegative"
 			"defaultFgColor_override" 	"CWhite"
 			"defaultBgColor_override" 	"Blank"
 
@@ -619,7 +619,7 @@
 			"textinsety"				"6"
 
 			"armedBgColor_override"		"Blank"
-			"armedFgColor_override"		"CRed"
+			"armedFgColor_override"		"CNegative"
 			"defaultFgColor_override" 	"CWhite"
 			"defaultBgColor_override" 	"Blank"
 
@@ -658,7 +658,7 @@
 			"sound_released"			"UI/buttonclickrelease.wav"
 
 			"armedBgColor_override"		"Blank"
-			"armedFgColor_override"		"CGreen"
+			"armedFgColor_override"		"CPositive"
 			"defaultFgColor_override" 	"CWhite"
 			"defaultBgColor_override" 	"Blank"
 		}
@@ -694,7 +694,7 @@
 			"sound_released"			"UI/buttonclickrelease.wav"
 
 			"armedBgColor_override"		"Blank"
-			"armedFgColor_override"		"CGreen"
+			"armedFgColor_override"		"CPositive"
 			"defaultFgColor_override" 	"CWhite"
 			"defaultBgColor_override" 	"Blank"
 		}

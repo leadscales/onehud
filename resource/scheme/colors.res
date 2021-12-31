@@ -47,6 +47,9 @@ Scheme
 		"AccentLightTransparent"	"255 160 0 96"
 		"AccentDarkTransparent"		"255 96 0 96"
 
+		"CPositive"				"0 192 128 255"
+		"CNegative"				"255 16 0 255"
+
 		"CRed"					"255 0 96 255"
 		"COrange"				"255 128 0 255"
 		"CYellow"				"255 192 0 255"
@@ -171,8 +174,8 @@ Scheme
 		"HudTrainingHint"			"212 160 23 255"
 
 		"TanDark"				"128 128 128 255"
-		"TanLight"				"224 224 224 255"
-		"TanDarker"				"48 48 48 255"
+		"TanLight"				"192 192 192 255"
+		"TanDarker"				"64 64 64 255"
 
 		"StoreDarkTan"			"131 121 104 255"
 		"StoreGreen"			"76 107 34 255"
@@ -201,14 +204,14 @@ Scheme
 
 		"HTMLBackground"						"96 96 96 255"
 
-		"ItemAttribLevel"						"16 16 16 255"
-		"ItemAttribNeutral"						"32 32 32 255"
+		"ItemAttribLevel"						"224 224 224 255"
+		"ItemAttribNeutral"						"192 192 192 255"
 		"ItemAttribPositive"					"0 128 255 255"
 		"ItemAttribNegative"					"255 0 96 255"
 
 		"ItemSetName"							"255 128 0 255"
-		"ItemSetItemEquipped"					"0 0 0 255"
-		"ItemSetItemMissing"					"96 96 96 255"
+		"ItemSetItemEquipped"					"255 255 255 255"
+		"ItemSetItemMissing"					"160 160 160 255"
 		"ItemIsotope"							"255 192 0 255"
 		"ItemBundleItem"						"128 160 0 255"
 		"ItemLimitedUse"						"255 160 0 255"

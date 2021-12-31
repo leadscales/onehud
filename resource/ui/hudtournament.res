@@ -706,7 +706,7 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"TournamentConditionLabel"
 		"font"			"FontRegular10"
-		"fgcolor"		"TanLight"
+		"fgcolor"		"CGray1"
 		"xpos"			"c-125"
 		"ypos"			"19"
 		"zpos"			"1"

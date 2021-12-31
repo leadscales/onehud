@@ -111,9 +111,9 @@
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
 
-		"defaultFgColor_override"	"TanLight"
-		"armedFgColor_override"		"TanLight"
-		"depressedFgColor_override" "TanLight"
+		"defaultFgColor_override"	"CGray1"
+		"armedFgColor_override"		"CBlack"
+		"depressedFgColor_override" "CBlack"
 	}
 
 	"MatchmakingBanPanel"
@@ -171,7 +171,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"wrap"			"1"
-		"fgcolor_override" "TanLight"
+		"fgcolor_override" "CGray1"
 		"proportionaltoparent" "1"
 		"mouseinputenabled"	"0"
 	}

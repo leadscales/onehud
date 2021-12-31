@@ -27,8 +27,8 @@ Scheme
 		Econ.Button.PresetArmedColorFg						"CWhite"
 		Econ.Button.PresetDepressedColorFg					"CWhite"
 
-		Econ.Button.PresetDefaultColorBg					"CGreen"
-		Econ.Button.PresetArmedColorBg						"CGreen"
+		Econ.Button.PresetDefaultColorBg					"CPositive"
+		Econ.Button.PresetArmedColorBg						"CPositive"
 		Econ.Button.PresetDepressedColorBg					"AccentMain"
 
 		Econ.Button.Border.Default							"CWhite"

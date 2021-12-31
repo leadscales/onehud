@@ -170,7 +170,7 @@
 		"textAlignment"					"center"
 		"paintbackground"				"1"
 		"labeltext"						"b"
-		"armedFgcolor_override"			"CRed"
+		"armedFgcolor_override"			"CNegative"
 		"defaultBgColor_override"		"TransparentBlack2"
 		"armedBgColor_override"			"TransparentBlack2"
 		"sound_depressed"				"UI/buttonclick.wav"

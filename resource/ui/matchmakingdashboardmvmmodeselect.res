@@ -126,9 +126,9 @@
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
 
-			"defaultFgColor_override"	"TanLight"
-			"armedFgColor_override"		"TanLight"
-			"depressedFgColor_override" "TanLight"
+			"defaultFgColor_override"	"CGray1"
+			"armedFgColor_override"		"CGray1"
+			"depressedFgColor_override" "CGray1"
 		}
 
 		"PlayForBraggingRightsExplanation"
@@ -136,7 +136,7 @@
 			"ControlName"	"Label"
 			"fieldName"		"PlayForBraggingRightsExplanation"
 			"font"			"HudFontSmall"
-			"fgcolor_override"	"TanLight"
+			"fgcolor_override"	"CGray1"
 			"labelText"		"#TF_MvM_BraggingRightsExplaination"
 			"textAlignment"	"north-west"
 			"xpos"			"cs-0.5"
@@ -247,9 +247,9 @@
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
 
-			"defaultFgColor_override"	"TanLight"
-			"armedFgColor_override"		"TanLight"
-			"depressedFgColor_override" "TanLight"
+			"defaultFgColor_override"	"CGray1"
+			"armedFgColor_override"		"CGray1"
+			"depressedFgColor_override" "CGray1"
 		}
 
 		"PlayOnCommunityServerExplanation"
@@ -257,7 +257,7 @@
 			"ControlName"	"Label"
 			"fieldName"		"PlayOnCommunityServerExplanation"
 			"font"			"HudFontSmall"
-			"fgcolor_override"	"TanLight"
+			"fgcolor_override"	"CGray1"
 			"labelText"		"#TF_MvM_PracticeExplaination"
 			"textAlignment"	"north-west"
 			"xpos"			"cs-0.5"

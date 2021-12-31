@@ -143,7 +143,7 @@
 		"tall"			"140"
 		"visible"		"0"
 		"enabled"		"0"
-		"fillcolor"		"TanLight"
+		"fillcolor"		"CGray1"
 
 		"scaleImage"		"1"
 

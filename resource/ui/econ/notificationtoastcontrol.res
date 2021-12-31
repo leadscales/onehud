@@ -43,7 +43,7 @@
 		"paintbackground"		"1"
 
 		"defaultBgColor_override" 	"Black"
-		"armedBgColor_override" 	"CRed"
+		"armedBgColor_override" 	"CNegative"
 		"depressedBgColor_override" "Black"
 	}
 
@@ -77,7 +77,7 @@
 		"sound_released"		"UI/buttonclickrelease.wav"
 
 		"defaultBgColor_override" 	"Black"
-		"armedBgColor_override" 	"CGreen"
+		"armedBgColor_override" 	"CPositive"
 		"depressedBgColor_override" "Black"
 	}
 
@@ -111,7 +111,7 @@
 		"sound_released"		"UI/buttonclickrelease.wav"
 
 		"defaultBgColor_override" 	"Black"
-		"armedBgColor_override"		"CGreen"
+		"armedBgColor_override"		"CPositive"
 		"depressedBgColor_override" "Black"
 	}
 
@@ -141,7 +141,7 @@
 		"sound_released"		"UI/buttonclickrelease.wav"
 
 		"defaultBgColor_override" 	"Black"
-		"armedBgColor_override" 	"CRed"
+		"armedBgColor_override" 	"CNegative"
 		"depressedBgColor_override" "Black"
 	}
 }

@@ -70,7 +70,7 @@
 				"ypos"			"12"
 				"wide"			"530"
 				"tall"			"40"
-				"fgcolor"		"Orange"
+				"fgcolor"		"AccentMain"
 			}
 		}
 

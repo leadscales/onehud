@@ -26,7 +26,7 @@
 
 		"collapsed_height"		"0"
 		"expanded_height"		"221"
-		"resize_time"	"0.3"
+		"resize_time"	"0.2"
 		"invalidate_parent_on_resize"	"0"
 	}
 
@@ -62,7 +62,7 @@
 
 			"Slider"
 			{
-				"fgcolor_override"	"TanLight"
+				"fgcolor_override"	"CGray1"
 			}
 
 			"UpButton"
@@ -86,13 +86,13 @@
 		// "ControlName"	"TextEntry"
 		"fieldName"		"chatentry"
 		"xpos"					"cs-0.5"
-		"ypos"					"rs1+19"
+		"ypos"					"rs1+18"
 		"zpos"			"1"
-		"wide"			"f2"
+		"wide"			"f0"
 		"tall"			"13"
 		"visible"		"1"
 		"proportionaltoparent"	"1"
-		"bgcolor_override"	"CBlack"
+		"bgcolor_override"	"TransparentWhite5"
 		"RoundedCorners"	"0"
 		"font"			"HudFontSmallest"
 		"alpha"			"0"

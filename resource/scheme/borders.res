@@ -247,7 +247,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "17 17 17 127"
+					"color" "17 17 17 0"
 					"offset" "0 0"
 				}
 			}
@@ -256,7 +256,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "17 17 17 127"
+					"color" "17 17 17 0"
 					"offset" "0 0"
 				}
 			}
@@ -265,7 +265,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "17 17 17 127"
+					"color" "17 17 17 0"
 					"offset" "0 0"
 				}
 			}
@@ -274,7 +274,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "17 17 17 127"
+					"color" "17 17 17 0"
 					"offset" "0 0"
 				}
 			}
@@ -612,7 +612,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "TanDark"
+					"color" "CGray3"
 					"offset" "0 1"
 				}
 			}
@@ -621,7 +621,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "TanDark"
+					"color" "CGray3"
 					"offset" "1 0"
 				}
 			}
@@ -630,7 +630,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "TanDark"
+					"color" "CGray3"
 					"offset" "0 0"
 				}
 			}
@@ -639,7 +639,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "TanDark"
+					"color" "CGray3"
 					"offset" "0 0"
 				}
 			}
@@ -909,7 +909,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "TanLight"
+					"color" "CGray1"
 					"offset" "0 0"
 				}
 			}
@@ -977,8 +977,8 @@ Scheme
 		LoadoutItemPopupBorder
 		{
 			"bordertype"			"scalable_image"
-			"backgroundtype"		"2"
-			"color"					"CGray2"
+			"backgroundtype"		"0"
+			"color"					"CBlack"
 
 			"image"					"replay/thumbnails/panels/panel_generic_shadow"
 			"src_corner_height"		"32"				// pixels inside the image
@@ -2658,7 +2658,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "TanDark"
+					"color" "CGray3"
 					"offset" "1 0"
 				}
 			}

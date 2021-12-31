@@ -555,8 +555,8 @@
 
 		"issue_width"		"180"
 		"issue_font"		"ItemFontNameSmall"
-		"issue_fgcolor"		"TanLight"
-		"issue_fgcolor_disabled"	"TanDark"
+		"issue_fgcolor"		"CGray1"
+		"issue_fgcolor_disabled"	"CGray3"
 
 		"parameter_width"	"200"
 

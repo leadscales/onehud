@@ -134,7 +134,7 @@
 			"textinsetx"		"40"
 			"font"				"FontBold24"
 			"selectedcolor"		"CWhite"
-			"unselectedcolor"	"TanDark"
+			"unselectedcolor"	"CGray3"
 			"defaultBgColor_override"	"CGray7"
 			"paintbackground"	"1"
 			"activeborder_override"	"HoAssBorder"

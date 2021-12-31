@@ -152,7 +152,7 @@
 
 		"sound_depressed"	"UI/buttonclickrelease.wav"
 		"button_activation_type"	"1"
-		"fgcolor_override"		"TanDark"
+		"fgcolor_override"		"CGray3"
 	}
 
 	"CustomPingCheckButton"
@@ -300,7 +300,7 @@
 
 				"Slider"
 				{
-					"fgcolor_override"	"TanDark"
+					"fgcolor_override"	"CGray3"
 				}
 
 				"UpButton"

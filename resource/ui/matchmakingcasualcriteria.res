@@ -195,7 +195,7 @@
 			"labeltext"		"%selected_maps_count%"
 			"textAlignment"	"west"
 			"font"			"HudFontSmallest"
-			"fgcolor_override"	"TanDark"
+			"fgcolor_override"	"CGray3"
 
 			"mouseinputenabled"	"1"
 		}
@@ -213,7 +213,7 @@
 			"labeltext"		"#TF_Casual_QueueEstimation"
 			"textAlignment"	"east"
 			"font"			"HudFontSmallest"
-			"fgcolor_override"	"TanLight"
+			"fgcolor_override"	"CGray1"
 			"textinsetx"	"5"
 			"visible"	"0"
 
@@ -264,7 +264,7 @@
 
 				"Slider"
 				{
-					"fgcolor_override"	"TanDark"
+					"fgcolor_override"	"CGray3"
 				}
 
 				"UpButton"

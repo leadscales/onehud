@@ -90,7 +90,7 @@
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
 
-		"armedBgColor_override"		"CGreen"
-		"defaultBgColor_override"	"CGreenDark"
+		"armedBgColor_override"		"CPositive"
+		"defaultBgColor_override"	"CGray6"
 	}
 }

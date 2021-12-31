@@ -360,7 +360,7 @@
 						"wide"			"100"
 						"tall"			"20"
 						"font"			"ItemFontAttribSmall"
-						"fgcolor_override"	"TanLight"
+						"fgcolor_override"	"CGray1"
 						"textAlignment"	"south-west"
 						"visible"		"1"
 					}
@@ -378,7 +378,7 @@
 					"visible"		"0"
 					"enabled"		"1"
 					"font"			"ItemFontAttribSmall"
-					"fgcolor_override"	"TanLight"
+					"fgcolor_override"	"CGray1"
 					"textAlignment"	"south-east"
 					"labelText"		"%next_level_xp%"
 					"proportionaltoparent"	"1"
@@ -418,7 +418,7 @@
 						"proportionaltoparent"	"1"
 						"progress"		"1"
 
-						"fgcolor_override"	"20 20 20 180"
+						"fgcolor_override"	"20 20 20 0"
 						"bgcolor_override"	"0 0 0 0"
 					}
 
@@ -446,7 +446,7 @@
 						"tall"			"f0"
 						"zpos"			"5"
 						"proportionaltoparent"	"1"
-						"border"		"InnerShadowBorderThin"
+						"border"		"NoBorder"
 					}
 				}
 			}

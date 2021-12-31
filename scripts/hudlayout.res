@@ -87,7 +87,7 @@
 		"ypos"			"c93"
 		"wide"			"150"
 		"tall"			"40"
-		"MeterFG"		"TanLight"
+		"MeterFG"		"CGray1"
 		"MeterBG"		"Gray"
 	}
 	

@@ -71,7 +71,7 @@
 		"labelText"				"%status%"
 		"proportionaltoparent"	"1"
 		"font"					"QuestObjectiveTracker_Desc"
-		"fgcolor_override"				"TanDark"
+		"fgcolor_override"				"CGray3"
 		"mouseinputenabled"		"0"
 	}
 }

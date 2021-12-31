@@ -494,7 +494,7 @@
 			"paintbackground"	"0"
 
 			"defaultFgColor_override" "CWhite"
-			"armedFgColor_override" "CRed"
+			"armedFgColor_override" "CNegative"
 			"depressedFgColor_override" "CWhite"
 		}
 
@@ -973,7 +973,7 @@
 		"enabled"		"1"
 		"tabPosition"	"0"
 		"labelText"		"q"
-		"font"			"Material12"
+		"font"			"Material16"
 		"textAlignment"	"center"
 		"dulltext"		"0"
 		"brighttext"	"0"

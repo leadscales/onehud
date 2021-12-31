@@ -9,7 +9,7 @@
 		"ypos"			"r42"
 		"wide"			"16"
 		"tall"			"16"
-		"MeterFG"		"TanLight"
+		"MeterFG"		"CGray1"
 		"MeterBG"		"Gray"
 	}
 

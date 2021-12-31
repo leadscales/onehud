@@ -153,9 +153,9 @@
 		"paintborder"	"0"
 		"command"		"jointeam spectatearena"
 		"font"			"FontRegular12"
-		"defaultFgColor_override" 	"TanDark"
+		"defaultFgColor_override" 	"CGray3"
 		"armedFgColor_override"		"CWhite"
-		"depressedFgColor_override" "TanDark"
+		"depressedFgColor_override" "CGray3"
 		"selectedFgColor_override" 	"CWhite"
 	}
 

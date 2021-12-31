@@ -70,7 +70,7 @@
 		"enabled"		"1"
 		"scaleImage"	"1"
 		"icon"			"ico_metal"
-		"iconColor"		"TanDark"
+		"iconColor"		"CGray3"
 		"textAlignment"	"center"
 	}
 
@@ -79,7 +79,7 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"CostLabel"
 		"font"			"FontRegular11"
-		"fgcolor"		"TanDark"
+		"fgcolor"		"CGray3"
 		"xpos"			"0"
 		"ypos"			"55"
 		"zpos"			"1"
@@ -98,7 +98,7 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"ModeLabel"
 		"font"			"DefaultSmall"
-		"fgcolor"		"TanDark"
+		"fgcolor"		"CGray3"
 		"xpos"			"33"
 		"ypos"			"17"
 		"zpos"			"1"

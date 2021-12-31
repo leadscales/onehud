@@ -310,7 +310,7 @@
 		"NumericInputOnly"	"0"
 		"unicode"			"0"
 		"wrap"				"0"
-		"fgcolor_override"	"TanLight"
+		"fgcolor_override"	"CGray1"
 		"bgcolor_override"	"CGray5"
 		"paintbackgroundtype" "0"
 		"labelText"			""

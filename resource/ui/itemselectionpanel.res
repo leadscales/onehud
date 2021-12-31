@@ -138,7 +138,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"fgcolor"		"TanLight"
+		"fgcolor"		"CGray1"
 	}
 
 	"NameFilterTextEntry"
@@ -158,7 +158,7 @@
 		"textHidden"		"0"
 		"editable"		"1"
 		"unicode"		"1"
-		"fgcolor_override"	"TanLight"
+		"fgcolor_override"	"CGray1"
 		"bgcolor_override"	"CGray8"
 		"paintbackgroundtype" "2"
 		"font"		"FontRegular10"

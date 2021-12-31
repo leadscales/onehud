@@ -65,7 +65,7 @@
 			"command"		"show_leaderboards"
 			"labeltext"		"#TF_Competitive_ViewLeaderboards"
 			"font"			"HudFontSmallestBold"
-			"fgcolor_override"	"TanLight"
+			"fgcolor_override"	"CGray1"
 			"textAlignment"	"center"
 
 			"sound_depressed"	"UI/buttonclick.wav"
@@ -88,7 +88,7 @@
 			"command"		"show_match_history"
 			"labeltext"		"#TF_Competitive_ViewMatches"
 			"font"			"HudFontSmallestBold"
-			"fgcolor_override"	"TanLight"
+			"fgcolor_override"	"CGray1"
 			"textAlignment"	"center"
 
 			"sound_depressed"	"UI/buttonclick.wav"
@@ -173,9 +173,9 @@
 					"font"				"MarlettSmall"
 					"textAlignment"		"west"
 
-					"defaultFgColor_override" "TanDark"
-					"armedFgColor_override"	"TanDark"
-					"selectedFgColor_override" "TanDark"
+					"defaultFgColor_override" "CGray3"
+					"armedFgColor_override"	"CGray3"
+					"selectedFgColor_override" "CGray3"
 				}
 
 				"ResultButton"
@@ -197,9 +197,9 @@
 					"textAlignment"		"west"
 					"textinsetx"		"15"
 
-					"defaultFgColor_override" "TanDark"
+					"defaultFgColor_override" "CGray3"
 					"armedFgColor_override"	"CYellow"
-					"selectedFgColor_override" "TanLight"
+					"selectedFgColor_override" "CGray1"
 
 					"image_selectedcolor"	"255 255 255 255"
 					"image_armedcolor"		"0 0 0 0"
@@ -227,13 +227,13 @@
 
 					"labeltext"			"#TF_Competitive_Date"
 					"font"				"HudFontSmallest"
-					"fgcolor_override"	"TanLight"
+					"fgcolor_override"	"CGray1"
 					"textAlignment"		"west"
 					"textinsetx"		"15"
 
-					"defaultFgColor_override" "TanDark"
+					"defaultFgColor_override" "CGray3"
 					"armedFgColor_override"	"CYellow"
-					"selectedFgColor_override" "TanLight"
+					"selectedFgColor_override" "CGray1"
 
 					"image_selectedcolor"	"255 255 255 255"
 					"image_armedcolor"		"0 0 0 0"
@@ -261,13 +261,13 @@
 
 					"labeltext"			"#TF_Competitive_Map"
 					"font"				"HudFontSmallest"
-					"fgcolor_override"	"TanLight"
+					"fgcolor_override"	"CGray1"
 					"textAlignment"		"west"
 					"textinsetx"		"15"
 
-					"defaultFgColor_override" "TanDark"
+					"defaultFgColor_override" "CGray3"
 					"armedFgColor_override"	"CYellow"
-					"selectedFgColor_override" "TanLight"
+					"selectedFgColor_override" "CGray1"
 
 					"image_selectedcolor"	"255 255 255 255"
 					"image_armedcolor"		"0 0 0 0"
@@ -294,12 +294,12 @@
 
 					"labeltext"			"#TF_Competitive_KDR"
 					"font"				"HudFontSmallest"
-					"fgcolor_override"	"TanLight"
+					"fgcolor_override"	"CGray1"
 					"textAlignment"		"west"
 
-					"defaultFgColor_override" "TanDark"
+					"defaultFgColor_override" "CGray3"
 					"armedFgColor_override"	"CYellow"
-					"selectedFgColor_override" "TanLight"
+					"selectedFgColor_override" "CGray1"
 
 					"image_selectedcolor"	"255 255 255 255"
 					"image_armedcolor"		"0 0 0 0"
@@ -339,7 +339,7 @@
 
 					"Slider"
 					{
-						"fgcolor_override"	"TanDark"
+						"fgcolor_override"	"CGray3"
 					}
 
 					"UpButton"

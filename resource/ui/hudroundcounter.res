@@ -59,7 +59,7 @@
 		"tall"			"17"
 		"proportionaltoparent"	"1"
 		"bgcolor_override"	"TransparentBlack1"
-		"border"		"HudMenuBorderUpperAlt"
+		"border"		"NoBorder"
 	}
 	"BlueTeamBackground"
 	{
@@ -69,7 +69,7 @@
 		"ypos"			"3"
 		"zpos"			"6"
 		"wide"			"30"
-		"tall"			"17"
+		"tall"			"0"
 		"proportionaltoparent"	"1"
 		"bgcolor_override"	"Blank"
 		"border"		"HudMenuBorderUpperBlue"
@@ -82,7 +82,7 @@
 		"ypos"			"3"
 		"zpos"			"6"
 		"wide"			"30"
-		"tall"			"17"
+		"tall"			"0"
 		"proportionaltoparent"	"1"
 		"bgcolor_override"	"Blank"
 		"border"		"HudMenuBorderUpperRed"

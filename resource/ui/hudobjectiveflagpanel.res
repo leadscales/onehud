@@ -535,7 +535,7 @@
 		"textAlignment"	"center"
 		"labelText"		"%redscore%"
 		"font"			"FontBold12"
-		"fgcolor"		"TanLight"
+		"fgcolor"		"CGray1"
 	}
 
 	"SpecCarriedImage"
