@@ -1,36 +1,7 @@
+#base "../customizations/crosshair.res"
+
 "Resource/HudLayout.res"
 {	
-	//--------------------------------------------------------------
-	// KNUCKLESCROSSES
-	//--------------------------------------------------------------
-	// Set visible and enabled to 1 to use. Change labelText to the
-	// corresponding crosshair in KnucklesCrosses.png. Change xpos
-	// and ypos values if not perfectly centered.
-	//--------------------------------------------------------------
-
-	KnucklesCrosses
-	{
-		"visible" 		"0"
-		"enabled" 		"0"
-		
-		"labelText"		"a"
-		
-		"controlName"	"CExLabel"
-		"fieldName"	 	"KnucklesCrosses"
-		"zpos"			"0"
-		"xpos" 		 	"c-25"
-		"ypos" 		 	"c-25"
-		"wide" 		 	"50"
-		"tall" 		 	"50"
-		
-		"font"			"size:30,outline:off"	// size: range 10-50
-												// outline: on or off
-		
-		"textAlignment"	"center"
-		"fgcolor" 		"Crosshair"
-	}
-	
-
 	HudPlayerStatus
 	{
 		"fieldName" "HudPlayerStatus"

@@ -155,7 +155,7 @@
 			"xpos"			"120"
 			"ypos"			"40"
 			"wide"			"30"
-			"fgcolor"		"RedSolid"
+			"fgcolor"		"CNegative"
 		}
 
 		"BonusLabel"
@@ -335,7 +335,7 @@
 			"xpos"			"120"
 			"ypos"			"55"
 			"wide"			"35"
-			"fgcolor"		"RedSolid"
+			"fgcolor"		"CNegative"
 		}
 
 		"InactiveCountTeam"
@@ -348,7 +348,7 @@
 			"xpos"			"175"
 			"ypos"			"55"
 			"wide"			"35"
-			"fgcolor"		"RedSolid"
+			"fgcolor"		"CNegative"
 		}
 	}
 

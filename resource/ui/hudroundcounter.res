@@ -58,7 +58,7 @@
 		"wide"			"60"
 		"tall"			"17"
 		"proportionaltoparent"	"1"
-		"bgcolor_override"	"TransparentBlack1"
+		"bgcolor_override"	"Blank"
 		"border"		"NoBorder"
 	}
 	"BlueTeamBackground"

@@ -3,6 +3,7 @@
 #base "scheme/basesettings.res"
 #base "scheme/borders.res"
 #base "scheme/colors.res"
+#base "../customizations/colors.res"
 #base "scheme/fonts.res"
 #base "scheme/xhairs.res"
 

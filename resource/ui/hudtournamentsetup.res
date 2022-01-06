@@ -89,9 +89,9 @@
 
 		"defaultBgColor_override"	"CGray8"
 		"defaultFgColor_override" "CWhite"
-		"armedBgColor_override"	"RedSolid"
+		"armedBgColor_override"	"CNegative"
 		"armedFgColor_override" 	"CWhite"
-		"depressedBgColor_override"	"RedSolid"
+		"depressedBgColor_override"	"CNegative"
 		"depressedFgColor_override" "CWhite"
 	}
 

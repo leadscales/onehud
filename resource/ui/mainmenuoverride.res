@@ -1,5 +1,6 @@
 #base "../../resource/preload.res"
 #base "../../resource/tools.res"
+//#base "../../customizations/favorite_servers.res"
 
 "Resource/UI/MainMenuOverride.res"
 {
@@ -860,12 +861,12 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"VersionLabel"
-		"font"			"FontRegular8"
-		"labelText"		"v0.4"
-		"textAlignment"	"center"
-		"xpos"			"r20"
+		"font"			"FontBold9"
+		"labelText"		"v 0.5 "
+		"textAlignment"	"east"
+		"xpos"			"r30"
 		"ypos"			"r10"
-		"wide"			"20"
+		"wide"			"30"
 		"tall"			"10"
 		"autoResize"	"0"
 		"pinCorner"		"0"
@@ -1011,7 +1012,7 @@
 	{
 		"ControlName"	"Label"
 		"fieldName"		"NoGCMessage"
-		"xpos"			"r180"
+		"xpos"			"r190"
 		"ypos"			"70"
 		"zpos"			"3"
 		"wide"			"155"
@@ -1024,7 +1025,7 @@
 		"textinsety"	"0"
 
 		"font"			"FontBold14"
-		"fgcolor_override"	"RedSolid"
+		"fgcolor_override"	"CNegative"
 		"labelText"		"#TF_MM_NoGC_Rank"
 		"textAlignment"	"center"
 		"use_proportional_insets"	"1"

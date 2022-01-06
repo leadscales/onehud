@@ -137,7 +137,7 @@
 			"ypos"			"17"
 			"wide"			"30"
 			"tall"			"20"
-			"fgcolor"		"RedSolid"
+			"fgcolor"		"CNegative"
 		}
 
 		"CreditBonusTextLabel"

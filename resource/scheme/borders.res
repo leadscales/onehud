@@ -708,18 +708,24 @@ Scheme
 
 		CrosshatchedBackground
 		{
-			"bordertype"			"image"
+			"bordertype"			"scalable_image"
 			"backgroundtype"		"2"
-			"image"					"loadout_header"
-			"tiled"					"1"
+			"color" 				"CGray7"
+
+			"image"					"replay/thumbnails/panels/panel_generic_opaque"
+			"src_corner_height"		"24"
+			"src_corner_width"		"24"
+			"draw_corner_width"		"0"	
+			"draw_corner_height" 	"0"
 		}
 
 		OutlinedGreyBox
 		{
 			"bordertype"			"scalable_image"
-			"backgroundtype"		"0"
+			"backgroundtype"		"2"
+			"color"					"CGray8"
 
-			"image"					"loadout_round_rect_selected"
+			"image"					"replay/thumbnails/panels/panel_generic_opaque"
 			"src_corner_height"		"24"				// pixels inside the image
 			"src_corner_width"		"24"
 			"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional
@@ -729,8 +735,9 @@ Scheme
 		{
 			"bordertype"			"scalable_image"
 			"backgroundtype"		"2"
+			"color"					"CGray8"
 
-			"image"					"loadout_round_rect"
+			"image"					"replay/thumbnails/panels/panel_generic_opaque"
 			"src_corner_height"		"24"				// pixels inside the image
 			"src_corner_width"		"24"
 			"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional
@@ -740,10 +747,10 @@ Scheme
 		TFThinLineBorder
 		{
 			"bordertype"			"scalable_image"
-			"backgroundtype"		"0"
+			"backgroundtype"		"2"
+			"color"					"CGray6"
 
-			"image"					"../hud/tournament_panel_brown"
-			//"image"					"../hud/color_panel_browner"
+			"image"					"replay/thumbnails/panels/panel_generic_opaque"
 			"src_corner_height"		"23"				// pixels inside the image
 			"src_corner_width"		"23"
 			"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional
@@ -752,9 +759,10 @@ Scheme
 		TFFatLineBorderOpaque
 		{
 			"bordertype"			"scalable_image"
-			"backgroundtype"		"0"
+			"backgroundtype"		"2"
+			"color"					"CGray8"
 
-			"image"					"../hud/color_panel_brown_opaque"
+			"image"					"replay/thumbnails/panels/panel_generic_opaque"
 			"src_corner_height"		"23"				// pixels inside the image
 			"src_corner_width"		"23"
 			"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional
@@ -763,9 +771,10 @@ Scheme
 		TFFatLineBorder
 		{
 			"bordertype"			"scalable_image"
-			"backgroundtype"		"0"
+			"backgroundtype"		"2"
+			"color"					"CGray8"
 
-			"image"					"../hud/color_panel_brown"
+			"image"					"replay/thumbnails/panels/panel_generic_opaque"
 			"src_corner_height"		"23"				// pixels inside the image
 			"src_corner_width"		"23"
 			"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional
@@ -774,9 +783,10 @@ Scheme
 		TFFatLineBorderRedBGOpaque
 		{
 			"bordertype"			"scalable_image"
-			"backgroundtype"		"0"
+			"backgroundtype"		"2"
+			"color"					"CGray8"
 
-			"image"					"../hud/color_panel_red_opaque"
+			"image"					"replay/thumbnails/panels/panel_generic_opaque"
 			"src_corner_height"		"23"				// pixels inside the image
 			"src_corner_width"		"23"
 			"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional
@@ -785,9 +795,10 @@ Scheme
 		TFFatLineBorderRedBGOpaque_Store
 		{
 			"bordertype"			"scalable_image"
-			"backgroundtype"		"0"
+			"backgroundtype"		"2"
+			"color"					"CGray8"
 
-			"image"					"../hud/color_panel_red_opaque"
+			"image"					"replay/thumbnails/panels/panel_generic_opaque"
 			"src_corner_height"		"24"				// pixels inside the image
 			"src_corner_width"		"24"
 			"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional
@@ -796,9 +807,10 @@ Scheme
 		TFFatLineBorderRedBG
 		{
 			"bordertype"			"scalable_image"
-			"backgroundtype"		"0"
+			"backgroundtype"		"2"
+			"color"					"CRed"
 
-			"image"					"replay/thumbnails/bg_red"
+			"image"					"replay/thumbnails/panels/panel_generic_opaque"
 			"src_corner_height"		"23"				// pixels inside the image
 			"src_corner_width"		"23"
 			"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional
@@ -808,8 +820,9 @@ Scheme
 		{
 			"bordertype"			"scalable_image"
 			"backgroundtype"		"2"
+			"color"					"CRed"
 
-			"image"					"../hud/color_panel_red_more_opaque"
+			"image"					"replay/thumbnails/panels/panel_generic_opaque"
 			"src_corner_height"		"23"				// pixels inside the image
 			"src_corner_width"		"23"
 			"draw_corner_width"		"5"				// screen size of the corners ( and sides ), proportional
@@ -818,9 +831,10 @@ Scheme
 		TFFatLineBorderBlueBG
 		{
 			"bordertype"			"scalable_image"
-			"backgroundtype"		"0"
+			"backgroundtype"		"2"
+			"color"					"CBlue"
 
-			"image"					"replay/thumbnails/bg_blu"
+			"image"					"replay/thumbnails/panels/panel_generic_opaque"
 			"src_corner_height"		"23"				// pixels inside the image
 			"src_corner_width"		"23"
 			"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional
@@ -830,8 +844,9 @@ Scheme
 		{
 			"bordertype"			"scalable_image"
 			"backgroundtype"		"2"
+			"color"					"CBlue"
 
-			"image"					"../hud/color_panel_blu_more_opaque"
+			"image"					"replay/thumbnails/panels/panel_generic_opaque"
 			"src_corner_height"		"23"				// pixels inside the image
 			"src_corner_width"		"23"
 			"draw_corner_width"		"5"				// screen size of the corners ( and sides ), proportional
@@ -841,8 +856,9 @@ Scheme
 		{
 			"bordertype"			"scalable_image"
 			"backgroundtype"		"2"
+			"color"					"CBlue"
 
-			"image"					"../hud/color_panel_blu_opaque"
+			"image"					"replay/thumbnails/panels/panel_generic_opaque"
 			"src_corner_height"		"23"				// pixels inside the image
 			"src_corner_width"		"23"
 			"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional
@@ -852,8 +868,9 @@ Scheme
 		{
 			"bordertype"			"scalable_image"
 			"backgroundtype"		"2"
+			"color"					"CGray8"
 
-			"image"					"../hud/color_panel_clear"
+			"image"					"replay/thumbnails/panels/panel_generic_opaque_shadow"
 			"src_corner_height"		"23"				// pixels inside the image
 			"src_corner_width"		"23"
 			"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional
@@ -918,9 +935,10 @@ Scheme
 		GrayDialogBorder
 		{
 			"bordertype"			"scalable_image"
-			"backgroundtype"		"0"
+			"backgroundtype"		"2"
+			"color"					"CGray8"
 
-			"image"					"loadout_rect"
+			"image"					"replay/thumbnails/panels/panel_generic"
 			"src_corner_height"		"24"				// pixels inside the image
 			"src_corner_width"		"24"
 			"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional
@@ -932,7 +950,7 @@ Scheme
 			"bordertype"			"scalable_image"
 			"backgroundtype"		"0"
 
-			"image"					"loadout_rect_red"
+			"image"					"replay/thumbnails/panels/panel_generic"
 			"src_corner_height"		"24"				// pixels inside the image
 			"src_corner_width"		"24"
 			"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional

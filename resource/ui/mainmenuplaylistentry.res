@@ -136,7 +136,7 @@
 			"ControlName"	"CExLabel"
 			"fieldName"		"MatchmakingBanDurationLabel"
 			"font"			"MMenuPlayListDesc"
-			"fgcolor_override"	"RedSolid"
+			"fgcolor_override"	"CNegative"
 			"labelText"		"#TF_Matchmaking_Ban_Duration_Remaining"
 			"textalignment"	"south-west"
 			"xpos"			"5"

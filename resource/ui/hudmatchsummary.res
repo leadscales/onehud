@@ -142,7 +142,7 @@
 		"enabled"				"1"
 		"keyboardinputenabled"	"0"
 
-		"linecolor"			"RedSolid"
+		"linecolor"			"CWhite"
 		"team_colors"		"1"
 	}
 

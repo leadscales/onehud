@@ -1,3 +1,5 @@
+#base "../../customizations/hitmarker.res"
+
 "Resource/UI/HudPlayerClass.res"
 {
 	// player class data
@@ -12,22 +14,6 @@
 		"tall"			"480"
 		"visible"		"1"
 		"enabled"		"1"
-	}
-
-	"Hitmarker"
-	{
-		"controlName"	"CTFImagePanel"
-		"fieldName"		"Hitmarker"
-		"xpos"			"cs-0.5"
-		"ypos"			"cs-0.5"
-		"zpos"			"198"
-		"visible"		"1"
-		"enabled"		"1"
-		"wide"			"10"
-		"tall"			"10"
-		"image"			"replay/thumbnails/effects/hitmarker"
-		"Alpha"			"0"
-		"drawcolor"		"HitmarkerColor"
 	}
 
 	"PlayerStatusClassImage"
@@ -82,7 +68,7 @@
 	{
 		"ControlName"	"CTFPlayerModelPanel"
 		"fieldName"		"classmodelpanel"
-		"xpos"			"15"
+		"xpos"			"20"
 		"ypos"			"r200"
 		"zpos"			"2"
 		"wide"			"100"

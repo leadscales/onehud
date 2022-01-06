@@ -1,3 +1,5 @@
+#base "../customizations/servers.res"
+
 "Resource/UI/MainMenuOverride.res"
 {
 	"MOTD_Panel"
@@ -45,10 +47,6 @@
 				"labelText"				"#TF_OptionCategory_HUD"
 			}
 		}
-
-		
-
-		
 
 		"MOTD_HeaderIcon"
 		{
@@ -961,80 +959,8 @@
 			"pin_to_sibling_corner"	"PIN_TOPLEFT"
 		}
 
-		"FavoriteServer1"
-		{
-			"ControlName"					"CExImageButton"
-			"fieldName"						"FavoriteServer1"
-			"xpos"							"0"
-			"ypos"							"0"
-			"wide"							"30"
-			"tall"							"30"
-			"defaultfgcolor_override"		"CWhite"
-			"armedfgcolor_override"			"CWhite"
-			"border_default"				"DoubleGayBabyBorderAlt"
-			"border_armed"					"DoubleGayBabyBorder"
-			"labeltext"						"t"
-			"font"							"Material12"
-			"textAlignment"					"center"
-			"paintbackground"				"0"
-			"actionsignallevel"				"2"
-			"command"						"engine clear; showconsole; echo Go to the tools.res file and edit the FavoriteServer1 element; echo to be a server connection command, such as; echo engine connect 127.0.0.1"
-			"sound_depressed"				"UI/buttonclick.wav"
-			"sound_released"				"UI/buttonclickrelease.wav"
-			"pin_to_sibling"				"FavoriteServersContainer"
-			"pin_corner_to_sibling"			"PIN_TOPLEFT"
-			"pin_to_sibling_corner"			"PIN_TOPLEFT"
-		}
-
-		"FavoriteServer2"
-		{
-			"ControlName"					"CExImageButton"
-			"fieldName"						"FavoriteServer2"
-			"xpos"							"0"
-			"ypos"							"0"
-			"wide"							"30"
-			"tall"							"30"
-			"defaultfgcolor_override"		"CWhite"
-			"armedfgcolor_override"			"CWhite"
-			"border_default"				"DoubleGayBabyBorderAlt"
-			"border_armed"					"DoubleGayBabyBorder"
-			"labeltext"						"t"
-			"font"							"Material12"
-			"textAlignment"					"center"
-			"paintbackground"				"0"
-			"actionsignallevel"				"2"
-			"command"						"engine clear; showconsole; echo Go to the tools.res file and edit the FavoriteServer2 element; echo to be a server connection command, such as; echo engine connect 127.0.0.1"
-			"sound_depressed"				"UI/buttonclick.wav"
-			"sound_released"				"UI/buttonclickrelease.wav"
-			"pin_to_sibling"				"FavoriteServer1"
-			"pin_corner_to_sibling"			"PIN_TOPLEFT"
-			"pin_to_sibling_corner"			"PIN_TOPRIGHT"
-		}
-
-		"FavoriteServer3"
-		{
-			"ControlName"					"CExImageButton"
-			"fieldName"						"FavoriteServer3"
-			"xpos"							"0"
-			"ypos"							"0"
-			"wide"							"30"
-			"tall"							"30"
-			"defaultfgcolor_override"		"CWhite"
-			"armedfgcolor_override"			"CWhite"
-			"border_default"				"DoubleGayBabyBorderAlt"
-			"border_armed"					"DoubleGayBabyBorder"
-			"labeltext"						"t"
-			"font"							"Material12"
-			"textAlignment"					"center"
-			"paintbackground"				"0"
-			"actionsignallevel"				"2"
-			"command"						"engine clear; showconsole; echo Go to the tools.res file and edit the FavoriteServer3 element; echo to be a server connection command, such as; echo engine connect 127.0.0.1"
-			"sound_depressed"				"UI/buttonclick.wav"
-			"sound_released"				"UI/buttonclickrelease.wav"
-			"pin_to_sibling"				"FavoriteServer2"
-			"pin_corner_to_sibling"			"PIN_TOPLEFT"
-			"pin_to_sibling_corner"			"PIN_TOPRIGHT"
-		}
+		// ah 
+		// my m0nday
 
 		// - SPLIT -
 
@@ -1043,20 +969,20 @@
 		"VMFovContainer"
 		{
 			"ControlName"			"EditablePanel"
-			"fieldName"				"UnknownContainer"
+			"fieldName"				"VMFovContainer"
 			"xpos"					"535"
 			"ypos"					"15"
 			"zpos"					"-1"
 			"wide"					"230"
 			"tall"					"30"
 			"bgcolor_override"		"Blank"
-			"border"				"DoubleGayBabyBorderAlt"
+			"border"				"NoBorder"
 		}
 
 		"VMFovLabel"
 		{
 			"ControlName"			"CExLabel"
-			"fieldName"				"UnknownLabel"
+			"fieldName"				"VMFovLabel"
 			"xpos"					"0"
 			"ypos"					"0"
 			"wide"					"230"
@@ -1064,9 +990,25 @@
 			"textAlignment"			"center"
 			"font"					"FontRegular9"
 			"labeltext"				"Viewmodel FOV"
-			"pin_to_sibling"		"UnknownContainer"
+			"pin_to_sibling"		"VMFovContainer"
 			"pin_corner_to_sibling"	"PIN_BOTTOMLEFT"
 			"pin_to_sibling_corner"	"PIN_TOPLEFT"
+		}
+
+		"SensLabel"
+		{
+			"ControlName"			"CExLabel"
+			"fieldName"				"SensLabel"
+			"xpos"					"0"
+			"ypos"					"0"
+			"wide"					"230"
+			"tall"					"10"
+			"textAlignment"			"center"
+			"font"					"FontRegular9"
+			"labeltext"				"Sensitivity"
+			"pin_to_sibling"		"VMFovContainer"
+			"pin_corner_to_sibling"	"PIN_TOPLEFT"
+			"pin_to_sibling_corner"	"PIN_BOTTOMLEFT"
 		}
 
 		"VMFovSlider"
@@ -1074,12 +1016,30 @@
 			"Controlname"			"CCvarSlider"
 			"fieldName"				"VMFovSlider"
 			"xpos"					"535"
-			"ypos"					"20"
-			"wide"					"230"
-			"tall"					"30"
+			"ypos"					"12"
+			"wide"					"233"
+			"tall"					"15"
+			"proportionaltoparent"	"1"
 			"cvar_name"				"viewmodel_fov"
-			"use_convar_minmax"		"1"
+			"minvalue"				"50"
+			"maxvalue"				"85"
 		}
+
+		"SensSlider"
+		{
+			"Controlname"			"CCvarSlider"
+			"fieldName"				"SensSlider"
+			"xpos"					"535"
+			"ypos"					"39"
+			"wide"					"233"
+			"tall"					"15"
+			"proportionaltoparent"	"1"
+			"cvar_name"				"sensitivity"
+			"use_convar_minmax"		"0"
+			"minvalue"				"1"
+			"maxvalue"				"5"
+		}
+
 		// - SPLIT -
 		
 		// - OTHER BUTTONS -
@@ -1131,7 +1091,7 @@
 			"labeltext"						"i"
 			"textalignment"					"center"
 			"actionsignallevel"				"2"
-			"command"						"engine showconsole; clear; echo OneHUD v0.4; echo Made by Lead; echo Based off of ahud by Nokk;"
+			"command"						"engine showconsole; clear; echo OneHUD v0.5; echo Made by Lead; echo Based off of ahud by Nokk;"
 			"sound_depressed"				"UI/buttonclick.wav"
 			"sound_released"				"UI/buttonclickrelease.wav"
 			"pin_to_sibling"				"OtherContainer"

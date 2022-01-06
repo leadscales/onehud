@@ -247,7 +247,7 @@
 			"ControlName"	"CExLabel"
 			"fieldName"		"MatchmakingBanDurationLabel"
 			"font"			"HudFontSmallest"
-			"fgcolor_override"	"RedSolid"
+			"fgcolor_override"	"CNegative"
 			"labelText"		"#TF_Matchmaking_Ban_Duration_Remaining"
 			"textalignment"	"center"
 			"xpos"			"5"

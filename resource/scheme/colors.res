@@ -3,52 +3,8 @@ Scheme
 	Colors
 	{
 		//---------------------------------------------
-		// CUSTOM COLORS
-		//---------------------------------------------
-
-		"Crosshair"				"255 255 255 255"
-		"CrosshairDamage"		"255 96 0 255"		// For no damage flash, set to the
-													// same value as Crosshair
-		"HitmarkerColor"		"255 96 0 255"
-
-		"HP"					"255 255 255 255"
-		"HP Buff"				"0 255 160 255"
-		"HP Buff 2"				"0 255 128 255"
-		"HP Low"				"255 128 0 255"
-		"HP Low 2"				"255 64 0 255"
-
-		"Damage Numbers"		"255 128 0 255"		// Set in Advanced Options
-		"Healing Numbers"		"0 128 255 255"
-
-		"Ammo In Clip"			"255 255 255 255"
-		"Ammo In Reserve"		"192 192 192 255"
-		"Ammo No Clip"			"255 255 255 255"
-		"LowAmmo1"				"255 128 0 255"
-		"LowAmmo2"				"255 64 0 255"
-
-		"Stickies"				"255 255 255 255"
-		"Metal"					"255 255 255 255"
-		"Killstreak"			"255 255 255 255"
-
-		"ChargePercent"			"255 255 255 255"
-		"Ubercharge Meter"		"255 255 255 255"
-		"Ubercharge1"			"0 255 160 255"
-		"Ubercharge2"			"0 255 128 255"
-
-		//---------------------------------------------
 		// HUD COLORS
 		//---------------------------------------------
-
-		"AccentMain"			"255 128 0 255"
-		"AccentLight"			"255 160 0 255"
-		"AccentDark"			"255 96 0 255"
-
-		"AccentMainTransparent"		"255 128 0 96"
-		"AccentLightTransparent"	"255 160 0 96"
-		"AccentDarkTransparent"		"255 96 0 96"
-
-		"CPositive"				"0 192 128 255"
-		"CNegative"				"255 16 0 255"
 
 		"CRed"					"255 0 96 255"
 		"COrange"				"255 128 0 255"
@@ -102,7 +58,7 @@ Scheme
 		"LightOrange"		"255 160 0 128"
 		"GoalOrange"		"255 160 0 255"
 		"TFOrange"			"255 128 0 255"
-		"Purple"			"137 69 99 255"
+		"Purple"			"128 64 96 255"
 
 		"QuestGold"			"208 147 75 255"
 		"HalloweenThemeColor2015_Light"	"238 126 17 255"
@@ -166,9 +122,9 @@ Scheme
 		"HudProgressBarActiveLow"	"32 32 32 255"
 		"HudProgressBarInActiveLow"	"32 32 32 99"
 
-		"HudTimerProgressActive"	"251 235 202 255"
-		"HudTimerProgressInActive"	"52 48 45 255"
-		"HudTimerProgressWarning"	"240 30 30 255"
+		"HudTimerProgressActive"	"255 255 255 255"
+		"HudTimerProgressInActive"	"64 64 64 255"
+		"HudTimerProgressWarning"	"255 64 0 255"
 
 		// training
 		"HudTrainingHint"			"212 160 23 255"
@@ -268,11 +224,11 @@ Scheme
 		"QualityColorCollectors_GreyedOut"		"255 80 80 255"
 		"QualityColorPaintkitWeapon_GreyedOut"	"255 255 255 255"
 
-		"SaleGreen"								"76 107 34 255"
-		"LightRed"								"200 80 60 255"
-		"LighterRed"							"220 100 80 255"
-		"LighterDarkBrown"						"59 54 48 255"
-		"DarkBrown"								"41 37 38 255"
+		"SaleGreen"								"0 255 160 255"
+		"LightRed"								"255 64 0 255"
+		"LighterRed"							"255 96 0 255"
+		"LighterDarkBrown"						"64 64 64 255"
+		"DarkBrown"								"48 48 48 255"
 
 		"UpgradeDefaultFg"		"64 64 64 255"
 		"UpgradeDefaultBg"		"96 96 96 255"
