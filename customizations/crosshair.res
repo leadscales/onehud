@@ -1,8 +1,8 @@
 "Resource/HudLayout.res"
 {
-    // TODO: replace this with your own implimentation
+	// TODO: replace this with your own implimentation
 
-    //--------------------------------------------------------------
+	//--------------------------------------------------------------
 	// KNUCKLESCROSSES
 	//--------------------------------------------------------------
 	// Set visible and enabled to 1 to use. Change labelText to the
