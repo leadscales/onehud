@@ -20,9 +20,9 @@
 		"log_font_large"			"HudFontMediumSecondary"
 
 		"chat_color_default"		"CWhite"
-		"chat_color_player_name"	"COrange"
+		"chat_color_player_name"	"AccentMain"
 		"chat_color_chat_text"		"CWhite"
-		"chat_color_party_event"	"COrange"
+		"chat_color_party_event"	"AccentMain"
 
 		"collapsed_height"		"0"
 		"expanded_height"		"221"

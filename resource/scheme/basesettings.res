@@ -200,16 +200,16 @@ Scheme
 		"BgColor"		"TransparentBlack"
 
 		"ViewportBG"		"Blank"
-		"TeamSpec"			"192 192 192 255"
-		"TeamRed"			"255 0 96 255"
-		"TeamBlue"			"0 160 255 255"
+		"TeamSpec"			"CGray1"
+		"TeamRed"			"CRed"
+		"TeamBlue"			"CBlue"
 
 		"MapDescriptionText"	"Gray" // the text used in the map description window
-		"HudIcon_Green"		"0 160 0 255"
-		"HudIcon_Red"		"160 0 0 255"
+		"HudIcon_Green"		"CPositive"
+		"HudIcon_Red"		"CNegative"
 
 		// CHudMenu
-		"ItemColor"		"255 160 0 200"	// default 255 167 42 255
+		"ItemColor"		"AccentMainTransparent"	// default 255 167 42 255
 		"MenuColor"		"64 64 64 255"
 		"MenuBoxBg"		"0 0 0 100"
 
@@ -224,7 +224,7 @@ Scheme
 		"HintMessageFg"			"255 255 255 255"
 		"HintMessageBg" 		"0 0 0 64"
 
-		"ProgressBarFg"			"255 64 0 255"
+		"ProgressBarFg"			"AccentMain"
 
 		// Top-left corner of the menu on the main screen
 		"Main.Menu.X"		"32"

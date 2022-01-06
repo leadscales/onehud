@@ -807,8 +807,8 @@
 	{
 		"ControlName"	"CExButton"
 		"fieldName"		"ShowExplanationsButton"
-		"xpos"			"c50"
-		"ypos"			"15"
+		"xpos"			"9999"
+		"ypos"			"9999"
 		"zpos"			"100"
 		"wide"			"20"
 		"tall"			"20"

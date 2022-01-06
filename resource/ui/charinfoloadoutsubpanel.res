@@ -30,7 +30,7 @@
 		"class_distance_min"		"7"
 		"class_distance_max"		"100"
 
-		"itemcountcolor"			"COrange"
+		"itemcountcolor"			"AccentMain"
 		"itemcountcolor_noitems"	"CGray1"
 	}
 
@@ -1437,8 +1437,8 @@
 	{
 		"ControlName"	"CExButton"
 		"fieldName"		"ShowExplanationsButton"
-		"xpos"			"c268"
-		"ypos"			"15"
+		"xpos"			"9999"
+		"ypos"			"9999"
 		"zpos"			"100"
 		"wide"			"19"
 		"tall"			"19"

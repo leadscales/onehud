@@ -119,7 +119,7 @@
 		"defaultBgColor_override"	"0 0 0 0"
 
 		"defaultFgColor_override"	"CWhite"
-		"armedFgColor_override"	"CYellow"
+		"armedFgColor_override"	"AccentMain"
 	}
 
 	"ReturnButton"
@@ -151,7 +151,7 @@
 		"defaultBgColor_override"	"0 0 0 0"
 
 		"defaultFgColor_override"	"CWhite"
-		"armedFgColor_override"	"CYellow"
+		"armedFgColor_override"	"AccentMain"
 	}
 
 	"BGPanel"

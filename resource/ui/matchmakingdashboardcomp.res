@@ -36,8 +36,8 @@
 	{
 		"ControlName"	"CExButton"
 		"fieldName"		"ShowExplanationsButton"
-		"xpos"			"rs1-21"
-		"ypos"			"20"
+		"xpos"			"9999"
+		"ypos"			"9999"
 		"zpos"			"100"
 		"wide"			"15"
 		"tall"			"o1"

@@ -144,10 +144,10 @@
 		"sound_released"	"UI/buttonclickrelease.wav"
 
 		"defaultBgColor_override"	"Blank"
-		"armedBgColor_override"	"AccentLightTransparent"
+		"armedBgColor_override"		"Blank"
 
 		"border_default"	"NoBorder"
-		"border_armed"		"NoBorder"
+		"border_armed"		"HudMenuBorderLowerAlt"
 	}
 
 	"Spinner"

@@ -78,7 +78,7 @@
 			"actionsignallevel"	"2"
 			"proportionaltoparent"	"1"
 			"image_drawcolor"	"CWhite"
-			"image_armedcolor"	"CYellow"
+			"image_armedcolor"	"AccentMain"
 			"SubImage"
 			{
 				"ControlName"	"ImagePanel"
@@ -121,7 +121,7 @@
 			"actionsignallevel"	"2"
 			"proportionaltoparent"	"1"
 			"image_drawcolor"	"CWhite"
-			"image_armedcolor"	"CYellow"
+			"image_armedcolor"	"AccentMain"
 			"SubImage"
 			{
 				"ControlName"	"ImagePanel"
@@ -142,8 +142,8 @@
 		{
 			"ControlName"	"CExButton"
 			"fieldName"		"ShowExplanationsButton"
-			"xpos"			"rs1-9"
-			"ypos"			"49"
+			"xpos"			"9999"
+			"ypos"			"9999"
 			"zpos"			"100"
 			"wide"			"15"
 			"tall"			"o1"
