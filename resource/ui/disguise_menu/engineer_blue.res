@@ -5,18 +5,18 @@
 	"ItemNameLabel"
 	{
 		"labelText"		"#TF_Class_Name_Engineer"
-		"fgcolor"		"153 194 216 255"
+		"fgcolor"		"CBlue"
 	}
 
 	"NewNumberLabel"
 	{
-		"fgcolor"		"153 194 216 255"
+		"fgcolor"		"CBlue"
 		"labelText"		"3"
 	}
 
 	"NumberLabel"
 	{
-		"fgcolor"		"153 194 216 255"
+		"fgcolor"		"CBlue"
 		"labelText"		"6"
 	}
 }

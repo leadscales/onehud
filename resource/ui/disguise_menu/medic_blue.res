@@ -5,18 +5,18 @@
 	"ItemNameLabel"
 	{
 		"labelText"		"#TF_Class_Name_Medic"
-		"fgcolor"		"153 194 216 255"
+		"fgcolor"		"CBlue"
 	}
 
 	"NewNumberLabel"
 	{
-		"fgcolor"		"153 194 216 255"
+		"fgcolor"		"CBlue"
 		"labelText"		"1"
 	}
 
 	"NumberLabel"
 	{
-		"fgcolor"		"153 194 216 255"
+		"fgcolor"		"CBlue"
 		"labelText"		"7"
 	}
 }

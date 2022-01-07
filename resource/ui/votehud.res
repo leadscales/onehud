@@ -442,7 +442,7 @@
 			"brighttext"	"0"
 			"font"			"ScoreboardSmall"
 			"wrap"			"1"
-			"fgcolor_override"	"200 30 30 255"
+			"fgcolor_override"	"CNegative"
 		}
 
 		"FailedReason"
@@ -509,7 +509,7 @@
 			"brighttext"	"0"
 			"font"			"ScoreboardSmall"
 			"wrap"			"1"
-			"fgcolor_override"	"200 30 30 255"
+			"fgcolor_override"	"CNegative"
 		}
 
 		"FailedReason"

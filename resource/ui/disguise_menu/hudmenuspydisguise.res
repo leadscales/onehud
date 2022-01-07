@@ -13,14 +13,14 @@
 		"enabled"		"1"
 		"scaleImage"	"1"
 		"icon"			"hud_menu_bg"
-		"iconColor"		"255 255 255 255"
+		"iconColor"		"CWhite"
 	}
 
 	"TitleLabel"
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"TitleLabel"
-		"font"			"FontRegular20"
+		"font"			"FontBold18"
 		"xpos"			"0"
 		"ypos"			"1"
 		"zpos"			"3"
@@ -34,14 +34,14 @@
 		"textAlignment"	"center"
 		"dulltext"		"0"
 		"brighttext"	"0"
-		"fgcolor"		"255 255 255 255"
+		"fgcolor"		"CWhite"
 	}
 
 	"TitleLabelDropshadow"
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"TitleLabelDropshadow"
-		"font"			"FontRegular20"
+		"font"			"FontBoldShadow18"
 		"fgcolor"		"CBlackShadow"
 		"xpos"			"-1"
 		"ypos"			"-1"

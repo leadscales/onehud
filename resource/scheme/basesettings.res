@@ -215,13 +215,13 @@ Scheme
 
 		// weapon selection colors
 		"SelectionNumberFg"		"192 192 192 255"
-		"SelectionTextFg"		"255 255 255 255"
+		"SelectionTextFg"		"CWhite"
 		"SelectionEmptyBoxBg" 	"0 0 0 96"
 		"SelectionBoxBg" 		"0 0 0 96"
 		"SelectionSelectedBoxBg" "0 0 0 192"
 
 		// Hint message colors
-		"HintMessageFg"			"255 255 255 255"
+		"HintMessageFg"			"CWhite"
 		"HintMessageBg" 		"0 0 0 64"
 
 		"ProgressBarFg"			"AccentMain"

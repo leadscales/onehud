@@ -37,7 +37,7 @@
 		"textAlignment"	"center"
 		"dulltext"		"0"
 		"brighttext"	"0"
-		"font"			"FontBold16"
+		"font"			"FontBold12"
 		"fgcolor"		"ChargePercent"
 	}
 
