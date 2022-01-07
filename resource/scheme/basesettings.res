@@ -36,7 +36,7 @@ Scheme
 
 		Border.Bright					"Blank"		// the lit side of a control
 		Border.Dark						"Black"		// the dark/unlit side of a control
-		Border.Selection				"Gray"			// the additional border color for displaying the default/selected button
+		Border.Selection				"CGray5"			// the additional border color for displaying the default/selected button
 
 		Button.TextColor				"CWhite"
 		Button.BgColor					"TransparentBlack3"
@@ -128,9 +128,9 @@ Scheme
 		RadioButton.TextColor			"AccentMain"
 		RadioButton.SelectedTextColor	"AccentMain"
 
-		RichText.TextColor				"Gray"
+		RichText.TextColor				"CGray5"
 		RichText.BgColor				"Blank"
-		RichText.SelectedTextColor		"Gray"
+		RichText.SelectedTextColor		"CGray5"
 		RichText.SelectedBgColor		"AccentMain"
 
 		ScrollBarButton.FgColor				"CWhite"
@@ -160,13 +160,13 @@ Scheme
 		Slider.DisabledTextColor1	"CGray2"
 		Slider.DisabledTextColor2	"CGray3"
 
-		TextEntry.TextColor			"Gray"
+		TextEntry.TextColor			"CGray5"
 		TextEntry.BgColor			"Blank"
-		TextEntry.CursorColor		"Gray"
-		TextEntry.DisabledTextColor	"Gray"
+		TextEntry.CursorColor		"CGray5"
+		TextEntry.DisabledTextColor	"CGray5"
 		TextEntry.DisabledBgColor	"Blank"
 		TextEntry.SelectedTextColor	"TanLight"
-		TextEntry.SelectedBgColor	"Gray"
+		TextEntry.SelectedBgColor	"CGray5"
 		TextEntry.OutOfFocusSelectedBgColor	"Blank"
 		TextEntry.FocusEdgeColor	"Blank"
 
@@ -204,7 +204,7 @@ Scheme
 		"TeamRed"			"CRed"
 		"TeamBlue"			"CBlue"
 
-		"MapDescriptionText"	"Gray" // the text used in the map description window
+		"MapDescriptionText"	"CGray5" // the text used in the map description window
 		"HudIcon_Green"		"CPositive"
 		"HudIcon_Red"		"CNegative"
 

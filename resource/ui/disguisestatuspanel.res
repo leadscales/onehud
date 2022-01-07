@@ -62,7 +62,7 @@
 		"textAlignment"		"west"
 		"dulltext"		"0"
 		"brighttext"		"0"
-		"fgcolor_override"	"White"
+		"fgcolor_override"	"CWhite"
 	}
 	"DisguiseNameLabelShadow"
 	{
@@ -107,7 +107,7 @@
 		"textAlignment"		"west"
 		"dulltext"		"0"
 		"brighttext"		"0"
-		"fgcolor_override"	"White"
+		"fgcolor_override"	"CWhite"
 	}
 	"WeaponNameLabelShadow"
 	{

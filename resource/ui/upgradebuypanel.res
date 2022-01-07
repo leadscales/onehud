@@ -53,7 +53,7 @@
 		"enabled"		"1"
 
 		"PaintBackgroundType" "0"
-		"bgcolor_override"	"96 96 96 255"
+		"bgcolor_override"	"CGray4"
 	}
 
 	"IconBorder"
@@ -150,7 +150,7 @@
 		"enabled"		"0"
 
 		"PaintBackgroundType" "0"
-		"bgcolor_override"	"128 128 128 255"
+		"bgcolor_override"	"CGray3"
 	}
 
 	"IncrementButton"

@@ -43,7 +43,7 @@
 			"brighttext"	"0"
 			"font"			"ScoreboardSmall"
 			"wrap"			"1"
-			"fgcolor_override"	"255 255 255 255"
+			"fgcolor_override"	"CWhite"
 		}
 
 		"PassedResult"
@@ -62,7 +62,7 @@
 			"brighttext"	"0"
 			"font"			"ScoreboardVerySmall"
 			"wrap"			"1"
-			"fgcolor_override"	"255 255 255 255"
+			"fgcolor_override"	"CWhite"
 			"noshortcutsyntax" "1"
 		}
 	}
@@ -96,7 +96,7 @@
 			"brighttext"		"0"
 			"font"			"ScoreboardVerySmall"
 			"wrap"			"1"
-			"fgcolor_override"	"128 128 128 255"
+			"fgcolor_override"	"CGray3"
 		}
 
 		"Issue"
@@ -114,7 +114,7 @@
 			"dulltext"		"0"
 			"brighttext"	"0"
 			"font"			"ScoreboardSmall"
-			"fgcolor_override"	"255 255 255 255"
+			"fgcolor_override"	"CWhite"
 			"wrap"			"1"
 			"noshortcutsyntax" "1"
 		}
@@ -143,7 +143,7 @@
 			"ypos"			"50"
 			"wide"			"130"
 			"tall"			"1"
-			"fillcolor"		"128 128 128 255"
+			"fillcolor"		"CGray3"
 			"zpos"			"0"
 		}
 
@@ -165,7 +165,7 @@
 			"dulltext"		"0"
 			"brighttext"	"0"
 			"font"			"ScoreboardVerySmall"
-			"fgcolor_override"	"255 255 255 255"
+			"fgcolor_override"	"CWhite"
 		}
 
 		"Option1Background_Selected"
@@ -197,7 +197,7 @@
 			"dulltext"		"0"
 			"brighttext"	"0"
 			"font"			"ScoreboardSmall"
-			"fgcolor_override"	"255 255 255 255"
+			"fgcolor_override"	"CWhite"
 		}
 
 		"LabelOption2"
@@ -216,7 +216,7 @@
 			"dulltext"		"0"
 			"brighttext"	"0"
 			"font"			"ScoreboardVerySmall"
-			"fgcolor_override"	"255 255 255 255"
+			"fgcolor_override"	"CWhite"
 		}
 
 		"Option2Background_Selected"
@@ -248,7 +248,7 @@
 			"dulltext"		"0"
 			"brighttext"	"0"
 			"font"			"ScoreboardSmall"
-			"fgcolor_override"	"255 255 255 255"
+			"fgcolor_override"	"CWhite"
 		}
 
 		"LabelOption3"
@@ -267,7 +267,7 @@
 			"dulltext"		"0"
 			"brighttext"	"0"
 			"font"			"ScoreboardVerySmall"
-			"fgcolor_override"	"255 255 255 255"
+			"fgcolor_override"	"CWhite"
 		}
 
 		"Option3Background_Selected"
@@ -299,7 +299,7 @@
 			"dulltext"		"0"
 			"brighttext"	"0"
 			"font"			"ScoreboardVerySmall"
-			"fgcolor_override"	"255 255 255 255"
+			"fgcolor_override"	"CWhite"
 		}
 
 		"Option4Background_Selected"
@@ -331,7 +331,7 @@
 			"dulltext"		"0"
 			"brighttext"	"0"
 			"font"			"ScoreboardVerySmall"
-			"fgcolor_override"	"255 255 255 255"
+			"fgcolor_override"	"CWhite"
 		}
 
 		"Option5Background_Selected"
@@ -356,7 +356,7 @@
 			"ypos"			"100"
 			"wide"			"130"
 			"tall"			"1"
-			"fillcolor"		"128 128 128 255"
+			"fillcolor"		"CGray3"
 			"zpos"			"0"
 		}
 
@@ -375,7 +375,7 @@
 			"dulltext"		"0"
 			"brighttext"	"0"
 			"font"			"ScoreboardVerySmall"
-			"fgcolor_override"	"128 128 128 255"
+			"fgcolor_override"	"CGray3"
 		}
 
 		// vote bar
@@ -461,7 +461,7 @@
 			"brighttext"	"0"
 			"font"			"ScoreboardVerySmall"
 			"wrap"			"1"
-			"fgcolor_override"	"255 255 255 255"
+			"fgcolor_override"	"CWhite"
 		}
 	}
 
@@ -528,7 +528,7 @@
 			"brighttext"	"0"
 			"font"			"ScoreboardVerySmall"
 			"wrap"			"1"
-			"fgcolor_override"	"255 255 255 255"
+			"fgcolor_override"	"CWhite"
 		}
 	}
 

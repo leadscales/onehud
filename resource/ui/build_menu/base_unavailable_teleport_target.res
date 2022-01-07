@@ -90,7 +90,7 @@
 		"enabled"		"0"
 		"scaleImage"	"1"
 		"icon"			"ico_key_blank"
-		"iconColor"		"255 255 255 255"
+		"iconColor"		"CWhite"
 	}
 
 	"NumberLabel"
@@ -98,7 +98,7 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"NumberLabel"
 		"font"			"FontRegular11"
-		"fgcolor"		"255 255 255 255"
+		"fgcolor"		"CWhite"
 		"xpos"			"25"
 		"ypos"			"58"
 		"zpos"			"1"

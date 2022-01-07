@@ -59,7 +59,7 @@
 		"wide"			"150"
 		"tall"			"40"
 		"MeterFG"		"CGray1"
-		"MeterBG"		"Gray"
+		"MeterBG"		"CGray5"
 	}
 	
 	HudMedicCharge
@@ -95,8 +95,8 @@
 		"zpos"			"1"
 		"wide"			"500"
 		"tall"			"500"
-		"MeterFG"		"White"
-		"MeterBG"		"Gray"
+		"MeterFG"		"CWhite"
+		"MeterBG"		"CGray5"
 		"alpha"			"0"
 	}
 
@@ -110,8 +110,8 @@
 		"zpos"			"1"			// draw in front of ammo
 		"wide"			"60"
 		"tall"			"8"
-		"MeterFG"		"White"
-		"MeterBG"		"Gray"
+		"MeterFG"		"CWhite"
+		"MeterBG"		"CGray5"
 	}
 
 	HudBossHealth
@@ -125,7 +125,7 @@
 		"wide"			"200"
 		"tall"			"50"
 		"MeterFG"		"Red"
-		"MeterBG"		"Gray"
+		"MeterBG"		"CGray5"
 	}
 
 	HudWeaponSelection

@@ -18,7 +18,7 @@
 		"textAlignment"	"center"
 		"dulltext"		"0"
 		"brighttext"	"0"
-		"fgcolor"		"255 255 255 255"
+		"fgcolor"		"CWhite"
 	}
 
 	"ItemBackground"
@@ -50,7 +50,7 @@
 		"enabled"		"1"
 		"scaleImage"	"1"
 		"icon"			"hud_menu_sentry_build"
-		"iconColor"		"255 255 255 255"
+		"iconColor"		"CWhite"
 	}
 
 	"ModeLabel"
@@ -85,7 +85,7 @@
 		"enabled"		"0"
 		"scaleImage"	"1"
 		"icon"			"ico_key_blank"
-		"iconColor"		"255 255 255 255"
+		"iconColor"		"CWhite"
 	}
 
 	"NumberLabel"
@@ -93,7 +93,7 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"NumberLabel"
 		"font"			"FontRegular11"
-		"fgcolor"		"255 255 255 255"
+		"fgcolor"		"CWhite"
 		"xpos"			"24"
 		"ypos"			"58"
 		"zpos"			"1"

@@ -201,7 +201,7 @@
 					"armedFgColor_override"	"CYellow"
 					"selectedFgColor_override" "CGray1"
 
-					"image_selectedcolor"	"255 255 255 255"
+					"image_selectedcolor"	"CWhite"
 					"image_armedcolor"		"0 0 0 0"
 					"image_drawcolor"		"0 0 0 0"
 
@@ -235,7 +235,7 @@
 					"armedFgColor_override"	"CYellow"
 					"selectedFgColor_override" "CGray1"
 
-					"image_selectedcolor"	"255 255 255 255"
+					"image_selectedcolor"	"CWhite"
 					"image_armedcolor"		"0 0 0 0"
 					"image_drawcolor"		"0 0 0 0"
 
@@ -269,7 +269,7 @@
 					"armedFgColor_override"	"CYellow"
 					"selectedFgColor_override" "CGray1"
 
-					"image_selectedcolor"	"255 255 255 255"
+					"image_selectedcolor"	"CWhite"
 					"image_armedcolor"		"0 0 0 0"
 					"image_drawcolor"		"0 0 0 0"
 
@@ -301,7 +301,7 @@
 					"armedFgColor_override"	"CYellow"
 					"selectedFgColor_override" "CGray1"
 
-					"image_selectedcolor"	"255 255 255 255"
+					"image_selectedcolor"	"CWhite"
 					"image_armedcolor"		"0 0 0 0"
 					"image_drawcolor"		"0 0 0 0"
 

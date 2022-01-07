@@ -10,7 +10,7 @@
 		"wide"			"16"
 		"tall"			"16"
 		"MeterFG"		"CGray1"
-		"MeterBG"		"Gray"
+		"MeterBG"		"CGray5"
 	}
 
 	"PowerupBG"

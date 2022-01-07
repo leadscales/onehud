@@ -13,7 +13,7 @@
 		"enabled"		"0"
 		"scaleImage"	"1"
 		"icon"			"hud_menu_bg"
-		"iconColor"		"255 255 255 255"
+		"iconColor"		"CWhite"
 	}
 
 	"MenuBG"
@@ -47,7 +47,7 @@
 		"enabled"		"0"
 		"scaleImage"	"1"
 		"icon"			"ico_build"
-		"iconColor"		"255 255 255 255"
+		"iconColor"		"CWhite"
 	}
 
 	"BuildIconShadow"

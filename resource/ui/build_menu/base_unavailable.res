@@ -125,7 +125,7 @@
 		"enabled"		"1"
 		"scaleImage"	"1"
 		"icon"			"ico_key_blank"
-		"iconColor"		"255 255 255 255"
+		"iconColor"		"CWhite"
 	}
 
 	"NumberLabel"

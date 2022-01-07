@@ -23,18 +23,6 @@ Scheme
 		"CRedTransparent"		"255 0 96 128"
 		"CBlueTransparent"		"0 160 255 128"
 
-		"CWhite"				"255 255 255 255"
-		"CGray1"				"192 192 192 255"
-		"CGray2"				"160 160 160 255"
-		"CGray3"				"128 128 128 255"
-		"CGray4"				"96 96 96 255"
-		"CGray5"				"64 64 64 255"
-		"CGray6"				"32 32 32 255"
-		"CGray7"				"16 16 16 255"
-		"CGray8"				"8 8 8 255"
-		"CBlack"				"0 0 0 255"
-		"CBlackShadow"			"8 8 8 255"
-
 		"TransparentBlack0"		"0 0 0 224"
 		"TransparentBlack1"		"0 0 0 192"
 		"TransparentBlack2"		"0 0 0 160"

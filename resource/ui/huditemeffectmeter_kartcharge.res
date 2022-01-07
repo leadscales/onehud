@@ -10,7 +10,7 @@
 		"wide"			"500"
 		"tall"			"500"
 		"MeterFG"		"CWhite"
-		"MeterBG"		"Gray"
+		"MeterBG"		"CGray5"
 	}
 
 	"ItemEffectMeterLabel"

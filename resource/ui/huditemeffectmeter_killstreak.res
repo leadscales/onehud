@@ -10,7 +10,7 @@
 		"wide"			"36"
 		"tall"			"36"
 		"MeterFG"		"CGray1"
-		"MeterBG"		"Gray"
+		"MeterBG"		"CGray5"
 	}
 
 	"ItemEffectMeterLabel"
