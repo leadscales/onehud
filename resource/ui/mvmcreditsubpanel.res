@@ -52,7 +52,7 @@
 		"ypos"			"15"
 		"wide"			"30"
 		"tall"			"12"
-		"fgcolor"		"CreditsGreen"
+		"fgcolor"		"CPositive"
 	}
 
 	"CreditMissedTextLabel"
@@ -108,7 +108,7 @@
 		"ypos"			"39"
 		"wide"			"30"
 		"tall"			"12"
-		"fgcolor"		"CreditsGreen"
+		"fgcolor"		"CPositive"
 	}
 
 	"CreditRatingLabelShadow"

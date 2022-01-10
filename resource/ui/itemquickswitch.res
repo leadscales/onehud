@@ -141,7 +141,7 @@
 			"tall"			"35"
 			"visible"		"1"
 			"PaintBackgroundType"	"2"
-			"fgcolor_override" "200 80 60 255"
+			"fgcolor_override" "AccentMain"
 			"bgcolor_override"	"0 0 0 0"
 		}
 	}
@@ -162,7 +162,7 @@
 		"pinCorner"		"0"
 		"visible"		"0"
 		"enabled"		"1"
-		"fgcolor_override" "200 80 60 255"
+		"fgcolor_override" "AccentMain"
 	}
 
 	"loadout_preset_panel"

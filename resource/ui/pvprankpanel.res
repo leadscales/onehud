@@ -296,7 +296,7 @@
 
 			"colors"
 			{
-				"1"		"CreditsGreen"
+				"1"		"CPositive"
 				"2"		"CWhite"
 			}
 		}
@@ -433,7 +433,7 @@
 						"proportionaltoparent"	"1"
 						"progress"		"0"
 
-						"fgcolor_override"	"CreditsGreen"
+						"fgcolor_override"	"CPositive"
 					}
 
 					"Frame"

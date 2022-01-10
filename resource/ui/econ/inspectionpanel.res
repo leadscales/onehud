@@ -315,11 +315,11 @@
 			"paintbackground"	"0"
 
 			"defaultFgColor_override" "0 0 0 0"
-			"armedFgColor_override" "200 80 60 255"
-			"depressedFgColor_override" "46 43 42 255"
+			"armedFgColor_override" "AccentMain"
+			"depressedFgColor_override" "CGray6"
 
 			"image_drawcolor"	"CGray3"
-			"image_armedcolor"	"200 80 60 255"
+			"image_armedcolor"	"AccentMain"
 			"SubImage"
 			{
 				"ControlName"	"ImagePanel"

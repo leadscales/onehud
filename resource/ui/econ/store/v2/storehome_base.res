@@ -239,7 +239,7 @@
 			"tall"			"220"
 			"visible"		"0"
 			"enabled"		"1"
-			"image"			"store/saxton_welcome"
+			"image"			"replay/thumbnails/wallpaper_blurred"
 			"scaleImage"	"1"
 		}
 	}
@@ -249,7 +249,7 @@
 		"ControlName"	"EditablePanel"
 		"fieldName"		"StoreBackgroundPanel"
 		"xpos"			"0"
-		"ypos"			"0"
+		"ypos"			"-50"
 		"zpos"			"-1"
 		"wide"			"f0"
 		"tall"			"f0"
@@ -268,7 +268,7 @@
 			"tall"			"f0"
 			"visible"		"1"
 			"enable"		"1"
-			"image"			"store/store_bg001"
+			"image"			"replay/thumbnails/wallpaper_blurred"
 			"scale_image"	"1"
 			"proportiontoparent"	"1"
 		}
@@ -395,7 +395,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"fgcolor_override" "200 80 60 255"
+		"fgcolor_override" "AccentMain"
 	}
 
 	"NextPageButton"
@@ -465,7 +465,7 @@
 
 	"CartImage"
 	{
-		"ControlName"	"ImagePanel"
+		"ControlName"	"CExLabel"
 		"fieldName"		"CartImage"
 		"xpos"			"c-233"
 		"ypos"			"336"
@@ -474,8 +474,8 @@
 		"tall"			"20"
 		"visible"		"1"
 		"enabled"		"1"
-		"image"			"store_cart"
-		"scaleImage"	"1"
+		"labeltext"		"e"
+		"font"			"Material16"
 	}
 
 	"BrowseTheStoreButton"

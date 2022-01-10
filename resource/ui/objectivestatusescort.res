@@ -33,6 +33,7 @@
 		"enabled"			"1"
 		"labelText"			""
 		"image"				"../hud/cart_track_neutral_opaque"
+		"alpha"				"160"
 		"scaleImage"		"1"
 
 		"if_multiple_trains"
@@ -196,8 +197,8 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"RecedeTime"
-			"font"			"CartNumbers"
-			"xpos"			"241"
+			"font"			"FontBold8"
+			"xpos"			"242"
 			"ypos"			"-2"
 			"zpos"			"2"
 			"wide"			"10"
@@ -443,8 +444,8 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"CapNumPlayers"
-			"font"			"CartNumbers"
-			"xpos"			"241"
+			"font"			"FontBold8"
+			"xpos"			"242"
 			"ypos"			"-2"
 			"zpos"			"20"
 			"wide"			"10"
@@ -482,6 +483,11 @@
 			"if_multiple_trains_bottom"
 			{
 				"ypos"		"63"
+			}
+
+			SubImage
+			{
+				"ControlName"	"ImagePanel"
 			}
 		}
 

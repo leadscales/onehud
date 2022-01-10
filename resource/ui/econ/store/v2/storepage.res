@@ -40,9 +40,9 @@
 		"item_backdrop_bottom_margin"		"42"
 		"item_backdrop_paintbackgroundtype"	"0"
 
-		"item_panel_bgcolor"			"CGray5"
-		"item_panel_bgcolor_mouseover"	"156 146 128 255"
-		"item_panel_bgcolor_selected"	"176 166 148 255"
+		"item_panel_bgcolor"			"TransparentBlack1"
+		"item_panel_bgcolor_mouseover"	"TransparentWhite5"
+		"item_panel_bgcolor_selected"	"TransparentWhite3"
 
 		"classicon_xdelta"		"5"
 
@@ -56,7 +56,7 @@
 			"tall"			"62"
 			"visible"		"0"
 			"bgcolor_override"		"0 0 0 255"
-			"noitem_textcolor"		"117 107 94 255"
+			"noitem_textcolor"		"CGray2"
 			"PaintBackgroundType"	"0"
 			"paintborder"	"0"
 
@@ -113,8 +113,8 @@
 			"wide"			"32"
 			"tall"			"25"
 			"visible"		"0"
-			"bgcolor_override"		"0 0 0 255"
-			"noitem_textcolor"		"117 107 94 255"
+			"bgcolor_override"		"CBlack"
+			"noitem_textcolor"		"CGray2"
 			"PaintBackgroundType"	"0"
 			"paintborder"	"0"
 
@@ -213,7 +213,7 @@
 			"defaultFgColor_override"	"CWhite"
 			"defaultBgColor_override"	"CGray8"
 			"armedFgColor_override"	"CGray8"
-			"armedBgColor_override"	"251 235 202 255"
+			"armedBgColor_override"	"TransparentWhite3"
 			"paintbackgroundtype"	"0"
 		}
 	}
@@ -254,7 +254,7 @@
 			"defaultFgColor_override"	"CWhite"
 			"defaultBgColor_override"	"CGray8"
 			"armedFgColor_override"	"CGray8"
-			"armedBgColor_override"	"251 235 202 255"
+			"armedBgColor_override"	"TransparentWhite3"
 			"paintbackgroundtype"	"0"
 		}
 	}
@@ -270,7 +270,7 @@
 		"tall"			"300"
 		"visible"		"0"
 		"bgcolor_override"		"0 0 0 0"
-		"noitem_textcolor"		"117 107 94 255"
+		"noitem_textcolor"		"CGray2"
 		"PaintBackgroundType"	"2"
 		"paintborder"	"1"
 
@@ -312,7 +312,7 @@
 			"enabled"		"1"
 			"labelText"		"%attriblist%"
 			"textAlignment"	"center"
-			"fgcolor"		"117 107 94 255"
+			"fgcolor"		"CGray2"
 			"centerwrap"	"1"
 		}
 	}
@@ -381,7 +381,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"fgcolor_override" "200 80 60 255"
+		"fgcolor_override" "AccentMain"
 	}
 
 	"NextPageButton"
@@ -750,7 +750,7 @@
 
 	"CartImage"
 	{
-		"ControlName"	"ImagePanel"
+		"ControlName"	"CExLabel"
 		"fieldName"		"CartImage"
 		"xpos"			"c-295"
 		"ypos"			"336"
@@ -759,8 +759,8 @@
 		"tall"			"20"
 		"visible"		"1"
 		"enabled"		"1"
-		"image"			"store_cart"
-		"scaleImage"	"1"
+		"labeltext"		"e"
+		"font"			"Material16"
 	}
 
 	"CartFeaturedItemSymbol"
@@ -867,7 +867,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"wrap"			"1"
-			"fgcolor_override" "46 43 42 255"
+			"fgcolor_override" "CGray6"
 		}
 
 		"TextLabel"
@@ -886,7 +886,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"wrap"			"1"
-			"fgcolor_override" "46 43 42 255"
+			"fgcolor_override" "CGray6"
 		}
 
 		"CloseButton"
@@ -915,12 +915,12 @@
 
 			"paintbackground"	"0"
 
-			"defaultFgColor_override" "46 43 42 255"
-			"armedFgColor_override" "200 80 60 255"
-			"depressedFgColor_override" "46 43 42 255"
+			"defaultFgColor_override" "CGray6"
+			"armedFgColor_override" "AccentMain"
+			"depressedFgColor_override" "CGray6"
 
-			"image_drawcolor"	"117 107 94 255"
-			"image_armedcolor"	"200 80 60 255"
+			"image_drawcolor"	"CGray2"
+			"image_armedcolor"	"AccentMain"
 			"SubImage"
 			{
 				"ControlName"	"ImagePanel"
@@ -952,7 +952,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor_override" "200 80 60 255"
+			"fgcolor_override" "AccentMain"
 		}
 		"NextButton"
 		{
@@ -980,9 +980,9 @@
 
 			"paintbackground"	"0"
 
-			"defaultFgColor_override" "46 43 42 255"
-			"armedFgColor_override" "200 80 60 255"
-			"depressedFgColor_override" "46 43 42 255"
+			"defaultFgColor_override" "CGray6"
+			"armedFgColor_override" "AccentMain"
+			"depressedFgColor_override" "CGray6"
 
 			"image_drawcolor"	"CWhite"
 			"image_armedcolor"	"CWhite"
@@ -1042,7 +1042,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"wrap"			"1"
-			"fgcolor_override" "46 43 42 255"
+			"fgcolor_override" "CGray6"
 		}
 
 		"TextLabel"
@@ -1061,7 +1061,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"wrap"			"1"
-			"fgcolor_override" "46 43 42 255"
+			"fgcolor_override" "CGray6"
 		}
 
 		"CloseButton"
@@ -1090,12 +1090,12 @@
 
 			"paintbackground"	"0"
 
-			"defaultFgColor_override" "46 43 42 255"
-			"armedFgColor_override" "200 80 60 255"
-			"depressedFgColor_override" "46 43 42 255"
+			"defaultFgColor_override" "CGray6"
+			"armedFgColor_override" "AccentMain"
+			"depressedFgColor_override" "CGray6"
 
-			"image_drawcolor"	"117 107 94 255"
-			"image_armedcolor"	"200 80 60 255"
+			"image_drawcolor"	"CGray2"
+			"image_armedcolor"	"AccentMain"
 			"SubImage"
 			{
 				"ControlName"	"ImagePanel"
@@ -1137,9 +1137,9 @@
 
 			"paintbackground"	"0"
 
-			"defaultFgColor_override" "46 43 42 255"
-			"armedFgColor_override" "200 80 60 255"
-			"depressedFgColor_override" "46 43 42 255"
+			"defaultFgColor_override" "CGray6"
+			"armedFgColor_override" "AccentMain"
+			"depressedFgColor_override" "CGray6"
 
 			"image_drawcolor"	"CWhite"
 			"image_armedcolor"	"CWhite"
@@ -1174,7 +1174,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor_override" "200 80 60 255"
+			"fgcolor_override" "AccentMain"
 		}
 		"NextButton"
 		{
@@ -1202,9 +1202,9 @@
 
 			"paintbackground"	"0"
 
-			"defaultFgColor_override" "46 43 42 255"
-			"armedFgColor_override" "200 80 60 255"
-			"depressedFgColor_override" "46 43 42 255"
+			"defaultFgColor_override" "CGray6"
+			"armedFgColor_override" "AccentMain"
+			"depressedFgColor_override" "CGray6"
 
 			"image_drawcolor"	"CWhite"
 			"image_armedcolor"	"CWhite"
@@ -1264,7 +1264,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"wrap"			"1"
-			"fgcolor_override" "46 43 42 255"
+			"fgcolor_override" "CGray6"
 		}
 
 		"TextLabel"
@@ -1283,7 +1283,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"wrap"			"1"
-			"fgcolor_override" "46 43 42 255"
+			"fgcolor_override" "CGray6"
 		}
 
 		"CloseButton"
@@ -1312,12 +1312,12 @@
 
 			"paintbackground"	"0"
 
-			"defaultFgColor_override" "46 43 42 255"
-			"armedFgColor_override" "200 80 60 255"
-			"depressedFgColor_override" "46 43 42 255"
+			"defaultFgColor_override" "CGray6"
+			"armedFgColor_override" "AccentMain"
+			"depressedFgColor_override" "CGray6"
 
-			"image_drawcolor"	"117 107 94 255"
-			"image_armedcolor"	"200 80 60 255"
+			"image_drawcolor"	"CGray2"
+			"image_armedcolor"	"AccentMain"
 			"SubImage"
 			{
 				"ControlName"	"ImagePanel"
@@ -1359,9 +1359,9 @@
 
 			"paintbackground"	"0"
 
-			"defaultFgColor_override" "46 43 42 255"
-			"armedFgColor_override" "200 80 60 255"
-			"depressedFgColor_override" "46 43 42 255"
+			"defaultFgColor_override" "CGray6"
+			"armedFgColor_override" "AccentMain"
+			"depressedFgColor_override" "CGray6"
 
 			"image_drawcolor"	"CWhite"
 			"image_armedcolor"	"CWhite"
@@ -1406,9 +1406,9 @@
 
 			"paintbackground"	"0"
 
-			"defaultFgColor_override" "46 43 42 255"
-			"armedFgColor_override" "200 80 60 255"
-			"depressedFgColor_override" "46 43 42 255"
+			"defaultFgColor_override" "CGray6"
+			"armedFgColor_override" "AccentMain"
+			"depressedFgColor_override" "CGray6"
 
 			"image_drawcolor"	"CWhite"
 			"image_armedcolor"	"CWhite"
@@ -1443,7 +1443,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor_override" "200 80 60 255"
+			"fgcolor_override" "AccentMain"
 		}
 	}
 
@@ -1486,7 +1486,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"wrap"			"1"
-			"fgcolor_override" "46 43 42 255"
+			"fgcolor_override" "CGray6"
 		}
 
 		"TextLabel"
@@ -1505,7 +1505,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"wrap"			"1"
-			"fgcolor_override" "46 43 42 255"
+			"fgcolor_override" "CGray6"
 		}
 
 		"CloseButton"
@@ -1534,12 +1534,12 @@
 
 			"paintbackground"	"0"
 
-			"defaultFgColor_override" "46 43 42 255"
-			"armedFgColor_override" "200 80 60 255"
-			"depressedFgColor_override" "46 43 42 255"
+			"defaultFgColor_override" "CGray6"
+			"armedFgColor_override" "AccentMain"
+			"depressedFgColor_override" "CGray6"
 
-			"image_drawcolor"	"117 107 94 255"
-			"image_armedcolor"	"200 80 60 255"
+			"image_drawcolor"	"CGray2"
+			"image_armedcolor"	"AccentMain"
 			"SubImage"
 			{
 				"ControlName"	"ImagePanel"
@@ -1581,9 +1581,9 @@
 
 			"paintbackground"	"0"
 
-			"defaultFgColor_override" "46 43 42 255"
-			"armedFgColor_override" "200 80 60 255"
-			"depressedFgColor_override" "46 43 42 255"
+			"defaultFgColor_override" "CGray6"
+			"armedFgColor_override" "AccentMain"
+			"depressedFgColor_override" "CGray6"
 
 			"image_drawcolor"	"CWhite"
 			"image_armedcolor"	"CWhite"
@@ -1628,9 +1628,9 @@
 
 			"paintbackground"	"0"
 
-			"defaultFgColor_override" "46 43 42 255"
-			"armedFgColor_override" "200 80 60 255"
-			"depressedFgColor_override" "46 43 42 255"
+			"defaultFgColor_override" "CGray6"
+			"armedFgColor_override" "AccentMain"
+			"depressedFgColor_override" "CGray6"
 
 			"image_drawcolor"	"CWhite"
 			"image_armedcolor"	"CWhite"
@@ -1665,7 +1665,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor_override" "200 80 60 255"
+			"fgcolor_override" "AccentMain"
 		}
 	}
 
@@ -1708,7 +1708,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"wrap"			"1"
-			"fgcolor_override" "46 43 42 255"
+			"fgcolor_override" "CGray6"
 		}
 
 		"TextLabel"
@@ -1727,7 +1727,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"wrap"			"1"
-			"fgcolor_override" "46 43 42 255"
+			"fgcolor_override" "CGray6"
 		}
 
 		"CloseButton"
@@ -1756,12 +1756,12 @@
 
 			"paintbackground"	"0"
 
-			"defaultFgColor_override" "46 43 42 255"
-			"armedFgColor_override" "200 80 60 255"
-			"depressedFgColor_override" "46 43 42 255"
+			"defaultFgColor_override" "CGray6"
+			"armedFgColor_override" "AccentMain"
+			"depressedFgColor_override" "CGray6"
 
-			"image_drawcolor"	"117 107 94 255"
-			"image_armedcolor"	"200 80 60 255"
+			"image_drawcolor"	"CGray2"
+			"image_armedcolor"	"AccentMain"
 			"SubImage"
 			{
 				"ControlName"	"ImagePanel"
@@ -1803,9 +1803,9 @@
 
 			"paintbackground"	"0"
 
-			"defaultFgColor_override" "46 43 42 255"
-			"armedFgColor_override" "200 80 60 255"
-			"depressedFgColor_override" "46 43 42 255"
+			"defaultFgColor_override" "CGray6"
+			"armedFgColor_override" "AccentMain"
+			"depressedFgColor_override" "CGray6"
 
 			"image_drawcolor"	"CWhite"
 			"image_armedcolor"	"CWhite"
@@ -1850,9 +1850,9 @@
 
 			"paintbackground"	"0"
 
-			"defaultFgColor_override" "46 43 42 255"
-			"armedFgColor_override" "200 80 60 255"
-			"depressedFgColor_override" "46 43 42 255"
+			"defaultFgColor_override" "CGray6"
+			"armedFgColor_override" "AccentMain"
+			"depressedFgColor_override" "CGray6"
 
 			"image_drawcolor"	"CWhite"
 			"image_armedcolor"	"CWhite"
@@ -1887,7 +1887,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor_override" "200 80 60 255"
+			"fgcolor_override" "AccentMain"
 		}
 	}
 
@@ -1930,7 +1930,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"wrap"			"1"
-			"fgcolor_override" "46 43 42 255"
+			"fgcolor_override" "CGray6"
 		}
 
 		"TextLabel"
@@ -1949,7 +1949,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"wrap"			"1"
-			"fgcolor_override" "46 43 42 255"
+			"fgcolor_override" "CGray6"
 		}
 
 		"CloseButton"
@@ -1978,12 +1978,12 @@
 
 			"paintbackground"	"0"
 
-			"defaultFgColor_override" "46 43 42 255"
-			"armedFgColor_override" "200 80 60 255"
-			"depressedFgColor_override" "46 43 42 255"
+			"defaultFgColor_override" "CGray6"
+			"armedFgColor_override" "AccentMain"
+			"depressedFgColor_override" "CGray6"
 
-			"image_drawcolor"	"117 107 94 255"
-			"image_armedcolor"	"200 80 60 255"
+			"image_drawcolor"	"CGray2"
+			"image_armedcolor"	"AccentMain"
 			"SubImage"
 			{
 				"ControlName"	"ImagePanel"
@@ -2025,9 +2025,9 @@
 
 			"paintbackground"	"0"
 
-			"defaultFgColor_override" "46 43 42 255"
-			"armedFgColor_override" "200 80 60 255"
-			"depressedFgColor_override" "46 43 42 255"
+			"defaultFgColor_override" "CGray6"
+			"armedFgColor_override" "AccentMain"
+			"depressedFgColor_override" "CGray6"
 
 			"image_drawcolor"	"CWhite"
 			"image_armedcolor"	"CWhite"
@@ -2072,9 +2072,9 @@
 
 			"paintbackground"	"0"
 
-			"defaultFgColor_override" "46 43 42 255"
-			"armedFgColor_override" "200 80 60 255"
-			"depressedFgColor_override" "46 43 42 255"
+			"defaultFgColor_override" "CGray6"
+			"armedFgColor_override" "AccentMain"
+			"depressedFgColor_override" "CGray6"
 
 			"image_drawcolor"	"CWhite"
 			"image_armedcolor"	"CWhite"
@@ -2109,7 +2109,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor_override" "200 80 60 255"
+			"fgcolor_override" "AccentMain"
 		}
 	}
 
@@ -2152,7 +2152,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"wrap"			"1"
-			"fgcolor_override" "46 43 42 255"
+			"fgcolor_override" "CGray6"
 		}
 
 		"TextLabel"
@@ -2171,7 +2171,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"wrap"			"1"
-			"fgcolor_override" "46 43 42 255"
+			"fgcolor_override" "CGray6"
 		}
 
 		"CloseButton"
@@ -2200,12 +2200,12 @@
 
 			"paintbackground"	"0"
 
-			"defaultFgColor_override" "46 43 42 255"
-			"armedFgColor_override" "200 80 60 255"
-			"depressedFgColor_override" "46 43 42 255"
+			"defaultFgColor_override" "CGray6"
+			"armedFgColor_override" "AccentMain"
+			"depressedFgColor_override" "CGray6"
 
-			"image_drawcolor"	"117 107 94 255"
-			"image_armedcolor"	"200 80 60 255"
+			"image_drawcolor"	"CGray2"
+			"image_armedcolor"	"AccentMain"
 			"SubImage"
 			{
 				"ControlName"	"ImagePanel"
@@ -2247,9 +2247,9 @@
 
 			"paintbackground"	"0"
 
-			"defaultFgColor_override" "46 43 42 255"
-			"armedFgColor_override" "200 80 60 255"
-			"depressedFgColor_override" "46 43 42 255"
+			"defaultFgColor_override" "CGray6"
+			"armedFgColor_override" "AccentMain"
+			"depressedFgColor_override" "CGray6"
 
 			"image_drawcolor"	"CWhite"
 			"image_armedcolor"	"CWhite"
@@ -2294,9 +2294,9 @@
 
 			"paintbackground"	"0"
 
-			"defaultFgColor_override" "46 43 42 255"
-			"armedFgColor_override" "200 80 60 255"
-			"depressedFgColor_override" "46 43 42 255"
+			"defaultFgColor_override" "CGray6"
+			"armedFgColor_override" "AccentMain"
+			"depressedFgColor_override" "CGray6"
 
 			"image_drawcolor"	"CWhite"
 			"image_armedcolor"	"CWhite"
@@ -2331,7 +2331,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor_override" "200 80 60 255"
+			"fgcolor_override" "AccentMain"
 		}
 	}
 
@@ -2374,7 +2374,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"wrap"			"1"
-			"fgcolor_override" "46 43 42 255"
+			"fgcolor_override" "CGray6"
 		}
 
 		"TextLabel"
@@ -2393,7 +2393,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"wrap"			"1"
-			"fgcolor_override" "46 43 42 255"
+			"fgcolor_override" "CGray6"
 		}
 
 		"CloseButton"
@@ -2422,12 +2422,12 @@
 
 			"paintbackground"	"0"
 
-			"defaultFgColor_override" "46 43 42 255"
-			"armedFgColor_override" "200 80 60 255"
-			"depressedFgColor_override" "46 43 42 255"
+			"defaultFgColor_override" "CGray6"
+			"armedFgColor_override" "AccentMain"
+			"depressedFgColor_override" "CGray6"
 
-			"image_drawcolor"	"117 107 94 255"
-			"image_armedcolor"	"200 80 60 255"
+			"image_drawcolor"	"CGray2"
+			"image_armedcolor"	"AccentMain"
 			"SubImage"
 			{
 				"ControlName"	"ImagePanel"
@@ -2469,9 +2469,9 @@
 
 			"paintbackground"	"0"
 
-			"defaultFgColor_override" "46 43 42 255"
-			"armedFgColor_override" "200 80 60 255"
-			"depressedFgColor_override" "46 43 42 255"
+			"defaultFgColor_override" "CGray6"
+			"armedFgColor_override" "AccentMain"
+			"depressedFgColor_override" "CGray6"
 
 			"image_drawcolor"	"CWhite"
 			"image_armedcolor"	"CWhite"
@@ -2516,9 +2516,9 @@
 
 			"paintbackground"	"0"
 
-			"defaultFgColor_override" "46 43 42 255"
-			"armedFgColor_override" "200 80 60 255"
-			"depressedFgColor_override" "46 43 42 255"
+			"defaultFgColor_override" "CGray6"
+			"armedFgColor_override" "AccentMain"
+			"depressedFgColor_override" "CGray6"
 
 			"image_drawcolor"	"CWhite"
 			"image_armedcolor"	"CWhite"
@@ -2553,7 +2553,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor_override" "200 80 60 255"
+			"fgcolor_override" "AccentMain"
 		}
 	}
 
@@ -2595,7 +2595,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"wrap"			"1"
-			"fgcolor_override" "46 43 42 255"
+			"fgcolor_override" "CGray6"
 		}
 
 		"TextLabel"
@@ -2614,7 +2614,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"wrap"			"1"
-			"fgcolor_override" "46 43 42 255"
+			"fgcolor_override" "CGray6"
 		}
 
 		"CloseButton"
@@ -2643,12 +2643,12 @@
 
 			"paintbackground"	"0"
 
-			"defaultFgColor_override" "46 43 42 255"
-			"armedFgColor_override" "200 80 60 255"
-			"depressedFgColor_override" "46 43 42 255"
+			"defaultFgColor_override" "CGray6"
+			"armedFgColor_override" "AccentMain"
+			"depressedFgColor_override" "CGray6"
 
-			"image_drawcolor"	"117 107 94 255"
-			"image_armedcolor"	"200 80 60 255"
+			"image_drawcolor"	"CGray2"
+			"image_armedcolor"	"AccentMain"
 			"SubImage"
 			{
 				"ControlName"	"ImagePanel"
@@ -2690,9 +2690,9 @@
 
 			"paintbackground"	"0"
 
-			"defaultFgColor_override" "46 43 42 255"
-			"armedFgColor_override" "200 80 60 255"
-			"depressedFgColor_override" "46 43 42 255"
+			"defaultFgColor_override" "CGray6"
+			"armedFgColor_override" "AccentMain"
+			"depressedFgColor_override" "CGray6"
 
 			"image_drawcolor"	"CWhite"
 			"image_armedcolor"	"CWhite"
@@ -2728,7 +2728,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor_override" "200 80 60 255"
+			"fgcolor_override" "AccentMain"
 		}
 	}
 }

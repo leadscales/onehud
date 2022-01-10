@@ -198,7 +198,7 @@
 					"visible"		"0"
 					"enabled"		"1"
 					"wrap"			"1"
-					"fgcolor"		"200 80 60 255"
+					"fgcolor"		"AccentMain"
 				}
 
 				"RestrictionsTextLabel"
@@ -215,7 +215,7 @@
 					"visible"		"0"
 					"enabled"		"1"
 					"wrap"			"1"
-					"fgcolor"		"200 80 60 255"
+					"fgcolor"		"AccentMain"
 				}
 
 				"UsedByLabel"

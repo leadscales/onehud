@@ -103,8 +103,8 @@
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
 
-		"armedBgColor_override"		"CreditsGreen"
-		"defaultBgColor_override"	"GreenSolid"
+		"armedBgColor_override"		"CPositive"
+		"defaultBgColor_override"	"TransparentBlack3"
 	}
 
 	"BootCampToolTipButtonHack"
@@ -152,8 +152,8 @@
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
 
-		"armedBgColor_override"		"CreditsGreen"
-		"defaultBgColor_override"	"GreenSolid"
+		"armedBgColor_override"		"CPositive"
+		"defaultBgColor_override"	"TransparentBlack3"
 	}
 
 	"NextButton"

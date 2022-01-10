@@ -651,7 +651,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "SaleGreen"
+					"color" "CPositive"
 					"offset" "0 0"
 				}
 			}
@@ -660,7 +660,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "SaleGreen"
+					"color" "CPositive"
 					"offset" "0 0"
 				}
 			}
@@ -669,7 +669,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "SaleGreen"
+					"color" "CPositive"
 					"offset" "0 0"
 				}
 			}
@@ -678,7 +678,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "SaleGreen"
+					"color" "CPositive"
 					"offset" "0 0"
 				}
 			}
@@ -2437,8 +2437,9 @@ Scheme
 		{
 			"bordertype"			"scalable_image"
 			"backgroundtype"		"2"
+			"color"					"CGray6"
 
-			"image"					"replay/thumbnails/mmbg"
+			"image"					"replay/thumbnails/panels/panel_generic_opaque"
 			"src_corner_height"		"32"				// pixels inside the image
 			"src_corner_width"		"32"
 			"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional
@@ -2495,7 +2496,7 @@ Scheme
 			"bordertype"			"scalable_image"
 			"backgroundtype"		"2"
 
-			"image"					"store/innershadow_border"
+			"image"					"replay/thumbnails/blank"
 			"src_corner_height"		"23"				// pixels inside the image
 			"src_corner_width"		"23"
 			"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional
@@ -2842,8 +2843,9 @@ Scheme
 		{
 			"bordertype"			"scalable_image"
 			"backgroundtype"		"2"
+			"color"					"CRed"
 
-			"image"					"../hud/panel_scalable_red"
+			"image"					"replay/thumbnails/panels/panel_generic"
 			"src_corner_height"		"23"			// pixels inside the image
 			"src_corner_width"		"23"
 			"draw_corner_width"		"7"				// screen size of the corners ( and sides ), proportional
@@ -2854,8 +2856,9 @@ Scheme
 		{
 			"bordertype"			"scalable_image"
 			"backgroundtype"		"2"
+			"color"					"CBlue"
 
-			"image"					"../hud/panel_scalable_blue"
+			"image"					"replay/thumbnails/panels/panel_generic"
 			"src_corner_height"		"23"			// pixels inside the image
 			"src_corner_width"		"23"
 			"draw_corner_width"		"7"				// screen size of the corners ( and sides ), proportional
@@ -2867,7 +2870,7 @@ Scheme
 			"bordertype"			"scalable_image"
 			"backgroundtype"		"2"
 
-			"image"					"inner_shadow_border"
+			"image"					"replay/thumbnails/blank"
 			"src_corner_height"		"5"				// pixels inside the image
 			"src_corner_width"		"5"
 			"draw_corner_width"		"5"				// screen size of the corners ( and sides ), proportional
@@ -2879,7 +2882,7 @@ Scheme
 			"bordertype"			"scalable_image"
 			"backgroundtype"		"2"
 
-			"image"					"inner_shadow_border"
+			"image"					"replay/thumbnails/blank"
 			"src_corner_height"		"5"				// pixels inside the image
 			"src_corner_width"		"5"
 			"draw_corner_width"		"4"				// screen size of the corners ( and sides ), proportional
@@ -3036,7 +3039,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "CreditsGreen"
+					"color" "CPositive"
 					"offset" "0 1"
 				}
 
@@ -3046,7 +3049,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "CreditsGreen"
+					"color" "CPositive"
 					"offset" "1 0"
 				}
 			}
@@ -3055,7 +3058,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "CreditsGreen"
+					"color" "CPositive"
 					"offset" "0 0"
 				}
 			}
@@ -3064,7 +3067,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "CreditsGreen"
+					"color" "CPositive"
 					"offset" "0 0"
 				}
 			}
@@ -3077,12 +3080,12 @@ Scheme
 			{
 				"1"
 				{
-					"color" "CreditsGreen"
+					"color" "CPositive"
 					"offset" "0 1"
 				}
 				"2"
 				{
-					"color" "CreditsGreen"
+					"color" "CPositive"
 					"offset" "0 1"
 				}
 			}
@@ -3091,12 +3094,12 @@ Scheme
 			{
 				"1"
 				{
-					"color" "CreditsGreen"
+					"color" "CPositive"
 					"offset" "1 0"
 				}
 				"2"
 				{
-					"color" "CreditsGreen"
+					"color" "CPositive"
 					"offset" "1 0"
 				}
 			}
@@ -3105,12 +3108,12 @@ Scheme
 			{
 				"1"
 				{
-					"color" "CreditsGreen"
+					"color" "CPositive"
 					"offset" "0 0"
 				}
 				"2"
 				{
-					"color" "CreditsGreen"
+					"color" "CPositive"
 					"offset" "0 0"
 				}
 			}
@@ -3119,12 +3122,12 @@ Scheme
 			{
 				"1"
 				{
-					"color" "CreditsGreen"
+					"color" "CPositive"
 					"offset" "0 0"
 				}
 				"2"
 				{
-					"color" "CreditsGreen"
+					"color" "CPositive"
 					"offset" "0 0"
 				}
 			}

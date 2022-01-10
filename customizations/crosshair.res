@@ -8,6 +8,7 @@
 	// Set visible and enabled to 1 to use. Change labelText to the
 	// corresponding crosshair in KnucklesCrosses.png. Change xpos
 	// and ypos values if not perfectly centered.
+	// Type "hud_reloadscheme" for your changes to take effect.
 	//--------------------------------------------------------------
 
 	KnucklesCrosses

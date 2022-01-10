@@ -72,7 +72,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"centerwrap"	"1"
-		"fgcolor_override" "200 80 60 255"
+		"fgcolor_override" "AccentMain"
 	}
 
 	"CancelButton"

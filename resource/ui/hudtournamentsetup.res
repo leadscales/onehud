@@ -119,9 +119,9 @@
 
 		"defaultBgColor_override"	"CGray8"
 		"defaultFgColor_override" "CWhite"
-		"armedBgColor_override"	"CreditsGreen"
+		"armedBgColor_override"	"CPositive"
 		"armedFgColor_override" 	"CWhite"
-		"depressedBgColor_override"	"CreditsGreen"
+		"depressedBgColor_override"	"CPositive"
 		"depressedFgColor_override" "CWhite"
 	}
 }

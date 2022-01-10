@@ -5,6 +5,8 @@
 		// Replace the command in the "command" field with a valid tf2 server connection command
 		// For example:
 		// "engine connect 127.0.0.1:27015; password 12345" 
+		// Please note that this requires a game restart to take effect.
+
 
 		"FavoriteServer1"
 		{

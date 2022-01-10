@@ -109,7 +109,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"fgcolor_override" "200 80 60 255"
+		"fgcolor_override" "AccentMain"
 	}
 
 	"ExplanationLabel"
@@ -166,7 +166,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"fgcolor_override" "200 80 60 255"
+		"fgcolor_override" "AccentMain"
 	}
 
 	"DiscardedLabel"
@@ -185,7 +185,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"fgcolor_override" "200 80 60 255"
+		"fgcolor_override" "AccentMain"
 	}
 
 	"DiscardButton"
@@ -315,7 +315,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"wrap"			"1"
-			"fgcolor_override" "46 43 42 255"
+			"fgcolor_override" "CGray6"
 		}
 
 		"TextLabel"
@@ -334,7 +334,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"wrap"			"1"
-			"fgcolor_override" "46 43 42 255"
+			"fgcolor_override" "CGray6"
 		}
 
 		"CloseButton"
@@ -362,12 +362,12 @@
 			"Command"		"close"
 			"paintbackground"	"0"
 
-			"defaultFgColor_override" "46 43 42 255"
-			"armedFgColor_override" "200 80 60 255"
-			"depressedFgColor_override" "46 43 42 255"
+			"defaultFgColor_override" "CGray6"
+			"armedFgColor_override" "AccentMain"
+			"depressedFgColor_override" "CGray6"
 
 			"image_drawcolor"	"117 107 94 255"
-			"image_armedcolor"	"200 80 60 255"
+			"image_armedcolor"	"AccentMain"
 
 			"SubImage"
 			{
@@ -401,7 +401,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor_override" "200 80 60 255"
+			"fgcolor_override" "AccentMain"
 		}
 
 		"NextButton"
@@ -429,9 +429,9 @@
 			"Command"		"nextexplanation"
 			"paintbackground"	"0"
 
-			"defaultFgColor_override" "46 43 42 255"
-			"armedFgColor_override" "200 80 60 255"
-			"depressedFgColor_override" "46 43 42 255"
+			"defaultFgColor_override" "CGray6"
+			"armedFgColor_override" "AccentMain"
+			"depressedFgColor_override" "CGray6"
 
 			"image_drawcolor"	"235 226 202 255"
 			"image_armedcolor"	"CWhite"
@@ -492,7 +492,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"wrap"			"1"
-			"fgcolor_override" "46 43 42 255"
+			"fgcolor_override" "CGray6"
 		}
 
 		"TextLabel"
@@ -511,7 +511,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"wrap"			"1"
-			"fgcolor_override" "46 43 42 255"
+			"fgcolor_override" "CGray6"
 		}
 
 		"CloseButton"
@@ -540,12 +540,12 @@
 
 			"paintbackground"	"0"
 
-			"defaultFgColor_override" "46 43 42 255"
-			"armedFgColor_override" "200 80 60 255"
-			"depressedFgColor_override" "46 43 42 255"
+			"defaultFgColor_override" "CGray6"
+			"armedFgColor_override" "AccentMain"
+			"depressedFgColor_override" "CGray6"
 
 			"image_drawcolor"	"117 107 94 255"
-			"image_armedcolor"	"200 80 60 255"
+			"image_armedcolor"	"AccentMain"
 			"SubImage"
 			{
 				"ControlName"	"ImagePanel"
@@ -587,9 +587,9 @@
 			"Command"		"prevexplanation"
 			"paintbackground"	"0"
 
-			"defaultFgColor_override" "46 43 42 255"
-			"armedFgColor_override" "200 80 60 255"
-			"depressedFgColor_override" "46 43 42 255"
+			"defaultFgColor_override" "CGray6"
+			"armedFgColor_override" "AccentMain"
+			"depressedFgColor_override" "CGray6"
 
 			"image_drawcolor"	"235 226 202 255"
 			"image_armedcolor"	"CWhite"
@@ -626,7 +626,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor_override" "200 80 60 255"
+			"fgcolor_override" "AccentMain"
 		}
 
 		"NextButton"
@@ -654,9 +654,9 @@
 			"Command"		"nextexplanation"
 			"paintbackground"	"0"
 
-			"defaultFgColor_override" "46 43 42 255"
-			"armedFgColor_override" "200 80 60 255"
-			"depressedFgColor_override" "46 43 42 255"
+			"defaultFgColor_override" "CGray6"
+			"armedFgColor_override" "AccentMain"
+			"depressedFgColor_override" "CGray6"
 
 			"image_drawcolor"	"235 226 202 255"
 			"image_armedcolor"	"CWhite"
@@ -716,7 +716,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"wrap"			"1"
-			"fgcolor_override" "46 43 42 255"
+			"fgcolor_override" "CGray6"
 		}
 
 		"TextLabel"
@@ -735,7 +735,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"wrap"			"1"
-			"fgcolor_override" "46 43 42 255"
+			"fgcolor_override" "CGray6"
 		}
 
 		"CloseButton"
@@ -763,12 +763,12 @@
 			"Command"		"close"
 			"paintbackground"	"0"
 
-			"defaultFgColor_override" "46 43 42 255"
-			"armedFgColor_override" "200 80 60 255"
-			"depressedFgColor_override" "46 43 42 255"
+			"defaultFgColor_override" "CGray6"
+			"armedFgColor_override" "AccentMain"
+			"depressedFgColor_override" "CGray6"
 
 			"image_drawcolor"	"117 107 94 255"
-			"image_armedcolor"	"200 80 60 255"
+			"image_armedcolor"	"AccentMain"
 
 			"SubImage"
 			{
@@ -811,9 +811,9 @@
 			"Command"		"prevexplanation"
 			"paintbackground"	"0"
 
-			"defaultFgColor_override" "46 43 42 255"
-			"armedFgColor_override" "200 80 60 255"
-			"depressedFgColor_override" "46 43 42 255"
+			"defaultFgColor_override" "CGray6"
+			"armedFgColor_override" "AccentMain"
+			"depressedFgColor_override" "CGray6"
 
 			"image_drawcolor"	"235 226 202 255"
 			"image_armedcolor"	"CWhite"
@@ -850,7 +850,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor_override" "200 80 60 255"
+			"fgcolor_override" "AccentMain"
 		}
 	}
 }

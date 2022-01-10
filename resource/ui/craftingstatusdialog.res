@@ -61,7 +61,7 @@
 		"centerwrap"	"1"
 		"labelText"		"%updatetext%"
 		"textAlignment"		"center"
-		"fgcolor_override" "200 80 60 255"
+		"fgcolor_override" "AccentMain"
 		"bgcolor_override" "0 0 0 0"
 		"auto_wide_tocontents" "1"
 
@@ -85,7 +85,7 @@
 		"enabled"		"1"
 		"labelText"		"%ellipses%"
 		"textAlignment"		"west"
-		"fgcolor_override" "200 80 60 255"
+		"fgcolor_override" "AccentMain"
 		"bgcolor_override" "0 0 0 0"
 
 		"pin_to_sibling"               "TitleLabel"

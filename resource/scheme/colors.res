@@ -9,14 +9,14 @@ Scheme
 		"CRed"					"255 0 96 255"
 		"COrange"				"255 128 0 255"
 		"CYellow"				"255 192 0 255"
-		"CGreen"				"0 255 160 255"
+		"CGreen"				"0 255 128 255"
 		"CBlue"					"0 160 255 255"
 		"CPurple"				"160 0 255 255"
 
 		"CRedDark"				"192 0 72 255"
 		"COrangeDark"			"192 96 0 255"
 		"CYellowDark"			"192 160 0 255"
-		"CGreenDark"			"0 192 128 255"
+		"CGreenDark"			"0 192 96 255"
 		"CBlueDark"				"0 128 192 255"
 		"CPurpleDark"			"128 0 192 255"
 
@@ -75,7 +75,7 @@ Scheme
 		"BrightYellow"		"255 192 0 255"
 		//"Black"				"0 0 0 255"
 		//Changed black to a NTSC safe color
-		"GreenSolid"		 "0 255 160 255"
+		"GreenSolid"		 "0 255 128 255"
 
 		"Black"				"48 48 48 255"
 		"Transparent"		"0 0 0 0"
@@ -93,7 +93,7 @@ Scheme
 		"HudOffWhite"		"224 224 224 255"
 		"HudBlack"			"0 0 0 192"
 		"ProgressBarBlue"	"96 128 160 255"
-		"CreditsGreen"		"0 255 160 255"
+		"CreditsGreen"		"0 255 128 255"
 
 		"Gray"				"64 64 64 255"
 		"Blank"				"0 0 0 0"
@@ -212,7 +212,7 @@ Scheme
 		"QualityColorCollectors_GreyedOut"		"255 80 80 255"
 		"QualityColorPaintkitWeapon_GreyedOut"	"255 255 255 255"
 
-		"SaleGreen"								"0 255 160 255"
+		"SaleGreen"								"0 255 128 255"
 		"LightRed"								"255 64 0 255"
 		"LighterRed"							"255 96 0 255"
 		"LighterDarkBrown"						"64 64 64 255"

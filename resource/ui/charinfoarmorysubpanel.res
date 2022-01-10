@@ -17,9 +17,9 @@
 		"infocus_bgcolor_override" "CGray7"
 		"outoffocus_bgcolor_override" "CGray7"
 
-		"thumbnail_bgcolor"			"CGray5"
-		"thumbnail_bgcolor_mouseover"	"156 146 128 255"
-		"thumbnail_bgcolor_selected"	"176 166 148 255"
+		"thumbnail_bgcolor"			"TransparentBlack1"
+		"thumbnail_bgcolor_mouseover"	"TransparentWhite5"
+		"thumbnail_bgcolor_selected"	"TransparentWhite3"
 
 		"thumbnails_rows"		"4"
 		"thumbnails_columns"	"4"
@@ -106,7 +106,7 @@
 		"pinCorner"		"0"
 		"visible"		"0"
 		"enabled"		"0"
-		"fgcolor_override" "200 80 60 255"
+		"fgcolor_override" "AccentMain"
 	}
 	"ArmoryLabel"
 	{
@@ -216,9 +216,9 @@
 			"enabled"		"1"
 			"fgcolor"		"CGray1"
 			"wrap"			"1"
-			"highlight_color"	"177 168 149 255"
-			"itemset_color"		"216 244 9 255"
-			"link_color"		"252 191 27 255"
+			"highlight_color"	"AccentMain"
+			"itemset_color"		"AccentMain"
+			"link_color"		"AccentMain"
 			"image_up_arrow"				"scroll_up_off"
 			"image_up_arrow_mouseover"		"scroll_up_on"
 			"image_down_arrow"				"scroll_down_off"
@@ -360,7 +360,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"fgcolor_override" "200 80 60 255"
+		"fgcolor_override" "AccentMain"
 	}
 
 	"NextPageButton"

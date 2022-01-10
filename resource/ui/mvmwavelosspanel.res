@@ -129,7 +129,7 @@
 			"xpos"			"120"
 			"ypos"			"25"
 			"wide"			"30"
-			"fgcolor"		"CreditsGreen"
+			"fgcolor"		"CPositive"
 		}
 
 		"MissedLabel"
@@ -181,7 +181,7 @@
 			"xpos"			"120"
 			"ypos"			"55"
 			"wide"			"30"
-			"fgcolor"		"CreditsGreen"
+			"fgcolor"		"CPositive"
 		}
 	}
 

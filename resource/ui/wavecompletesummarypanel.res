@@ -109,7 +109,7 @@
 			"ypos"			"5"
 			"wide"			"30"
 			"tall"			"20"
-			"fgcolor"		"CreditsGreen"
+			"fgcolor"		"CPositive"
 		}
 
 		"CreditMissedTextLabel"
@@ -165,7 +165,7 @@
 			"ypos"			"29"
 			"wide"			"30"
 			"tall"			"20"
-			"fgcolor"		"CreditsGreen"
+			"fgcolor"		"CPositive"
 		}
 	}
 
@@ -280,7 +280,7 @@
 			"ypos"			"3"
 			"wide"			"30"
 			"tall"			"20"
-			"fgcolor"		"CreditsGreen"
+			"fgcolor"		"CPositive"
 		}
 	}
 }

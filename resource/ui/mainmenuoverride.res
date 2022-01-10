@@ -713,9 +713,9 @@
 		"border_armed"		"MainMenuButtonArmed"
 		"paintbackground"	"0"
 
-		"defaultFgColor_override" "46 43 42 255"
+		"defaultFgColor_override" "CGray6"
 		"armedFgColor_override" "235 226 202 255"
-		"depressedFgColor_override" "46 43 42 255"
+		"depressedFgColor_override" "CGray6"
 	}
 
 	"CompetitiveAccessInfoPanel"
@@ -1089,9 +1089,9 @@
 			"sound_released"	"UI/buttonclickrelease.wav"
 			"paintbackground"	"0"
 
-			"defaultFgColor_override" "46 43 42 255"
-			"armedFgColor_override" "46 43 42 255"
-			"depressedFgColor_override" "46 43 42 255"
+			"defaultFgColor_override" "CGray6"
+			"armedFgColor_override" "CGray6"
+			"depressedFgColor_override" "CGray6"
 
 			"image_drawcolor"	"CWhite"
 			"image_armedcolor"	"0 191 255 255"
@@ -1158,9 +1158,9 @@
 			"sound_released"	"UI/buttonclickrelease.wav"
 			"paintbackground"	"0"
 
-			"defaultFgColor_override" "46 43 42 255"
-			"armedFgColor_override" "46 43 42 255"
-			"depressedFgColor_override" "46 43 42 255"
+			"defaultFgColor_override" "CGray6"
+			"armedFgColor_override" "CGray6"
+			"depressedFgColor_override" "CGray6"
 
 			"image_drawcolor"	"CWhite"
 			"image_armedcolor"	"0 191 255 255"

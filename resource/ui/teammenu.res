@@ -653,7 +653,7 @@
 		"dulltext"		"0"
 		"brighttext"	"0"
 		"font"			"FontRegular12"
-		"fgcolor"		"TransparentBlack"
+		"fgcolor"		"TransparentBlack1"
 		"centerwrap"	"1"
 	}
 
@@ -697,7 +697,7 @@
 		"dulltext"		"0"
 		"brighttext"	"0"
 		"font"			"FontRegular12"
-		"fgcolor"		"TransparentBlack"
+		"fgcolor"		"TransparentBlack1"
 		"centerwrap"	"1"
 
 		"pin_to_sibling"		"TeamsFullLabel"

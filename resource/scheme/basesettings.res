@@ -49,7 +49,7 @@ Scheme
 
 		CheckButton.TextColor			"CWhite"
 		CheckButton.SelectedTextColor	"CWhite"
-		CheckButton.BgColor				"TransparentBlack"
+		CheckButton.BgColor				"TransparentBlack1"
 		CheckButton.Border1  			"CWhite" 		// the left checkbutton border
 		CheckButton.Border2  			"CWhite"			// the right checkbutton border
 		CheckButton.Check				"CWhite"			// color of the check itself
@@ -60,8 +60,8 @@ Scheme
 		ComboBoxButton.BgColor			"Blank"
 		ComboBoxButton.DisabledBgColor	"Blank"
 
-		Frame.BgColor					"TransparentBlack"
-		Frame.OutOfFocusBgColor			"TransparentBlack"
+		Frame.BgColor					"TransparentBlack1"
+		Frame.OutOfFocusBgColor			"TransparentBlack1"
 		Frame.FocusTransitionEffectTime	"0.0"	// time it takes for a window to fade in/out on focus/out of focus
 		Frame.TransitionEffectTime		"0.0"	// time it takes for a window to fade in/out on open/close
 		Frame.AutoSnapRange				"0"
@@ -81,7 +81,7 @@ Scheme
 		FrameTitleBar.DisabledBgColor	"Blank"
 
 		GraphPanel.FgColor				"AccentMain"
-		GraphPanel.BgColor				"TransparentBlack"
+		GraphPanel.BgColor				"TransparentBlack1"
 
 		Label.TextDullColor				"TransparentWhite1"
 		Label.TextColor					"CWhite"
@@ -92,7 +92,7 @@ Scheme
 		Label.DisabledFgColor2			"Black"
 
 		ListPanel.TextColor					"AccentMain"
-		ListPanel.BgColor					"TransparentBlack"
+		ListPanel.BgColor					"TransparentBlack1"
 		ListPanel.SelectedTextColor			"Black"
 		ListPanel.SelectedBgColor			"AccentMain"
 		ListPanel.SelectedOutOfFocusBgColor	"AccentMain"
@@ -165,17 +165,17 @@ Scheme
 		TextEntry.CursorColor		"CGray5"
 		TextEntry.DisabledTextColor	"CGray5"
 		TextEntry.DisabledBgColor	"Blank"
-		TextEntry.SelectedTextColor	"TanLight"
+		TextEntry.SelectedTextColor	"CGray1"
 		TextEntry.SelectedBgColor	"CGray5"
 		TextEntry.OutOfFocusSelectedBgColor	"Blank"
 		TextEntry.FocusEdgeColor	"Blank"
 
 		ToggleButton.SelectedTextColor	"AccentMain"
 
-		Tooltip.TextColor			"TransparentBlack"
+		Tooltip.TextColor			"TransparentBlack1"
 		Tooltip.BgColor				"AccentMain"
 
-		TreeView.BgColor			"TransparentBlack"
+		TreeView.BgColor			"TransparentBlack1"
 
 		WizardSubPanel.BgColor		"Blank"
 
@@ -197,7 +197,7 @@ Scheme
 
 		// scheme-specific colors
 		"FgColor"		"AccentMain"
-		"BgColor"		"TransparentBlack"
+		"BgColor"		"TransparentBlack1"
 
 		"ViewportBG"		"Blank"
 		"TeamSpec"			"CGray1"
@@ -209,16 +209,16 @@ Scheme
 		"HudIcon_Red"		"CNegative"
 
 		// CHudMenu
-		"ItemColor"		"AccentMainTransparent"	// default 255 167 42 255
-		"MenuColor"		"64 64 64 255"
-		"MenuBoxBg"		"0 0 0 100"
+		"ItemColor"		"CWhite"	// default 255 167 42 255
+		"MenuColor"		"CWhite"
+		"MenuBoxBg"		"TransparentBlack3"
 
 		// weapon selection colors
-		"SelectionNumberFg"		"192 192 192 255"
+		"SelectionNumberFg"		"CGray1"
 		"SelectionTextFg"		"CWhite"
-		"SelectionEmptyBoxBg" 	"0 0 0 96"
-		"SelectionBoxBg" 		"0 0 0 96"
-		"SelectionSelectedBoxBg" "0 0 0 192"
+		"SelectionEmptyBoxBg" 	"TransparentBlack4"
+		"SelectionBoxBg" 		"TransparentBlack4"
+		"SelectionSelectedBoxBg" "TransparentBlack1"
 
 		// Hint message colors
 		"HintMessageFg"			"CWhite"

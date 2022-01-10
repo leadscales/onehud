@@ -344,8 +344,8 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"fgcolor_override" "200 80 60 255"
-		"bgcolor_override"	"46 43 42 255"
+		"fgcolor_override" "AccentMain"
+		"bgcolor_override"	"CGray6"
 	}
 
 	"ScoreEntry"

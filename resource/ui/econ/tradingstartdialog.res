@@ -382,7 +382,7 @@
 			"enabled"		"1"
 			"wrap"			"1"
 			"centerwrap"	"1"
-			"fgcolor_override" "200 80 60 255"
+			"fgcolor_override" "AccentMain"
 		}
 		"URLSearchingLabel"
 		{
@@ -402,7 +402,7 @@
 			"enabled"		"1"
 			"wrap"			"1"
 			"centerwrap"	"1"
-			"fgcolor_override" "200 80 60 255"
+			"fgcolor_override" "AccentMain"
 		}
 
 		"URLEntry"

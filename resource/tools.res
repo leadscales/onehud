@@ -258,7 +258,7 @@
 			"textAlignment"					"center"
 			"paintbackground"				"0"
 			"actionsignallevel"				"2"
-			"command"						"engine cl_crosshair_red 0; cl_crosshair_green 255; cl_crosshair_blue 160;"
+			"command"						"engine cl_crosshair_red 0; cl_crosshair_green 255; cl_crosshair_blue 128;"
 			"sound_depressed"				"UI/buttonclick.wav"
 			"sound_released"				"UI/buttonclickrelease.wav"
 			"pin_to_sibling"				"XColorYellow"

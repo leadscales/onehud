@@ -2,6 +2,8 @@ Scheme
 {
 	Colors
 	{
+		// Please note that this requires a game restart to take effect.
+
 		//---------------------------------------------
 		// CUSTOM COLORS
 		//---------------------------------------------
@@ -14,8 +16,12 @@ Scheme
 		"AccentLightTransparent"	"255 160 0 96"
 		"AccentDarkTransparent"		"255 96 0 96"
 
-		"CPositive"			    	"0 192 128 255"
-		"CNegative"			    	"255 80 0 255"
+		"AccentMainTransparent2"	"255 128 0 32"
+		"AccentLightTransparent2"	"255 160 0 32"
+		"AccentDarkTransparent2"	"255 96 0 32"
+
+		"CPositive"			    	"0 255 128 255"
+		"CNegative"			    	"255 0 64 255"
 
 		//---------------------------------------------
 

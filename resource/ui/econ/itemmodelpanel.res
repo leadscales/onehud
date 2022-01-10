@@ -133,7 +133,7 @@
 			"enabled"		"1"
 			"labelText"		"#ItemPanelEquipped"
 			"textAlignment"	"center"
-			"fgcolor"		"200 80 60 255"
+			"fgcolor"		"AccentMain"
 			"bgcolor_override"		"CGray8"
 			"PaintBackgroundType"	"0"
 		}
@@ -168,7 +168,7 @@
 			"enabled"		"1"
 			"labelText"		""
 			"textAlignment"	"center"
-			"fgcolor"		"200 80 60 255"
+			"fgcolor"		"AccentMain"
 			"bgcolor_override"		"CGray8"
 			"PaintBackgroundType"	"0"
 		}
