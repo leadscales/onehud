@@ -16,9 +16,9 @@
 		"tabPosition"		"0"
 		"settitlebarvisible"	"0"
 		"PaintBackgroundType"	"0"
-		"bgcolor_override"	"CGray2"
-		"infocus_bgcolor_override" "CGray2"
-		"outoffocus_bgcolor_override" "CGray2"
+		"bgcolor_override"	"CGray7"
+		"infocus_bgcolor_override" "CGray7"
+		"outoffocus_bgcolor_override" "CGray7"
 
 		"modelpanels_spacing"		"40"
 		"modelpanels_width"			"500"

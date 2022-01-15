@@ -150,7 +150,7 @@
 		"zpos"				"-5"
 		"wide"				"f0"
 		"tall"				"f0"
-		"image"				"replay/thumbnails/wallpaper_blurred2"
+		"image"				"replay/thumbnails/wallpaper_blurred"
 		"visible"			"1"
 		"enabled"			"1"
 		"scaleImage"		"1"

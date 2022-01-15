@@ -107,7 +107,7 @@
 		"if_multiple_trains"
 		{
 			"xpos"			"-8"
-			"zpos"			"5"
+			"zpos"			"12"
 			"wide"			"16"
 			"tall"			"16"
 			"image"			"../hud/cart_track_neutral_opaque"
@@ -181,7 +181,7 @@
 		"ypos"				"r18"
 		"zpos"				"2"
 		"wide"				"506"
-		"tall"				"20"
+		"tall"				"25"
 		"visible"			"1"
 		"enabled"			"1"
 
@@ -215,12 +215,12 @@
 
 			"if_single_with_hills_blue"
 			{
-				"ypos"			"-4"
+				"ypos"			"1"
 			}
 
 			"if_single_with_hills_red"
 			{
-				"ypos"			"-4"
+				"ypos"			"1"
 			}
 
 			"if_multiple_trains"
@@ -269,12 +269,12 @@
 
 			"if_single_with_hills_blue"
 			{
-				"ypos"			"0"
+				"ypos"			"5"
 			}
 
 			"if_single_with_hills_red"
 			{
-				"ypos"			"0"
+				"ypos"			"5"
 			}
 
 			"if_multiple_trains"
@@ -361,13 +361,13 @@
 
 			"if_single_with_hills_blue"
 			{
-				"ypos"			"-2"
+				"ypos"			"3"
 				"image"			"replay/thumbnails/cart_icons/cart_backwards"
 			}
 
 			"if_single_with_hills_red"
 			{
-				"ypos"			"-2"
+				"ypos"			"3"
 				"image"			"replay/thumbnails/cart_icons/cart_backwards"
 			}
 
@@ -424,12 +424,24 @@
 
 			"if_multiple_trains_top"
 			{
-				"ypos"		"65"
+				"visible"	"1"
+				"enabled"	"1"
+				"xpos"		"25"
+				"ypos"		"67"
+				"wide"		"1"
+				"tall"		"4"
+				"image"		"replay/thumbnails/panels/panel_generic_opaque"
 			}
 
 			"if_multiple_trains_bottom"
 			{
-				"ypos"		"65"
+				"visible"	"1"
+				"enabled"	"1"
+				"xpos"		"25"
+				"ypos"		"67"
+				"wide"		"1"
+				"tall"		"4"
+				"image"		"replay/thumbnails/panels/panel_generic_opaque"
 			}
 		}
 
@@ -462,12 +474,12 @@
 
 			"if_single_with_hills_blue"
 			{
-				"ypos"			"-4"
+				"ypos"			"1"
 			}
 
 			"if_single_with_hills_red"
 			{
-				"ypos"			"-4"
+				"ypos"			"1"
 			}
 
 			"if_multiple_trains"
@@ -511,19 +523,19 @@
 
 			"if_single_with_hills_blue"
 			{
-				"ypos"			"-2"
+				"ypos"			"3"
 				"image"			"replay/thumbnails/cart_icons/cart_blocked"
 			}
 
 			"if_single_with_hills_red"
 			{
-				"ypos"			"-2"
+				"ypos"			"3"
 				"image"			"replay/thumbnails/cart_icons/cart_blocked"
 			}
 
 			"if_multiple_trains"
 			{
-				"xpos"		"20"
+				"xpos"		"22"
 			}
 
 			"if_multiple_trains_top"
