@@ -46,13 +46,13 @@ Scheme
 		//---------------------------------------------
 													
 		"HP"				    	"255 255 255 255"
-		"HP Buff"			    	"0 255 192 255"
-		"HP Buff 2"			    	"0 255 160 255"
+		"HP Buff"			    	"0 255 160 255"
+		"HP Buff 2"			    	"0 255 128 255"
 		"HP Low"			    	"255 128 0 255"
-		"HP Low 2"			    	"255 64 0 255"
+		"HP Low 2"			    	"255 96 0 255"
 
 		"Damage Numbers"	    	"255 128 0 255"		// Set in Advanced Options
-		"Healing Numbers"		    "0 128 255 255"
+		"Healing Numbers"		    "0 255 128 255"
 
 		"ChargePercent"		    	"255 255 255 255"
 		"Ubercharge Meter"	    	"255 255 255 255"
@@ -62,10 +62,10 @@ Scheme
 		//---------------------------------------------
 
 		"Ammo In Clip"			    "255 255 255 255"
-		"Ammo In Reserve"		    "224 224 224 255"
+		"Ammo In Reserve"		    "255 255 255 255"
 		"Ammo No Clip"		    	"255 255 255 255"
 		"LowAmmo1"			    	"255 128 0 255"
-		"LowAmmo2"			    	"255 64 0 255"
+		"LowAmmo2"			    	"255 96 0 255"
 
 		"Stickies"			    	"255 255 255 255"
 		"Metal"				    	"255 255 255 255"

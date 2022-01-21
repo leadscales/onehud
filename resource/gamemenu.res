@@ -28,4 +28,14 @@
 		"OnlyInGame"	"1"
 		"tooltip"		""
 	}
+	"LowerDividerInMenu"
+	{
+		"command"		"engine"
+		"OnlyAtMenu"	"1"
+	}
+	"LowerDividerInGame"
+	{
+		"command"		"engine"
+		"OnlyInGame"	"1"
+	}
 }

@@ -334,14 +334,26 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"	"0"
-		"labelText"		"&A"
-		"font"			"HudFontSmallBold"
+		"labelText"		"<"
+		"font"			"Material16"
 		"textAlignment"	"center"
 		"dulltext"		"0"
 		"brighttext"	"0"
 		"Command"		"prevpage"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
+	}
+
+	"PrevShortcut"
+	{
+		"ControlName"	"CExButton"
+		"fieldName"		"PrevShortcut"
+		"xpos"			"9999"
+		"ypos"			"9999"
+		"wide"			"10"
+		"tall"			"10"
+		"labelText"		"&A"
+		"Command"		"prevpage"
 	}
 
 	"CurPageLabel"
@@ -377,14 +389,26 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"	"0"
-		"labelText"		"&D"
-		"font"			"HudFontSmallBold"
+		"labelText"		">"
+		"font"			"Material16"
 		"textAlignment"	"center"
 		"dulltext"		"0"
 		"brighttext"	"0"
 		"Command"		"nextpage"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
+	}
+
+	"NextShortcut"
+	{
+		"ControlName"	"CExButton"
+		"fieldName"		"NextShortcut"
+		"xpos"			"9999"
+		"ypos"			"9999"
+		"wide"			"10"
+		"tall"			"10"
+		"labelText"		"&D"
+		"Command"		"nextpage"
 	}
 
 	"WikiButton"

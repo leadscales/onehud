@@ -79,7 +79,33 @@
 		"textAlignment_minmode"	"east"
 		"font"			"FontBold34"
 		"font_minmode"	"FontBold12"
-		"fgcolor"		"HP"
+		"fgcolor"		"CWhite"
+	}
+
+	"PlayerStatusHealthValueGlow"
+	{
+		"ControlName"	"CExLabel"
+		"fieldName"		"PlayerStatusHealthValueGlow"
+		"xpos"			"0"
+		"ypos"			"0"
+		"xpos_minmode"	"0"
+		"ypos_minmode"	"0"
+		"zpos"			"5"
+		"wide"			"75"
+		"wide_minmode"	"30"
+		"tall"			"30"
+		"visible"		"1"
+		"enabled"		"1"
+		"labelText"		"%Health%"
+		"textAlignment"	"center"
+		"textAlignment_minmode"	"east"
+		"font"			"FontBoldShadow34"
+		"font_minmode"	"FontBoldShadow12"
+		"fgcolor"		"Blank"
+
+		"pin_to_sibling"	"PlayerStatusHealthValue"
+		"pin_corner_to_sibling"	"PIN_TOPLEFT"
+		"pin_to_sibling_corner"	"PIN_TOPLEFT"
 	}
 
 	"PlayerStatusHealthValueShadow"
@@ -90,7 +116,7 @@
 		"ypos"			"-1"
 		"xpos_minmode"	"0"
 		"ypos_minmode"	"0"
-		"zpos"			"5"
+		"zpos"			"4"
 		"wide"			"75"
 		"wide_minmode"	"30"
 		"tall"			"30"

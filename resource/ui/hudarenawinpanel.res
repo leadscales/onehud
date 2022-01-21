@@ -22,20 +22,6 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"bgcolor_override"	"CBlue"
-
-			"BlueScoreBG2"
-			{
-				"ControlName"		"EditablePanel"
-				"fieldName"		"BlueScoreBG2"
-				"xpos"			"0"
-				"ypos"			"rs1"
-				"wide"			"f0"
-				"tall"			"3"
-				"visible"		"1"
-				"enabled"		"1"
-				"bgcolor_override"	"CBlueDark"
-				"proportionaltoparent"	"1"
-			}
 		}
 		"RedScoreBG"
 		{
@@ -49,31 +35,17 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"bgcolor_override"	"CRed"
-
-			"RedScoreBG2"
-			{
-				"ControlName"		"EditablePanel"
-				"fieldName"		"RedScoreBG2"
-				"xpos"			"0"
-				"ypos"			"rs1"
-				"wide"			"f0"
-				"tall"			"3"
-				"visible"		"1"
-				"enabled"		"1"
-				"bgcolor_override"	"CRedDark"
-				"proportionaltoparent"	"1"
-			}
 		}
 		"BlueTeamLabel"
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"		"BlueTeamLabel"
-			"font"			"FontRegular20"
+			"font"			"FontBold20"
 			"fgcolor"		"CWhite"
 			"labelText"		"%blueteamname%"
 			"textAlignment"		"west"
 			"xpos"			"-6"
-			"ypos"			"1"
+			"ypos"			"0"
 			"zpos"			"3"
 			"wide"			"116"
 			"tall"			"23"
@@ -90,7 +62,7 @@
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"		"BlueTeamScore"
-			"font"			"FontRegular34"
+			"font"			"FontBold34"
 			"fgcolor"		"CWhite"
 			"labelText"		"%blueteamscore%"
 			"textAlignment"		"east"
@@ -112,7 +84,7 @@
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"		"BlueTeamScoreDropshadow"
-			"font"			"FontRegularShadow34"
+			"font"			"FontBoldShadow34"
 			"fgcolor"		"CBlackShadow"
 			"labelText"		"%blueteamscore%"
 			"textAlignment"		"east"
@@ -134,12 +106,12 @@
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"		"RedTeamLabel"
-			"font"			"FontRegular20"
+			"font"			"FontBold20"
 			"fgcolor"		"CWhite"
 			"labelText"		"%redteamname%"
 			"textAlignment"		"east"
 			"xpos"			"-6"
-			"ypos"			"1"
+			"ypos"			"0"
 			"zpos"			"3"
 			"wide"			"116"
 			"tall"			"23"
@@ -156,7 +128,7 @@
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"		"RedTeamScore"
-			"font"			"FontRegular34"
+			"font"			"FontBold34"
 			"fgcolor"		"CWhite"
 			"labelText"		"%redteamscore%"
 			"textAlignment"		"west"
@@ -178,7 +150,7 @@
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"		"RedTeamScoreDropshadow"
-			"font"			"FontRegularShadow34"
+			"font"			"FontBoldShadow34"
 			"fgcolor"		"CBlackShadow"
 			"labelText"		"%redteamscore%"
 			"textAlignment"		"west"

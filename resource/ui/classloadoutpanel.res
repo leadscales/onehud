@@ -119,7 +119,7 @@
 		"zpos"				"-4"
 		"wide"				"f0"
 		"tall"				"f0"
-		"fillcolor"			"TransparentBlack3"
+		"fillcolor"			"TransparentBlack4"
 		"visible"			"1"
 		"enabled"			"1"
 		"scaleImage"		"1"

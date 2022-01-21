@@ -59,12 +59,12 @@ Scheme
 		"QuestMap_InactiveGrey"	"100 100 100 255"
 		"QuestMap_BGImages"	"56 58 60 255"
 
-		"PartyMember1"	"124 173 255 0"
-		"PartyMember2"	"99  232 167 0"
-		"PartyMember3"	"229 255 121 0"
-		"PartyMember4"	"232 184 99  0"
-		"PartyMember5"	"255 118 108 0"
-		"PartyMember6"	"255 133 255 0"
+		"PartyMember1"	"0 160 255 255"
+		"PartyMember2"	"0 255 160 255"
+		"PartyMember3"	"255 192 0 255"
+		"PartyMember4"	"255 160 0 255"
+		"PartyMember5"	"255 0 96 255"
+		"PartyMember6"	"255 0 160 255"
 
 		"White"				"255 255 255 255"
 		"Red"				"255 0 96 140"
@@ -117,9 +117,9 @@ Scheme
 		// training
 		"HudTrainingHint"			"212 160 23 255"
 
-		"TanDark"				"128 128 128 255"
+		"TanDark"				"160 160 160 255"
 		"TanLight"				"192 192 192 255"
-		"TanDarker"				"64 64 64 255"
+		"TanDarker"				"128 128 128 255"
 
 		"StoreDarkTan"			"131 121 104 255"
 		"StoreGreen"			"76 107 34 255"
@@ -150,8 +150,8 @@ Scheme
 
 		"ItemAttribLevel"						"224 224 224 255"
 		"ItemAttribNeutral"						"192 192 192 255"
-		"ItemAttribPositive"					"0 128 255 255"
-		"ItemAttribNegative"					"255 0 96 255"
+		"ItemAttribPositive"					"0 255 128 255"
+		"ItemAttribNegative"					"255 0 64 255"
 
 		"ItemSetName"							"255 128 0 255"
 		"ItemSetItemEquipped"					"255 255 255 255"

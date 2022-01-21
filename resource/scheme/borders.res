@@ -44,6 +44,24 @@ Scheme
 			}
 		}
 
+		HudMenuBorderLowerAltTransparent
+		{
+			"inset" "0 0 0 0"
+			Bottom
+			{
+				"1"
+				{
+					"color" "TransparentWhite4"
+					"offset" "0 0"
+				}
+				"2"
+				{
+					"color" "TransparentWhite4"
+					"offset" "0 0"
+				}
+			}
+		}
+
 		HudMenuBorderUpper
 		{
 			"inset" "0 0 0 0"
@@ -247,7 +265,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "17 17 17 0"
+					"color" "Blank"
 					"offset" "0 0"
 				}
 			}
@@ -256,7 +274,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "17 17 17 0"
+					"color" "Blank"
 					"offset" "0 0"
 				}
 			}
@@ -265,7 +283,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "17 17 17 0"
+					"color" "Blank"
 					"offset" "0 0"
 				}
 			}
@@ -274,7 +292,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "17 17 17 0"
+					"color" "Blank"
 					"offset" "0 0"
 				}
 			}
@@ -984,7 +1002,7 @@ Scheme
 		{
 			"bordertype"			"scalable_image"
 			"backgroundtype"		"2"
-			"color"					"64 64 64 255"
+			"color"					"CGray5"
 
 			"image"					"replay/thumbnails/panels/panel_generic"
 			"src_corner_height"		"32"				// pixels inside the image

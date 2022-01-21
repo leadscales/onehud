@@ -3650,5 +3650,123 @@ Scheme
 				"blur"		"1"
 			}
 		}
+		// ------------------------
+		"Char12"
+		{
+			"1"
+			{
+				"name"		"TF2 Character Icons"
+				"tall"		"12"
+				"antialias" "1"
+			}
+		}
+		"Char16"
+		{
+			"1"
+			{
+				"name"		"TF2 Character Icons"
+				"tall"		"16"
+				"antialias" "1"
+			}
+		}
+		"Char24"
+		{
+			"1"
+			{
+				"name"		"TF2 Character Icons"
+				"tall"		"24"
+				"antialias" "1"
+			}
+		}
+		"Char32"
+		{
+			"1"
+			{
+				"name"		"TF2 Character Icons"
+				"tall"		"32"
+				"antialias" "1"
+			}
+		}
+		"Char40"
+		{
+			"1"
+			{
+				"name"		"TF2 Character Icons"
+				"tall"		"40"
+				"antialias" "1"
+			}
+		}
+		"Char48"
+		{
+			"1"
+			{
+				"name"		"TF2 Character Icons"
+				"tall"		"48"
+				"antialias" "1"
+			}
+		}
+
+		// ------------------------
+
+		"Char12Shadow"
+		{
+			"1"
+			{
+				"name"		"TF2 Character Icons"
+				"tall"		"12"
+				"antialias" "1"
+				"blur"		"1"
+			}
+		}
+		"Char16Shadow"
+		{
+			"1"
+			{
+				"name"		"TF2 Character Icons"
+				"tall"		"16"
+				"antialias" "1"
+				"blur"		"1"
+			}
+		}
+		"Char24Shadow"
+		{
+			"1"
+			{
+				"name"		"TF2 Character Icons"
+				"tall"		"24"
+				"antialias" "1"
+				"blur"		"1"
+			}
+		}
+		"Char32Shadow"
+		{
+			"1"
+			{
+				"name"		"TF2 Character Icons"
+				"tall"		"32"
+				"antialias" "1"
+				"blur"		"1"
+			}
+		}
+		"Char40Shadow"
+		{
+			"1"
+			{
+				"name"		"TF2 Character Icons"
+				"tall"		"40"
+				"antialias" "1"
+				"blur"		"1"
+			}
+		}
+		"Char48Shadow"
+		{
+			"1"
+			{
+				"name"		"TF2 Character Icons"
+				"tall"		"48"
+				"antialias" "1"
+				"blur"		"1"
+			}
+		}
 	}
 }

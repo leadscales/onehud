@@ -6,6 +6,9 @@ event HudHealthBonusPulse
 	Animate PlayerStatusHealthValue 	FgColor "HP Buff" Linear 0.0 0.2
 	Animate PlayerStatusHealthValue 	FgColor "HP Buff 2" Linear 0.2 0.4
 
+	Animate PlayerStatusHealthValueGlow 	FgColor "HP Buff" Linear 0.0 0.2
+	Animate PlayerStatusHealthValueGlow 	FgColor "HP Buff 2" Linear 0.2 0.4
+
 	RunEvent HudHealthBonusPulseLoop 0.4
 }
 
@@ -21,6 +24,7 @@ event HudHealthBonusPulseStop
 	StopEvent HudHealthBonusPulseLoop 0.0
 
 	Animate PlayerStatusHealthValue FgColor "HP" Accel 0.0 0.2
+	Animate PlayerStatusHealthValueGlow FgColor "Blank" Accel 0.0 0.2
 }
 
 //Health Dying Pulse
@@ -30,6 +34,9 @@ event HudHealthDyingPulse
 
 	Animate PlayerStatusHealthValue		FgColor "HP Low" Linear 0.0 0.2
 	Animate PlayerStatusHealthValue		FgColor "HP Low 2" Linear 0.2 0.4
+
+	Animate PlayerStatusHealthValueGlow		FgColor "HP Low" Linear 0.0 0.2
+	Animate PlayerStatusHealthValueGlow		FgColor "HP Low 2" Linear 0.2 0.4
 
 	RunEvent HudHealthDyingPulseLoop 0.4
 }
@@ -46,7 +53,10 @@ event HudHealthDyingPulseStop
 	StopEvent HudHealthDyingPulseLoop 0.0
 
 	Animate PlayerStatusHealthValue FgColor "HP" Accel 0.0 0.2
+	Animate PlayerStatusHealthValueGlow FgColor "Blank" Accel 0.0 0.2
 }
+
+// -------------------------------------------------------------
 
 //Low Ammo Pulse
 event HudLowAmmoPulse
@@ -56,6 +66,9 @@ event HudLowAmmoPulse
 
 	Animate AmmoNoClip FgColor "LowAmmo1" Linear 0.0 0.2
 	Animate AmmoNoClip FgColor "LowAmmo2" Linear 0.2 0.4
+
+	Animate AmmoInClipGlow FgColor "LowAmmo1" Linear 0.0 0.2
+	Animate AmmoInClipGlow FgColor "LowAmmo2" Linear 0.2 0.4
 
 	RunEvent HudLowAmmoPulseLoop 0.4
 }
@@ -72,9 +85,12 @@ event HudLowAmmoPulseStop
 	StopEvent HudLowAmmoPulseLoop 0.0
 
 	Animate AmmoInClip FgColor "Ammo In Clip" Linear 0.0 0.2
+	Animate AmmoInClipGlow FgColor "Blank" Linear 0.0 0.2
 
 	Animate AmmoNoClip FgColor "Ammo In Clip" Linear 0.0 0.2
 }
+
+// -------------------------------------------------------------
 
 event ActiveTimerHighlight
 {

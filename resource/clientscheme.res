@@ -62,5 +62,10 @@ Scheme
 			"font"	"resource/fonts/icons.ttf"
 			"name"	"icons"
 		}
+		"12"
+		{
+			"font" "resource/fonts/Chars.ttf"
+			"name"	"TF2 Character Icons"
+		}
 	}
 }
