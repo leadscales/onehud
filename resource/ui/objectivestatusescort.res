@@ -43,7 +43,7 @@
 
 		"if_single_with_hills"
 		{
-			"ypos"			"r18"
+			"ypos"			"r13"
 		}
 	}
 
@@ -95,13 +95,13 @@
 		"if_single_with_hills_blue"
 		{
 			"image"			"replay/thumbnails/cart_icons/home_point_blue"
-			"ypos"			"r24"
+			"ypos"			"r19"
 		}
 
 		"if_single_with_hills_red"
 		{
 			"image"			"replay/thumbnails/cart_icons/home_point_red"
-			"ypos"			"r24"
+			"ypos"			"r19"
 		}
 
 		"if_multiple_trains"
@@ -163,13 +163,13 @@
 		"if_single_with_hills_blue"
 		{
 			"image"			"../hud/cart_point_blue"
-			"ypos"			"r24"
+			"ypos"			"r19"
 		}
 
 		"if_single_with_hills_red"
 		{
 			"image"			"../hud/cart_point_red"
-			"ypos"			"r24"
+			"ypos"			"r19"
 		}
 	}
 
@@ -197,11 +197,11 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"RecedeTime"
-			"font"			"FontBold8"
-			"xpos"			"242"
-			"ypos"			"-2"
+			"font"			"FontBold10"
+			"xpos"			"238"
+			"ypos"			"-3"
 			"zpos"			"2"
-			"wide"			"10"
+			"wide"			"15"
 			"tall"			"10"
 			"autoResize"	"0"
 			"pinCorner"		"0"
@@ -456,11 +456,11 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"CapNumPlayers"
-			"font"			"FontBold8"
-			"xpos"			"242"
-			"ypos"			"-2"
+			"font"			"FontBold10"
+			"xpos"			"238"
+			"ypos"			"-3"
 			"zpos"			"20"
-			"wide"			"10"
+			"wide"			"15"
 			"tall"			"10"
 			"autoResize"	"0"
 			"pinCorner"		"0"
@@ -484,7 +484,7 @@
 
 			"if_multiple_trains"
 			{
-				"xpos"		"14"
+				"xpos"		"8"
 			}
 
 			"if_multiple_trains_top"

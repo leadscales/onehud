@@ -862,7 +862,7 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"VersionLabel"
 		"font"			"FontBold9"
-		"labelText"		"v 0.7 "
+		"labelText"		"v 0.7.1 "
 		"textAlignment"	"east"
 		"xpos"			"r30"
 		"ypos"			"r10"
