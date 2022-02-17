@@ -44,6 +44,42 @@ Scheme
 			}
 		}
 
+		HudMenuBorderLowerRed
+		{
+			"inset" "0 0 0 0"
+			Bottom
+			{
+				"1"
+				{
+					"color" "CRed"
+					"offset" "0 0"
+				}
+				"2"
+				{
+					"color" "CRed"
+					"offset" "0 0"
+				}
+			}
+		}
+
+		HudMenuBorderLowerBlue
+		{
+			"inset" "0 0 0 0"
+			Bottom
+			{
+				"1"
+				{
+					"color" "CBlue"
+					"offset" "0 0"
+				}
+				"2"
+				{
+					"color" "CBlue"
+					"offset" "0 0"
+				}
+			}
+		}
+
 		HudMenuBorderLowerAltTransparent
 		{
 			"inset" "0 0 0 0"

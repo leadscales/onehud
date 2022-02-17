@@ -1,3 +1,5 @@
+#base "../../customizations/low_health_effect.res"
+
 "Resource/UI/HudPlayerHealth.res"
 {
 	// player health data

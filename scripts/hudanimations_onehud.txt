@@ -38,6 +38,8 @@ event HudHealthDyingPulse
 	Animate PlayerStatusHealthValueGlow		FgColor "HP Low" Linear 0.0 0.2
 	Animate PlayerStatusHealthValueGlow		FgColor "HP Low 2" Linear 0.2 0.4
 
+	Animate LowHealthEffect Alpha "112"	Linear 0.0 0.2
+
 	RunEvent HudHealthDyingPulseLoop 0.4
 }
 
@@ -54,6 +56,7 @@ event HudHealthDyingPulseStop
 
 	Animate PlayerStatusHealthValue FgColor "HP" Accel 0.0 0.2
 	Animate PlayerStatusHealthValueGlow FgColor "Blank" Accel 0.0 0.2
+	Animate LowHealthEffect Alpha "0"	Linear 0.0 0.2
 }
 
 // -------------------------------------------------------------

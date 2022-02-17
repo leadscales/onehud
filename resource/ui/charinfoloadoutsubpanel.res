@@ -137,6 +137,7 @@
 		"enabled"			"1"
 		"paintbackground"	"0"
 		"border"			"HudMenuBorderLowerAlt"
+		"alpha"				"32"
 	}
 
 	"CScout0"
@@ -144,7 +145,7 @@
 		"ControlName"			"CExLabel"
 		"fieldName"				"CScout0"
 		"xpos"					"0"
-		"ypos"					"0"
+		"ypos"					"-1"
 		"zpos"					"10"
 		"wide"					"50"
 		"tall"					"50"
@@ -341,6 +342,9 @@
 		"defaultfgcolor_override"		"Blank"
 		"armedFgColor_override"			"CWhite"
 
+		"border_default"				"NoBorder"
+		"border_armed"					"HudMenuBorderLowerAlt"
+
 		"sound_depressed"				"UI/buttonclick.wav"
 		"sound_released"				"UI/buttonclickrelease.wav"
 
@@ -368,6 +372,9 @@
 		"paintbackground"				"0"
 		"defaultfgcolor_override"		"Blank"
 		"armedFgColor_override"			"CWhite"
+
+		"border_default"				"NoBorder"
+		"border_armed"					"HudMenuBorderLowerAlt"
 
 		"sound_depressed"				"UI/buttonclick.wav"
 		"sound_released"				"UI/buttonclickrelease.wav"
@@ -397,6 +404,9 @@
 		"defaultfgcolor_override"		"Blank"
 		"armedFgColor_override"			"CWhite"
 
+		"border_default"				"NoBorder"
+		"border_armed"					"HudMenuBorderLowerAlt"
+
 		"sound_depressed"				"UI/buttonclick.wav"
 		"sound_released"				"UI/buttonclickrelease.wav"
 
@@ -424,6 +434,9 @@
 		"paintbackground"				"0"
 		"defaultfgcolor_override"		"Blank"
 		"armedFgColor_override"			"CWhite"
+
+		"border_default"				"NoBorder"
+		"border_armed"					"HudMenuBorderLowerAlt"
 
 		"sound_depressed"				"UI/buttonclick.wav"
 		"sound_released"				"UI/buttonclickrelease.wav"
@@ -453,6 +466,9 @@
 		"defaultfgcolor_override"		"Blank"
 		"armedFgColor_override"			"CWhite"
 
+		"border_default"				"NoBorder"
+		"border_armed"					"HudMenuBorderLowerAlt"
+
 		"sound_depressed"				"UI/buttonclick.wav"
 		"sound_released"				"UI/buttonclickrelease.wav"
 
@@ -480,6 +496,9 @@
 		"paintbackground"				"0"
 		"defaultfgcolor_override"		"Blank"
 		"armedFgColor_override"			"CWhite"
+
+		"border_default"				"NoBorder"
+		"border_armed"					"HudMenuBorderLowerAlt"
 
 		"sound_depressed"				"UI/buttonclick.wav"
 		"sound_released"				"UI/buttonclickrelease.wav"
@@ -509,6 +528,9 @@
 		"defaultfgcolor_override"		"Blank"
 		"armedFgColor_override"			"CWhite"
 
+		"border_default"				"NoBorder"
+		"border_armed"					"HudMenuBorderLowerAlt"
+
 		"sound_depressed"				"UI/buttonclick.wav"
 		"sound_released"				"UI/buttonclickrelease.wav"
 
@@ -537,6 +559,9 @@
 		"defaultfgcolor_override"		"Blank"
 		"armedFgColor_override"			"CWhite"
 
+		"border_default"				"NoBorder"
+		"border_armed"					"HudMenuBorderLowerAlt"
+
 		"sound_depressed"				"UI/buttonclick.wav"
 		"sound_released"				"UI/buttonclickrelease.wav"
 
@@ -564,6 +589,9 @@
 		"paintbackground"				"0"
 		"defaultfgcolor_override"		"Blank"
 		"armedFgColor_override"			"CWhite"
+
+		"border_default"				"NoBorder"
+		"border_armed"					"HudMenuBorderLowerAlt"
 
 		"sound_depressed"				"UI/buttonclick.wav"
 		"sound_released"				"UI/buttonclickrelease.wav"
