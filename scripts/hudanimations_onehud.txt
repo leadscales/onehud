@@ -9,6 +9,9 @@ event HudHealthBonusPulse
 	Animate PlayerStatusHealthValueGlow 	FgColor "HP Buff" Linear 0.0 0.2
 	Animate PlayerStatusHealthValueGlow 	FgColor "HP Buff 2" Linear 0.2 0.4
 
+	Animate PlayerStatusHealthValueUnderline BgColor "HP Buff" Linear 0.0 0.2
+	Animate PlayerStatusHealthValueUnderline BgColor "HP Buff 2" Linear 0.2 0.4
+
 	RunEvent HudHealthBonusPulseLoop 0.4
 }
 
@@ -25,6 +28,8 @@ event HudHealthBonusPulseStop
 
 	Animate PlayerStatusHealthValue FgColor "HP" Accel 0.0 0.2
 	Animate PlayerStatusHealthValueGlow FgColor "Blank" Accel 0.0 0.2
+
+	Animate PlayerStatusHealthValueUnderline BgColor "HP" Linear 0.0 0.2
 }
 
 //Health Dying Pulse
@@ -37,6 +42,9 @@ event HudHealthDyingPulse
 
 	Animate PlayerStatusHealthValueGlow		FgColor "HP Low" Linear 0.0 0.2
 	Animate PlayerStatusHealthValueGlow		FgColor "HP Low 2" Linear 0.2 0.4
+
+	Animate PlayerStatusHealthValueUnderline BgColor "HP Low" Linear 0.0 0.2
+	Animate PlayerStatusHealthValueUnderline BgColor "HP Low 2" Linear 0.2 0.4
 
 	Animate LowHealthEffect Alpha "112"	Linear 0.0 0.2
 
@@ -57,6 +65,8 @@ event HudHealthDyingPulseStop
 	Animate PlayerStatusHealthValue FgColor "HP" Accel 0.0 0.2
 	Animate PlayerStatusHealthValueGlow FgColor "Blank" Accel 0.0 0.2
 	Animate LowHealthEffect Alpha "0"	Linear 0.0 0.2
+
+	Animate PlayerStatusHealthValueUnderline BgColor "HP" Linear 0.0 0.2
 }
 
 // -------------------------------------------------------------
@@ -72,6 +82,9 @@ event HudLowAmmoPulse
 
 	Animate AmmoInClipGlow FgColor "LowAmmo1" Linear 0.0 0.2
 	Animate AmmoInClipGlow FgColor "LowAmmo2" Linear 0.2 0.4
+
+	Animate AmmoInClipUnderline BgColor "LowAmmo1" Linear 0.0 0.2
+	Animate AmmoInClipUnderline BgColor "LowAmmo2" Linear 0.2 0.4
 
 	RunEvent HudLowAmmoPulseLoop 0.4
 }
@@ -91,6 +104,8 @@ event HudLowAmmoPulseStop
 	Animate AmmoInClipGlow FgColor "Blank" Linear 0.0 0.2
 
 	Animate AmmoNoClip FgColor "Ammo In Clip" Linear 0.0 0.2
+
+	Animate AmmoInClipUnderline BgColor "Ammo In Clip" Linear 0.0 0.2
 }
 
 // -------------------------------------------------------------

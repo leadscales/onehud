@@ -54,6 +54,12 @@ You can enable a transparent red border around your screen when your health gets
 
 ![Low health effect](./assets/low_health_effect.png)
 
+## Health and ammo backgrounds
+
+You can enable a transparent background behind your health and ammo for increased visibility or aesthetic purposes. In `/customizations/health_bg.res` and `/customizations/ammo_bg.res`, add or remove the two slashes behind `#base "/...` to enable or disable it.
+
+![Healh/Ammo BG](./assets/health_ammo_bg.png)
+
 # Screenshots
 
 ## Main Menu

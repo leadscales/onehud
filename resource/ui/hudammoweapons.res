@@ -1,3 +1,5 @@
+#base "../../customizations/ammo_bg.res"
+
 "Resource/UI/HudAmmoWeapons.res"
 {
 	"HudWeaponAmmoBG"

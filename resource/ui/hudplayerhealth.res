@@ -1,4 +1,5 @@
 #base "../../customizations/low_health_effect.res"
+#base "../../customizations/health_bg.res"
 
 "Resource/UI/HudPlayerHealth.res"
 {
