@@ -340,7 +340,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Futura Light BT"
+				"name"			"Futura PT Light"
 				"tall"			"12"
 				"weight"		"400"
 				"yres"			"480 599"
@@ -350,7 +350,7 @@ Scheme
 
 			"2"
 			{
-				"name"			"Futura Light BT"
+				"name"			"Futura PT Light"
 				"tall"			"14"
 				"weight"		"400"
 				"yres"			"600 767"
@@ -360,7 +360,7 @@ Scheme
 
 			"3"
 			{
-				"name"			"Futura Light BT"
+				"name"			"Futura PT Light"
 				"tall"			"15"
 				"weight"		"400"
 				"yres"			"768 1023"
@@ -370,7 +370,7 @@ Scheme
 
 			"4"
 			{
-				"name"			"Futura Light BT"
+				"name"			"Futura PT Light"
 				"tall"			"17"
 				"weight"		"400"
 				"yres"			"1024 1199"
@@ -380,7 +380,7 @@ Scheme
 
 			"5"
 			{
-				"name"			"Futura Light BT"
+				"name"			"Futura PT Light"
 				"tall"			"22"
 				"weight"		"400"
 				"yres"			"1200 10000"

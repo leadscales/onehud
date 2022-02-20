@@ -80,7 +80,7 @@
 		"labelText"		"%Health%"
 		"textAlignment"	"center"
 		"textAlignment_minmode"	"east"
-		"font"			"FontBold34"
+		"font"			"FontBold32"
 		"font_minmode"	"FontBold12"
 		"fgcolor"		"CWhite"
 	}
@@ -102,7 +102,7 @@
 		"labelText"		"%Health%"
 		"textAlignment"	"center"
 		"textAlignment_minmode"	"east"
-		"font"			"FontBoldShadow34"
+		"font"			"FontBoldShadow32"
 		"font_minmode"	"FontBoldShadow12"
 		"fgcolor"		"Blank"
 
@@ -128,7 +128,7 @@
 		"labelText"		"%Health%"
 		"textAlignment"	"center"
 		"textAlignment_minmode"	"east"
-		"font"			"FontBoldShadow34"
+		"font"			"FontBoldShadow32"
 		"font_minmode"	"FontBoldShadow12"
 		"fgcolor"		"CBlackShadow"
 

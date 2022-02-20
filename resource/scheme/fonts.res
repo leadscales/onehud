@@ -16,7 +16,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Medium BT"
+				"name"		"Futura PT Medium"
 				"tall"		"7"
 				"additive"	"0"
 				"antialias" "1"
@@ -26,7 +26,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Medium BT"
+				"name"		"Futura PT Medium"
 				"tall"		"8"
 				"additive"	"0"
 				"antialias" "1"
@@ -36,7 +36,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Medium BT"
+				"name"		"Futura PT Medium"
 				"tall"		"9"
 				"additive"	"0"
 				"antialias" "1"
@@ -46,7 +46,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Medium BT"
+				"name"		"Futura PT Medium"
 				"tall"		"10"
 				"additive"	"0"
 				"antialias" "1"
@@ -56,7 +56,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Medium BT"
+				"name"		"Futura PT Medium"
 				"tall"		"12"
 				"additive"	"0"
 				"antialias" "1"
@@ -66,7 +66,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Medium BT"
+				"name"		"Futura PT Medium"
 				"tall"		"14"
 				"additive"	"0"
 				"antialias" "1"
@@ -76,7 +76,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Medium BT"
+				"name"		"Futura PT Medium"
 				"tall"		"16"
 				"additive"	"0"
 				"antialias" "1"
@@ -86,7 +86,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Medium BT"
+				"name"		"Futura PT Medium"
 				"tall"		"18"
 				"additive"	"0"
 				"antialias" "1"
@@ -96,7 +96,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Medium BT"
+				"name"		"Futura PT Medium"
 				"tall"		"20"
 				"additive"	"0"
 				"antialias" "1"
@@ -106,7 +106,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Medium BT"
+				"name"		"Futura PT Medium"
 				"tall"		"22"
 				"additive"	"0"
 				"antialias" "1"
@@ -116,7 +116,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Medium BT"
+				"name"		"Futura PT Medium"
 				"tall"		"24"
 				"additive"	"0"
 				"antialias" "1"
@@ -126,7 +126,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Medium BT"
+				"name"		"Futura PT Medium"
 				"tall"		"26"
 				"additive"	"0"
 				"antialias" "1"
@@ -136,7 +136,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Medium BT"
+				"name"		"Futura PT Medium"
 				"tall"		"28"
 				"additive"	"0"
 				"antialias" "1"
@@ -146,7 +146,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Medium BT"
+				"name"		"Futura PT Medium"
 				"tall"		"30"
 				"additive"	"0"
 				"antialias" "1"
@@ -156,7 +156,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Medium BT"
+				"name"		"Futura PT Medium"
 				"tall"		"32"
 				"additive"	"0"
 				"antialias" "1"
@@ -166,7 +166,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Medium BT"
+				"name"		"Futura PT Medium"
 				"tall"		"34"
 				"additive"	"0"
 				"antialias" "1"
@@ -176,7 +176,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Medium BT"
+				"name"		"Futura PT Medium"
 				"tall"		"48"
 				"additive"	"0"
 				"antialias" "1"
@@ -186,7 +186,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Medium BT"
+				"name"		"Futura PT Medium"
 				"tall"		"50"
 				"additive"	"0"
 				"antialias" "1"
@@ -196,7 +196,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Medium BT"
+				"name"		"Futura PT Medium"
 				"tall"		"52"
 				"additive"	"0"
 				"antialias" "1"
@@ -206,7 +206,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Medium BT"
+				"name"		"Futura PT Medium"
 				"tall"		"55"
 				"additive"	"0"
 				"antialias" "1"
@@ -216,7 +216,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Light BT"
+				"name"		"Futura PT Light"
 				"tall"		"8"
 				"additive"	"0"
 				"antialias" "1"
@@ -226,7 +226,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Light BT"
+				"name"		"Futura PT Light"
 				"tall"		"9"
 				"additive"	"0"
 				"antialias" "1"
@@ -236,7 +236,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Light BT"
+				"name"		"Futura PT Light"
 				"tall"		"10"
 				"additive"	"0"
 				"antialias" "1"
@@ -246,7 +246,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Light BT"
+				"name"		"Futura PT Light"
 				"tall"		"11"
 				"additive"	"0"
 				"antialias" "1"
@@ -256,7 +256,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Light BT"
+				"name"		"Futura PT Light"
 				"tall"		"12"
 				"additive"	"0"
 				"antialias" "1"
@@ -266,7 +266,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Light BT"
+				"name"		"Futura PT Light"
 				"tall"		"14"
 				"additive"	"0"
 				"antialias" "1"
@@ -276,7 +276,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Light BT"
+				"name"		"Futura PT Light"
 				"tall"		"16"
 				"additive"	"0"
 				"antialias" "1"
@@ -286,7 +286,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Light BT"
+				"name"		"Futura PT Light"
 				"tall"		"18"
 				"additive"	"0"
 				"antialias" "1"
@@ -296,7 +296,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Light BT"
+				"name"		"Futura PT Light"
 				"tall"		"20"
 				"additive"	"0"
 				"antialias" "1"
@@ -306,7 +306,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Light BT"
+				"name"		"Futura PT Light"
 				"tall"		"20"
 				"additive"	"0"
 				"antialias" "1"
@@ -317,7 +317,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Light BT"
+				"name"		"Futura PT Light"
 				"tall"		"22"
 				"additive"	"0"
 				"antialias" "1"
@@ -327,7 +327,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Light BT"
+				"name"		"Futura PT Light"
 				"tall"		"22"
 				"additive"	"0"
 				"antialias" "1"
@@ -338,7 +338,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Light BT"
+				"name"		"Futura PT Light"
 				"tall"		"24"
 				"additive"	"0"
 				"antialias" "1"
@@ -348,7 +348,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Light BT"
+				"name"		"Futura PT Light"
 				"tall"		"24"
 				"additive"	"0"
 				"antialias" "1"
@@ -359,7 +359,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Light BT"
+				"name"		"Futura PT Light"
 				"tall"		"26"
 				"additive"	"0"
 				"antialias" "1"
@@ -369,7 +369,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Light BT"
+				"name"		"Futura PT Light"
 				"tall"		"28"
 				"additive"	"0"
 				"antialias" "1"
@@ -379,7 +379,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Light BT"
+				"name"		"Futura PT Light"
 				"tall"		"30"
 				"additive"	"0"
 				"antialias" "1"
@@ -389,7 +389,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Light BT"
+				"name"		"Futura PT Light"
 				"tall"		"32"
 				"additive"	"0"
 				"antialias" "1"
@@ -399,7 +399,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Light BT"
+				"name"		"Futura PT Light"
 				"tall"		"34"
 				"additive"	"0"
 				"antialias" "1"
@@ -409,7 +409,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Light BT"
+				"name"		"Futura PT Light"
 				"tall"		"36"
 				"additive"	"0"
 				"antialias" "1"
@@ -419,7 +419,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Light BT"
+				"name"		"Futura PT Light"
 				"tall"		"38"
 				"additive"	"0"
 				"antialias" "1"
@@ -429,7 +429,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Light BT"
+				"name"		"Futura PT Light"
 				"tall"		"40"
 				"additive"	"0"
 				"antialias" "1"
@@ -439,7 +439,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Light BT"
+				"name"		"Futura PT Light"
 				"tall"		"42"
 				"additive"	"0"
 				"antialias" "1"
@@ -449,7 +449,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Light BT"
+				"name"		"Futura PT Light"
 				"tall"		"44"
 				"additive"	"0"
 				"antialias" "1"
@@ -459,7 +459,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Light BT"
+				"name"		"Futura PT Light"
 				"tall"		"46"
 				"additive"	"0"
 				"antialias" "1"
@@ -469,7 +469,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Light BT"
+				"name"		"Futura PT Light"
 				"tall"		"48"
 				"additive"	"0"
 				"antialias" "1"
@@ -479,7 +479,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Light BT"
+				"name"		"Futura PT Light"
 				"tall"		"50"
 				"additive"	"0"
 				"antialias" "1"
@@ -489,7 +489,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Light BT"
+				"name"		"Futura PT Light"
 				"tall"		"52"
 				"additive"	"0"
 				"antialias" "1"
@@ -499,7 +499,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Light BT"
+				"name"		"Futura PT Light"
 				"tall"		"55"
 				"additive"	"0"
 				"antialias" "1"
@@ -510,7 +510,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Medium BT"
+				"name"		"Futura PT Medium"
 				"tall"		"9"
 				"additive"	"0"
 				"antialias" "1"
@@ -521,7 +521,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Medium BT"
+				"name"		"Futura PT Medium"
 				"tall"		"10"
 				"additive"	"0"
 				"antialias" "1"
@@ -532,7 +532,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Medium BT"
+				"name"		"Futura PT Medium"
 				"tall"		"12"
 				"additive"	"0"
 				"antialias" "1"
@@ -543,7 +543,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Medium BT"
+				"name"		"Futura PT Medium"
 				"tall"		"14"
 				"additive"	"0"
 				"antialias" "1"
@@ -554,7 +554,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Medium BT"
+				"name"		"Futura PT Medium"
 				"tall"		"16"
 				"additive"	"0"
 				"antialias" "1"
@@ -565,7 +565,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Medium BT"
+				"name"		"Futura PT Medium"
 				"tall"		"18"
 				"additive"	"0"
 				"antialias" "1"
@@ -576,7 +576,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Medium BT"
+				"name"		"Futura PT Medium"
 				"tall"		"20"
 				"additive"	"0"
 				"antialias" "1"
@@ -587,7 +587,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Medium BT"
+				"name"		"Futura PT Medium"
 				"tall"		"22"
 				"additive"	"0"
 				"antialias" "1"
@@ -598,7 +598,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Medium BT"
+				"name"		"Futura PT Medium"
 				"tall"		"24"
 				"additive"	"0"
 				"antialias" "1"
@@ -609,7 +609,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Medium BT"
+				"name"		"Futura PT Medium"
 				"tall"		"26"
 				"additive"	"0"
 				"antialias" "1"
@@ -620,7 +620,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Medium BT"
+				"name"		"Futura PT Medium"
 				"tall"		"28"
 				"additive"	"0"
 				"antialias" "1"
@@ -631,7 +631,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Medium BT"
+				"name"		"Futura PT Medium"
 				"tall"		"30"
 				"additive"	"0"
 				"antialias" "1"
@@ -642,7 +642,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Medium BT"
+				"name"		"Futura PT Medium"
 				"tall"		"32"
 				"additive"	"0"
 				"antialias" "1"
@@ -653,7 +653,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Medium BT"
+				"name"		"Futura PT Medium"
 				"tall"		"34"
 				"additive"	"0"
 				"antialias" "1"
@@ -664,7 +664,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Medium BT"
+				"name"		"Futura PT Medium"
 				"tall"		"48"
 				"additive"	"0"
 				"antialias" "1"
@@ -675,7 +675,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Medium BT"
+				"name"		"Futura PT Medium"
 				"tall"		"50"
 				"additive"	"0"
 				"antialias" "1"
@@ -686,7 +686,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Medium BT"
+				"name"		"Futura PT Medium"
 				"tall"		"52"
 				"additive"	"0"
 				"antialias" "1"
@@ -697,7 +697,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Medium BT"
+				"name"		"Futura PT Medium"
 				"tall"		"55"
 				"additive"	"0"
 				"antialias" "1"
@@ -709,7 +709,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Light BT"
+				"name"		"Futura PT Light"
 				"tall"		"8"
 				"additive"	"0"
 				"antialias" "1"
@@ -720,7 +720,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Light BT"
+				"name"		"Futura PT Light"
 				"tall"		"9"
 				"additive"	"0"
 				"antialias" "1"
@@ -731,7 +731,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Light BT"
+				"name"		"Futura PT Light"
 				"tall"		"10"
 				"additive"	"0"
 				"antialias" "1"
@@ -742,7 +742,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Light BT"
+				"name"		"Futura PT Light"
 				"tall"		"11"
 				"additive"	"0"
 				"antialias" "1"
@@ -753,7 +753,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Light BT"
+				"name"		"Futura PT Light"
 				"tall"		"12"
 				"additive"	"0"
 				"antialias" "1"
@@ -764,7 +764,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Light BT"
+				"name"		"Futura PT Light"
 				"tall"		"14"
 				"additive"	"0"
 				"antialias" "1"
@@ -775,7 +775,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Light BT"
+				"name"		"Futura PT Light"
 				"tall"		"16"
 				"additive"	"0"
 				"antialias" "1"
@@ -786,7 +786,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Light BT"
+				"name"		"Futura PT Light"
 				"tall"		"18"
 				"additive"	"0"
 				"antialias" "1"
@@ -797,7 +797,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Light BT"
+				"name"		"Futura PT Light"
 				"tall"		"20"
 				"additive"	"0"
 				"antialias" "1"
@@ -808,7 +808,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Light BT"
+				"name"		"Futura PT Light"
 				"tall"		"22"
 				"additive"	"0"
 				"antialias" "1"
@@ -819,7 +819,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Light BT"
+				"name"		"Futura PT Light"
 				"tall"		"24"
 				"additive"	"0"
 				"antialias" "1"
@@ -830,7 +830,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Light BT"
+				"name"		"Futura PT Light"
 				"tall"		"24"
 				"additive"	"0"
 				"antialias" "1"
@@ -842,7 +842,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Light BT"
+				"name"		"Futura PT Light"
 				"tall"		"26"
 				"additive"	"0"
 				"antialias" "1"
@@ -853,7 +853,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Light BT"
+				"name"		"Futura PT Light"
 				"tall"		"28"
 				"additive"	"0"
 				"antialias" "1"
@@ -864,7 +864,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Light BT"
+				"name"		"Futura PT Light"
 				"tall"		"30"
 				"additive"	"0"
 				"antialias" "1"
@@ -875,7 +875,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Light BT"
+				"name"		"Futura PT Light"
 				"tall"		"32"
 				"additive"	"0"
 				"antialias" "1"
@@ -886,7 +886,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Light BT"
+				"name"		"Futura PT Light"
 				"tall"		"34"
 				"additive"	"0"
 				"antialias" "1"
@@ -897,7 +897,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Light BT"
+				"name"		"Futura PT Light"
 				"tall"		"36"
 				"additive"	"0"
 				"antialias" "1"
@@ -908,7 +908,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Light BT"
+				"name"		"Futura PT Light"
 				"tall"		"38"
 				"additive"	"0"
 				"antialias" "1"
@@ -919,7 +919,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Light BT"
+				"name"		"Futura PT Light"
 				"tall"		"40"
 				"additive"	"0"
 				"antialias" "1"
@@ -930,7 +930,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Light BT"
+				"name"		"Futura PT Light"
 				"tall"		"42"
 				"additive"	"0"
 				"antialias" "1"
@@ -941,7 +941,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Light BT"
+				"name"		"Futura PT Light"
 				"tall"		"44"
 				"additive"	"0"
 				"antialias" "1"
@@ -952,7 +952,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Light BT"
+				"name"		"Futura PT Light"
 				"tall"		"46"
 				"additive"	"0"
 				"antialias" "1"
@@ -963,7 +963,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Light BT"
+				"name"		"Futura PT Light"
 				"tall"		"48"
 				"additive"	"0"
 				"antialias" "1"
@@ -974,7 +974,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Light BT"
+				"name"		"Futura PT Light"
 				"tall"		"50"
 				"additive"	"0"
 				"antialias" "1"
@@ -985,7 +985,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Light BT"
+				"name"		"Futura PT Light"
 				"tall"		"52"
 				"additive"	"0"
 				"antialias" "1"
@@ -996,7 +996,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Light BT"
+				"name"		"Futura PT Light"
 				"tall"		"55"
 				"additive"	"0"
 				"antialias" "1"
@@ -1007,7 +1007,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Light BT"
+				"name"		"Futura PT Light"
 				"tall"		"9"
 				"additive"	"0"
 				"antialias" "1"
@@ -1029,7 +1029,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Light BT"
+				"name"		"Futura PT Light"
 				"tall"		"10"
 				"additive"	"0"
 				"antialias" 	"1"
@@ -1250,7 +1250,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"	"Futura Light BT"
+				"name"	"Futura PT Light"
 				"tall"	"10"
 				"weight"	"0"
 				"additive"	"0"
@@ -1289,7 +1289,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Light BT"
+				"name"		"Futura PT Light"
 				"tall"		"24"
 				"tall_lodef"	"80"
 				"weight"	"500"
@@ -1299,7 +1299,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"Futura Light BT"
+				"name"		"Futura PT Light"
 				"tall"		"32"
 				"tall_hidef"	"120"
 				"weight"	"500"
@@ -1309,7 +1309,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"Futura Light BT"
+				"name"		"Futura PT Light"
 				"tall"		"44"
 				"weight"	"500"
 				"additive"	"0"
@@ -1318,7 +1318,7 @@ Scheme
 			}
 			"4"
 			{
-				"name"		"Futura Light BT"
+				"name"		"Futura PT Light"
 				"tall"		"48"
 				"weight"	"500"
 				"additive"	"0"
@@ -1327,7 +1327,7 @@ Scheme
 			}
 			"5"
 			{
-				"name"		"Futura Light BT"
+				"name"		"Futura PT Light"
 				"tall"		"52"
 				"weight"	"500"
 				"additive"	"0"
@@ -1339,7 +1339,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Light BT"
+				"name"		"Futura PT Light"
 				"tall"		"44"
 				"tall_lodef"	"52"
 				"weight"	"500"
@@ -1352,7 +1352,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Light BT"
+				"name"		"Futura PT Light"
 				"tall"		"35"
 				"tall_lodef"	"40"
 				"weight"	"500"
@@ -1365,7 +1365,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Light BT"
+				"name"		"Futura PT Light"
 				"tall"		"36"
 				"tall_hidef"	"48"
 				"weight"	"500"
@@ -1377,7 +1377,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Light BT"
+				"name"		"Futura PT Light"
 				"tall"		"30"
 				"weight"	"500"
 				"additive"	"0"
@@ -1388,7 +1388,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Light BT"
+				"name"		"Futura PT Light"
 				"tall"		"30"
 				"weight"	"500"
 				"additive"	"0"
@@ -1399,7 +1399,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Light BT"
+				"name"		"Futura PT Light"
 				"tall"		"24"
 				"tall_lodef"		"28"
 				"weight"	"500"
@@ -1411,7 +1411,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Light BT"
+				"name"		"Futura PT Light"
 				"tall"		"24"
 				"weight"	"500"
 				"additive"	"0"
@@ -1422,7 +1422,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Light BT"
+				"name"		"Futura PT Light"
 				"tall"		"24"
 				"weight"	"500"
 				"additive"	"0"
@@ -1433,7 +1433,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Light BT"
+				"name"		"Futura PT Light"
 				"tall"		"18"
 				"weight"	"500"
 				"additive"	"0"
@@ -1444,7 +1444,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Light BT"
+				"name"		"Futura PT Light"
 				"tall"		"18"
 				"tall_hidef"	"24"
 				"tall_lodef"	"18"
@@ -1457,7 +1457,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Light BT"
+				"name"		"Futura PT Light"
 				"tall"		"18"
 				"tall_hidef"	"24"
 				"tall_lodef"	"20"
@@ -1470,7 +1470,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Light BT"
+				"name"		"Futura PT Light"
 				"tall"		"14"
 				"tall_lodef"	"16"
 				"weight"	"500"
@@ -1482,7 +1482,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Light BT"
+				"name"		"Futura PT Light"
 				"tall"		"16"
 				"weight"	"500"
 				"additive"	"0"
@@ -1493,7 +1493,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Light BT"
+				"name"		"Futura PT Light"
 				"tall"		"14"
 				"weight"	"500"
 				"additive"	"0"
@@ -1504,7 +1504,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Light BT"
+				"name"		"Futura PT Light"
 				"tall"		"14"
 				"weight"	"500"
 				"additive"	"0"
@@ -1516,7 +1516,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Light BT"
+				"name"		"Futura PT Light"
 				"tall"		"11"
 				"weight"	"500"
 				"additive"	"0"
@@ -1527,7 +1527,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Light BT"
+				"name"		"Futura PT Light"
 				"tall"		"11"
 				"weight"	"500"
 				"additive"	"0"
@@ -1539,7 +1539,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Light BT"
+				"name"		"Futura PT Light"
 				"tall"		"11"
 				"weight"	"500"
 				"additive"	"0"
@@ -1550,7 +1550,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Light BT"
+				"name"		"Futura PT Light"
 				"tall"		"4"
 				"weight"	"500"
 				"additive"	"0"
@@ -1561,7 +1561,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"	"Futura Light BT"
+				"name"	"Futura PT Light"
 				"tall"		"10"
 				"additive"	"0"
 				"antialias" "1"
@@ -1571,7 +1571,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Light BT"
+				"name"		"Futura PT Light"
 				"tall"		"16"
 				//"weight"	"500"
 				"additive"	"0"
@@ -1582,7 +1582,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Light BT"
+				"name"		"Futura PT Light"
 				"tall"		"9"
 				"weight"	"0"
 				"additive"	"0"
@@ -1593,7 +1593,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Light BT"
+				"name"		"Futura PT Light"
 				"tall"		"9"
 				"weight"	"0"
 				"additive"	"0"
@@ -1604,7 +1604,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Light BT"
+				"name"		"Futura PT Light"
 				"tall"		"6"
 				"weight"	"0"
 				"additive"	"0"
@@ -1615,7 +1615,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Light BT"
+				"name"		"Futura PT Light"
 				"tall"		"12"
 				"tall_hidef"	"14"
 				"tall_lodef"	"16"
@@ -1628,7 +1628,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Light BT"
+				"name"		"Futura PT Light"
 				"tall"		"11"
 				"weight"	"500"
 				"additive"	"0"
@@ -1703,7 +1703,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Light BT"
+				"name"		"Futura PT Light"
 				"tall"		"18"
 				"tall_hidef"	"24"
 				"tall_lodef"	"18"
@@ -1716,7 +1716,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Light BT"
+				"name"		"Futura PT Light"
 				"tall"		"16"
 				"tall_hidef"	"22"
 				"tall_lodef"	"22"
@@ -1776,7 +1776,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Light BT"
+				"name"		"Futura PT Light"
 				"tall"		"15"
 				"weight"	"700"
 				"antialias" 	"1"
@@ -1786,7 +1786,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"Futura Light BT"
+				"name"		"Futura PT Light"
 				"tall"		"15"
 				"weight"	"700"
 				"antialias" 	"1"
@@ -1796,7 +1796,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"Futura Light BT"
+				"name"		"Futura PT Light"
 				"tall"		"18"
 				"weight"	"900"
 				"antialias" 	"1"
@@ -1805,7 +1805,7 @@ Scheme
 			}
 			"4"
 			{
-				"name"		"Futura Light BT"
+				"name"		"Futura PT Light"
 				"tall"		"21"
 				"weight"	"900"
 				"antialias" 	"1"
@@ -1814,7 +1814,7 @@ Scheme
 			}
 			"5"
 			{
-				"name"		"Futura Light BT"
+				"name"		"Futura PT Light"
 				"tall"		"24"
 				"weight"	"1000"
 				"antialias" 	"1"
@@ -1892,7 +1892,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Light BT"
+				"name"		"Futura PT Light"
 				"tall"		"24"
 				"tall_hidef"	"32"
 				"antialias" "1"
@@ -1904,7 +1904,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Light BT"
+				"name"		"Futura PT Light"
 				"tall"		"24"
 				"tall_hidef"	"32"
 				"antialias" "1"
@@ -1917,7 +1917,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Light BT"
+				"name"		"Futura PT Light"
 				"tall"		"24"
 				"tall_hidef"	"32"
 				"antialias" "1"
@@ -1929,7 +1929,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Light BT"
+				"name"		"Futura PT Light"
 				"tall"		"24"
 				"tall_hidef"	"32"
 				"antialias" "1"
@@ -1942,7 +1942,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Light BT"
+				"name"		"Futura PT Light"
 				"tall"		"16"
 				"tall_hidef"	"24"
 				"antialias" "1"
@@ -1978,7 +1978,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Light BT"
+				"name"		"Futura PT Light"
 				"tall"		"24"
 				"antialias" "1"
 				"weight"	"500"
@@ -1988,7 +1988,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Light BT"
+				"name"		"Futura PT Light"
 				"tall"		"11"
 				"tall_lodef"	"14"
 				"antialias" "1"
@@ -1999,7 +1999,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Light BT"
+				"name"		"Futura PT Light"
 				"tall"		"12"
 				"antialias" "1"
 				"weight"	"500"
@@ -2092,7 +2092,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Medium BT"
+				"name"		"Futura PT Medium"
 				"tall"		"9"
 				"tall_hidef"	"12"
 				"tall_lodef"	"14"
@@ -2105,7 +2105,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Medium BT"
+				"name"		"Futura PT Medium"
 				"tall"		"10"
 				"tall_hidef"	"12"
 				"tall_lodef"	"14"
@@ -2118,7 +2118,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Medium BT"
+				"name"		"Futura PT Medium"
 				"tall"		"10"
 				"weight"	"500"
 				"range"		"0x0000 0x007F"	//	Basic Latin
@@ -2130,7 +2130,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Medium BT"
+				"name"		"Futura PT Medium"
 				"tall"		"20"
 				"weight"	"500"
 				"range"		"0x0000 0x007F"	//	Basic Latin
@@ -2142,7 +2142,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Medium BT"
+				"name"		"Futura PT Medium"
 				"tall"		"20"
 				"tall_hidef"	"24"
 				"tall_lodef"	"24"
@@ -2156,7 +2156,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Medium BT"
+				"name"		"Futura PT Medium"
 				"tall"		"14"
 				"weight"	"500"
 				"range"		"0x0000 0x007F"	//	Basic Latin
@@ -2168,7 +2168,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Medium BT"
+				"name"		"Futura PT Medium"
 				"tall"		"14"
 				"weight"	"500"
 				"range"		"0x0000 0x007F"	//	Basic Latin
@@ -2180,7 +2180,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Medium BT"
+				"name"		"Futura PT Medium"
 				"tall"		"34"
 				"tall_hidef"	"38"
 				"tall_lodef"	"38"
@@ -2195,7 +2195,7 @@ Scheme
  		{
 			"1"
 			{
-				"name"		"Futura Light BT"
+				"name"		"Futura PT Light"
 				"tall"		"36"
 				"tall_hidef"	"48"
 				"weight"	"500"
@@ -2207,7 +2207,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Light BT"
+				"name"		"Futura PT Light"
 				"tall"		"52"
 				"tall_lodef"		"80"
 				"range" 	"0x0000 0x00FF"
@@ -2217,7 +2217,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"Futura Light BT"
+				"name"		"Futura PT Light"
 				"tall"		"72"
 				"tall_hidef"	"120"
 				"range" 	"0x0000 0x00FF"
@@ -2227,7 +2227,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"Futura Light BT"
+				"name"		"Futura PT Light"
 				"tall"		"100"
 				"range" 	"0x0000 0x00FF"
 				"weight"	"400"
@@ -2236,7 +2236,7 @@ Scheme
 			}
 			"4"
 			{
-				"name"		"Futura Light BT"
+				"name"		"Futura PT Light"
 				"tall"		"140"
 				"range" 	"0x0000 0x00FF"
 				"weight"	"400"
@@ -2245,7 +2245,7 @@ Scheme
 			}
 			"5"
 			{
-				"name"		"Futura Light BT"
+				"name"		"Futura PT Light"
 				"tall"		"180"
 				"range" 	"0x0000 0x00FF"
 				"weight"	"400"
@@ -2258,7 +2258,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Light BT"
+				"name"		"Futura PT Light"
 				"tall"		"36"
 				"weight"	"500"
 				"range"		"0x0000 0x007F"	//	Basic Latin
@@ -2270,7 +2270,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Light BT"
+				"name"		"Futura PT Light"
 				"tall"		"14"
 				"weight"	"400"
 				"additive"	"0"
@@ -2281,7 +2281,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Light BT"
+				"name"		"Futura PT Light"
 				"tall"		"20"
 				"weight"	"400"
 				"additive"	"0"
@@ -2292,7 +2292,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Light BT"
+				"name"		"Futura PT Light"
 				"tall"		"14"
 				"weight"	"400"
 				"additive"	"0"
@@ -2303,7 +2303,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Light BT"
+				"name"		"Futura PT Light"
 				"tall"		"10"
 				"weight"	"400"
 				"additive"	"0"
@@ -2314,7 +2314,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Light BT"
+				"name"		"Futura PT Light"
 				"tall"		"7"
 				"weight"	"400"
 				"additive"	"0"
@@ -2326,7 +2326,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Light BT"
+				"name"		"Futura PT Light"
 				"tall"		"10"
 				"tall_hidef"	"12"
 				"tall_lodef"	"14"
@@ -2383,7 +2383,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Light BT"
+				"name"		"Futura PT Light"
 				"tall"		"12"
 				"weight"	"700"
 				"yres"		"480 599"
@@ -2483,7 +2483,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Light BT"
+				"name"		"Futura PT Light"
 				"tall"		"14"
 				"tall_lodef"	"18"
 				"range" 		"0x0000 0x00FF"
@@ -2496,7 +2496,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Light BT"
+				"name"		"Futura PT Light"
 				"tall"		"12"
 				"weight"	"500"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -2508,7 +2508,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Light BT"
+				"name"		"Futura PT Light"
 				"tall"		"8"
 				"weight"	"500"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -2561,7 +2561,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Light BT"
+				"name"		"Futura PT Light"
 				"tall"		"36"
 				"tall_lodef"		"28"
 				"weight"	"500"
@@ -2571,7 +2571,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Light BT"
+				"name"		"Futura PT Light"
 				"tall"		"30"
 				"tall_lodef"		"22"
 				"weight"	"500"
@@ -2581,7 +2581,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Light BT"
+				"name"		"Futura PT Light"
 				"tall"		"28"
 				"tall_lodef"	"24"
 				"weight"	"500"
@@ -2609,7 +2609,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Light BT"
+				"name"		"Futura PT Light"
 				"tall"		"22"
 				"weight"	"500"
 			}
@@ -2618,7 +2618,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Light BT"
+				"name"		"Futura PT Light"
 				"tall"		"18"
 				"weight"	"500"
 			}
@@ -2657,7 +2657,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Light BT"
+				"name"		"Futura PT Light"
 				"tall"		"36"
 				"weight"	"500"
 				"additive"	"0"
@@ -2668,7 +2668,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Light BT"
+				"name"		"Futura PT Light"
 				"tall"		"11"
 				"weight"	"600"
 				"additive"	"0"
@@ -2679,7 +2679,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Light BT"
+				"name"		"Futura PT Light"
 				"tall"		"18"
 				"weight"	"400"
 				"additive"	"0"
@@ -2722,7 +2722,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Light BT"
+				"name"		"Futura PT Light"
 				"tall"		"8"
 				"weight"	"400"
 				"additive"	"0"
@@ -2765,7 +2765,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Medium BT"
+				"name"		"Futura PT Medium"
 				"tall"		"12"
 				"weight"	"200"
 				"additive"	"0"
@@ -2776,7 +2776,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Medium BT"
+				"name"		"Futura PT Medium"
 				"tall"		"12"
 				"weight"	"200"
 				"additive"	"0"
@@ -2787,7 +2787,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Medium BT"
+				"name"		"Futura PT Medium"
 				"tall"		"12"
 				"weight"	"200"
 				"additive"	"0"
@@ -2798,7 +2798,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Medium BT"
+				"name"		"Futura PT Medium"
 				"tall"		"18"
 				"weight"	"200"
 				"additive"	"0"
@@ -2809,7 +2809,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Medium BT"
+				"name"		"Futura PT Medium"
 				"tall"		"8"
 				"weight"	"200"
 				"additive"	"0"
@@ -2820,7 +2820,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Medium BT"
+				"name"		"Futura PT Medium"
 				"tall"		"8"
 				"antialias" "1"
 				"weight"	"500"
@@ -2830,7 +2830,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Medium BT"
+				"name"		"Futura PT Medium"
 				"tall"		"8"
 				"weight"	"500"
 				"additive"	"0"
@@ -2841,7 +2841,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Medium BT"
+				"name"		"Futura PT Medium"
 				"tall"		"11"
 				"weight"	"500"
 				"additive"	"0"
@@ -2853,7 +2853,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Light BT"
+				"name"		"Futura PT Light"
 				"tall"		"9"
 				"weight"	"500"
 				"additive"	"0"
@@ -2864,7 +2864,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Light BT"
+				"name"		"Futura PT Light"
 				"tall"		"9"
 				"weight"	"500"
 				"blur"		"3"
@@ -3252,7 +3252,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Light BT"
+				"name"		"Futura PT Light"
 				"tall"		"11"
 				"weight"	"500"
 				"additive"	"0"
@@ -3316,7 +3316,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Light BT"
+				"name"		"Futura PT Light"
 				"tall"		"11"
 				"weight"	"500"
 				"additive"	"0"
@@ -3327,7 +3327,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Light BT"
+				"name"		"Futura PT Light"
 				"tall"		"14"
 				"weight"	"500"
 				"additive"	"0"
@@ -3338,7 +3338,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Light BT"
+				"name"		"Futura PT Light"
 				"tall"		"18"
 				"tall_hidef"	"24"
 				"tall_lodef"	"18"
@@ -3351,7 +3351,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Light BT"
+				"name"		"Futura PT Light"
 				"tall"		"24"
 				"weight"	"500"
 				"additive"	"0"
@@ -3362,7 +3362,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Light BT"
+				"name"		"Futura PT Light"
 				"tall"		"18"
 				"tall_hidef"	"24"
 				"tall_lodef"	"20"
@@ -3379,7 +3379,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Light BT"
+				"name"		"Futura PT Light"
 				"tall"		"14"
 				"weight"	"500"
 				"additive"	"0"
@@ -3390,7 +3390,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Light BT"
+				"name"		"Futura PT Light"
 				"tall"		"24"
 				"weight"	"500"
 				"additive"	"0"
@@ -3402,7 +3402,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Light BT"
+				"name"		"Futura PT Light"
 				"tall"		"15"
 				"weight"	"500"
 				"range"		"0x0000 0x007F"	//	Basic Latin
@@ -3415,7 +3415,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Light BT"
+				"name"		"Futura PT Light"
 				"tall"		"9"
 				"weight"	"400"
 				"additive"	"0"
@@ -3427,7 +3427,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Light BT"
+				"name"		"Futura PT Light"
 				"tall"		"11"
 				"weight"	"500"
 				"antialias" 	"1"
@@ -3439,7 +3439,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Light BT"
+				"name"		"Futura PT Light"
 				"tall"		"11"
 				"weight"	"500"
 				"blur"		"3"
@@ -3451,7 +3451,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Light BT"
+				"name"		"Futura PT Light"
 				"tall"		"12"
 				"weight"	"500"
 				"additive"	"0"

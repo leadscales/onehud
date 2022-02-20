@@ -734,13 +734,18 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldname"		"FriendsContainer"
-		"xpos"			"r190"
-		"ypos"			"cs-0.5+50"
+		"xpos"			"0"
+		"ypos"			"-3"
 		"zpos"			"4"
 		"wide"			"155"
-		"tall"			"232"
+		"tall"			"268"
 		"visible"		"1"
-		"bgcolor_override"	"TransparentBlack2"
+		"bgcolor_override"	"TransparentBlack5"
+		"paintbackground"	"0"
+
+		"pin_to_sibling"	"RankContainer"
+		"pin_corner_to_sibling"	"PIN_TOPLEFT"
+		"pin_to_sibling_corner"	"PIN_BOTTOMLEFT"
 
 		"TitleLabel"
 		{
@@ -748,17 +753,18 @@
 			"fieldName"		"TitleLabel"
 			"font"			"FontBold12"
 			"labelText"		"Friends"
-			"textAlignment"	"west"
-			"xpos"			"12"
-			"ypos"			"7"
-			"wide"			"f0"
-			"tall"			"14"
+			"textAlignment"	"center"
+			"xpos"			"3"
+			"ypos"			"3"
+			"wide"			"149"
+			"tall"			"15"
 			"autoResize"	"0"
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
 			"textinsetx"	"0"
 			"fgcolor_override"	"CWhite"
+			"bgcolor_override"	"TransparentBlack1"
 		}
 
 		"InnerShadow"
@@ -783,20 +789,24 @@
 		{
 			"ControlName"	"CSteamFriendsListPanel"
 			"fieldname"		"SteamFriendsList"
-			"xpos"			"cs-0.5"
-			"ypos"			"rs1-10"
+			"xpos"			"0"
+			"ypos"			"0"
 			"zpos"			"500"
-			"wide"			"f20"
-			"tall"			"198"
+			"wide"			"f6"
+			"tall"			"247"
 			"visible"		"1"
 			"proportionaltoparent"	"1"
 
 			"columns_count"	"1"
-			"inset_x"		"10"
-			"inset_y"		"5"
-			"row_gap"		"4"
+			"inset_x"		"3"
+			"inset_y"		"3"
+			"row_gap"		"3"
 			"column_gap"	"20"
 			"restrict_width"	"0"
+
+			"pin_to_sibling"	"TitleLabel"	
+			"pin_corner_to_sibling"	"PIN_TOPLEFT"
+			"pin_to_sibling_corner"	"PIN_BOTTOMLEFT"
 
 			"friendpanel_kv"
 			{
@@ -808,17 +818,17 @@
 			{
 				"ControlName"	"ScrollBar"
 				"FieldName"		"ScrollBar"
-				"xpos"			"rs0.7-1"
+				"xpos"			"rs0.7-0"
 				"ypos"			"0"
 				"tall"			"f0"
-				"wide"			"5" // This gets slammed from client schme.  GG.
+				"wide"			"3" // This gets slammed from client schme.  GG.
 				"zpos"			"1000"
 				"nobuttons"		"1"
 				"proportionaltoparent"	"1"
 
 				"Slider"
 				{
-					"fgcolor_override"	"TransparentWhite2"
+					"fgcolor_override"	"TransparentWhite4"
 				}
 
 				"UpButton"
@@ -841,17 +851,20 @@
 		{
 			"ControlName"	"EditablePanel"
 			"fieldname"		"BelowDarken"
-			"xpos"			"cs-0.5"
-			"ypos"			"rs1-10"
+			"xpos"			"0"
+			"ypos"			"0"
 			"zpos"			"499"
-			"wide"			"f20"
-			"tall"			"198"
+			"wide"			"f6"
+			"tall"			"247"
 			"visible"		"1"
 			"PaintBackgroundType"	"0"
 			"proportionaltoparent"	"1"
 			"mouseinputenabled"	"0"
 
-			"bgcolor_override"	"TransparentBlack5"
+			"bgcolor_override"	"TransparentBlack2"
+			"pin_to_sibling"	"SteamFriendsList"	
+			"pin_corner_to_sibling"	"PIN_TOPLEFT"
+			"pin_to_sibling_corner"	"PIN_TOPLEFT"
 		}
 	}
 
@@ -862,7 +875,7 @@
 		"ControlName"		"URLLabel"
 		"fieldName"			"VersionLabel"
 		"font"				"FontBold9"
-		"labelText"			"v0.8.1 Cape Helles"
+		"labelText"			"v0.9 Galicia"
 		"textAlignment"		"east"
 		"xpos"				"r72"
 		"ypos"				"r10"
@@ -882,10 +895,10 @@
 	{
 		"ControlName"		"URLLabel"
 		"fieldName"			"oneHudLabel"
-		"xpos"				"r130"
-		"ypos"				"30"
+		"xpos"				"0"
+		"ypos"				"-5"
 		"zpos"				"100"
-		"wide"				"100"
+		"wide"				"85"
 		"tall"				"25"
 		"visible"			"1"
 		"enabled"			"1"
@@ -894,6 +907,9 @@
 		"textAlignment"		"center"
 		"urlText"			"https://github.com/p3tr1ch0r/onehud/"
 		"paintbackground"	"0"
+		"pin_to_sibling"	"UpperDivider"
+		"pin_to_sibling_corner"	"PIN_TOPRIGHT"
+		"pin_corner_to_sibling"	"PIN_BOTTOMRIGHT"
 	}
 
 	"MainMenuBottomBG"
@@ -914,43 +930,60 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldname"		"RankContainer"
-		"xpos"			"r190"
-		"ypos"			"70"
+		"xpos"			"0"
+		"ypos"			"0"
 		"zpos"			"2"
 		"wide"			"155"
 		"tall"			"100"
 		"visible"		"1"
 		"enabled"		"1"
 		"bgcolor_override"			"TransparentBlack2"
+		"paintbackground"	"0"
+
+		"pin_to_sibling"	"UpperDivider"
+		"pin_to_sibling_corner"	"PIN_BOTTOMRIGHT"
+		"pin_corner_to_sibling"	"PIN_TOPRIGHT"
+
+		"Darkener"
+		{
+			"ControlName"		"EditablePanel"
+			"fieldName"			"Darkener"
+			"xpos"				"3"
+			"ypos"				"3"
+			"zpos"				"3"
+			"wide"				"149"
+			"tall"				"94"
+			"visible"			"1"
+			"enabled"			"1"
+			"bgcolor_override"	"TransparentBlack1"
+		}
 	}
 
 	"RankModelPanel"
 	{
 		"ControlName"	"CPvPRankPanel"
 		"fieldName"		"RankModelPanel"
-		"xpos"			"664"
-		"ypos"			"cs-0.5-145"
-
+		"xpos"			"r176"
+		"ypos"			"cs-0.5-158"
 		"zpos"			"3"
 		"wide"			"155"
 		"tall"			"600"
 		"visible"		"0"
 		"proportionaltoparent"	"1"
 		"mouseinputenabled"	"1"
-
 		"matchgroup"	"MatchGroup_Casual_12v12"
-
 		"show_progress"	"0"
+		// you cant pin this shit????
 	}
 
 	"RankPanel"
 	{
 		"ControlName"	"CPvPRankPanel"
 		"fieldName"		"RankPanel"
-		"xpos"			"-15"
-		"ypos"			"-40"
+		"xpos"			"-3"
+		"ypos"			"45"
 		"zpos"			"6"
-		"wide"			"155"
+		"wide"			"149"
 		"tall"			"100"
 		"visible"		"0"
 		"proportionaltoparent"	"1"
@@ -961,25 +994,28 @@
 		"show_model"	"0"
 		"show_type"		"1"
 
-		pin_to_sibling	"RankContainer"
+		"pin_to_sibling"	"RankContainer"
+		"pin_to_sibling_corner"	"PIN_BOTTOMLEFT"
+		"pin_corner_to_sibling"	"PIN_BOTTOMLEFT"
+		
 	}
 
 	"CycleRankTypeButton"
 	{
 		"ControlName"	"CExImageButton"
 		"fieldName"		"CycleRankTypeButton"
-		"xpos"			"r188"
-		"ypos"			"73"
+		"xpos"			"-3"
+		"ypos"			"-3"
 		"zpos"			"50"
 		"wide"			"15"
-		"tall"			"12"
+		"tall"			"15"
 		"autoResize"	"0"
 		"pinCorner"		"3"
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"	"0"
-		"labelText"		"q"
-		"font"			"Material16"
+		"labelText"		"v"
+		"font"			"Material12"
 		"textAlignment"	"center"
 		"dulltext"		"0"
 		"brighttext"	"0"
@@ -994,6 +1030,9 @@
 		"defaultFgColor_override" 	"CWhite"
 		"armedFgColor_override" 	"AccentMain"
 		"depressedFgColor_override" "CWhite"
+		"defaultBgColor_override"	"TransparentBlack5"
+
+		"pin_to_sibling"	"RankContainer"
 	}
 
 	"RankTooltipPanel"
@@ -1017,8 +1056,8 @@
 	{
 		"ControlName"	"Label"
 		"fieldName"		"NoGCMessage"
-		"xpos"			"r190"
-		"ypos"			"70"
+		"xpos"			"0"
+		"ypos"			"0"
 		"zpos"			"3"
 		"wide"			"155"
 		"tall"			"100"
@@ -1034,6 +1073,8 @@
 		"labelText"		"#TF_MM_NoGC_Rank"
 		"textAlignment"	"center"
 		"use_proportional_insets"	"1"
+
+		"pin_to_sibling"	"RankContainer"
 	}
 
 	"NoGCImage"
@@ -1193,7 +1234,7 @@
 		"fieldName"		"UpperDivider"
 		"xpos"			"cs-0.5"
 		"ypos"			"50"
-		"wide"			"p0.94"
+		"wide"			"p0.95"
 		"tall"			"5"
 		"visible"		"1"
 		"enabled"		"1"
@@ -1254,7 +1295,7 @@
 		"xpos"			"0"
 		"ypos"			"-5"
 		"zpos"			"1"
-		"wide"			"70"
+		"wide"			"60"
 		"tall"			"25"
 		"visible"		"1"
 		"enabled"		"1"
@@ -1287,7 +1328,7 @@
 		"xpos"			"0"
 		"ypos"			"0"
 		"zpos"			"2"
-		"wide"			"70"
+		"wide"			"60"
 		"tall"			"25"
 		"visible"		"1"
 		"enabled"		"1"
@@ -1320,7 +1361,7 @@
 		"xpos"			"0"
 		"ypos"			"0"
 		"zpos"			"1"
-		"wide"			"80"
+		"wide"			"65"
 		"tall"			"25"
 		"visible"		"1"
 		"enabled"		"1"
@@ -1352,7 +1393,7 @@
 		"xpos"			"0"
 		"ypos"			"0"
 		"zpos"			"2"
-		"wide"			"80"
+		"wide"			"65"
 		"tall"			"25"
 		"visible"		"1"
 		"enabled"		"1"
@@ -1372,9 +1413,9 @@
 		"armedFgColor_override"   "CWhite"
 		"depressedFgColor_override" "75 125 255 255"
 
-		"pin_to_sibling"		"CharacterSetupButton"
+		"pin_to_sibling"		"GeneralStoreButton"
 		"pin_corner_to_sibling"			"PIN_TOPLEFT"
-		"pin_to_sibling_corner"			"PIN_TOPRIGHT"
+		"pin_to_sibling_corner"			"PIN_TOPLEFT"
 	}
 
 	"SettingsButtonNew"
@@ -1384,7 +1425,7 @@
 		"xpos"			"0"
 		"ypos"			"0"
 		"zpos"			"1"
-		"wide"			"100"
+		"wide"			"87"
 		"tall"			"25"
 		"visible"		"1"
 		"enabled"		"1"
@@ -1416,7 +1457,7 @@
 		"xpos"			"0"
 		"ypos"			"0"
 		"zpos"			"2"
-		"wide"			"100"
+		"wide"			"87"
 		"tall"			"25"
 		"visible"		"1"
 		"enabled"		"1"
@@ -1436,9 +1477,9 @@
 		"armedFgColor_override"   "CWhite"
 		"depressedFgColor_override" "75 125 255 255"
 
-		"pin_to_sibling"		"GeneralStoreButton"
+		"pin_to_sibling"		"SettingsButtonNew"
 		"pin_corner_to_sibling"			"PIN_TOPLEFT"
-		"pin_to_sibling_corner"			"PIN_TOPRIGHT"
+		"pin_to_sibling_corner"			"PIN_TOPLEFT"
 	}
 
 	"TF2SettingsButtonNew"
@@ -1448,7 +1489,7 @@
 		"xpos"			"0"
 		"ypos"			"0"
 		"zpos"			"1"
-		"wide"			"125"
+		"wide"			"110"
 		"tall"			"25"
 		"visible"		"1"
 		"enabled"		"1"
@@ -1481,7 +1522,7 @@
 		"xpos"			"0"
 		"ypos"			"0"
 		"zpos"			"2"
-		"wide"			"125"
+		"wide"			"110"
 		"tall"			"25"
 		"visible"		"1"
 		"enabled"		"1"
@@ -1502,9 +1543,9 @@
 		"armedFgColor_override"   "CWhite"
 		"depressedFgColor_override" "75 125 255 255"
 
-		"pin_to_sibling"		"SettingsButtonNew"
+		"pin_to_sibling"		"TF2SettingsButtonNew"
 		"pin_corner_to_sibling"			"PIN_TOPLEFT"
-		"pin_to_sibling_corner"			"PIN_TOPRIGHT"
+		"pin_to_sibling_corner"			"PIN_TOPLEFT"
 	}
 
 	"HudSettingsButton"
@@ -1514,7 +1555,7 @@
 		"xpos"			"0"
 		"ypos"			"0"
 		"zpos"			"1"
-		"wide"			"70"
+		"wide"			"67"
 		"tall"			"25"
 		"visible"		"1"
 		"enabled"		"1"
@@ -1547,7 +1588,7 @@
 		"xpos"			"0"
 		"ypos"			"0"
 		"zpos"			"2"
-		"wide"			"70"
+		"wide"			"67"
 		"tall"			"25"
 		"visible"		"1"
 		"enabled"		"1"
@@ -1568,9 +1609,9 @@
 		"armedFgColor_override"   "CWhite"
 		"depressedFgColor_override" "75 125 255 255"
 
-		"pin_to_sibling"		"TF2SettingsButtonNew"
+		"pin_to_sibling"		"HudSettingsButton"
 		"pin_corner_to_sibling"			"PIN_TOPLEFT"
-		"pin_to_sibling_corner"			"PIN_TOPRIGHT"
+		"pin_to_sibling_corner"			"PIN_TOPLEFT"
 	}
 
 	// Bottom Buttons

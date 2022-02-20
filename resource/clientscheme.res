@@ -45,12 +45,12 @@ Scheme
 		"8"
 		{
 			"font"	"resource/fonts/FuturaLight.ttf"
-			"name"	"Futura Light BT"
+			"name"	"Futura PT Light"
 		}
 		"9"
 		{
 			"font"	"resource/fonts/FuturaMedium.ttf"
-			"name"	"Futura Medium BT"
+			"name"	"Futura PT Medium"
 		}
 		"10"
 		{

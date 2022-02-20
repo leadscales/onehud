@@ -1091,7 +1091,7 @@
 			"labeltext"						"i"
 			"textalignment"					"center"
 			"actionsignallevel"				"2"
-			"command"						"engine showconsole; clear; echo OneHUD v0.8.1 Cape Helles; echo Made by Lead; echo Based off of ahud by Nokk;"
+			"command"						"engine showconsole; clear; echo OneHUD v0.9 Galicia; echo Made by Lead; echo Based off of ahud by Nokk;"
 			"sound_depressed"				"UI/buttonclick.wav"
 			"sound_released"				"UI/buttonclickrelease.wav"
 			"pin_to_sibling"				"OtherContainer"

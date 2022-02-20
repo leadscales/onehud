@@ -259,7 +259,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"      "Futura Medium BT"
+				"name"      "Futura PT Medium"
 				"tall"      "10"
 				"weight" "500"
 				"antialias" "1"
@@ -269,7 +269,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"      "Futura Medium BT"
+				"name"      "Futura PT Medium"
 				"tall"      "7"
 				"weight" "500"
 				"antialias" "1"
@@ -279,7 +279,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"      "Futura Medium BT"
+				"name"      "Futura PT Medium"
 				"tall"      "10"
 				"weight" "0"
 				"outline"   "1"
@@ -290,7 +290,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"      "Futura Medium BT"
+				"name"      "Futura PT Medium"
 				"tall"      "16"
 				"weight" "500"
 				"antialias" "1"
@@ -300,7 +300,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"      "Futura Medium BT"
+				"name"      "Futura PT Medium"
 				"tall"      "16"
 				"weight" "1000"
 				"antialias" "1"
@@ -310,7 +310,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"      "Futura Medium BT"
+				"name"      "Futura PT Medium"
 				"tall"      "16"
 				"weight" "500"
 				"underline" "1"
@@ -321,7 +321,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"      "Futura Medium BT"
+				"name"      "Futura PT Medium"
 				"tall"      "16"
 				"weight" "0"
 				"antialias" "1"
@@ -331,7 +331,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"      "Futura Medium BT"
+				"name"      "Futura PT Medium"
 				"tall"      "13"
 				"weight" "0"
 				"dropshadow" "1"
@@ -342,7 +342,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"      "Futura Medium BT"
+				"name"      "Futura PT Medium"
 				"tall"      "12"
 				"weight" "0"
 				"antialias" "1"
@@ -353,7 +353,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"      "Futura Medium BT"
+				"name"      "Futura PT Medium"
 				"tall"      "18"
 				"weight" "0"
 				"antialias" "1"
@@ -363,7 +363,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"      "Futura Medium BT"
+				"name"      "Futura PT Medium"
 				"tall"      "12"
 				"weight" "1000"
 				"antialias" "1"
@@ -373,7 +373,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"      "Futura Medium BT"
+				"name"      "Futura PT Medium"
 				"tall"      "16"
 				"weight" "600"
 				"antialias" "1"
@@ -384,7 +384,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"      "Futura Medium BT"
+				"name"      "Futura PT Medium"
 				"tall"      "10"
 				"weight" "0"
 				"antialias" "1"
@@ -395,7 +395,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"      "Futura Medium BT"
+				"name"      "Futura PT Medium"
 				"tall"      "10"
 				"weight" "0"
 				"dropshadow" "1"
@@ -407,7 +407,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"      "Futura Medium BT"
+				"name"      "Futura PT Medium"
 				"tall"      "16"
 				"weight" "500"
 				"antialias" "1"
@@ -417,7 +417,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"      "Futura Medium BT"
+				"name"      "Futura PT Medium"
 				"tall"      "16"
 				"weight" "500"
 				"italic" "1"
@@ -428,7 +428,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"      "Futura Medium BT"
+				"name"      "Futura PT Medium"
 				"tall"      "16"
 				"weight" "900"
 				"antialias" "1"
@@ -438,7 +438,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"      "Futura Medium BT"
+				"name"      "Futura PT Medium"
 				"tall"      "16"
 				"weight" "900"
 				"italic" "1"
@@ -542,7 +542,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Medium BT"
+				"name"		"Futura PT Medium"
 				"tall"		"35"
 				"additive"	"0"
 				"antialias" "1"
@@ -552,7 +552,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Medium BT"
+				"name"		"Futura PT Medium"
 				"tall"		"16"
 				"additive"	"0"
 				"antialias" "1"
@@ -562,7 +562,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Medium BT"
+				"name"		"Futura PT Medium"
 				"tall"		"17"
 				"additive"	"0"
 				"antialias" "1"
@@ -572,7 +572,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Medium BT"
+				"name"		"Futura PT Medium"
 				"tall"		"18"
 				"additive"	"0"
 				"antialias" "1"
@@ -582,7 +582,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Medium BT"
+				"name"		"Futura PT Medium"
 				"tall"		"19"
 				"additive"	"0"
 				"antialias" "1"
@@ -592,7 +592,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Medium BT"
+				"name"		"Futura PT Medium"
 				"tall"		"20"
 				"additive"	"0"
 				"antialias" "1"
@@ -602,7 +602,7 @@ Scheme
 		{
 			"1"	[$WIN32]
 			{
-				"name"		"Futura Medium BT"
+				"name"		"Futura PT Medium"
 				"tall"		"18"
 				"weight"	"500"
 				"additive"	"0"
@@ -613,7 +613,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Medium BT"
+				"name"		"Futura PT Medium"
 				"tall"		"18"
 				"weight"	"0"
 				"antialias"	"1"
@@ -624,7 +624,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Medium BT"
+				"name"		"Futura PT Medium"
 				"tall"		"35"
 				"antialias" "1"
 			}
@@ -634,7 +634,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Medium BT"
+				"name"		"Futura PT Medium"
 				"tall"		"14"
 				"weight"	"500"
 			}
@@ -644,7 +644,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Futura Medium BT"
+				"name"		"Futura PT Medium"
 				"tall"		"16"
 				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -652,7 +652,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"Futura Medium BT"
+				"name"		"Futura PT Medium"
 				"tall"		"16"
 				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -660,7 +660,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"Futura Medium BT"
+				"name"		"Futura PT Medium"
 				"tall"		"16"
 				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -669,7 +669,7 @@ Scheme
 			}
 			"4"
 			{
-				"name"		"Futura Medium BT"
+				"name"		"Futura PT Medium"
 				"tall"		"19"
 				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -678,7 +678,7 @@ Scheme
 			}
 			"5"
 			{
-				"name"		"Futura Medium BT"
+				"name"		"Futura PT Medium"
 				"tall"		"19"
 				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -1017,7 +1017,7 @@ Scheme
 		"2"
 		{
 			"font"	"resource/fonts/FuturaMedium.ttf"
-			"name"	"Futura Medium BT"
+			"name"	"Futura PT Medium"
 		}
 		"3"
 		{
