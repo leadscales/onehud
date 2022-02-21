@@ -101,7 +101,7 @@
 		"zpos"				"50"
 		"wide"				"300"
 		"tall"				"150"
-		"labeltext"			"Galicia • Feb. 20, 2022"
+		"labeltext"			"Galicia • Feb. 21, 2022"
 		"textalignment"		"center"
 		"font"				"FontRegular14"
 		"fgcolor_override"	"TransparentWhite4"
