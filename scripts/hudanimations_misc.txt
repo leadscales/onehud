@@ -31,3 +31,34 @@ event TeamStatus_PlayerAlive
 {
 	SetVisible	respawntime	0	0.2
 }
+
+// Disable spy disguise animation
+event HudSpyDisguiseChanged
+{
+	Animate PlayerStatusSpyOutlineImage		Alpha		"0"			Linear 0.0 0.2
+	
+	Animate PlayerStatusSpyOutlineImage		Position	"0 0"	Linear 0.0 0.2
+	Animate PlayerStatusSpyOutlineImage		Size		"0 0"		Linear 0.0 0.2
+
+	RunEvent HudSpyDisguiseHide	0.7
+}
+
+event HudSpyDisguiseHide
+{
+	Animate PlayerStatusSpyOutlineImage		Position	"0 0"			Linear 0.0 0.2
+	Animate PlayerStatusSpyOutlineImage		Size		"0 0"			Linear 0.0 0.2
+	
+	Animate PlayerStatusSpyOutlineImage		Alpha		"0"				Linear 0.2 0.1
+}
+
+event HudSpyDisguiseFadeIn
+{
+	RunEvent HudSpyDisguiseChanged	0
+	Animate PlayerStatusSpyImage			Alpha		"0"			Linear 0.9 0.1	
+}
+
+event HudSpyDisguiseFadeOut
+{
+	RunEvent HudSpyDisguiseChanged	0
+	Animate PlayerStatusSpyImage			Alpha		"0"				Linear 0.9 0.1	
+}
