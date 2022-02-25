@@ -69,7 +69,7 @@
 	"SelectATeamLabel"
 	{
 		"ControlName"	"Label"
-		"fieldName"		"SelectAClassLabel"
+		"fieldName"		"SelectATeamLabel"
 		"xpos"			"cs-0.5"
 		"ypos"			"30"
 		"zpos"			"1"
@@ -84,93 +84,167 @@
 		"bgcolor_override"	"TransparentBlack3"
 	}
 
+	"SplitterLeft"
+	{
+		"ControlName"			"EditablePanel"
+		"fieldName"				"SplitterLeft"
+		"xpos"					"5"
+		"ypos"					"0"
+		"zpos"					"5"
+		"wide"					"320"
+		"tall"					"1"
+		"visible"				"1"
+		"enabled"				"1"
+		"paintbackground"		"0"
+		"border"				"HudMenuBorderLowerAlt"
+		"pin_to_sibling"		"Splitter"
+		"pin_to_sibling_corner" "PIN_BOTTOMLEFT"
+		"pin_corner_to_sibling"	"PIN_BOTTOMRIGHT"
+	}
+
+	"SplitterRight"
+	{
+		"ControlName"			"EditablePanel"
+		"fieldName"				"SplitterRight"
+		"xpos"					"5"
+		"ypos"					"0"
+		"zpos"					"5"
+		"wide"					"320"
+		"tall"					"1"
+		"visible"				"1"
+		"enabled"				"1"
+		"paintbackground"		"0"
+		"border"				"HudMenuBorderLowerAlt"
+		"pin_to_sibling"		"Splitter"
+		"pin_to_sibling_corner" "PIN_BOTTOMRIGHT"
+		"pin_corner_to_sibling"	"PIN_BOTTOMLEFT"
+	}
+
+	"Splitter"
+	{
+		"ControlName"		"EditablePanel"
+		"fieldName"			"Splitter"
+		"xpos"				"cs-0.5"
+		"ypos"				"cs-0.5+185"
+		"wide"				"205"
+		"tall"				"1"
+		"visible"			"1"
+		"enabled"			"1"
+		"paintbackground"	"0"
+		"border"			"HudMenuBorderLowerAlt"
+		"alpha"				"0"
+	}
+
+
+	"teambutton0_label"
+	{
+		"ControlName"	"CExLabel"
+		"fieldName"		"teambutton0_label"
+		"xpos"			"0"
+		"ypos"			"-1"
+		"zpos"			"2"
+		"wide"			"100"
+		"tall"			"40"
+		"autoResize"	"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"labelText"		"BLU"
+		"textAlignment"	"center"
+		"font"			"FontBold48"
+		"paintbackground"	"0"
+		"FgColor"					"CWhite"
+		"defaultFgColor_override" 	"CWhite"
+		"armedFgColor_override"		"CWhite"
+		"border"				"HudMenuBorderLowerAltTransparent"
+		"mouseinputenabled"	"0"
+
+		"pin_to_sibling"		"Splitter"
+		"pin_to_sibling_corner"	"PIN_TOPLEFT"
+		"pin_corner_to_sibling"	"PIN_BOTTOMLEFT"
+	}
+
+	"teambutton1_label"
+	{
+		"ControlName"	"CExLabel"
+		"fieldName"		"teambutton1_label"
+		"xpos"			"0"
+		"ypos"			"-1"
+		"zpos"			"2"
+		"wide"			"100"
+		"tall"			"40"
+		"autoResize"	"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"labelText"		"RED"
+		"textAlignment"	"center"
+		"font"			"FontBold48"
+		"paintbackground"	"0"
+		"FgColor"					"CWhite"
+		"defaultFgColor_override" 	"CWhite"
+		"armedFgColor_override"		"CWhite"
+		"border"				"HudMenuBorderLowerAltTransparent"
+		"mouseinputenabled"	"0"
+		
+		"pin_to_sibling"		"Splitter"
+		"pin_to_sibling_corner"	"PIN_TOPRIGHT"
+		"pin_corner_to_sibling"	"PIN_BOTTOMRIGHT"
+	}
+
+
 	"teambutton0"
 	{
 		"ControlName"	"CExButton"
 		"fieldName"		"teambutton0"
-		"xpos"			"cs-0.5-100"
-		"ypos"			"cs-0.5-10"
+		"xpos"			"0"
+		"ypos"			"0"
 		"zpos"			"3"
-		"wide"			"50"
-		"tall"			"50"
+		"wide"			"100"
+		"tall"			"40"
 		"autoResize"	"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"labelText"		"w"
+		"labelText"		"BLU"
 		"textAlignment"	"center"
 		"command"		"jointeam blue"
-		"font"			"Material48"
+		"font"			"FontBoldShadow48"
 		"paintbackground"	"0"
-		"FgColor"					"CBlue"
-		"defaultFgColor_override" 	"CBlue"
-		"armedFgColor_override"		"CBlueDark"
+		"FgColor"					"Blank"
+		"defaultFgColor_override" 	"Blank"
+		"armedFgColor_override"		"CWhite"
+		"border_default"			"NoBorder"
+		"border_armed"			"HudMenuBorderLowerBlue"
+
+		"pin_to_sibling"		"teambutton0_label"
+		"pin_to_sibling_corner"	"PIN_TOPLEFT"
+		"pin_corner_to_sibling"	"PIN_TOPLEFT"
 	}
 
 	"teambutton1"
 	{
 		"ControlName"	"CExButton"
 		"fieldName"		"teambutton1"
-		"xpos"			"cs-0.5+100"
-		"ypos"			"cs-0.5-10"
+		"xpos"			"0"
+		"ypos"			"0"
 		"zpos"			"3"
-		"wide"			"50"
-		"tall"			"50"
+		"wide"			"100"
+		"tall"			"40"
 		"visible"		"1"
 		"enabled"		"1"
-		"labelText"		"w"
+		"labelText"		"RED"
 		"textAlignment"	"center"
 		"command"		"jointeam red"
-		"font"			"Material48"
+		"font"			"FontBoldShadow48"
 		"paintbackground"	"0"
-		"FgColor"					"CRed"
-		"defaultFgColor_override" 	"CRed"
-		"armedFgColor_override"		"CRedDark"
-	}
+		"FgColor"					"Blank"
+		"defaultFgColor_override" 	"Blank"
+		"armedFgColor_override"		"CWhite"
+		"border_default"			"NoBorder"
+		"border_armed"			"HudMenuBorderLowerRed"
 
-	"team0label"
-	{
-		"ControlName"			"CExLabel"
-		"fieldName"				"team0label"
-		"xpos"					"0"
-		"ypos"					"0"
-		"zpos"					"5"
-		"wide"					"50"
-		"tall"					"20"
-		"visible"				"1"
-		"enabled"				"1"
-		"font"					"FontBold16"
-		"labelText"				"BLU"
-		"textAlignment"			"center"
-		"mouseinputenabled"		"0"
-		"fgcolor_override"		"CWhite"
-
-		"pin_to_sibling"		"teambutton0"
+		"pin_to_sibling"		"teambutton1_label"
 		"pin_to_sibling_corner"	"PIN_TOPLEFT"
-		"pin_corner_to_sibling"	"PIN_BOTTOMLEFT"
+		"pin_corner_to_sibling"	"PIN_TOPLEFT"
 	}
-
-	"team1label"
-	{
-		"ControlName"			"CExLabel"
-		"fieldName"				"team1label"
-		"xpos"					"0"
-		"ypos"					"0"
-		"zpos"					"5"
-		"wide"					"50"
-		"tall"					"20"
-		"visible"				"1"
-		"enabled"				"1"
-		"font"					"FontBold16"
-		"labelText"				"RED"
-		"textAlignment"			"center"
-		"mouseinputenabled"		"0"
-		"fgcolor_override"		"CWhite"
-
-		"pin_to_sibling"		"teambutton1"
-		"pin_to_sibling_corner"	"PIN_TOPLEFT"
-		"pin_corner_to_sibling"	"PIN_BOTTOMLEFT"
-	}
-
 
 	"teambutton2"
 	{
@@ -218,7 +292,7 @@
 		"selectedFgColor_override" 	"AccentMain"
 	}
 
-	"scortcutblu"
+	"shortcutblu"
 	{
 		"ControlName"	"CExButton"
 		"fieldName"		"shortcutblu"
@@ -229,7 +303,8 @@
 		"labelText"		"&3"
 		"command"		"jointeam blue"
 	}
-	"scortcutred"
+
+	"shortcutred"
 	{
 		"ControlName"	"CExButton"
 		"fieldName"		"shortcutred"
@@ -240,7 +315,8 @@
 		"labelText"		"&4"
 		"command"		"jointeam red"
 	}
-	"scortcutrandom"
+
+	"shortcutrandom"
 	{
 		"ControlName"	"CExButton"
 		"fieldName"		"shortcutrandom"
@@ -251,7 +327,8 @@
 		"labelText"		"&1"
 		"command"		"jointeam auto"
 	}
-	"scortcutspec"
+	
+	"shortcutspec"
 	{
 		"ControlName"	"CExButton"
 		"fieldName"		"shortcutspec"
@@ -399,8 +476,8 @@
 		"xpos"					"0"
 		"ypos"					"0"
 		"zpos"					"6"
-		"wide"					"50"
-		"tall"					"50"
+		"wide"					"100"
+		"tall"					"20"
 		"autoResize"			"0"
 		"pinCorner"				"0"
 		"visible"				"1"
@@ -409,14 +486,14 @@
 		"textAlignment"			"center"
 		"dulltext"				"0"
 		"brighttext"			"1"
-		"font"					"FontBold14"
+		"font"					"FontRegular12"
 		"fgcolor"				"CWhite"
 		"mouseinputenabled"		"0"
-		"textinsetx"			"2"
-		"textinsety"			"2"
+		"textinsetx"			"0"
+		"textinsety"			"0"
 
 		"pin_to_sibling"		"teambutton0"
-		"pin_to_sibling_corner"	"PIN_TOPLEFT"
+		"pin_to_sibling_corner"	"PIN_BOTTOMLEFT"
 		"pin_corner_to_sibling"	"PIN_TOPLEFT"
 	}
 
@@ -448,8 +525,8 @@
 		"xpos"					"0"
 		"ypos"					"0"
 		"zpos"					"6"
-		"wide"					"50"
-		"tall"					"50"
+		"wide"					"100"
+		"tall"					"20"
 		"autoResize"			"0"
 		"pinCorner"				"0"
 		"visible"				"1"
@@ -458,14 +535,14 @@
 		"textAlignment"			"center"
 		"dulltext"				"0"
 		"brighttext"			"1"
-		"font"					"FontBold14"
+		"font"					"FontRegular12"
 		"fgcolor"				"CWhite"
 		"mouseinputenabled"		"0"
-		"textinsetx"			"2"
-		"textinsety"			"2"
+		"textinsetx"			"0"
+		"textinsety"			"0"
 
 		"pin_to_sibling"		"teambutton1"
-		"pin_to_sibling_corner"	"PIN_TOPLEFT"
+		"pin_to_sibling_corner"	"PIN_BOTTOMLEFT"
 		"pin_corner_to_sibling"	"PIN_TOPLEFT"
 	}
 
