@@ -114,7 +114,7 @@
 		"alpha"				"0"
 	}
 
-		"teambutton2_label"
+	"teambutton2_label"
 	{
 		"ControlName"			"CExLabel"
 		"fieldName"				"teambutton2_label"
