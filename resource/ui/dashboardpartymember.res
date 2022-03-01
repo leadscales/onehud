@@ -145,7 +145,7 @@
 		"defaultBgColor_override"	"Blank"
 		"armedBgColor_override"		"Blank"
 
-		"border_default"	"NoBorder"
+		"border_default"	"HudMenuBorderLowerAltTransparent"
 		"border_armed"		"HudMenuBorderLowerAlt"
 	}
 

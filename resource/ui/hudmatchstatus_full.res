@@ -359,7 +359,7 @@
 			"color_bar_health_high"	"CWhite"
 			"color_bar_health_med"	"CGray1"
 			"percentage_health_med"	"0.6"
-			"color_bar_health_low"	"HP Low"
+			"color_bar_health_low"	"HPLow1"
 			"percentage_health_low"	"0.3"
 			"color_portrait_blend_dead_red"	"CWhite"
 			"color_portrait_blend_dead_blue" "CWhite"
@@ -445,7 +445,7 @@
 				"dulltext"				"0"
 				"brighttext"			"0"
 				"bgcolor_override"	  	"Blank"
-				"fgcolor_override"	  	"HP Buff"
+				"fgcolor_override"	  	"HPBuff1"
 				"proportionaltoparent"	"1"
 			}
 			"HealthIcon"

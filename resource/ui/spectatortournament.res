@@ -262,7 +262,7 @@
 				"visible"		"1"
 				"labelText"		"%chargeamount%"
 				"textAlignment"	"east"
-				"fgcolor_override"	"HP Buff"
+				"fgcolor_override"	"HPBuff1"
 
 			}
 

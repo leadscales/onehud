@@ -102,7 +102,7 @@
 		"textAlignment"	"Left"
 		"dulltext"		"0"
 		"brighttext"	"0"
-		"fgcolor_override"		"Ubercharge Meter"
+		"fgcolor_override"		"UberMeter"
 		"bgcolor_override"		"TransparentBlack4"
 
 		"pin_to_sibling"	"ChargeLabel"

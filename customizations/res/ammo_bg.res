@@ -31,7 +31,7 @@
 		"tall_minmode"			"0"
 		"visible"				"1"
 		"enabled"				"1"
-		"bgcolor_override"		"Ammo In Clip"
+		"bgcolor_override"		"AmmoClip"
 		"paintbackgroundtype"	"0"
 		"pin_to_sibling"		"AmmoInClipBackground"
 		"pin_corner_to_sibling"	"PIN_TOPLEFT"

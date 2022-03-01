@@ -3096,14 +3096,18 @@ Scheme
 					"color" "CPositive"
 					"offset" "0 1"
 				}
-
+				"2"
+				{
+					"color" "CPositive"
+					"offset" "0 1"
+				}
 			}
 
 			Right
 			{
 				"1"
 				{
-					"color" "CPositive"
+					"color" "Blank"
 					"offset" "1 0"
 				}
 			}
@@ -3112,7 +3116,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "CPositive"
+					"color" "Blank"
 					"offset" "0 0"
 				}
 			}
@@ -3121,7 +3125,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "CPositive"
+					"color" "Blank"
 					"offset" "0 0"
 				}
 			}

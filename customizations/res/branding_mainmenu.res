@@ -25,7 +25,7 @@
 		"ControlName"		"URLLabel"
 		"fieldName"			"VersionLabel"
 		"font"				"FontBold9"
-		"labelText"			"v0.9 Galicia"
+		"labelText"			"v0.9.1 Łupków"
 		"textAlignment"		"east"
 		"xpos"				"r72"
 		"ypos"				"r10"

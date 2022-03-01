@@ -52,55 +52,59 @@ There are four options for the scoreboard, `16v16`, `12v12` (default), `9v9`, or
 
 You can enable a transparent red border around your screen when your health gets low, similar to what you may find in other shooters. In `/customizations/low_health_effect.res`, you can change the `visible` and `enabled` values from `0` to `1` to toggle it on or off.
 
-![Low health effect](./assets/low_health_effect.png)
+![Low health effect](./assets/low_health_effect.jpg)
 
 ## Health and ammo backgrounds
 
 You can enable a transparent background behind your health and ammo for increased visibility or aesthetic purposes. In `/customizations/health_bg.res` and `/customizations/ammo_bg.res`, add or remove the two slashes behind `#base "/...` to enable or disable it.
 
-![Healh/Ammo BG](./assets/health_ammo_bg.png)
+![Healh/Ammo BG](./assets/health_ammo_bg.jpg)
+
+## Branding
+
+Finally, if you don't like having the OneHUD Logo and version on your main menu and stats panel, you can disable them in `/customizations/branding_mainmenu.res` and `/customizations/branding_stats.res`
 
 # Screenshots
 
 ## Main Menu
 
-![Main Menu](./assets/screenshots/main_menu.png)
+![Main Menu](./assets/screenshots/main_menu.jpg)
 
 ## Main Menu (Ingame)
 
-![Main Menu Ingame](./assets/screenshots/main_menu_ingame.png)
+![Main Menu Ingame](./assets/screenshots/main_menu_ingame.jpg)
 
 ## Loadout
 
-![Loadout](./assets/screenshots/loadout.png)
+![Loadout](./assets/screenshots/loadout.jpg)
 
 ## Backpack
 
-![Backpack](./assets/screenshots/backpack.png)
+![Backpack](./assets/screenshots/backpack.jpg)
 
 ## Team select
 
-![Team Select](./assets/screenshots/team_selection.png)
+![Team Select](./assets/screenshots/team_selection.jpg)
 
 ## Class select
 
-![Class Select](./assets/screenshots/class_selection.png)
+![Class Select](./assets/screenshots/class_selection.jpg)
 
 ## Payload
 
-![Payload](./assets/screenshots/payload.png)
+![Payload](./assets/screenshots/payload.jpg)
 
 ## 5CP/Attack/Defend
 
-![5CP](./assets/screenshots/5cp.png)
+![5CP](./assets/screenshots/5cp.jpg)
 
 ## CTF
 
-![CTF](./assets/screenshots/ctf.png)
+![CTF](./assets/screenshots/ctf.jpg)
 
 ## KOTH
 
-![KOTH](./assets/screenshots/koth.png)
+![KOTH](./assets/screenshots/koth.jpg)
 
 # Credits
 

@@ -5,8 +5,8 @@
 		"delta_item_x"			"40"
 		"delta_item_start_y"	"54"
 		"delta_item_end_y"		"34"
-		"PositiveColor"			"HP Buff"
-		"NegativeColor"			"HP Low"
+		"PositiveColor"			"HPBuff1"
+		"NegativeColor"			"HPLow1"
 		"delta_lifetime"		"1.5"
 		"delta_item_font"		"FontBold12"
 	}
