@@ -4,7 +4,7 @@
 	{
 		"ControlName"       "EditablePanel"
 		"fieldName"         "DevPanelContainer"
-		"xpos"              "0"
+		"xpos"              "-3"
 		"ypos"              "3"
 		"zpos"				"-2"
 		"wide"              "300"

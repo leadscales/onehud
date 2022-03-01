@@ -1,0 +1,1 @@
+#base "./res/branding_stats.res"

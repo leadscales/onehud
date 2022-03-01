@@ -1,6 +1,7 @@
 #base "../../resource/preload.res"
 #base "../../resource/tools.res"
 #base "../../customizations/dev_panel.res"
+#base "../../customizations/branding_mainmenu.res"
 //#base "../../customizations/favorite_servers.res"
 
 "Resource/UI/MainMenuOverride.res"
@@ -870,49 +871,6 @@
 	}
 
 	//START OF MENU
-
-	"VersionLabel"
-	{
-		"ControlName"		"URLLabel"
-		"fieldName"			"VersionLabel"
-		"font"				"FontBold9"
-		"labelText"			"v0.9 Galicia"
-		"textAlignment"		"east"
-		"xpos"				"r72"
-		"ypos"				"r10"
-		"zpos"				"100"
-		"wide"				"70"
-		"tall"				"10"
-		"autoResize"		"0"
-		"pinCorner"			"0"
-		"visible"			"1"
-		"enabled"			"1"
-		"fgcolor_override"	"TransparentWhite3"
-		"urlText"			"https://github.com/p3tr1ch0r/onehud/"
-		"paintbackground"	"0"
-	}
-
-	"oneHudLabel"
-	{
-		"ControlName"		"URLLabel"
-		"fieldName"			"oneHudLabel"
-		"xpos"				"0"
-		"ypos"				"-5"
-		"zpos"				"100"
-		"wide"				"85"
-		"tall"				"25"
-		"visible"			"1"
-		"enabled"			"1"
-		"labelText"			"ONEHUD"
-		"font"				"FontBold24"
-		"textAlignment"		"center"
-		"urlText"			"https://github.com/p3tr1ch0r/onehud/"
-		"paintbackground"	"0"
-		"pin_to_sibling"	"UpperDivider"
-		"pin_to_sibling_corner"	"PIN_TOPRIGHT"
-		"pin_corner_to_sibling"	"PIN_BOTTOMRIGHT"
-	}
-
 	"MainMenuBottomBG"
 	{
 		"ControlName"		"EditablePanel"
