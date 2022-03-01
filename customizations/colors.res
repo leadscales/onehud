@@ -9,16 +9,8 @@ Scheme
 		//---------------------------------------------
 
 		"AccentMain"		    	"255 128 0 255"
-		"AccentLight"		    	"255 160 0 255"
-		"AccentDark"		    	"255 96 0 255"
-
 		"AccentMainTransparent"		"255 128 0 96"
-		"AccentLightTransparent"	"255 160 0 96"
-		"AccentDarkTransparent"		"255 96 0 96"
-
 		"AccentMainTransparent2"	"255 128 0 32"
-		"AccentLightTransparent2"	"255 160 0 32"
-		"AccentDarkTransparent2"	"255 96 0 32"
 
 		"CPositive"			    	"0 255 128 255"
 		"CNegative"			    	"255 0 64 255"
@@ -62,7 +54,7 @@ Scheme
 		//---------------------------------------------
 
 		"Ammo In Clip"			    "255 255 255 255"
-		"Ammo In Reserve"		    "255 255 255 255"
+		"Ammo In Reserve"		    "255 255 255 192"
 		"Ammo No Clip"		    	"255 255 255 255"
 		"LowAmmo1"			    	"255 128 0 255"
 		"LowAmmo2"			    	"255 96 0 255"

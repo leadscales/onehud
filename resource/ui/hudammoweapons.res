@@ -109,7 +109,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"AmmoInReserve"
-		"font"			"FontBold20"
+		"font"			"FontRegular16"
 		"font_minmode"	"FontBold10"
 		"fgcolor"		"Ammo In Reserve"
 		"xpos"			"cs-0.5+150"
@@ -130,7 +130,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"AmmoInReserveShadow"
-		"font"			"FontBoldShadow20"
+		"font"			"FontRegularShadow16"
 		"font_minmode"	"FontBoldShadow10"
 		"fgcolor"		"CBlackShadow"
 		"xpos"			"-1"

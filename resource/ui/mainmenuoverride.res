@@ -1,5 +1,6 @@
 #base "../../resource/preload.res"
 #base "../../resource/tools.res"
+#base "../../customizations/dev_panel.res"
 //#base "../../customizations/favorite_servers.res"
 
 "Resource/UI/MainMenuOverride.res"
@@ -1386,7 +1387,7 @@
 	{
 		"ControlName"	"CExImageButton"
 		"fieldName"		"GeneralStoreButton"
-		"xpos"			"0"
+		"xpos"			"5"
 		"ypos"			"0"
 		"zpos"			"1"
 		"wide"			"65"
@@ -1450,7 +1451,7 @@
 	{
 		"ControlName"	"CExImageButton"
 		"fieldName"		"SettingsButtonNew"
-		"xpos"			"0"
+		"xpos"			"5"
 		"ypos"			"0"
 		"zpos"			"1"
 		"wide"			"87"
@@ -1514,7 +1515,7 @@
 	{
 		"ControlName"	"CExImageButton"
 		"fieldName"		"TF2SettingsButtonNew"
-		"xpos"			"0"
+		"xpos"			"5"
 		"ypos"			"0"
 		"zpos"			"1"
 		"wide"			"110"
@@ -1580,7 +1581,7 @@
 	{
 		"ControlName"	"CExImageButton"
 		"fieldName"		"HudSettingsButton"
-		"xpos"			"0"
+		"xpos"			"5"
 		"ypos"			"0"
 		"zpos"			"1"
 		"wide"			"67"

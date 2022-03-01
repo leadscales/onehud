@@ -1,0 +1,1 @@
+//#base "./res/dev_panel.res"

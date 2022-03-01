@@ -9,7 +9,7 @@ Scheme
 		ReplayBrowser.Button.DepressedBgColor				"AccentMain"
 		ReplayBrowser.CollectionTitle.FgColor				"LightRed"
 		ReplayBrowser.Warning.FgColor						"CWhite"
-		ReplayBrowser.ScrollBar.SliderButton.FgColor		"AccentLight"
+		ReplayBrowser.ScrollBar.SliderButton.FgColor		"AccentMain"
 		ReplayBrowser.Search.BgColor						"CBlack"
 		ReplayBrowser.Search.FgColor						"CWhite"
 
@@ -150,9 +150,9 @@ Scheme
 		SectionedListPanel.BrightTextColor	"AccentMain"
 		SectionedListPanel.BgColor			"TransparentLightBlack"
 		SectionedListPanel.SelectedTextColor			"Black"
-		SectionedListPanel.SelectedBgColor				"AccentLight"
+		SectionedListPanel.SelectedBgColor				"CNegative"
 		SectionedListPanel.OutOfFocusSelectedTextColor	"Black"
-		SectionedListPanel.OutOfFocusSelectedBgColor	"255 255 255 32"
+		SectionedListPanel.OutOfFocusSelectedBgColor	"TransparentWhite5"
 
 		Slider.NobColor				"CWhite"
 		Slider.TextColor			"CWhite"

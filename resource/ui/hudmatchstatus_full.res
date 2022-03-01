@@ -359,7 +359,7 @@
 			"color_bar_health_high"	"CWhite"
 			"color_bar_health_med"	"CGray1"
 			"percentage_health_med"	"0.6"
-			"color_bar_health_low"	"AccentDark"
+			"color_bar_health_low"	"HP Low"
 			"percentage_health_low"	"0.3"
 			"color_portrait_blend_dead_red"	"CWhite"
 			"color_portrait_blend_dead_blue" "CWhite"
