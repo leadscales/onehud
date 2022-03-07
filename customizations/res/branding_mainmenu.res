@@ -16,19 +16,31 @@
 		"textAlignment"		"center"
 		"urlText"			"https://github.com/p3tr1ch0r/onehud/"
 		"paintbackground"	"0"
+		"auto_wide_tocontents"	"1"
 		"pin_to_sibling"	"UpperDivider"
 		"pin_to_sibling_corner"	"PIN_TOPRIGHT"
 		"pin_corner_to_sibling"	"PIN_BOTTOMRIGHT"
 	}
+
+	"VersionLabelAnchor"
+	{
+		"ControlName"		"EditablePanel"
+		"fieldname"			"VersionLabelAnchor"
+		"xpos"				"r2"
+		"ypos"				"r0"
+		"wide"				"0"
+		"tall"				"0"
+	}
+
 	"VersionLabel"
 	{
 		"ControlName"		"URLLabel"
 		"fieldName"			"VersionLabel"
 		"font"				"FontBold9"
-		"labelText"			"v0.9.1 Łupków"
+		"labelText"			"v0.9.2 Tsaritsyn"
 		"textAlignment"		"east"
-		"xpos"				"r72"
-		"ypos"				"r10"
+		"xpos"				"0"
+		"ypos"				"0"
 		"zpos"				"100"
 		"wide"				"70"
 		"tall"				"10"
@@ -38,6 +50,10 @@
 		"enabled"			"1"
 		"fgcolor_override"	"TransparentWhite3"
 		"urlText"			"https://github.com/p3tr1ch0r/onehud/"
-		"paintbackground"	"0"
+		"auto_wide_tocontents"	"1"
+		"auto_tall_tocontents"	"1"
+		"pin_to_sibling"		"VersionLabelAnchor"
+		"pin_corner_to_sibling"	"PIN_BOTTOMRIGHT"
+		"pin_to_sibling_corner"	"PIN_TOPRIGHT"
 	}
 }

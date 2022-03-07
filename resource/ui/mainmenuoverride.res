@@ -1291,6 +1291,7 @@
 		"labelText"		"ITEMS"
 		"default"		"1"
 		"command"		"engine open_charinfo"
+		"auto_wide_tocontents"	"1"
 
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -1324,6 +1325,7 @@
 		"labelText"		"ITEMS"
 		"default"		"1"
 		"command"		"engine open_charinfo"
+		"auto_wide_tocontents"	"1"
 
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -1345,7 +1347,7 @@
 	{
 		"ControlName"	"CExImageButton"
 		"fieldName"		"GeneralStoreButton"
-		"xpos"			"5"
+		"xpos"			"10"
 		"ypos"			"0"
 		"zpos"			"1"
 		"wide"			"65"
@@ -1356,6 +1358,7 @@
 		"textAlignment"	"center"
 		"labelText"		"STORE"
 		"command"		"engine open_store"
+		"auto_wide_tocontents"	"1"
 
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -1388,6 +1391,7 @@
 		"textAlignment"	"center"
 		"labelText"		"STORE"
 		"command"		"engine open_store"
+		"auto_wide_tocontents"	"1"
 
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -1409,7 +1413,7 @@
 	{
 		"ControlName"	"CExImageButton"
 		"fieldName"		"SettingsButtonNew"
-		"xpos"			"5"
+		"xpos"			"10"
 		"ypos"			"0"
 		"zpos"			"1"
 		"wide"			"87"
@@ -1420,6 +1424,7 @@
 		"font"			"FontBold24"
 		"textAlignment"	"center"
 		"Command"		"OpenOptionsDialog"
+		"auto_wide_tocontents"	"1"
 
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -1452,6 +1457,7 @@
 		"font"			"FontBoldShadow24"
 		"textAlignment"	"center"
 		"Command"		"OpenOptionsDialog"
+		"auto_wide_tocontents"	"1"
 
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -1473,7 +1479,7 @@
 	{
 		"ControlName"	"CExImageButton"
 		"fieldName"		"TF2SettingsButtonNew"
-		"xpos"			"5"
+		"xpos"			"10"
 		"ypos"			"0"
 		"zpos"			"1"
 		"wide"			"110"
@@ -1485,6 +1491,7 @@
 		"textAlignment"	"center"
 		"default"		"1"
 		"Command"		"opentf2options"
+		"auto_wide_tocontents"	"1"
 
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -1518,6 +1525,7 @@
 		"textAlignment"	"center"
 		"default"		"1"
 		"Command"		"opentf2options"
+		"auto_wide_tocontents"	"1"
 
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -1539,7 +1547,7 @@
 	{
 		"ControlName"	"CExImageButton"
 		"fieldName"		"HudSettingsButton"
-		"xpos"			"5"
+		"xpos"			"10"
 		"ypos"			"0"
 		"zpos"			"1"
 		"wide"			"67"
@@ -1551,6 +1559,7 @@
 		"textAlignment"	"center"
 		"default"		"1"
 		"Command"		"motd_show"
+		"auto_wide_tocontents"	"1"
 
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -1584,6 +1593,7 @@
 		"textAlignment"	"center"
 		"default"		"1"
 		"Command"		"motd_show"
+		"auto_wide_tocontents"	"1"
 
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
