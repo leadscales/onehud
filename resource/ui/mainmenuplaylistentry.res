@@ -86,7 +86,7 @@
 		"ControlName"	"CExButton"
 		"fieldName"		"ModeButton"
 		"xpos"			"rs1-6"
-		"ypos"			"2"
+		"ypos"			"0"
 		"zpos"			"6"
 		"wide"			"122"
 		"tall"			"15"
@@ -106,14 +106,14 @@
 
 		//"border_default"	"MainMenuMiniButtonDefault"
 		//"border_armed"		"MainMenuMiniButtonArmed"
-		"paintbackground"	"1"
+		"paintbackground"	"0"
 
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
 
-		"defaultFgColor_override"	"CGray1"
-		"armedFgColor_override"		"CBlack"
-		"depressedFgColor_override" "CBlack"
+		"defaultFgColor_override"	"CWhite"
+		"armedFgColor_override"		"AccentMain"
+		"depressedFgColor_override" "AccentMain"
 	}
 
 	"MatchmakingBanPanel"
@@ -171,7 +171,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"wrap"			"1"
-		"fgcolor_override" "CGray1"
+		"fgcolor_override" "CWhite"
 		"proportionaltoparent" "1"
 		"mouseinputenabled"	"0"
 	}

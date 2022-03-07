@@ -12,6 +12,11 @@ event HudHealthBonusPulse
 	Animate PlayerStatusHealthValueUnderline BgColor "HPBuff1" Linear 0.0 0.2
 	Animate PlayerStatusHealthValueUnderline BgColor "HPBuff2" Linear 0.2 0.4
 
+	Animate PlayerStatusMinmodeHealthBar BgColor "HPBuff1" Linear 0.0 0.2
+	Animate PlayerStatusMinmodeHealthBar BgColor "HPBuff2" Linear 0.2 0.4
+
+	Animate PlayerStatusMinmodeHealthBar Wide 60 Spline 0.0 0.4
+
 	RunEvent HudHealthBonusPulseLoop 0.4
 }
 
@@ -29,6 +34,10 @@ event HudHealthBonusPulseStop
 	Animate PlayerStatusHealthValue FgColor "HP" Accel 0.0 0.2
 	Animate PlayerStatusHealthValueGlow FgColor "Blank" Accel 0.0 0.2
 
+	Animate PlayerStatusMinmodeHealthBar BgColor "Blank" Accel 0.0 0.2
+
+	Animate PlayerStatusMinmodeHealthBar Wide 0 Spline 0.0 0.2
+
 	Animate PlayerStatusHealthValueUnderline BgColor "HP" Linear 0.0 0.2
 }
 
@@ -45,6 +54,11 @@ event HudHealthDyingPulse
 
 	Animate PlayerStatusHealthValueUnderline BgColor "HPLow1" Linear 0.0 0.2
 	Animate PlayerStatusHealthValueUnderline BgColor "HPLow2" Linear 0.2 0.4
+
+	Animate PlayerStatusMinmodeHealthBar BgColor "HPLow1" Linear 0.0 0.2
+	Animate PlayerStatusMinmodeHealthBar BgColor "HPLow2" Linear 0.2 0.4
+
+	Animate PlayerStatusMinmodeHealthBar Wide 60 Spline 0.0 0.4
 
 	Animate LowHealthEffect Alpha "112"	Linear 0.0 0.2
 
@@ -65,6 +79,8 @@ event HudHealthDyingPulseStop
 	Animate PlayerStatusHealthValue FgColor "HP" Accel 0.0 0.2
 	Animate PlayerStatusHealthValueGlow FgColor "Blank" Accel 0.0 0.2
 	Animate LowHealthEffect Alpha "0"	Linear 0.0 0.2
+	Animate PlayerStatusMinmodeHealthBar BgColor "Blank" Accel 0.0 0.2
+	Animate PlayerStatusMinmodeHealthBar Wide 0 Spline 0.0 0.2
 
 	Animate PlayerStatusHealthValueUnderline BgColor "HP" Linear 0.0 0.2
 }

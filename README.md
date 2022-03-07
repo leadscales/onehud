@@ -36,9 +36,9 @@ You can save up to 3 favorite servers as bookmarks. The servers can then be quic
 
 ## Health & Ammo
 
-The `cl_hud_minmode` command changes the health and ammo positions on your hud. `cl_hud_minmode 0` makes the health and ammo appear in their usual positions, while `cl_hud_minmode 1` makes them appear next to your crosshair. This is refered to as **Tactical** health and ammo. This can be used as a way to de-clutter the screen.
+The `cl_hud_minmode` command changes the health and ammo positions on your hud. `cl_hud_minmode 0` makes the health and ammo appear in their usual positions, while `cl_hud_minmode 1` makes them appear in the bottom right corner of your screen. This can be used as a way to de-clutter the screen.
 
-You can toggle it with the `cl_hud_minmode <0/1>` command or by pressing the `[+]` button on the `MORE` panel.
+You can toggle it with the `cl_hud_minmode <0/1>` command or by pressing the minmode button on the `MORE` panel.
 
 ## Matchstatus
 
@@ -56,7 +56,7 @@ You can enable a transparent red border around your screen when your health gets
 
 ## Health and ammo backgrounds
 
-You can enable a transparent background behind your health and ammo for increased visibility or aesthetic purposes. In `/customizations/health_bg.res` and `/customizations/ammo_bg.res`, add or remove the two slashes behind `#base "/...` to enable or disable it.
+You can enable a transparent background behind your health and ammo for increased visibility or aesthetic purposes. In `/customizations/health_bg.res` and `/customizations/ammo_bg.res`, add or remove the two slashes behind `#base "/...` to enable or disable it. Please note that this does not affect minmode.
 
 ![Healh/Ammo BG](./assets/health_ammo_bg.jpg)
 

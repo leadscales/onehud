@@ -23,11 +23,29 @@
 		"zpos"			"2"
 		"wide"			"o2"
 		"tall"			"100"
-		"visible"		"1"
-		"enabled"		"1"
+		"visible"		"0"
+		"enabled"		"0"
 		"mouseinputenabled" "0"
 		"image"			"mvm/mvm_logo"
 		"scaleImage"	"1"
+	}
+
+	"Title"
+	{
+		"ControlName"		"Label"
+		"fieldName"		"Title"
+		"xpos"		"8"
+		"ypos"		"23"
+		"zpos"		"99"
+		"wide"		"f0"
+		"tall"		"20"
+		"proportionaltoparent"	"1"
+		"labeltext"		"#Gametype_MVM"
+		"textAlignment"	"west"
+		"font"			"FontBold24"
+		"fgcolor_override"	"CWhite"
+
+		"mouseinputenabled"	"0"
 	}
 
 	"MannUpGroupBox"
@@ -35,10 +53,10 @@
 		//"ControlName"	"EditablePanel"
 		"fieldName"		"MannUpGroupBox"
 		"xpos"		"6"
-		"ypos"		"55"
+		"ypos"		"53"
 		"zpos"		"1"
 		"wide"		"250"
-		"tall"		"215"
+		"tall"		"200"
 		"visible"	"1"
 		"enabled"	"1"
 
@@ -100,9 +118,9 @@
 			//"ControlName"	"CExButton"
 			"fieldName"		"PlayNowButton"
 			"xpos"			"cs-0.5"
-			"ypos"			"rs1-5"
+			"ypos"			"r25"
 			"zpos"			"20"
-			"wide"			"120"
+			"wide"			"f0"
 			"tall"			"25"
 			"autoResize"	"0"
 			"pinCorner"		"0"
@@ -126,9 +144,10 @@
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
 
-			"defaultFgColor_override"	"CGray1"
-			"armedFgColor_override"		"CGray1"
-			"depressedFgColor_override" "CGray1"
+			"defaultFgColor_override"	"CWhite"
+			"armedFgColor_override"		"AccentMain"
+			"depressedFgColor_override" "AccentMain"
+			"paintbackground"			"0"
 		}
 
 		"PlayForBraggingRightsExplanation"
@@ -154,14 +173,18 @@
 	{
 		//"ControlName"	"EditablePanel"
 		"fieldName"		"PracticeGroupBox"
-		"xpos"		"6"
-		"ypos"		"275"
+		"xpos"		"0"
+		"ypos"		"4"
 		"zpos"		"100"
 		"wide"		"250"
 		"tall"		"130"
 		"visible"	"1"
 		"enabled"	"1"
 		"proportionaltoparent"	"1"
+
+		"pin_to_sibling"	"MannUpGroupBox"
+		"pin_to_sibling_corner"	"PIN_BOTTOMLEFT"
+		"pin_corner_to_sibling"	"PIN_TOPLEFT"
 
 		"DropShadow"
 		{
@@ -221,10 +244,10 @@
 			//"ControlName"	"CExButton"
 			"fieldName"		"PracticeButton"
 			"xpos"			"cs-0.5"
-			"ypos"			"rs1-5"
+			"ypos"			"r25"
 			"zpos"			"20"
 			"tall"			"25"
-			"wide"			"120"
+			"wide"			"f0"
 			"autoResize"	"0"
 			"pinCorner"		"0"
 			"visible"		"1"
@@ -247,9 +270,10 @@
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
 
-			"defaultFgColor_override"	"CGray1"
-			"armedFgColor_override"		"CGray1"
-			"depressedFgColor_override" "CGray1"
+			"defaultFgColor_override"	"CWhite"
+			"armedFgColor_override"		"AccentMain"
+			"depressedFgColor_override" "AccentMain"
+			"paintbackground"			"0"
 		}
 
 		"PlayOnCommunityServerExplanation"

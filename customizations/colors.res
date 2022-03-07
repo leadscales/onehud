@@ -12,7 +12,7 @@ Scheme
 		"AccentMainTransparent"		"255 128 0 96"
 		"AccentMainTransparent2"	"255 128 0 32"
 
-		"CPositive"			    	"0 255 128 255"
+		"CPositive"			    	"0 192 128 255"
 		"CNegative"			    	"255 0 64 255"
 
 		//---------------------------------------------
@@ -38,18 +38,18 @@ Scheme
 		//---------------------------------------------
 													
 		"HP"				    	"255 255 255 255"
-		"HPBuff1"			    	"0 255 160 255"
-		"HPBuff2"			    	"0 255 128 255"
+		"HPBuff1"			    	"0 128 255 255"
+		"HPBuff2"			    	"0 160 255 255"
 		"HPLow1"			    	"255 128 0 255"
 		"HPLow2"			    	"255 96 0 255"
 
 		"DamageNumbers"	    		"255 128 0 255"		// Set in Advanced Options
-		"HealNumbers"		 		"0 255 128 255"
+		"HealNumbers"		 		"0 128 255 255"
 
 		"ChargePercent"		    	"255 255 255 255"
 		"UberMeter"	    			"255 255 255 255"
-		"Ubercharge1"		    	"0 255 160 255"
-		"Ubercharge2"		    	"0 255 128 255"
+		"Ubercharge1"		    	"0 128 255 255"
+		"Ubercharge2"		    	"0 160 255 255"
 
 		//---------------------------------------------
 
