@@ -604,7 +604,7 @@
 			"defaultbgcolor_override"	"CGray8"
 			"selectedfgcolor_override"	"CGray8"
 			"selectedbgcolor_override"	"CWhite"
-			"maxchars"		"18"
+			"maxchars"		"20"
 
 			"consume_mode"
 			{
